@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<?import scripts.utilities.fonts.glyphs.fontawesome.FontAwesomeIconView?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
+    <children>
+        <VBox alignment="TOP_CENTER" prefWidth="250.0" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <children>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #fca311; -fx-text-fill: black;">
+               <children>
+                      <ImageView fitHeight="100.0" fitWidth="82.0" layoutX="99.0" layoutY="28.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="https://github.com/botuser420/tribot-resources/blob/main/Construct._cape_detail.png?raw=true" />
+                     </image>
+                  </ImageView>
+                      <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="0.0" layoutY="128.0" pickOnBounds="false" prefHeight="40.0" prefWidth="250.0" style="-fx-text-fill: black;" text="Construction">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                      </Label>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutY="165.0" prefHeight="20.0" prefWidth="250.0" style="-fx-text-fill: black;" text="by Breaker" />
+               </children>
+            </AnchorPane>
+                <Button fx:id="btnProfiles" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Profiles" textAlignment="JUSTIFY">
+                    <opaqueInsets>
+                        <Insets />
+                    </opaqueInsets>
+               <graphic>
+                  <FontAwesomeIconView glyphName="FILE" />
+               </graphic>
+                </Button>
+                <Button fx:id="btnScriptSettings" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Script Settings">
+               <graphic>
+                  <FontAwesomeIconView glyphName="COG" />
+               </graphic>
+                </Button>
+                <Button fx:id="btnSettings" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="General Settings" textAlignment="RIGHT">
+               <graphic>
+                  <FontAwesomeIconView glyphName="SLIDERS" />
+               </graphic>
+                </Button>
+                <Button fx:id="btnAntiban" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Antiban">
+               <graphic>
+               </graphic>
+               <graphic>
+                  <FontAwesomeIconView glyphName="SHIELD" />
+               </graphic>
+                </Button>
+                <Button fx:id="btnHelp" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Support" textAlignment="RIGHT" textFill="WHITE">
+               <graphic>
+               </graphic>
+               <graphic>
+                  <FontAwesomeIconView glyphName="QUESTION" />
+               </graphic>
+                </Button>
+            <Button fx:id="btnStart" graphicTextGap="10.0" mnemonicParsing="false" onAction="#startScript" prefHeight="42.0" prefWidth="154.0" styleClass="start-button" text="Start Script">
+               <VBox.margin>
+                  <Insets bottom="40.0" top="40.0" />
+               </VBox.margin>
+               <graphic>
+                  <FontAwesomeIconView glyphName="PLAY" />
+               </graphic>
+            </Button>
+            </children>
+        </VBox>
+        <StackPane layoutX="250.0" prefHeight="534.0" prefWidth="500.0">
+            <children>
+                <Pane fx:id="pnlScriptSettings">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Script Settings">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <TextField fx:id="stopLvl" layoutX="124.0" layoutY="97.0" prefHeight="24.0" prefWidth="40.0">
+                     <padding>
+                        <Insets left="10.0" right="10.0" />
+                     </padding>
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </TextField>
+                  <Label layoutX="37.0" layoutY="101.0" text="Stop at level: ">
+                     <padding>
+                        <Insets right="8.0" />
+                     </padding>
+                  </Label>
+                  <Button fx:id="btnRight" graphicTextGap="0.0" layoutX="225.0" layoutY="333.0" mnemonicParsing="false" onAction="#transferMethod" prefHeight="30.0" prefWidth="50.0">
+                     <graphic>
+                        <FontAwesomeIconView glyphName="ANGLE_DOUBLE_RIGHT" size="24" />
+                     </graphic>
+                  </Button>
+                  <Button fx:id="btnLeft" graphicTextGap="0.0" layoutX="225.0" layoutY="383.0" mnemonicParsing="false" onAction="#transferMethod" prefHeight="30.0" prefWidth="50.0">
+                     <graphic>
+                        <FontAwesomeIconView glyphName="ANGLE_DOUBLE_LEFT" size="24" x="20.0" />
+                     </graphic>
+                  </Button>
+                  <CheckBox disable="true" layoutX="37.0" layoutY="149.0" mnemonicParsing="false" text="Buy House" />
+                  <Label layoutX="14.0" layoutY="202.0" text="Available methods" />
+                  <Label layoutX="286.0" layoutY="202.0" text="Used methods" />
+                  <TableView fx:id="tableAvailable" layoutX="14.0" layoutY="220.0" prefHeight="300.0" prefWidth="200.0">
+                    <columns>
+                      <TableColumn fx:id="availName" prefWidth="160.0" resizable="false" text="Name" />
+                      <TableColumn fx:id="availLvl" minWidth="0.0" prefWidth="53.0" resizable="false" text="Lvl" />
+                    </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+                  <TableView fx:id="tableUsed" layoutX="286.0" layoutY="220.0" prefHeight="300.0" prefWidth="200.0">
+                     <columns>
+                        <TableColumn fx:id="usedName" prefWidth="160.0" resizable="false" text="Name" />
+                        <TableColumn fx:id="usedLvl" prefWidth="53.0" resizable="false" text="Lvl" />
+                     </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+               </children></Pane>
+                <Pane fx:id="pnlSettings">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="General Settings">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <Label layoutX="210.0" layoutY="182.0" text="Coming soon" />
+               </children></Pane>
+                <Pane fx:id="pnlAntiban">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Antiban">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <CheckBox layoutY="80.0" mnemonicParsing="false" prefWidth="500.0" selected="true" text="Yes please">
+                     <padding>
+                        <Insets left="30.0" top="30.0" />
+                     </padding>
+                  </CheckBox>
+               </children></Pane>
+            <Pane fx:id="pnlHelp">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Support">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <Accordion layoutX="-1.0" layoutY="81.0" prefHeight="250.0" prefWidth="500.0" expandedPane="$arguments">
+                    <panes>
+                      <TitledPane fx:id="arguments" text="Which arguments are supported?">
+                        <content>
+                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                 <children>
+                                    <Label alignment="TOP_LEFT" prefHeight="38.0" prefWidth="460.0" text="stopLevel:30" wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                    <Label alignment="TOP_LEFT" layoutX="-1.0" layoutY="38.0" prefHeight="38.0" prefWidth="460.0" text="settings:profileName" wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                    <Label alignment="TOP_LEFT" layoutX="-1.0" layoutY="76.0" prefHeight="38.0" prefWidth="460.0" text="Use profile last to run with previous settings" wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                 </children></AnchorPane>
+                        </content>
+                      </TitledPane>
+                      <TitledPane expanded="false" text="I want to tell you how much I love this script. Where do I do this?">
+                        <content>
+                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                 <children>
+                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Do it on the script support thread linked below so others know what to expect from this script." wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                 </children></AnchorPane>
+                        </content>
+                      </TitledPane>
+                      <TitledPane expanded="false" text="I found a bug. Where do I report it?">
+                        <content>
+                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                 <children>
+                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Please give a detailed description of in on the support thread that's linked below." wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                 </children></AnchorPane>
+                        </content>
+                      </TitledPane>
+                        <TitledPane expanded="false" text="How do I set this up?">
+                           <content>
+                              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                 <children>
+                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Select which level to train to. Make sure you have enough gp in the bank. The script will buy the required amount of planks, buy a house if needed and start training" wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                 </children></AnchorPane>
+                           </content>
+                        </TitledPane>
+                    </panes>
+                     <padding>
+                        <Insets left="20.0" right="20.0" top="20.0" />
+                     </padding>
+                  </Accordion>
+                  <Label layoutX="189.0" layoutY="414.0" prefHeight="30.0" text="Discord:  Breaker#4904" />
+                  <Label layoutX="189.0" layoutY="384.0" prefHeight="30.0" text="TRiBot: Botuser420" />
+                  <Hyperlink layoutX="189.0" layoutY="444.0" prefHeight="30.0" text="Script thread" />
+                  <ImageView fitHeight="100.0" fitWidth="110.0" layoutX="50.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../../../Pictures/photo-224685.png" />
+                     </image>
+                  </ImageView>
+                  <Circle fill="TRANSPARENT" layoutX="100.0" layoutY="430.0" radius="50.0" stroke="#252525" strokeType="OUTSIDE" strokeWidth="30.0" />
+               </children>
+            </Pane>
+                <Pane fx:id="pnlProfiles">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Profiles">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <ListView fx:id="listProfiles" layoutX="50.0" layoutY="100.0" prefHeight="250.0" prefWidth="250.0" />
+                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="310.0" mnemonicParsing="false" onAction="#loadProfile" prefHeight="40.0" prefWidth="120.0" text="Load Profile">
+                     <graphic>
+                        <FontAwesomeIconView fill="WHITE" glyphName="UPLOAD" styleClass="menu-button" />
+                     </graphic>
+                  </Button>
+                  <TextField fx:id="textProfileName" layoutX="50.0" layoutY="400.0" prefHeight="30.0" prefWidth="250.0">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </TextField>
+                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="395.0" mnemonicParsing="false" onAction="#saveProfile" prefHeight="40.0" prefWidth="120.0" text="Save Profile">
+                     <graphic>
+                        <FontAwesomeIconView fill="WHITE" glyphName="DOWNLOAD" />
+                     </graphic>
+                  </Button>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="4.0" layoutY="474.0" prefHeight="18.0" prefWidth="500.0" text="Use arguments settings:profileName to load that profile and skip the GUI" />
+                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="260.0" mnemonicParsing="false" onAction="#deleteProfile" prefHeight="40.0" prefWidth="120.0" text="Delete Profile">
+                     <graphic>
+                        <FontAwesomeIconView fill="WHITE" glyphName="TRASH" styleClass="menu-button" />
+                     </graphic>
+                  </Button>
+               </children>
+                </Pane>
+            </children>
+        </StackPane>
+      <FontAwesomeIconView fx:id="btnClose" fill="WHITE" glyphName="TIMES" onMouseClicked="#closeGui" selectionEnd="1" selectionStart="1" size="20" strokeType="INSIDE" styleClass="close-icon" textAlignment="RIGHT" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+    </children>
+    <effect>
+        <DropShadow color="#1b1eeb" />
+    </effect>
+   <stylesheets>
+      <URL value="https://raw.githubusercontent.com/botuser420/tribot-resources/main/css/base.css" />
+      <URL value="https://raw.githubusercontent.com/botuser420/tribot-resources/main/css/base_extras.css" />
+      <URL value="https://raw.githubusercontent.com/botuser420/tribot-resources/main/css/dark_theme.css" />
+      <URL value="https://raw.githubusercontent.com/botuser420/tribot-resources/main/css/panes.css" />
+   </stylesheets>
+</AnchorPane>
