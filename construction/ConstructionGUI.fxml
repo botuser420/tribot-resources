@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <?import java.net.URL?>
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Accordion?>
@@ -123,7 +122,7 @@
                   <Label layoutX="286.0" layoutY="202.0" text="Used methods" />
                   <TableView fx:id="tableAvailable" layoutX="14.0" layoutY="220.0" prefHeight="300.0" prefWidth="200.0">
                     <columns>
-                      <TableColumn fx:id="availName" prefWidth="160.0" resizable="false" text="Name" />
+                      <TableColumn fx:id="availName" text="Name" />
                       <TableColumn fx:id="availLvl" minWidth="0.0" prefWidth="53.0" resizable="false" text="Lvl" />
                     </columns>
                      <columnResizePolicy>
@@ -132,7 +131,7 @@
                   </TableView>
                   <TableView fx:id="tableUsed" layoutX="286.0" layoutY="220.0" prefHeight="300.0" prefWidth="200.0">
                      <columns>
-                        <TableColumn fx:id="usedName" prefWidth="160.0" resizable="false" text="Name" />
+                        <TableColumn fx:id="usedName" text="Name" />
                         <TableColumn fx:id="usedLvl" prefWidth="53.0" resizable="false" text="Lvl" />
                      </columns>
                      <columnResizePolicy>
@@ -140,7 +139,7 @@
                      </columnResizePolicy>
                   </TableView>
                </children></Pane>
-                <Pane fx:id="pnlSettings">
+                <Pane fx:id="pnlSettings" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="General Settings">
                      <font>
@@ -152,7 +151,7 @@
                   </Label>
                   <Label layoutX="210.0" layoutY="182.0" text="Coming soon" />
                </children></Pane>
-                <Pane fx:id="pnlAntiban">
+                <Pane fx:id="pnlAntiban" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Antiban">
                      <font>
@@ -168,7 +167,7 @@
                      </padding>
                   </CheckBox>
                </children></Pane>
-            <Pane fx:id="pnlHelp">
+            <Pane fx:id="pnlHelp" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Support">
                      <font>
@@ -178,7 +177,7 @@
                         <Insets />
                      </opaqueInsets>
                   </Label>
-                  <Accordion layoutX="-1.0" layoutY="81.0" prefHeight="250.0" prefWidth="500.0" expandedPane="$arguments">
+                  <Accordion layoutX="-1.0" layoutY="81.0" prefHeight="250.0" prefWidth="500.0">
                     <panes>
                       <TitledPane fx:id="arguments" text="Which arguments are supported?">
                         <content>
@@ -248,13 +247,13 @@
                   <Hyperlink layoutX="189.0" layoutY="444.0" prefHeight="30.0" text="Script thread" />
                   <ImageView fitHeight="100.0" fitWidth="110.0" layoutX="50.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../../../../Pictures/photo-224685.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/photo-224685.png" />
                      </image>
                   </ImageView>
                   <Circle fill="TRANSPARENT" layoutX="100.0" layoutY="430.0" radius="50.0" stroke="#252525" strokeType="OUTSIDE" strokeWidth="30.0" />
                </children>
             </Pane>
-                <Pane fx:id="pnlProfiles">
+                <Pane fx:id="pnlProfiles" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Profiles">
                      <font>
@@ -290,7 +289,7 @@
                 </Pane>
             </children>
         </StackPane>
-      <FontAwesomeIconView fx:id="btnClose" glyphName="TIMES" onMouseClicked="#closeGui" glyphSize="20" styleClass="close-icon" textAlignment="RIGHT" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+      <FontAwesomeIconView fx:id="btnClose" glyphName="TIMES" glyphSize="20" onMouseClicked="#closeGui" styleClass="close-icon" textAlignment="RIGHT" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
     </children>
     <effect>
         <DropShadow color="#1b1eeb" />
