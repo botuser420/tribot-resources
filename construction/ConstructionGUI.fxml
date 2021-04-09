@@ -120,19 +120,19 @@
                   <CheckBox disable="true" layoutX="37.0" layoutY="149.0" mnemonicParsing="false" text="Buy House" />
                   <Label layoutX="14.0" layoutY="202.0" text="Available methods" />
                   <Label layoutX="286.0" layoutY="202.0" text="Used methods" />
-                  <TableView fx:id="tableAvailable" layoutX="14.0" layoutY="220.0" prefHeight="300.0" prefWidth="200.0">
+                  <TableView fx:id="tableAvailable" editable="true" layoutX="14.0" layoutY="220.0" prefHeight="300.0" prefWidth="200.0">
                     <columns>
-                      <TableColumn fx:id="availName" prefWidth="-1.0" text="Name" />
-                      <TableColumn fx:id="availLvl" minWidth="0.0" prefWidth="53.0" resizable="false" text="Lvl" />
+                      <TableColumn fx:id="availName" minWidth="127.0" prefWidth="-1.0" text="Name" />
+                      <TableColumn fx:id="availLvl" minWidth="-Infinity" prefWidth="53.0" resizable="false" text="Lvl" />
                     </columns>
                      <columnResizePolicy>
                         <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
                      </columnResizePolicy>
                   </TableView>
-                  <TableView fx:id="tableUsed" layoutX="286.0" layoutY="220.0" prefHeight="300.0" prefWidth="200.0">
+                  <TableView fx:id="tableUsed" editable="true" layoutX="286.0" layoutY="220.0" prefHeight="300.0" prefWidth="200.0">
                      <columns>
-                        <TableColumn fx:id="usedName" prefWidth="-1.0" text="Name" />
-                        <TableColumn fx:id="usedLvl" editable="false" prefWidth="53.0" resizable="false" text="Lvl" />
+                        <TableColumn fx:id="usedName" minWidth="127.0" prefWidth="-1.0" text="Name" />
+                        <TableColumn fx:id="usedLvl" editable="false" minWidth="-Infinity" prefWidth="53.0" resizable="false" text="Lvl" />
                      </columns>
                      <columnResizePolicy>
                         <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
