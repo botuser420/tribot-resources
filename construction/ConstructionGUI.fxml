@@ -290,7 +290,7 @@
                 </Pane>
             </children>
         </StackPane>
-      <FontAwesomeIconView fx:id="btnClose" fill="WHITE" glyphName="TIMES" onMouseClicked="#closeGui" glyphSize="20" strokeType="INSIDE" styleClass="close-icon" textAlignment="RIGHT" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+      <FontAwesomeIconView fx:id="btnClose" glyphName="TIMES" onMouseClicked="#closeGui" glyphSize="20" styleClass="close-icon" textAlignment="RIGHT" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
     </children>
     <effect>
         <DropShadow color="#1b1eeb" />
