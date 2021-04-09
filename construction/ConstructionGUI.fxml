@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
 <?import java.net.URL?>
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Accordion?>
@@ -69,8 +70,6 @@
                 </Button>
                 <Button fx:id="btnHelp" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Support" textAlignment="RIGHT" textFill="WHITE">
                <graphic>
-               </graphic>
-               <graphic>
                   <FontAwesomeIconView glyphName="QUESTION" />
                </graphic>
                 </Button>
@@ -111,12 +110,12 @@
                   </Label>
                   <Button fx:id="btnRight" graphicTextGap="0.0" layoutX="225.0" layoutY="333.0" mnemonicParsing="false" onAction="#transferMethod" prefHeight="30.0" prefWidth="50.0">
                      <graphic>
-                        <FontAwesomeIconView glyphName="ANGLE_DOUBLE_RIGHT" size="24" />
+                        <FontAwesomeIconView glyphName="ANGLE_DOUBLE_RIGHT" glyphSize="24" />
                      </graphic>
                   </Button>
                   <Button fx:id="btnLeft" graphicTextGap="0.0" layoutX="225.0" layoutY="383.0" mnemonicParsing="false" onAction="#transferMethod" prefHeight="30.0" prefWidth="50.0">
                      <graphic>
-                        <FontAwesomeIconView glyphName="ANGLE_DOUBLE_LEFT" size="24" x="20.0" />
+                        <FontAwesomeIconView glyphName="ANGLE_DOUBLE_LEFT" glyphSize="24" />
                      </graphic>
                   </Button>
                   <CheckBox disable="true" layoutX="37.0" layoutY="149.0" mnemonicParsing="false" text="Buy House" />
