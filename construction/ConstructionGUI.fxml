@@ -177,7 +177,7 @@
                         <Insets />
                      </opaqueInsets>
                   </Label>
-                  <Accordion layoutX="-1.0" layoutY="81.0" prefHeight="250.0" prefWidth="500.0" expandedPane="$arguments">
+                  <Accordion layoutX="-1.0" layoutY="81.0" prefHeight="250.0" prefWidth="500.0">
                     <panes>
                       <TitledPane fx:id="arguments" text="Which arguments are supported?">
                         <content>
@@ -289,15 +289,8 @@
                 </Pane>
             </children>
         </StackPane>
-      <FontAwesomeIconView glyphName="MINUS" glyphSize="20" onMouseClicked="#minimizeGui" styleClass="close-icon" textAlignment="RIGHT" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="20.0">
-         <font>
-            <Font size="10.0" />
-         </font>
-      </FontAwesomeIconView>
-      <FontAwesomeIconView fx:id="btnClose" glyphName="TIMES" glyphSize="20" onMouseClicked="#closeGui" styleClass="close-icon" textAlignment="RIGHT" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
-         <font>
-            <Font size="10.0" />
-         </font></FontAwesomeIconView>
+      <FontAwesomeIconView glyphName="MINUS" glyphSize="18" onMouseClicked="#minimizeGui" styleClass="close-icon" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="20.0" />
+      <FontAwesomeIconView fx:id="btnClose" glyphName="TIMES" glyphSize="18" onMouseClicked="#closeGui" styleClass="close-icon" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
     </children>
     <effect>
         <DropShadow color="#1b1eeb" />
