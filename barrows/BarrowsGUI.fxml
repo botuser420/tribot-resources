@@ -719,10 +719,9 @@
         <DropShadow color="#1b1eeb" />
     </effect>
    <stylesheets>
-      <URL value="@../../../../../jmetro/base.css" />
-      <URL value="@../../../../../jmetro/base_extras.css" />
-      <URL value="@../../../../../jmetro/base_other_libraries.css" />
-      <URL value="@../../../../../jmetro/dark_theme.css" />
-      <URL value="@../../../../../jmetro/panes.css" />
+      <URL value="https://raw.githubusercontent.com/botuser420/tribot-resources/main/css/base.css" />
+      <URL value="https://raw.githubusercontent.com/botuser420/tribot-resources/main/css/base_extras.css" />
+      <URL value="https://raw.githubusercontent.com/botuser420/tribot-resources/main/css/dark_theme.css" />
+      <URL value="https://raw.githubusercontent.com/botuser420/tribot-resources/main/css/panes.css" />
    </stylesheets>
 </AnchorPane>
