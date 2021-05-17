@@ -127,7 +127,7 @@
                            <graphic>
                               <ImageView fitHeight="30.0" fitWidth="28.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image />
+                                    <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/prayer-icons/Thick_Skin.png" />
                                  </image>
                               </ImageView>
                            </graphic>
