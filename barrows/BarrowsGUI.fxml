@@ -127,7 +127,7 @@
                            <graphic>
                               <ImageView fitHeight="30.0" fitWidth="28.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@Thick_Skin.png" />
+                                    <Image />
                                  </image>
                               </ImageView>
                            </graphic>
@@ -143,7 +143,7 @@
                            <graphic>
                               <ImageView fitHeight="27.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@Burst_of_Strength.png" />
+                                    <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/prayer-icons/Burst_of_Strength.png" />
                                  </image>
                               </ImageView>
                            </graphic>
@@ -155,7 +155,7 @@
                            <graphic>
                               <ImageView fitHeight="22.0" fitWidth="28.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="@Clarity_of_Thought.png" />
+                                    <Image url="https://github.com/botuser420/tribot-resources/blob/main/prayer-icons/Clarity_of_Thought.png?raw=true" />
                                  </image>
                               </ImageView>
                            </graphic>
@@ -435,7 +435,7 @@
                      </graphic>
                   </Button>
                </children></Pane>
-                <Pane fx:id="pnlSettings">
+                <Pane fx:id="pnlSettings" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Banking">
                      <font>
@@ -487,7 +487,7 @@
                      </content>
                   </TitledPane>
                </children></Pane>
-                <Pane fx:id="pnlGear">
+                <Pane fx:id="pnlGear" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Gear">
                      <font>
@@ -588,7 +588,7 @@
                   </TabPane>
                   <Hyperlink layoutX="281.0" layoutY="458.0" text="Recommended gear setups" />
                </children></Pane>
-            <Pane fx:id="pnlHelp">
+            <Pane fx:id="pnlHelp" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Support">
                      <font>
@@ -674,7 +674,7 @@
                   <Circle fill="TRANSPARENT" layoutX="100.0" layoutY="430.0" radius="50.0" stroke="#252525" strokeType="OUTSIDE" strokeWidth="30.0" />
                </children>
             </Pane>
-                <Pane fx:id="pnlProfiles">
+                <Pane fx:id="pnlProfiles" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Profiles">
                      <font>
