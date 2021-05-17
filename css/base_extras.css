@@ -318,8 +318,18 @@
 
 .close-icon > .glyph-icon{
 	-fx-fill: #e5e5e5;
-}
+}Ç
 
 .close-icon:hover > .glyph-icon{
 	-fx-fill: #fca311;
 }
+
+.prayerToggle {
+	-fx-background-radius:20px !important;
+	-fx-background-radius: 20px;
+    -fx-min-width: 36px;
+    -fx-min-height: 36px;
+    -fx-max-width: 36px;
+    -fx-max-height: 36px;
+}
+

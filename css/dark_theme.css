@@ -122,6 +122,20 @@ Text {
     border_hover_selected_color: derive(accent_color, 70%);
 }
 
+.toggleButtonGroup > .toggle-button {
+	 button_background_color: #333333 !important;
+    background_pressed_color: #666666;
+
+    border_hover_color: #858585;
+
+    text_color: white;
+    default_button_text_color: white;
+
+    focus_ring_border_color: white;
+}
+
+
+
 /*******************************************************************************
  *                                                                             *
  * Check Box                                                                   *
