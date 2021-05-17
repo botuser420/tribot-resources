@@ -38,7 +38,7 @@
                <children>
                       <ImageView fitHeight="100.0" fitWidth="136.0" layoutX="99.0" layoutY="28.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@Verac's_armour_equipped.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Verac's_armour_equipped.png" />
                      </image>
                   </ImageView>
                       <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="0.0" layoutY="128.0" pickOnBounds="false" prefHeight="40.0" prefWidth="250.0" style="-fx-text-fill: black;" text="Barrows">
@@ -499,62 +499,62 @@
                   </Label>
                   <ImageView fitHeight="214.0" fitWidth="168.0" layoutX="67.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@Equipment_slots.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Equipment_slots.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="helmetBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="capeBack" fitHeight="36.0" fitWidth="36.0" layoutX="82.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="amuletBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="ammoBack" fitHeight="36.0" fitWidth="36.0" layoutX="164.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="weaponBack" fitHeight="36.0" fitWidth="36.0" layoutX="67.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="bodyBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="shieldBack" fitHeight="36.0" fitWidth="36.0" layoutX="178.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="legsBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="270.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="glovesBack" fitHeight="36.0" fitWidth="36.0" layoutX="67.0" layoutY="311.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="bootsBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="311.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="ringBack" fitHeight="36.0" fitWidth="36.0" layoutX="178.0" layoutY="310.0" pickOnBounds="true" preserveRatio="true" visible="false">
                      <image>
-                        <Image url="@Background_slot.png" />
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
                      </image>
                   </ImageView>
                   <ImageView fx:id="helmet" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="155.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
