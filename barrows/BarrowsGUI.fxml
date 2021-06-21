@@ -31,7 +31,7 @@
 <?import javafx.scene.text.Font?>
 
 <?import scripts.utilities.fonts.glyphs.fontawesome.FontAwesomeIconView?>
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
     <children>
         <VBox alignment="TOP_CENTER" prefWidth="250.0" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
             <children>
@@ -623,40 +623,6 @@
                   <Circle fill="TRANSPARENT" layoutX="100.0" layoutY="430.0" radius="50.0" stroke="#252525" strokeType="OUTSIDE" strokeWidth="30.0" />
                </children>
             </Pane>
-                <Pane fx:id="pnlProfiles">
-               <children>
-                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Profiles">
-                     <font>
-                        <Font size="30.0" />
-                     </font>
-                     <opaqueInsets>
-                        <Insets />
-                     </opaqueInsets>
-                  </Label>
-                  <ListView fx:id="listProfiles" layoutX="50.0" layoutY="100.0" prefHeight="250.0" prefWidth="250.0" />
-                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="310.0" mnemonicParsing="false" onAction="#loadProfile" prefHeight="40.0" prefWidth="120.0" text="Load Profile">
-                     <graphic>
-                        <FontAwesomeIconView fill="WHITE" glyphName="UPLOAD" styleClass="menu-button" />
-                     </graphic>
-                  </Button>
-                  <TextField fx:id="textProfileName" layoutX="50.0" layoutY="400.0" prefHeight="30.0" prefWidth="250.0">
-                     <font>
-                        <Font size="18.0" />
-                     </font>
-                  </TextField>
-                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="395.0" mnemonicParsing="false" onAction="#saveProfile" prefHeight="40.0" prefWidth="120.0" text="Save Profile">
-                     <graphic>
-                        <FontAwesomeIconView fill="WHITE" glyphName="DOWNLOAD" />
-                     </graphic>
-                  </Button>
-                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="4.0" layoutY="474.0" prefHeight="18.0" prefWidth="500.0" text="Use arguments settings:profileName to load that profile and skip the GUI" />
-                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="260.0" mnemonicParsing="false" onAction="#deleteProfile" prefHeight="40.0" prefWidth="120.0" text="Delete Profile">
-                     <graphic>
-                        <FontAwesomeIconView fill="WHITE" glyphName="TRASH" styleClass="menu-button" />
-                     </graphic>
-                  </Button>
-               </children>
-                </Pane>
                 <Pane fx:id="pnlSettings">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Banking">
@@ -671,8 +637,8 @@
                     <content>
                       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="225.0">
                            <children>
-                              <RadioButton fx:id="barrowsTablet" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" text="Barrows teleport tablet" />
-                              <RadioButton fx:id="arceuusTeleport" layoutX="14.0" layoutY="34.0" mnemonicParsing="false" text="Arceuus barrows teleport" />
+                              <RadioButton fx:id="barrowsTablet" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" selected="true" text="Barrows teleport tablet" />
+                              <RadioButton fx:id="arceuusTeleport" disable="true" layoutX="14.0" layoutY="34.0" mnemonicParsing="false" text="Arceuus barrows teleport" />
                            </children>
                         </AnchorPane>
                     </content>
@@ -681,7 +647,7 @@
                      <content>
                         <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="101.0" prefWidth="224.0">
                            <children>
-                              <RadioButton fx:id="feroxEnclave" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" text="Ferox Enclave" />
+                              <RadioButton fx:id="feroxEnclave" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" selected="true" text="Ferox Enclave" />
                            </children>
                         </AnchorPane>
                      </content>
@@ -727,6 +693,40 @@
                   <Spinner fx:id="restockTeleports" layoutX="14.0" layoutY="476.0" maxWidth="60.0" />
                   <Label layoutX="14.0" layoutY="459.0" text="Restock teleports" />
                </children></Pane>
+                <Pane fx:id="pnlProfiles">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Profiles">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <ListView fx:id="listProfiles" layoutX="50.0" layoutY="100.0" prefHeight="250.0" prefWidth="250.0" />
+                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="310.0" mnemonicParsing="false" onAction="#loadProfile" prefHeight="40.0" prefWidth="120.0" text="Load Profile">
+                     <graphic>
+                        <FontAwesomeIconView fill="WHITE" glyphName="UPLOAD" styleClass="menu-button" />
+                     </graphic>
+                  </Button>
+                  <TextField fx:id="textProfileName" layoutX="50.0" layoutY="400.0" prefHeight="30.0" prefWidth="250.0">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </TextField>
+                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="395.0" mnemonicParsing="false" onAction="#saveProfile" prefHeight="40.0" prefWidth="120.0" text="Save Profile">
+                     <graphic>
+                        <FontAwesomeIconView fill="WHITE" glyphName="DOWNLOAD" />
+                     </graphic>
+                  </Button>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="4.0" layoutY="474.0" prefHeight="18.0" prefWidth="500.0" text="Use arguments settings:profileName to load that profile and skip the GUI" />
+                  <Button graphicTextGap="10.0" layoutX="330.0" layoutY="260.0" mnemonicParsing="false" onAction="#deleteProfile" prefHeight="40.0" prefWidth="120.0" text="Delete Profile">
+                     <graphic>
+                        <FontAwesomeIconView fill="WHITE" glyphName="TRASH" styleClass="menu-button" />
+                     </graphic>
+                  </Button>
+               </children>
+                </Pane>
             </children>
         </StackPane>
       <FontAwesomeIconView glyphName="MINUS" glyphSize="18" onMouseClicked="#minimizeGui" styleClass="close-icon" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="20.0" />
