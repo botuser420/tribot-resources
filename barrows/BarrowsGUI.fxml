@@ -10,6 +10,7 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ListView?>
 <?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Spinner?>
 <?import javafx.scene.control.Tab?>
 <?import javafx.scene.control.TabPane?>
 <?import javafx.scene.control.TextField?>
@@ -30,7 +31,7 @@
 <?import javafx.scene.text.Font?>
 
 <?import scripts.utilities.fonts.glyphs.fontawesome.FontAwesomeIconView?>
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
     <children>
         <VBox alignment="TOP_CENTER" prefWidth="250.0" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
             <children>
@@ -435,58 +436,6 @@
                      </graphic>
                   </Button>
                </children></Pane>
-                <Pane fx:id="pnlSettings">
-               <children>
-                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Banking">
-                     <font>
-                        <Font size="30.0" />
-                     </font>
-                     <opaqueInsets>
-                        <Insets />
-                     </opaqueInsets>
-                  </Label>
-                  <TitledPane animated="false" collapsible="false" layoutX="255.0" layoutY="79.0" prefHeight="225.0" prefWidth="225.0" text="Getting to Barrows">
-                    <content>
-                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="219.0" prefWidth="225.0">
-                           <children>
-                              <RadioButton layoutX="14.0" layoutY="8.0" mnemonicParsing="false" text="Barrows teleport tablet" />
-                              <RadioButton layoutX="14.0" layoutY="44.0" mnemonicParsing="false" text="Arceuus barrows teleport" />
-                              <RadioButton layoutX="14.0" layoutY="80.0" mnemonicParsing="false" text="Morytania Legs (3+)" />
-                              <RadioButton layoutX="14.0" layoutY="116.0" mnemonicParsing="false" text="Mort'ton minigame teleport" />
-                              <RadioButton layoutX="14.0" layoutY="152.0" mnemonicParsing="false" text="Mort'ton teleport-scroll" />
-                           </children>
-                        </AnchorPane>
-                    </content>
-                  </TitledPane>
-                  <TitledPane animated="false" collapsible="false" layoutX="14.0" layoutY="79.0" prefHeight="225.0" prefWidth="225.0" text="Banking">
-                     <content>
-                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="176.0" prefWidth="225.0">
-                           <children>
-                              <RadioButton layoutX="14.0" layoutY="8.0" mnemonicParsing="false" text="Clan wars" />
-                              <RadioButton layoutX="14.0" layoutY="44.0" mnemonicParsing="false" text="Lumbridge" />
-                              <RadioButton layoutX="14.0" layoutY="80.0" mnemonicParsing="false" text="Ectofuntus" />
-                           </children>
-                        </AnchorPane>
-                     </content>
-                  </TitledPane>
-                  <TitledPane animated="false" collapsible="false" layoutX="14.0" layoutY="322.0" prefHeight="200.0" prefWidth="470.0" text="Inventory">
-                     <content>
-                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="166.0" prefWidth="438.0">
-                           <children>
-                              <CheckBox layoutX="17.0" layoutY="12.0" mnemonicParsing="false" text="Use strange old lockpick" />
-                              <TextField layoutX="419.0" layoutY="20.0" prefHeight="26.0" prefWidth="36.0" />
-                              <Label layoutX="341.0" layoutY="24.0" text="Prayer doses:" />
-                              <ComboBox layoutX="17.0" layoutY="65.0" prefHeight="30.0" prefWidth="190.0" />
-                              <Label layoutX="17.0" layoutY="46.0" text="Food to use" />
-                              <TextField layoutX="171.0" layoutY="102.0" prefHeight="26.0" prefWidth="36.0" />
-                              <Label layoutX="67.0" layoutY="106.0" text="Amount of food:" />
-                              <TextField layoutX="419.0" layoutY="51.0" prefHeight="26.0" prefWidth="36.0" />
-                              <Label layoutX="331.0" layoutY="55.0" text="Stamina doses:" />
-                           </children>
-                        </AnchorPane>
-                     </content>
-                  </TitledPane>
-               </children></Pane>
                 <Pane fx:id="pnlGear">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Gear">
@@ -708,6 +657,76 @@
                   </Button>
                </children>
                 </Pane>
+                <Pane fx:id="pnlSettings">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Banking">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <TitledPane animated="false" collapsible="false" layoutX="255.0" layoutY="70.0" prefHeight="100.0" prefWidth="225.0" text="Getting to Barrows">
+                    <content>
+                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="225.0">
+                           <children>
+                              <RadioButton fx:id="barrowsTablet" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" text="Barrows teleport tablet" />
+                              <RadioButton fx:id="arceuusTeleport" layoutX="14.0" layoutY="34.0" mnemonicParsing="false" text="Arceuus barrows teleport" />
+                           </children>
+                        </AnchorPane>
+                    </content>
+                  </TitledPane>
+                  <TitledPane animated="false" collapsible="false" layoutX="14.0" layoutY="70.0" prefHeight="100.0" prefWidth="225.0" text="Banking">
+                     <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="101.0" prefWidth="224.0">
+                           <children>
+                              <RadioButton fx:id="feroxEnclave" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" text="Ferox Enclave" />
+                           </children>
+                        </AnchorPane>
+                     </content>
+                  </TitledPane>
+                  <ComboBox fx:id="selectFood" layoutX="173.0" layoutY="210.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripFood" editable="true" layoutX="345.0" layoutY="211.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockFood" layoutX="420.0" layoutY="211.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectPrayer" layoutX="173.0" layoutY="260.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripPrayer" layoutX="345.0" layoutY="261.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockPrayer" layoutX="420.0" layoutY="261.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectMagic" layoutX="173.0" layoutY="310.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripMagic" layoutX="345.0" layoutY="311.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockMagic" layoutX="420.0" layoutY="311.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectRanged" layoutX="173.0" layoutY="360.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripRanged" layoutX="345.0" layoutY="361.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockRanged" layoutX="420.0" layoutY="361.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectMelee1" layoutX="173.0" layoutY="412.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripMelee1" layoutX="345.0" layoutY="413.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockMelee1" layoutX="420.0" layoutY="413.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectMelee2" layoutX="173.0" layoutY="445.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripMelee2" layoutX="345.0" layoutY="446.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockMelee2" layoutX="420.0" layoutY="446.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectMelee3" layoutX="173.0" layoutY="479.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripMelee3" layoutX="345.0" layoutY="480.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockMelee3" layoutX="420.0" layoutY="480.0" maxWidth="60.0" />
+                  <Label layoutX="173.0" layoutY="243.0" prefHeight="18.0" prefWidth="136.0" text="Prayer potion" textAlignment="RIGHT" />
+                  <Label layoutX="173.0" layoutY="293.0" prefHeight="18.0" prefWidth="136.0" text="Magic potion" textAlignment="RIGHT" />
+                  <Label layoutX="173.0" layoutY="343.0" prefHeight="18.0" prefWidth="136.0" text="Ranged potion" textAlignment="RIGHT" />
+                  <Label layoutX="173.0" layoutY="393.0" prefHeight="18.0" prefWidth="136.0" text="Melee potions" textAlignment="RIGHT" />
+                  <Label layoutX="345.0" layoutY="195.0" text="Trip" />
+                  <Label layoutX="173.0" layoutY="193.0" prefHeight="18.0" prefWidth="136.0" text="Food" textAlignment="RIGHT" />
+                  <Label layoutX="420.0" layoutY="195.0" text="Restock" />
+                  <CheckBox fx:id="sellLoot" layoutX="14.0" layoutY="216.0" mnemonicParsing="false" text="Sell loot" />
+                  <CheckBox disable="true" layoutX="14.0" layoutY="262.0" mnemonicParsing="false" text="Use lockpick" />
+                  <Label layoutX="345.0" layoutY="245.0" text="Trip" />
+                  <Label layoutX="420.0" layoutY="245.0" text="Restock" />
+                  <Label layoutX="345.0" layoutY="295.0" text="Trip" />
+                  <Label layoutX="420.0" layoutY="295.0" text="Restock" />
+                  <Label layoutX="345.0" layoutY="345.0" text="Trip" />
+                  <Label layoutX="420.0" layoutY="345.0" text="Restock" />
+                  <Label layoutX="345.0" layoutY="395.0" text="Trip" />
+                  <Label layoutX="420.0" layoutY="395.0" text="Restock" />
+                  <Spinner fx:id="restockTeleports" layoutX="14.0" layoutY="476.0" maxWidth="60.0" />
+                  <Label layoutX="14.0" layoutY="459.0" text="Restock teleports" />
+               </children></Pane>
             </children>
         </StackPane>
       <FontAwesomeIconView glyphName="MINUS" glyphSize="18" onMouseClicked="#minimizeGui" styleClass="close-icon" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="20.0" />
