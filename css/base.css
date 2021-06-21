@@ -836,7 +836,7 @@ Button {
 /*==========================  Editable ComboBox  =============================*/
 
 .combo-box-base.combo-box:editable > .text-input {
-    -fx-skin: "com.sun.javafx.scene.control.skin.TextFieldSkin"
+    -fx-skin: "javafx.scene.control.skin.TextFieldSkin"
 }
 
 .combo-box-base.combo-box:editable > .text-input {
@@ -1132,7 +1132,7 @@ TextField {
  ******************************************************************************/
 
 .spinner > .text-field{
-    -fx-skin: "com.sun.javafx.scene.control.skin.TextFieldSkin";
+    -fx-skin: "javafx.scene.control.skin.TextFieldSkin";
 }
 
 .spinner {
@@ -1232,7 +1232,7 @@ TextField {
 /* "Textfield"  - most properties will be inherited by what was defined for the textfield */
 
 .date-picker > .text-field{
-    -fx-skin: "com.sun.javafx.scene.control.skin.TextFieldSkin";
+    -fx-skin: "javafx.scene.control.skin.TextFieldSkin";
 }
 
 .date-picker > .text-input{
@@ -1287,7 +1287,7 @@ TextField {
 
 /***************************** Date Picker popup ********************************/
 .date-picker-popup .button {
-    -fx-skin: "com.sun.javafx.scene.control.skin.ButtonSkin"; /* Without also specifying this an exception sometimes happens when opening the DatePicker for the second time */
+    -fx-skin: "javafx.scene.control.skin.ButtonSkin"; /* Without also specifying this an exception sometimes happens when opening the DatePicker for the second time */
 }
 
 .date-picker-popup {
