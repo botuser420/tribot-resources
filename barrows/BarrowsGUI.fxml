@@ -10,6 +10,7 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.ListView?>
 <?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Slider?>
 <?import javafx.scene.control.Spinner?>
 <?import javafx.scene.control.Tab?>
 <?import javafx.scene.control.TabPane?>
@@ -31,6 +32,7 @@
 <?import javafx.scene.text.Font?>
 
 <?import scripts.utilities.fonts.glyphs.fontawesome.FontAwesomeIconView?>
+<?import scripts.utilities.fonts.glyphs.materialicons.MaterialIconView?>
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
     <children>
         <VBox alignment="TOP_CENTER" prefWidth="250.0" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
@@ -66,7 +68,7 @@
                   <FontAwesomeIconView glyphName="COG" />
                </graphic>
                 </Button>
-                <Button fx:id="btnSettings" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Banking" textAlignment="RIGHT">
+                <Button fx:id="btnSettings" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Supplies" textAlignment="RIGHT">
                <graphic>
                   <FontAwesomeIconView glyphName="SLIDERS" />
                </graphic>
@@ -95,7 +97,7 @@
         </VBox>
         <StackPane layoutX="250.0" prefHeight="534.0" prefWidth="500.0">
             <children>
-                <Pane fx:id="pnlScriptSettings">
+                <Pane fx:id="pnlScriptSettings" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Brothers">
                      <opaqueInsets>
@@ -399,24 +401,22 @@
                         <ImageView fx:id="imageBrother" fitHeight="214.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" />
                      </children>
                   </AnchorPane>
-                  <TitledPane animated="false" collapsible="false" layoutX="296.0" layoutY="380.0" prefHeight="140.0" prefWidth="190.0" text="Special attack">
+                  <TitledPane animated="false" collapsible="false" layoutX="296.0" layoutY="431.0" prefHeight="89.0" prefWidth="190.0" text="Special attack weapon">
                     <content>
                       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="90.0" prefWidth="140.0">
                            <children>
-                              <CheckBox fx:id="btnUseSpecial" layoutX="14.0" layoutY="16.0" mnemonicParsing="false" text="Use special attack" />
-                              <ComboBox fx:id="listSpecialWeapon" layoutX="13.0" layoutY="69.0" prefHeight="30.0" prefWidth="167.0" />
-                              <Label layoutX="14.0" layoutY="51.0" text="Weapon" />
+                              <ComboBox fx:id="listSpecialWeapon" layoutX="10.0" layoutY="18.0" prefHeight="30.0" prefWidth="167.0" />
                            </children>
                         </AnchorPane>
                     </content>
                   </TitledPane>
-                  <TitledPane animated="false" collapsible="false" layoutX="15.0" layoutY="380.0" prefHeight="140.0" prefWidth="270.0" text="Combat">
+                  <TitledPane animated="false" collapsible="false" layoutX="15.0" layoutY="431.0" prefHeight="89.0" prefWidth="270.0" text="Combat">
                     <content>
                       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="92.0" prefWidth="250.0">
                            <children>
-                                <ToggleButton fx:id="btnCombatMagic" layoutX="14.0" layoutY="12.0" prefWidth="70.0" selected="true" text="Magic" />
-                                <ToggleButton fx:id="btnCombatRanged" layoutX="99.0" layoutY="12.0" prefWidth="70.0" text="Ranged" />
-                                <ToggleButton fx:id="btnCombatMelee" layoutX="184.0" layoutY="12.0" prefWidth="70.0" text="Melee" />
+                                <ToggleButton fx:id="btnCombatMagic" layoutX="14.0" layoutY="14.0" prefWidth="70.0" selected="true" text="Magic" />
+                                <ToggleButton fx:id="btnCombatRanged" layoutX="99.0" layoutY="14.0" prefWidth="70.0" text="Ranged" />
+                                <ToggleButton fx:id="btnCombatMelee" layoutX="184.0" layoutY="14.0" prefWidth="70.0" text="Melee" />
                            </children>
                         </AnchorPane>
                     </content>
@@ -519,7 +519,7 @@
                   <ImageView fx:id="ring" fitHeight="32.0" fitWidth="36.0" layoutX="178.0" layoutY="313.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
                   <Button fx:id="btnUpdate" layoutX="66.0" layoutY="367.0" mnemonicParsing="false" onAction="#updateGear" prefHeight="38.0" prefWidth="150.0" text="Load current Gear">
                      <graphic>
-                        <FontAwesomeIconView />
+                        <MaterialIconView glyphName="SYNC" />
                      </graphic>
                   </Button>
                   <ListView fx:id="listGear" layoutX="259.0" layoutY="141.0" prefHeight="309.0" prefWidth="200.0" />
@@ -537,7 +537,7 @@
                   </TabPane>
                   <Hyperlink layoutX="281.0" layoutY="458.0" text="Recommended gear setups" />
                </children></Pane>
-            <Pane fx:id="pnlHelp">
+            <Pane fx:id="pnlHelp" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Support">
                      <font>
@@ -623,9 +623,9 @@
                   <Circle fill="TRANSPARENT" layoutX="100.0" layoutY="430.0" radius="50.0" stroke="#252525" strokeType="OUTSIDE" strokeWidth="30.0" />
                </children>
             </Pane>
-                <Pane fx:id="pnlSettings">
+                <Pane fx:id="pnlSettings" visible="false">
                <children>
-                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Banking">
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Supplies">
                      <font>
                         <Font size="30.0" />
                      </font>
@@ -680,7 +680,7 @@
                   <Label layoutX="345.0" layoutY="195.0" text="Trip" />
                   <Label layoutX="173.0" layoutY="193.0" prefHeight="18.0" prefWidth="136.0" text="Food" textAlignment="RIGHT" />
                   <Label layoutX="420.0" layoutY="195.0" text="Restock" />
-                  <CheckBox fx:id="sellLoot" layoutX="14.0" layoutY="216.0" mnemonicParsing="false" text="Sell loot" />
+                  <CheckBox fx:id="sellLoot" layoutX="14.0" layoutY="216.0" mnemonicParsing="false" selected="true" text="Sell loot" />
                   <CheckBox disable="true" layoutX="14.0" layoutY="262.0" mnemonicParsing="false" text="Use lockpick" />
                   <Label layoutX="345.0" layoutY="245.0" text="Trip" />
                   <Label layoutX="420.0" layoutY="245.0" text="Restock" />
@@ -692,8 +692,12 @@
                   <Label layoutX="420.0" layoutY="395.0" text="Restock" />
                   <Spinner fx:id="restockTeleports" layoutX="14.0" layoutY="476.0" maxWidth="60.0" />
                   <Label layoutX="14.0" layoutY="459.0" text="Restock teleports" />
+                  <Slider fx:id="foodSlider" blockIncrement="1.0" layoutX="14.0" layoutY="319.0" majorTickUnit="10.0" max="70.0" min="10.0" showTickLabels="true" showTickMarks="true" value="30.0" />
+                  <Label layoutX="14.0" layoutY="305.0" text="Eat food" />
+                  <Slider fx:id="prayerSlider" blockIncrement="1.0" layoutX="14.0" layoutY="393.0" majorTickUnit="5.0" max="20.0" minorTickCount="2" showTickLabels="true" showTickMarks="true" value="3.0" />
+                  <Label layoutX="14.0" layoutY="379.0" text="Drink prayer potion" />
                </children></Pane>
-                <Pane fx:id="pnlProfiles">
+                <Pane fx:id="pnlProfiles" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Profiles">
                      <font>
