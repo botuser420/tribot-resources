@@ -104,13 +104,13 @@
                         <Insets />
                      </opaqueInsets>
                   </Label>
-                  <Label layoutX="15.0" layoutY="99.0" text="Kill order">
+                  <Label layoutX="15.0" layoutY="121.0" text="Kill order">
                      <font>
                         <Font size="14.0" />
                      </font>
                   </Label>
-                  <ListView fx:id="listBrothers" layoutX="15.0" layoutY="117.0" prefHeight="200.0" prefWidth="140.0" />
-                  <GridPane layoutX="166.0" layoutY="119.0" prefHeight="200.0" prefWidth="200.0">
+                  <ListView fx:id="listBrothers" layoutX="15.0" layoutY="139.0" prefHeight="200.0" prefWidth="140.0" />
+                  <GridPane layoutX="166.0" layoutY="141.0" prefHeight="200.0" prefWidth="200.0">
                     <columnConstraints>
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
@@ -396,12 +396,12 @@
                         </ToggleButton>
                      </children>
                   </GridPane>
-                  <AnchorPane layoutX="386.0" layoutY="110.0" prefHeight="214.0" prefWidth="79.0" scaleShape="false">
+                  <AnchorPane layoutX="386.0" layoutY="132.0" prefHeight="214.0" prefWidth="79.0" scaleShape="false">
                      <children>
                         <ImageView fx:id="imageBrother" fitHeight="214.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" />
                      </children>
                   </AnchorPane>
-                  <TitledPane animated="false" collapsible="false" layoutX="296.0" layoutY="431.0" prefHeight="89.0" prefWidth="190.0" text="Special attack weapon">
+                  <TitledPane animated="false" collapsible="false" layoutX="296.0" layoutY="410.0" prefHeight="89.0" prefWidth="190.0" text="Special attack weapon">
                     <content>
                       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="90.0" prefWidth="140.0">
                            <children>
@@ -410,7 +410,7 @@
                         </AnchorPane>
                     </content>
                   </TitledPane>
-                  <TitledPane animated="false" collapsible="false" layoutX="15.0" layoutY="431.0" prefHeight="89.0" prefWidth="270.0" text="Combat">
+                  <TitledPane animated="false" collapsible="false" layoutX="15.0" layoutY="410.0" prefHeight="89.0" prefWidth="270.0" text="Combat">
                     <content>
                       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="92.0" prefWidth="250.0">
                            <children>
@@ -421,8 +421,8 @@
                         </AnchorPane>
                     </content>
                   </TitledPane>
-                  <CheckBox fx:id="btnUsePrayer" layoutX="169.0" layoutY="293.0" mnemonicParsing="false" text="Re-Pot Prayer" />
-                  <Button fx:id="btnUp" layoutX="14.0" layoutY="324.0" mnemonicParsing="false" onAction="#changeOrder" prefWidth="45.0">
+                  <CheckBox fx:id="btnUsePrayer" layoutX="169.0" layoutY="315.0" mnemonicParsing="false" text="Re-Pot Prayer" />
+                  <Button fx:id="btnUp" layoutX="14.0" layoutY="346.0" mnemonicParsing="false" onAction="#changeOrder" prefWidth="45.0">
                      <graphic>
                         <FontAwesomeIconView glyphName="ANGLE_UP" glyphSize="18" />
                      </graphic>
@@ -430,7 +430,7 @@
                         <Font size="18.0" />
                      </font>
                   </Button>
-                  <Button fx:id="btnDown" layoutX="68.0" layoutY="324.0" mnemonicParsing="false" onAction="#changeOrder" prefWidth="45.0">
+                  <Button fx:id="btnDown" layoutX="68.0" layoutY="346.0" mnemonicParsing="false" onAction="#changeOrder" prefWidth="45.0">
                      <graphic>
                         <FontAwesomeIconView glyphName="ANGLE_DOWN" glyphSize="18" />
                      </graphic>
@@ -690,8 +690,8 @@
                   <Label layoutX="420.0" layoutY="345.0" text="Restock" />
                   <Label layoutX="345.0" layoutY="395.0" text="Trip" />
                   <Label layoutX="420.0" layoutY="395.0" text="Restock" />
-                  <Spinner fx:id="restockTeleports" layoutX="14.0" layoutY="476.0" maxWidth="60.0" />
-                  <Label layoutX="14.0" layoutY="459.0" text="Restock teleports" />
+                  <Spinner fx:id="restockTeleports" layoutX="15.0" layoutY="468.0" maxWidth="60.0" />
+                  <Label layoutX="15.0" layoutY="451.0" text="Restock teleports" />
                   <Slider fx:id="foodSlider" blockIncrement="1.0" layoutX="14.0" layoutY="319.0" majorTickUnit="10.0" max="70.0" min="10.0" showTickLabels="true" showTickMarks="true" value="30.0" />
                   <Label layoutX="14.0" layoutY="305.0" text="Eat food" />
                   <Slider fx:id="prayerSlider" blockIncrement="1.0" layoutX="14.0" layoutY="393.0" majorTickUnit="5.0" max="20.0" minorTickCount="2" showTickLabels="true" showTickMarks="true" value="3.0" />
