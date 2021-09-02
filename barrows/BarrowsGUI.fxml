@@ -97,7 +97,7 @@
         </VBox>
         <StackPane layoutX="250.0" prefHeight="534.0" prefWidth="500.0">
             <children>
-                <Pane fx:id="pnlScriptSettings" visible="false">
+                <Pane fx:id="pnlScriptSettings">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Brothers">
                      <opaqueInsets>
@@ -537,7 +537,7 @@
                   </TabPane>
                   <Hyperlink layoutX="281.0" layoutY="458.0" text="Recommended gear setups" />
                </children></Pane>
-            <Pane fx:id="pnlHelp" visible="false">
+            <Pane fx:id="pnlHelp">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Support">
                      <font>
@@ -623,7 +623,7 @@
                   <Circle fill="TRANSPARENT" layoutX="100.0" layoutY="430.0" radius="50.0" stroke="#252525" strokeType="OUTSIDE" strokeWidth="30.0" />
                </children>
             </Pane>
-                <Pane fx:id="pnlSettings" visible="false">
+                <Pane fx:id="pnlSettings">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Supplies">
                      <font>
@@ -697,7 +697,7 @@
                   <Slider fx:id="prayerSlider" blockIncrement="1.0" layoutX="14.0" layoutY="393.0" majorTickUnit="5.0" max="20.0" minorTickCount="2" showTickLabels="true" showTickMarks="true" value="3.0" />
                   <Label layoutX="14.0" layoutY="379.0" text="Drink prayer potion" />
                </children></Pane>
-                <Pane fx:id="pnlProfiles" visible="false">
+                <Pane fx:id="pnlProfiles">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Profiles">
                      <font>
