@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
 <?import java.net.URL?>
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Accordion?>
@@ -33,7 +34,6 @@
 
 <?import scripts.utilities.fonts.glyphs.materialicons.MaterialIconView?>
 <?import scripts.utilities.fonts.glyphs.fontawesome.FontAwesomeIconView?>
-
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
     <children>
         <VBox alignment="TOP_CENTER" prefWidth="250.0" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
@@ -56,7 +56,7 @@
                      </font></Label>
                </children>
             </AnchorPane>
-                <Button fx:id="btnProfiles" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Profiles" textAlignment="JUSTIFY">
+                <Button fx:id="btnProfiles" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleNavigation" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Profiles" textAlignment="JUSTIFY">
                     <opaqueInsets>
                         <Insets />
                     </opaqueInsets>
@@ -64,24 +64,24 @@
                   <FontAwesomeIconView glyphName="FILE" />
                </graphic>
                 </Button>
-                <Button fx:id="btnScriptSettings" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Brothers">
+                <Button fx:id="btnScriptSettings" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleNavigation" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Brothers">
                <graphic>
                   <FontAwesomeIconView glyphName="COG" />
                </graphic>
                 </Button>
-                <Button fx:id="btnSettings" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Supplies" textAlignment="RIGHT">
+                <Button fx:id="btnSettings" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleNavigation" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Supplies" textAlignment="RIGHT">
                <graphic>
                   <FontAwesomeIconView glyphName="SLIDERS" />
                </graphic>
                 </Button>
-                <Button fx:id="btnGear" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Gear">
+                <Button fx:id="btnGear" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleNavigation" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Gear">
                <graphic>
                </graphic>
                <graphic>
                   <FontAwesomeIconView glyphName="SHIELD" />
                </graphic>
                 </Button>
-                <Button fx:id="btnHelp" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Support" textAlignment="RIGHT" textFill="WHITE">
+                <Button fx:id="btnHelp" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleNavigation" prefHeight="42.0" prefWidth="250.0" styleClass="menu-button" text="Support" textAlignment="RIGHT" textFill="WHITE">
                <graphic>
                   <FontAwesomeIconView glyphName="QUESTION" />
                </graphic>
@@ -98,6 +98,275 @@
         </VBox>
         <StackPane layoutX="250.0" prefHeight="534.0" prefWidth="500.0">
             <children>
+                <Pane fx:id="pnlGear">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Gear">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <ImageView fitHeight="214.0" fitWidth="168.0" layoutX="67.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Equipment_slots.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="helmetBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="capeBack" fitHeight="36.0" fitWidth="36.0" layoutX="82.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="amuletBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="ammoBack" fitHeight="36.0" fitWidth="36.0" layoutX="164.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="weaponBack" fitHeight="36.0" fitWidth="36.0" layoutX="67.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="bodyBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="shieldBack" fitHeight="36.0" fitWidth="36.0" layoutX="178.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="legsBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="270.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="glovesBack" fitHeight="36.0" fitWidth="36.0" layoutX="67.0" layoutY="311.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="bootsBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="311.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="ringBack" fitHeight="36.0" fitWidth="36.0" layoutX="178.0" layoutY="310.0" pickOnBounds="true" preserveRatio="true" visible="false">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
+                     </image>
+                  </ImageView>
+                  <ImageView fx:id="helmet" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="155.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="cape" fitHeight="32.0" fitWidth="36.0" layoutX="82.0" layoutY="194.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="amulet" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="194.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="ammo" fitHeight="32.0" fitWidth="36.0" layoutX="164.0" layoutY="194.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="weapon" fitHeight="32.0" fitWidth="36.0" layoutX="67.0" layoutY="233.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="body" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="233.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="shield" fitHeight="32.0" fitWidth="36.0" layoutX="178.0" layoutY="233.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="legs" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="272.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="gloves" fitHeight="32.0" fitWidth="36.0" layoutX="64.0" layoutY="313.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="boots" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="313.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <ImageView fx:id="ring" fitHeight="32.0" fitWidth="36.0" layoutX="178.0" layoutY="313.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
+                  <Button fx:id="btnUpdate" layoutX="66.0" layoutY="367.0" mnemonicParsing="false" onAction="#updateGear" prefHeight="38.0" prefWidth="150.0" text="Load current Gear">
+                     <graphic>
+                        <MaterialIconView glyphName="SYNC" />
+                     </graphic>
+                  </Button>
+                  <ListView fx:id="listGear" layoutX="259.0" layoutY="141.0" prefHeight="309.0" prefWidth="200.0" />
+                  <Button fx:id="btnBudget" layoutX="53.0" layoutY="487.0" mnemonicParsing="false" onAction="#updateGear" prefWidth="100.0" text="Budget" />
+                  <Button fx:id="btnBest" layoutX="196.0" layoutY="487.0" mnemonicParsing="false" onAction="#updateGear" prefWidth="100.0" text="Best" />
+                  <Button fx:id="btnBaller" layoutX="348.0" layoutY="487.0" mnemonicParsing="false" onAction="#updateGear" prefWidth="100.0" text="Baller" />
+                  <Label layoutX="55.0" layoutY="462.0" text="Presets" />
+                  <TabPane layoutX="42.0" layoutY="80.0" prefHeight="54.0" prefWidth="417.0" tabClosingPolicy="UNAVAILABLE" tabMinWidth="50.0">
+                    <tabs>
+                      <Tab fx:id="tabMagic" closable="false" onSelectionChanged="#switchGearTab" text="Magic" />
+                      <Tab fx:id="tabRanged" closable="false" onSelectionChanged="#switchGearTab" text="Ranged" />
+                        <Tab fx:id="tabMelee" closable="false" onSelectionChanged="#switchGearTab" text="Melee" />
+                        <Tab fx:id="tabKillcount" closable="false" onSelectionChanged="#switchGearTab" text="Killcount" />
+                    </tabs>
+                  </TabPane>
+                  <Hyperlink layoutX="281.0" layoutY="458.0" text="Recommended gear setups" />
+               </children></Pane>
+            <Pane fx:id="pnlHelp">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Support">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <Accordion layoutX="-1.0" layoutY="81.0" prefHeight="250.0" prefWidth="500.0">
+                    <panes>
+                      <TitledPane fx:id="arguments" text="Which arguments are supported?">
+                        <content>
+                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                 <children>
+                                    <Label alignment="TOP_LEFT" prefHeight="38.0" prefWidth="460.0" text="stopLevel:30" wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                    <Label alignment="TOP_LEFT" layoutX="-1.0" layoutY="38.0" prefHeight="38.0" prefWidth="460.0" text="settings:profileName" wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                    <Label alignment="TOP_LEFT" layoutX="-1.0" layoutY="76.0" prefHeight="38.0" prefWidth="460.0" text="Use profile last to run with previous settings" wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                 </children></AnchorPane>
+                        </content>
+                      </TitledPane>
+                      <TitledPane expanded="false" text="I want to tell you how much I love this script. Where do I do this?">
+                        <content>
+                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                 <children>
+                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Do it on the script support thread linked below so others know what to expect from this script." wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                 </children></AnchorPane>
+                        </content>
+                      </TitledPane>
+                      <TitledPane expanded="false" text="I found a bug. Where do I report it?">
+                        <content>
+                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                 <children>
+                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Please give a detailed description of in on the support thread that's linked below." wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                 </children></AnchorPane>
+                        </content>
+                      </TitledPane>
+                        <TitledPane expanded="false" text="How do I set this up?">
+                           <content>
+                              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                                 <children>
+                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Select which level to train to. Make sure you have enough gp in the bank. The script will buy the required amount of planks, buy a house if needed and start training" wrapText="true">
+                                       <padding>
+                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                                       </padding>
+                                    </Label>
+                                 </children></AnchorPane>
+                           </content>
+                        </TitledPane>
+                    </panes>
+                     <padding>
+                        <Insets left="20.0" right="20.0" top="20.0" />
+                     </padding>
+                  </Accordion>
+                  <Label layoutX="189.0" layoutY="414.0" prefHeight="30.0" text="Discord:  Breaker#4904" />
+                  <Label layoutX="189.0" layoutY="384.0" prefHeight="30.0" text="TRiBot: Botuser420" />
+                  <Hyperlink layoutX="189.0" layoutY="444.0" prefHeight="30.0" text="Script thread" />
+                  <ImageView fitHeight="100.0" fitWidth="110.0" layoutX="50.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/photo-224685.png" />
+                     </image>
+                  </ImageView>
+                  <Circle fill="TRANSPARENT" layoutX="100.0" layoutY="430.0" radius="50.0" stroke="#252525" strokeType="OUTSIDE" strokeWidth="30.0" />
+               </children>
+            </Pane>
+                <Pane fx:id="pnlSettings">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Supplies">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+                  <TitledPane animated="false" collapsible="false" layoutX="255.0" layoutY="70.0" prefHeight="100.0" prefWidth="225.0" text="Getting to Barrows">
+                    <content>
+                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="225.0">
+                           <children>
+                              <RadioButton fx:id="barrowsTablet" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" selected="true" text="Barrows teleport tablet" />
+                              <RadioButton fx:id="arceuusTeleport" disable="true" layoutX="14.0" layoutY="34.0" mnemonicParsing="false" text="Arceuus barrows teleport" />
+                           </children>
+                        </AnchorPane>
+                    </content>
+                  </TitledPane>
+                  <TitledPane animated="false" collapsible="false" layoutX="14.0" layoutY="70.0" prefHeight="100.0" prefWidth="225.0" text="Banking">
+                     <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="101.0" prefWidth="224.0">
+                           <children>
+                              <RadioButton fx:id="feroxEnclave" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" selected="true" text="Ferox Enclave" />
+                           </children>
+                        </AnchorPane>
+                     </content>
+                  </TitledPane>
+                  <ComboBox fx:id="selectFood" layoutX="173.0" layoutY="210.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripFood" editable="true" layoutX="345.0" layoutY="211.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockFood" layoutX="420.0" layoutY="211.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectPrayer" layoutX="173.0" layoutY="260.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripPrayer" layoutX="345.0" layoutY="261.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockPrayer" layoutX="420.0" layoutY="261.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectMagic" layoutX="173.0" layoutY="310.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripMagic" layoutX="345.0" layoutY="311.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockMagic" layoutX="420.0" layoutY="311.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectRanged" layoutX="173.0" layoutY="360.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripRanged" layoutX="345.0" layoutY="361.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockRanged" layoutX="420.0" layoutY="361.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectMelee1" layoutX="173.0" layoutY="412.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripMelee1" layoutX="345.0" layoutY="413.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockMelee1" layoutX="420.0" layoutY="413.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectMelee2" layoutX="173.0" layoutY="445.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripMelee2" layoutX="345.0" layoutY="446.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockMelee2" layoutX="420.0" layoutY="446.0" maxWidth="60.0" />
+                  <ComboBox fx:id="selectMelee3" layoutX="173.0" layoutY="479.0" prefWidth="150.0" />
+                  <Spinner fx:id="tripMelee3" layoutX="345.0" layoutY="480.0" maxWidth="60.0" />
+                  <Spinner fx:id="restockMelee3" layoutX="420.0" layoutY="480.0" maxWidth="60.0" />
+                  <Label layoutX="173.0" layoutY="243.0" prefHeight="18.0" prefWidth="136.0" text="Prayer potion" textAlignment="RIGHT" />
+                  <Label layoutX="173.0" layoutY="293.0" prefHeight="18.0" prefWidth="136.0" text="Magic potion" textAlignment="RIGHT" />
+                  <Label layoutX="173.0" layoutY="343.0" prefHeight="18.0" prefWidth="136.0" text="Ranged potion" textAlignment="RIGHT" />
+                  <Label layoutX="173.0" layoutY="393.0" prefHeight="18.0" prefWidth="136.0" text="Melee potions" textAlignment="RIGHT" />
+                  <Label layoutX="345.0" layoutY="195.0" text="Trip" />
+                  <Label layoutX="173.0" layoutY="193.0" prefHeight="18.0" prefWidth="136.0" text="Food" textAlignment="RIGHT" />
+                  <Label layoutX="420.0" layoutY="195.0" text="Restock" />
+                  <Label layoutX="345.0" layoutY="245.0" text="Trip" />
+                  <Label layoutX="420.0" layoutY="245.0" text="Restock" />
+                  <Label layoutX="345.0" layoutY="295.0" text="Trip" />
+                  <Label layoutX="420.0" layoutY="295.0" text="Restock" />
+                  <Label layoutX="345.0" layoutY="345.0" text="Trip" />
+                  <Label layoutX="420.0" layoutY="345.0" text="Restock" />
+                  <Label layoutX="345.0" layoutY="395.0" text="Trip" />
+                  <Label layoutX="420.0" layoutY="395.0" text="Restock" />
+                  <TitledPane animated="false" collapsible="false" layoutX="14.0" layoutY="188.0" text="Miscellaneous">
+                    <content>
+                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="300.0" prefWidth="140.0">
+                           <children>
+                              <CheckBox fx:id="sellLoot" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" selected="true" text="Sell loot" />
+                              <CheckBox disable="true" layoutX="12.0" layoutY="53.0" mnemonicParsing="false" text="Use lockpick" />
+                              <Spinner fx:id="restockTeleports" layoutX="14.0" layoutY="110.0" maxWidth="60.0" />
+                              <Label layoutX="13.0" layoutY="91.0" text="Restock teleports" />
+                              <Slider fx:id="foodSlider" blockIncrement="1.0" layoutX="5.0" layoutY="168.0" majorTickUnit="10.0" max="70.0" min="20.0" prefHeight="49.0" prefWidth="128.0" showTickLabels="true" showTickMarks="true" value="30.0" />
+                              <Label fx:id="labelEatFoodAt" layoutX="10.0" layoutY="150.0" text="Eat food at" />
+                              <Slider fx:id="prayerSlider" blockIncrement="1.0" layoutX="3.0" layoutY="244.0" majorTickUnit="5.0" max="20.0" minorTickCount="2" prefHeight="49.0" prefWidth="128.0" showTickLabels="true" showTickMarks="true" value="3.0" />
+                              <Label fx:id="labelDrinkPrayerAt" layoutX="10.0" layoutY="225.0" text="Sip prayer potion at" />
+                           </children>
+                        </AnchorPane>
+                    </content>
+                  </TitledPane>
+               </children></Pane>
                 <Pane fx:id="pnlScriptSettings">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Brothers">
@@ -105,13 +374,13 @@
                         <Insets />
                      </opaqueInsets>
                   </Label>
-                  <Label layoutX="15.0" layoutY="70.0" text="Kill order">
+                  <Label layoutX="15.0" layoutY="88.0" text="Kill order">
                      <font>
                         <Font size="14.0" />
                      </font>
                   </Label>
-                  <ListView fx:id="listBrothers" layoutX="15.0" layoutY="88.0" prefHeight="200.0" prefWidth="140.0" />
-                  <GridPane layoutX="166.0" layoutY="90.0" prefHeight="200.0" prefWidth="200.0">
+                  <ListView fx:id="listBrothers" layoutX="15.0" layoutY="106.0" prefHeight="200.0" prefWidth="140.0" />
+                  <GridPane layoutX="166.0" layoutY="108.0" prefHeight="200.0" prefWidth="200.0">
                     <columnConstraints>
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
                         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
@@ -397,7 +666,7 @@
                         </ToggleButton>
                      </children>
                   </GridPane>
-                  <AnchorPane layoutX="386.0" layoutY="81.0" prefHeight="214.0" prefWidth="79.0" scaleShape="false">
+                  <AnchorPane layoutX="386.0" layoutY="99.0" prefHeight="214.0" prefWidth="79.0" scaleShape="false">
                      <children>
                         <ImageView fx:id="imageBrother" fitHeight="214.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" />
                      </children>
@@ -422,8 +691,8 @@
                         </AnchorPane>
                     </content>
                   </TitledPane>
-                  <CheckBox fx:id="btnUsePrayer" layoutX="169.0" layoutY="264.0" mnemonicParsing="false" text="Re-Pot Prayer" />
-                  <Button fx:id="btnUp" layoutX="14.0" layoutY="295.0" mnemonicParsing="false" onAction="#changeOrder" prefWidth="45.0">
+                  <CheckBox fx:id="btnUsePrayer" layoutX="169.0" layoutY="282.0" mnemonicParsing="false" text="Re-Pot Prayer" />
+                  <Button fx:id="btnUp" layoutX="17.0" layoutY="312.0" mnemonicParsing="false" onAction="#changeOrder" prefWidth="45.0">
                      <graphic>
                         <FontAwesomeIconView glyphName="ANGLE_UP" glyphSize="18" />
                      </graphic>
@@ -431,274 +700,13 @@
                         <Font size="18.0" />
                      </font>
                   </Button>
-                  <Button fx:id="btnDown" layoutX="68.0" layoutY="295.0" mnemonicParsing="false" onAction="#changeOrder" prefWidth="45.0">
+                  <Button fx:id="btnDown" layoutX="71.0" layoutY="312.0" mnemonicParsing="false" onAction="#changeOrder" prefWidth="45.0">
                      <graphic>
                         <FontAwesomeIconView glyphName="ANGLE_DOWN" glyphSize="18" />
                      </graphic>
                   </Button>
-                  <Slider fx:id="rewardSlider" blockIncrement="1.0" layoutX="168.0" layoutY="346.0" minorTickCount="5" prefHeight="49.0" prefWidth="319.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" value="88.0" />
-                  <Label layoutX="179.0" layoutY="329.0" text="Reward potential %" />
-               </children></Pane>
-                <Pane fx:id="pnlGear">
-               <children>
-                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Gear">
-                     <font>
-                        <Font size="30.0" />
-                     </font>
-                     <opaqueInsets>
-                        <Insets />
-                     </opaqueInsets>
-                  </Label>
-                  <ImageView fitHeight="214.0" fitWidth="168.0" layoutX="67.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Equipment_slots.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="helmetBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="153.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="capeBack" fitHeight="36.0" fitWidth="36.0" layoutX="82.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="amuletBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="ammoBack" fitHeight="36.0" fitWidth="36.0" layoutX="164.0" layoutY="192.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="weaponBack" fitHeight="36.0" fitWidth="36.0" layoutX="67.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="bodyBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="shieldBack" fitHeight="36.0" fitWidth="36.0" layoutX="178.0" layoutY="231.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="legsBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="270.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="glovesBack" fitHeight="36.0" fitWidth="36.0" layoutX="67.0" layoutY="311.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="bootsBack" fitHeight="36.0" fitWidth="36.0" layoutX="123.0" layoutY="311.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="ringBack" fitHeight="36.0" fitWidth="36.0" layoutX="178.0" layoutY="310.0" pickOnBounds="true" preserveRatio="true" visible="false">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/barrows/Background_slot.png" />
-                     </image>
-                  </ImageView>
-                  <ImageView fx:id="helmet" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="155.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="cape" fitHeight="32.0" fitWidth="36.0" layoutX="82.0" layoutY="194.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="amulet" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="194.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="ammo" fitHeight="32.0" fitWidth="36.0" layoutX="164.0" layoutY="194.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="weapon" fitHeight="32.0" fitWidth="36.0" layoutX="67.0" layoutY="233.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="body" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="233.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="shield" fitHeight="32.0" fitWidth="36.0" layoutX="178.0" layoutY="233.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="legs" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="272.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="gloves" fitHeight="32.0" fitWidth="36.0" layoutX="64.0" layoutY="313.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="boots" fitHeight="32.0" fitWidth="36.0" layoutX="123.0" layoutY="313.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <ImageView fx:id="ring" fitHeight="32.0" fitWidth="36.0" layoutX="178.0" layoutY="313.0" pickOnBounds="true" preserveRatio="true" translateX="2.0" />
-                  <Button fx:id="btnUpdate" layoutX="66.0" layoutY="367.0" mnemonicParsing="false" onAction="#updateGear" prefHeight="38.0" prefWidth="150.0" text="Load current Gear">
-                     <graphic>
-                        <MaterialIconView glyphName="SYNC" />
-                     </graphic>
-                  </Button>
-                  <ListView fx:id="listGear" layoutX="259.0" layoutY="141.0" prefHeight="309.0" prefWidth="200.0" />
-                  <Button fx:id="btnBudget" layoutX="53.0" layoutY="487.0" mnemonicParsing="false" onAction="#updateGear" prefWidth="100.0" text="Budget" />
-                  <Button fx:id="btnBest" layoutX="196.0" layoutY="487.0" mnemonicParsing="false" onAction="#updateGear" prefWidth="100.0" text="Best" />
-                  <Button fx:id="btnBaller" layoutX="348.0" layoutY="487.0" mnemonicParsing="false" onAction="#updateGear" prefWidth="100.0" text="Baller" />
-                  <Label layoutX="55.0" layoutY="462.0" text="Presets" />
-                  <TabPane layoutX="42.0" layoutY="80.0" prefHeight="54.0" prefWidth="417.0" tabClosingPolicy="UNAVAILABLE" tabMinWidth="50.0">
-                    <tabs>
-                      <Tab fx:id="tabMagic" closable="false" onSelectionChanged="#switchGearTab" text="Magic" />
-                      <Tab fx:id="tabRanged" closable="false" onSelectionChanged="#switchGearTab" text="Ranged" />
-                        <Tab fx:id="tabMelee" closable="false" onSelectionChanged="#switchGearTab" text="Melee" />
-                        <Tab fx:id="tabKillcount" closable="false" onSelectionChanged="#switchGearTab" text="Killcount" />
-                    </tabs>
-                  </TabPane>
-                  <Hyperlink layoutX="281.0" layoutY="458.0" text="Recommended gear setups" />
-               </children></Pane>
-            <Pane fx:id="pnlHelp">
-               <children>
-                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Support">
-                     <font>
-                        <Font size="30.0" />
-                     </font>
-                     <opaqueInsets>
-                        <Insets />
-                     </opaqueInsets>
-                  </Label>
-                  <Accordion layoutX="-1.0" layoutY="81.0" prefHeight="250.0" prefWidth="500.0">
-                    <panes>
-                      <TitledPane fx:id="arguments" text="Which arguments are supported?">
-                        <content>
-                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
-                                 <children>
-                                    <Label alignment="TOP_LEFT" prefHeight="38.0" prefWidth="460.0" text="stopLevel:30" wrapText="true">
-                                       <padding>
-                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                       </padding>
-                                    </Label>
-                                    <Label alignment="TOP_LEFT" layoutX="-1.0" layoutY="38.0" prefHeight="38.0" prefWidth="460.0" text="settings:profileName" wrapText="true">
-                                       <padding>
-                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                       </padding>
-                                    </Label>
-                                    <Label alignment="TOP_LEFT" layoutX="-1.0" layoutY="76.0" prefHeight="38.0" prefWidth="460.0" text="Use profile last to run with previous settings" wrapText="true">
-                                       <padding>
-                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                       </padding>
-                                    </Label>
-                                 </children></AnchorPane>
-                        </content>
-                      </TitledPane>
-                      <TitledPane expanded="false" text="I want to tell you how much I love this script. Where do I do this?">
-                        <content>
-                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
-                                 <children>
-                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Do it on the script support thread linked below so others know what to expect from this script." wrapText="true">
-                                       <padding>
-                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                       </padding>
-                                    </Label>
-                                 </children></AnchorPane>
-                        </content>
-                      </TitledPane>
-                      <TitledPane expanded="false" text="I found a bug. Where do I report it?">
-                        <content>
-                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
-                                 <children>
-                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Please give a detailed description of in on the support thread that's linked below." wrapText="true">
-                                       <padding>
-                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                       </padding>
-                                    </Label>
-                                 </children></AnchorPane>
-                        </content>
-                      </TitledPane>
-                        <TitledPane expanded="false" text="How do I set this up?">
-                           <content>
-                              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
-                                 <children>
-                                    <Label alignment="TOP_LEFT" prefHeight="114.0" prefWidth="460.0" text="Select which level to train to. Make sure you have enough gp in the bank. The script will buy the required amount of planks, buy a house if needed and start training" wrapText="true">
-                                       <padding>
-                                          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                                       </padding>
-                                    </Label>
-                                 </children></AnchorPane>
-                           </content>
-                        </TitledPane>
-                    </panes>
-                     <padding>
-                        <Insets left="20.0" right="20.0" top="20.0" />
-                     </padding>
-                  </Accordion>
-                  <Label layoutX="189.0" layoutY="414.0" prefHeight="30.0" text="Discord:  Breaker#4904" />
-                  <Label layoutX="189.0" layoutY="384.0" prefHeight="30.0" text="TRiBot: Botuser420" />
-                  <Hyperlink layoutX="189.0" layoutY="444.0" prefHeight="30.0" text="Script thread" />
-                  <ImageView fitHeight="100.0" fitWidth="110.0" layoutX="50.0" layoutY="380.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="https://raw.githubusercontent.com/botuser420/tribot-resources/main/photo-224685.png" />
-                     </image>
-                  </ImageView>
-                  <Circle fill="TRANSPARENT" layoutX="100.0" layoutY="430.0" radius="50.0" stroke="#252525" strokeType="OUTSIDE" strokeWidth="30.0" />
-               </children>
-            </Pane>
-                <Pane fx:id="pnlSettings">
-               <children>
-                  <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Supplies">
-                     <font>
-                        <Font size="30.0" />
-                     </font>
-                     <opaqueInsets>
-                        <Insets />
-                     </opaqueInsets>
-                  </Label>
-                  <TitledPane animated="false" collapsible="false" layoutX="255.0" layoutY="70.0" prefHeight="100.0" prefWidth="225.0" text="Getting to Barrows">
-                    <content>
-                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="225.0">
-                           <children>
-                              <RadioButton fx:id="barrowsTablet" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" selected="true" text="Barrows teleport tablet" />
-                              <RadioButton fx:id="arceuusTeleport" disable="true" layoutX="14.0" layoutY="34.0" mnemonicParsing="false" text="Arceuus barrows teleport" />
-                           </children>
-                        </AnchorPane>
-                    </content>
-                  </TitledPane>
-                  <TitledPane animated="false" collapsible="false" layoutX="14.0" layoutY="70.0" prefHeight="100.0" prefWidth="225.0" text="Banking">
-                     <content>
-                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="101.0" prefWidth="224.0">
-                           <children>
-                              <RadioButton fx:id="feroxEnclave" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" selected="true" text="Ferox Enclave" />
-                           </children>
-                        </AnchorPane>
-                     </content>
-                  </TitledPane>
-                  <ComboBox fx:id="selectFood" layoutX="173.0" layoutY="210.0" prefWidth="150.0" />
-                  <Spinner fx:id="tripFood" editable="true" layoutX="345.0" layoutY="211.0" maxWidth="60.0" />
-                  <Spinner fx:id="restockFood" layoutX="420.0" layoutY="211.0" maxWidth="60.0" />
-                  <ComboBox fx:id="selectPrayer" layoutX="173.0" layoutY="260.0" prefWidth="150.0" />
-                  <Spinner fx:id="tripPrayer" layoutX="345.0" layoutY="261.0" maxWidth="60.0" />
-                  <Spinner fx:id="restockPrayer" layoutX="420.0" layoutY="261.0" maxWidth="60.0" />
-                  <ComboBox fx:id="selectMagic" layoutX="173.0" layoutY="310.0" prefWidth="150.0" />
-                  <Spinner fx:id="tripMagic" layoutX="345.0" layoutY="311.0" maxWidth="60.0" />
-                  <Spinner fx:id="restockMagic" layoutX="420.0" layoutY="311.0" maxWidth="60.0" />
-                  <ComboBox fx:id="selectRanged" layoutX="173.0" layoutY="360.0" prefWidth="150.0" />
-                  <Spinner fx:id="tripRanged" layoutX="345.0" layoutY="361.0" maxWidth="60.0" />
-                  <Spinner fx:id="restockRanged" layoutX="420.0" layoutY="361.0" maxWidth="60.0" />
-                  <ComboBox fx:id="selectMelee1" layoutX="173.0" layoutY="412.0" prefWidth="150.0" />
-                  <Spinner fx:id="tripMelee1" layoutX="345.0" layoutY="413.0" maxWidth="60.0" />
-                  <Spinner fx:id="restockMelee1" layoutX="420.0" layoutY="413.0" maxWidth="60.0" />
-                  <ComboBox fx:id="selectMelee2" layoutX="173.0" layoutY="445.0" prefWidth="150.0" />
-                  <Spinner fx:id="tripMelee2" layoutX="345.0" layoutY="446.0" maxWidth="60.0" />
-                  <Spinner fx:id="restockMelee2" layoutX="420.0" layoutY="446.0" maxWidth="60.0" />
-                  <ComboBox fx:id="selectMelee3" layoutX="173.0" layoutY="479.0" prefWidth="150.0" />
-                  <Spinner fx:id="tripMelee3" layoutX="345.0" layoutY="480.0" maxWidth="60.0" />
-                  <Spinner fx:id="restockMelee3" layoutX="420.0" layoutY="480.0" maxWidth="60.0" />
-                  <Label layoutX="173.0" layoutY="243.0" prefHeight="18.0" prefWidth="136.0" text="Prayer potion" textAlignment="RIGHT" />
-                  <Label layoutX="173.0" layoutY="293.0" prefHeight="18.0" prefWidth="136.0" text="Magic potion" textAlignment="RIGHT" />
-                  <Label layoutX="173.0" layoutY="343.0" prefHeight="18.0" prefWidth="136.0" text="Ranged potion" textAlignment="RIGHT" />
-                  <Label layoutX="173.0" layoutY="393.0" prefHeight="18.0" prefWidth="136.0" text="Melee potions" textAlignment="RIGHT" />
-                  <Label layoutX="345.0" layoutY="195.0" text="Trip" />
-                  <Label layoutX="173.0" layoutY="193.0" prefHeight="18.0" prefWidth="136.0" text="Food" textAlignment="RIGHT" />
-                  <Label layoutX="420.0" layoutY="195.0" text="Restock" />
-                  <CheckBox fx:id="sellLoot" layoutX="14.0" layoutY="216.0" mnemonicParsing="false" selected="true" text="Sell loot" />
-                  <CheckBox disable="true" layoutX="14.0" layoutY="262.0" mnemonicParsing="false" text="Use lockpick" />
-                  <Label layoutX="345.0" layoutY="245.0" text="Trip" />
-                  <Label layoutX="420.0" layoutY="245.0" text="Restock" />
-                  <Label layoutX="345.0" layoutY="295.0" text="Trip" />
-                  <Label layoutX="420.0" layoutY="295.0" text="Restock" />
-                  <Label layoutX="345.0" layoutY="345.0" text="Trip" />
-                  <Label layoutX="420.0" layoutY="345.0" text="Restock" />
-                  <Label layoutX="345.0" layoutY="395.0" text="Trip" />
-                  <Label layoutX="420.0" layoutY="395.0" text="Restock" />
-                  <Spinner fx:id="restockTeleports" layoutX="15.0" layoutY="468.0" maxWidth="60.0" />
-                  <Label layoutX="15.0" layoutY="451.0" text="Restock teleports" />
-                  <Slider fx:id="foodSlider" blockIncrement="1.0" layoutX="14.0" layoutY="319.0" majorTickUnit="10.0" max="70.0" min="10.0" showTickLabels="true" showTickMarks="true" value="30.0" />
-                  <Label layoutX="14.0" layoutY="305.0" text="Eat food at" />
-                  <Slider fx:id="prayerSlider" blockIncrement="1.0" layoutX="14.0" layoutY="393.0" majorTickUnit="5.0" max="20.0" minorTickCount="2" showTickLabels="true" showTickMarks="true" value="3.0" />
-                  <Label layoutX="14.0" layoutY="379.0" text="Sip prayer potion at" />
+                  <Slider fx:id="rewardSlider" blockIncrement="1.0" layoutX="150.0" layoutY="347.0" minorTickCount="5" prefHeight="49.0" prefWidth="319.0" showTickLabels="true" showTickMarks="true" value="88.0" />
+                  <Label fx:id="labelRewardPotential" layoutX="155.0" layoutY="335.0" text="Reward potential 88%" />
                </children></Pane>
                 <Pane fx:id="pnlProfiles">
                <children>
