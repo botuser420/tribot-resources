@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
-<?import java.net.URL?>
-<?import javafx.geometry.Insets?>
-<?import javafx.scene.control.Accordion?>
-<?import javafx.scene.control.Button?>
-<?import javafx.scene.control.CheckBox?>
-<?import javafx.scene.control.ComboBox?>
-<?import javafx.scene.control.Hyperlink?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.control.ListView?>
-<?import javafx.scene.control.RadioButton?>
-<?import javafx.scene.control.Slider?>
-<?import javafx.scene.control.Spinner?>
-<?import javafx.scene.control.Tab?>
-<?import javafx.scene.control.TabPane?>
-<?import javafx.scene.control.TextField?>
-<?import javafx.scene.control.TitledPane?>
-<?import javafx.scene.control.ToggleButton?>
-<?import javafx.scene.control.Tooltip?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
 <?import javafx.scene.effect.DropShadow?>
-<?import javafx.scene.image.Image?>
-<?import javafx.scene.image.ImageView?>
-<?import javafx.scene.layout.AnchorPane?>
-<?import javafx.scene.layout.ColumnConstraints?>
-<?import javafx.scene.layout.GridPane?>
-<?import javafx.scene.layout.Pane?>
-<?import javafx.scene.layout.RowConstraints?>
-<?import javafx.scene.layout.StackPane?>
-<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
 <?import javafx.scene.shape.Circle?>
-<?import javafx.scene.text.Font?>
-
+<?import javafx.scene.text.*?>
+<?import scripts.utilities.fonts.glyphs.fontawesome.*?>
 <?import scripts.utilities.fonts.glyphs.materialicons.MaterialIconView?>
-<?import scripts.utilities.fonts.glyphs.fontawesome.FontAwesomeIconView?>
+<?import java.net.*?>
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
     <children>
         <VBox alignment="TOP_CENTER" prefWidth="250.0" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
@@ -98,7 +74,7 @@
         </VBox>
         <StackPane layoutX="250.0" prefHeight="534.0" prefWidth="500.0">
             <children>
-                <Pane fx:id="pnlGear">
+                <Pane fx:id="pnlGear" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Gear">
                      <font>
@@ -199,7 +175,7 @@
                   </TabPane>
                   <Hyperlink layoutX="281.0" layoutY="458.0" text="Recommended gear setups" />
                </children></Pane>
-            <Pane fx:id="pnlHelp">
+            <Pane fx:id="pnlHelp" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Support">
                      <font>
@@ -300,7 +276,7 @@
                       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="225.0">
                            <children>
                               <RadioButton fx:id="barrowsTablet" layoutX="14.0" layoutY="5.0" mnemonicParsing="false" selected="true" text="Barrows teleport tablet" />
-                              <RadioButton fx:id="arceuusTeleport" disable="true" layoutX="14.0" layoutY="34.0" mnemonicParsing="false" text="Arceuus barrows teleport" />
+                              <RadioButton fx:id="morytantiaLegs" layoutX="14.0" layoutY="34.0" mnemonicParsing="false" text="Morytania legs 3+" />
                            </children>
                         </AnchorPane>
                     </content>
@@ -367,7 +343,7 @@
                     </content>
                   </TitledPane>
                </children></Pane>
-                <Pane fx:id="pnlScriptSettings">
+                <Pane fx:id="pnlScriptSettings" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Brothers">
                      <opaqueInsets>
@@ -708,7 +684,7 @@
                   <Slider fx:id="rewardSlider" blockIncrement="1.0" layoutX="150.0" layoutY="347.0" minorTickCount="5" prefHeight="49.0" prefWidth="319.0" showTickLabels="true" showTickMarks="true" value="88.0" />
                   <Label fx:id="labelRewardPotential" layoutX="155.0" layoutY="335.0" text="Reward potential 88%" />
                </children></Pane>
-                <Pane fx:id="pnlProfiles">
+                <Pane fx:id="pnlProfiles" visible="false">
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" graphicTextGap="20.0" lineSpacing="20.0" prefHeight="80.0" prefWidth="500.0" styleClass="title-header" text="Profiles">
                      <font>
