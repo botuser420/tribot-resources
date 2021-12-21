@@ -10,7 +10,7 @@
 <?import scripts.utilities.fonts.glyphs.fontawesome.*?>
 <?import scripts.utilities.fonts.glyphs.materialicons.MaterialIconView?>
 <?import java.net.*?>
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.gui.Controller">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefWidth="750.0" xmlns="http://javafx.com/javafx/15" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scripts.breaker.barrows.gui.Controller">
     <children>
         <VBox alignment="TOP_CENTER" prefWidth="250.0" AnchorPane.bottomAnchor="0.0" AnchorPane.topAnchor="0.0">
             <children>
