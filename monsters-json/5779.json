@@ -1,0 +1,280 @@
+{
+    "id": 5779,
+    "name": "Giant Mole",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2006-03-07",
+    "combat_level": 230,
+    "size": 3,
+    "hitpoints": 200,
+    "max_hit": 21,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "bosses"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 215.0,
+    "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Holy Mole-y!",
+    "wiki_name": "Giant Mole",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_Mole",
+    "attack_level": 200,
+    "strength_level": 200,
+    "defence_level": 200,
+    "magic_level": 200,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 60,
+    "defence_slash": 80,
+    "defence_crush": 100,
+    "defence_magic": 80,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 532,
+            "name": "Big bones",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 556,
+            "name": "Air rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 554,
+            "name": "Fire rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 884,
+            "name": "Iron arrow",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1515,
+            "name": "Yew logs",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 385,
+            "name": "Shark",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 2359,
+            "name": "Mithril bar",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 440,
+            "name": "Iron ore",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 7416,
+            "name": "Mole claw",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 413,
+            "name": "Oyster pearls",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 7418,
+            "name": "Mole skin",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1301,
+            "name": "Adamant longsword",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 10976,
+            "name": "Long bone",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 12113,
+            "name": "Clue scroll (elite)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1121,
+            "name": "Mithril platebody",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 12646,
+            "name": "Baby mole",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 10977,
+            "name": "Curved bone",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1725,
+            "name": "Amulet of strength",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1355,
+            "name": "Mithril axe",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1369,
+            "name": "Mithril battleaxe",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1147,
+            "name": "Rune med helm",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        }
+    ]
+}

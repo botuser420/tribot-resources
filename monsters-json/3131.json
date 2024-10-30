@@ -1,0 +1,236 @@
+{
+    "id": 3131,
+    "name": "Zakl'n Gritch",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2013-10-17",
+    "combat_level": 142,
+    "size": 2,
+    "hitpoints": 150,
+    "max_hit": 21,
+    "attack_type": [
+        "ranged"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "lesser demons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 150.0,
+    "slayer_masters": [
+        "vannaka",
+        "chaeldar"
+    ],
+    "duplicate": false,
+    "examine": "Scourge of the Light.",
+    "wiki_name": "Zakl'n Gritch",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zakl'n_Gritch",
+    "attack_level": 83,
+    "strength_level": 76,
+    "defence_level": 127,
+    "magic_level": 50,
+    "ranged_level": 150,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 20,
+    "ranged_bonus": 20,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": -5,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 25772,
+            "name": "Malicious ashes",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 385,
+            "name": "Shark",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 7060,
+            "name": "Tuna potato",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 245,
+            "name": "Wine of zamorak",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 145,
+            "name": "Super attack(3)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 157,
+            "name": "Super strength(3)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 26362,
+            "name": "Frozen key piece (zamorak)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 3577,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 11824,
+            "name": "Zamorakian spear",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 6805,
+            "name": "Lesser demon champion scroll",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 11818,
+            "name": "Godsword shard 1",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 11820,
+            "name": "Godsword shard 2",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 11822,
+            "name": "Godsword shard 3",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 886,
+            "name": "Steel arrow",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 808,
+            "name": "Steel dart",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        }
+    ]
+}

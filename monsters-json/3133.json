@@ -1,0 +1,96 @@
+{
+    "id": 3133,
+    "name": "Hellhound",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2013-10-17",
+    "combat_level": 127,
+    "size": 2,
+    "hitpoints": 116,
+    "max_hit": 13,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "hellhounds"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 116.0,
+    "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "From the maws of hell.",
+    "wiki_name": "Hellhound (Level 127)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Hellhound#Level_127",
+    "attack_level": 107,
+    "strength_level": 116,
+    "defence_level": 106,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 25769,
+            "name": "Vile ashes",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 26996,
+            "name": "Ensouled hellhound head",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 3577,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        }
+    ]
+}

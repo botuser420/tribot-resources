@@ -1,0 +1,266 @@
+{
+    "id": 5126,
+    "name": "Experiment No.2",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2007-06-04",
+    "combat_level": 109,
+    "size": 2,
+    "hitpoints": 95,
+    "max_hit": 11,
+    "attack_type": [
+        "crush",
+        "ranged"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": false,
+    "examine": "A very odd looking creature.",
+    "wiki_name": "Experiment No.2",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Experiment_No.2",
+    "attack_level": 104,
+    "strength_level": 92,
+    "defence_level": 90,
+    "magic_level": 1,
+    "ranged_level": 100,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 45,
+    "defence_slash": 70,
+    "defence_crush": 60,
+    "defence_magic": 60,
+    "defence_ranged": 55,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 203,
+            "name": "Grimy tarromin",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 205,
+            "name": "Grimy harralander",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 207,
+            "name": "Grimy ranarr weed",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 209,
+            "name": "Grimy irit leaf",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 211,
+            "name": "Grimy avantoe",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 213,
+            "name": "Grimy kwuarm",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 215,
+            "name": "Grimy cadantine",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 2485,
+            "name": "Grimy lantadyme",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 11205,
+            "name": "Shrunk ogleroot",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 7416,
+            "name": "Mole claw",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1407,
+            "name": "Mystic earth staff",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 557,
+            "name": "Earth rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 7893,
+            "name": "Experiment bone",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 3577,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 555,
+            "name": "Water rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 561,
+            "name": "Nature rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 203,
+            "name": "Grimy tarromin",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 199,
+            "name": "Grimy guam leaf",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 201,
+            "name": "Grimy marrentill",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        }
+    ]
+}

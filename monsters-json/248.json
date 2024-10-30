@@ -1,0 +1,410 @@
+{
+    "id": 248,
+    "name": "Red dragon",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2002-02-27",
+    "combat_level": 152,
+    "size": 4,
+    "hitpoints": 140,
+    "max_hit": 14,
+    "attack_type": [
+        "slash",
+        "dragonfire"
+    ],
+    "attack_speed": 4,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "dragon",
+        "fiery"
+    ],
+    "category": [
+        "red dragons"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 143.4,
+    "slayer_masters": [
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "A big powerful dragon.",
+    "wiki_name": "Red dragon (2)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Red_dragon#2",
+    "attack_level": 130,
+    "strength_level": 130,
+    "defence_level": 130,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 10,
+    "defence_slash": 70,
+    "defence_crush": 70,
+    "defence_magic": 60,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 536,
+            "name": "Dragon bones",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1303,
+            "name": "Rune longsword",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 892,
+            "name": "Rune arrow",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 563,
+            "name": "Law rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 565,
+            "name": "Blood rune",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 199,
+            "name": "Grimy guam leaf",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 201,
+            "name": "Grimy marrentill",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 203,
+            "name": "Grimy tarromin",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 205,
+            "name": "Grimy harralander",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 207,
+            "name": "Grimy ranarr weed",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1749,
+            "name": "Red dragonhide",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 209,
+            "name": "Grimy irit leaf",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 211,
+            "name": "Grimy avantoe",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 213,
+            "name": "Grimy kwuarm",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 215,
+            "name": "Grimy cadantine",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 2485,
+            "name": "Grimy lantadyme",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 217,
+            "name": "Grimy dwarf weed",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1315,
+            "name": "Mithril 2h sword",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 19582,
+            "name": "Dragon javelin heads",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1897,
+            "name": "Chocolate cake",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 2361,
+            "name": "Adamantite bar",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1355,
+            "name": "Mithril axe",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23510,
+            "name": "Tattered moon page",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23512,
+            "name": "Tattered sun page",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23514,
+            "name": "Tattered temple page",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 13510,
+            "name": "Ensouled dragon head",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23499,
+            "name": "Grubby key",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1369,
+            "name": "Mithril battleaxe",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 3577,
+            "name": "Clue scroll (hard)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 811,
+            "name": "Rune dart",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 828,
+            "name": "Mithril javelin",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1197,
+            "name": "Mithril kiteshield",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1123,
+            "name": "Adamant platebody",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        }
+    ]
+}

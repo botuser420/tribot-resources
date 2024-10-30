@@ -1,0 +1,220 @@
+{
+    "id": 3434,
+    "name": "Tyras guard",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2004-09-20",
+    "combat_level": 110,
+    "size": 1,
+    "hitpoints": 110,
+    "max_hit": 15,
+    "attack_type": [
+        "stab"
+    ],
+    "attack_speed": 5,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
+    "duplicate": true,
+    "examine": "One of King Tyras's men.",
+    "wiki_name": "Tyras guard",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tyras_guard",
+    "attack_level": 85,
+    "strength_level": 95,
+    "defence_level": 100,
+    "magic_level": 1,
+    "ranged_level": 0,
+    "attack_bonus": 20,
+    "strength_bonus": 30,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 87,
+    "defence_slash": 84,
+    "defence_crush": 76,
+    "defence_magic": -10,
+    "defence_ranged": 79,
+    "drops": [
+        {
+            "id": 526,
+            "name": "Bones",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 560,
+            "name": "Death rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 554,
+            "name": "Fire rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 361,
+            "name": "Tuna",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 2357,
+            "name": "Gold bar",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1734,
+            "name": "Thread",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1311,
+            "name": "Steel 2h sword",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1353,
+            "name": "Steel axe",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1365,
+            "name": "Steel battleaxe",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1197,
+            "name": "Mithril kiteshield",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1073,
+            "name": "Adamant platelegs",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1163,
+            "name": "Rune full helm",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 554,
+            "name": "Fire rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 562,
+            "name": "Chaos rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        }
+    ]
+}

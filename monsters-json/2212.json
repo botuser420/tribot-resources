@@ -1,0 +1,58 @@
+{
+    "id": 2212,
+    "name": "Spiritual mage",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2013-10-17",
+    "combat_level": 120,
+    "size": 1,
+    "hitpoints": 85,
+    "max_hit": 20,
+    "attack_type": [
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "spectral"
+    ],
+    "category": [
+        "spiritual creatures"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 83,
+    "slayer_xp": 85.0,
+    "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Saradomin's holy mage.",
+    "wiki_name": "Spiritual mage (Saradomin)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Spiritual_mage#Saradomin",
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 86,
+    "magic_level": 160,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 8,
+    "defence_slash": 7,
+    "defence_crush": 3,
+    "defence_magic": 16,
+    "defence_ranged": 0,
+    "drops": []
+}

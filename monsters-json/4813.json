@@ -1,0 +1,120 @@
+{
+    "id": 4813,
+    "name": "Icefiend",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2006-03-15",
+    "combat_level": 13,
+    "size": 1,
+    "hitpoints": 15,
+    "max_hit": 2,
+    "attack_type": [
+        "melee",
+        "magic"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "demon"
+    ],
+    "category": [
+        "icefiends"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 15.0,
+    "slayer_masters": [
+        "turael",
+        "spria"
+    ],
+    "duplicate": false,
+    "examine": "A small ice demon.",
+    "wiki_name": "Icefiend (Level 13)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Icefiend#Level_13",
+    "attack_level": 10,
+    "strength_level": 10,
+    "defence_level": 12,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": [
+        {
+            "id": 556,
+            "name": "Air rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 11941,
+            "name": "Looting bag",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 11942,
+            "name": "Ecumenical key",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23155,
+            "name": "Clue scroll (easy)",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 555,
+            "name": "Water rune",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        }
+    ]
+}

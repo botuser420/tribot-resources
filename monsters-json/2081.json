@@ -1,0 +1,59 @@
+{
+    "id": 2081,
+    "name": "Fire giant",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2002-05-08",
+    "combat_level": 86,
+    "size": 2,
+    "hitpoints": 111,
+    "max_hit": 11,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "fiery"
+    ],
+    "category": [
+        "fire giants"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 111.0,
+    "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "konar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": true,
+    "examine": "A very large elemental adversary.",
+    "wiki_name": "Fire giant (Level 86)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Fire_giant#Level_86",
+    "attack_level": 65,
+    "strength_level": 65,
+    "defence_level": 65,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 29,
+    "strength_bonus": 31,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 3,
+    "defence_crush": 2,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": []
+}

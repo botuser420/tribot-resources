@@ -1,0 +1,58 @@
+{
+    "id": 2210,
+    "name": "Spiritual warrior",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2013-10-17",
+    "combat_level": 125,
+    "size": 1,
+    "hitpoints": 110,
+    "max_hit": 13,
+    "attack_type": [
+        "crush"
+    ],
+    "attack_speed": 5,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "spectral"
+    ],
+    "category": [
+        "spiritual creatures"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 68,
+    "slayer_xp": 110.0,
+    "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Saradomin's chosen warrior.",
+    "wiki_name": "Spiritual warrior (Saradomin)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Spiritual_warrior#Saradomin",
+    "attack_level": 110,
+    "strength_level": 106,
+    "defence_level": 110,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 9,
+    "strength_bonus": 6,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 110,
+    "ranged_bonus": 0,
+    "defence_stab": 12,
+    "defence_slash": 14,
+    "defence_crush": 13,
+    "defence_magic": 5,
+    "defence_ranged": 0,
+    "drops": []
+}

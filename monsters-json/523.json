@@ -1,0 +1,52 @@
+{
+    "id": 523,
+    "name": "Pirate",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": false,
+    "release_date": "2001-04-06",
+    "combat_level": 26,
+    "size": 1,
+    "hitpoints": 23,
+    "max_hit": 4,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 5,
+    "aggressive": true,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [],
+    "category": [
+        "pirates"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 20.0,
+    "slayer_masters": [
+        "krystilia"
+    ],
+    "duplicate": false,
+    "examine": "This one's had too much to drink!",
+    "wiki_name": "Pirate (Asgarnian Ice Dungeon)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Pirate#Asgarnian_Ice_Dungeon",
+    "attack_level": 23,
+    "strength_level": 23,
+    "defence_level": 23,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 8,
+    "strength_bonus": 10,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 0,
+    "ranged_bonus": 0,
+    "defence_stab": 3,
+    "defence_slash": 2,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": []
+}

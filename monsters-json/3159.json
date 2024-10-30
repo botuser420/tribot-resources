@@ -1,0 +1,58 @@
+{
+    "id": 3159,
+    "name": "Spiritual warrior",
+    "last_updated": "2024-06-25",
+    "incomplete": true,
+    "members": true,
+    "release_date": "2013-10-17",
+    "combat_level": 115,
+    "size": 1,
+    "hitpoints": 100,
+    "max_hit": 11,
+    "attack_type": [
+        "slash"
+    ],
+    "attack_speed": 4,
+    "aggressive": false,
+    "poisonous": false,
+    "venomous": false,
+    "immune_poison": false,
+    "immune_venom": false,
+    "attributes": [
+        "spectral"
+    ],
+    "category": [
+        "spiritual creatures"
+    ],
+    "slayer_monster": true,
+    "slayer_level": 68,
+    "slayer_xp": 110.0,
+    "slayer_masters": [
+        "krystilia",
+        "vannaka",
+        "chaeldar",
+        "nieve",
+        "duradel"
+    ],
+    "duplicate": false,
+    "examine": "Warrior of Zamorak.",
+    "wiki_name": "Spiritual warrior (Zamorak)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Spiritual_warrior#Zamorak",
+    "attack_level": 100,
+    "strength_level": 100,
+    "defence_level": 100,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "attack_magic": 0,
+    "magic_bonus": 0,
+    "attack_ranged": 110,
+    "ranged_bonus": 0,
+    "defence_stab": 0,
+    "defence_slash": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "drops": []
+}
