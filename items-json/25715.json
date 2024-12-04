@@ -1,0 +1,9 @@
+{
+    "itemId": 25715,
+    "itemName": "Clan cloak",
+    "examine": "Shows your clan's colours.",
+    "weight": 0.32,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

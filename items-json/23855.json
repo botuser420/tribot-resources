@@ -1,0 +1,15 @@
+{
+    "itemId": 23855,
+    "itemName": "Corrupted bow (basic)",
+    "examine": "A basic bow formed from corrupted crystal and wood.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 72,
+        "rangedStrengthBonus": 42,
+        "prayerBonus": 1,
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "npcId": 3017,
+    "name": "Giant spider",
+    "hitpoints": 5,
+    "combatLevel": 2,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        1
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 5.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": -10,
+    "strengthBonus": -10,
+    "stabDefenceBonus": -10,
+    "slashDefenceBonus": -10,
+    "crushDefenceBonus": -10,
+    "magicDefenceBonus": -10,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangeDefenceBonus": -10,
+    "lightRangeDefenceBonus": -10,
+    "standardRangeDefenceBonus": -10,
+    "heavyRangeDefenceBonus": -10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

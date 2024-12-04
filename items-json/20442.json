@@ -1,0 +1,10 @@
+{
+    "itemId": 20442,
+    "itemName": "Evil chicken legs",
+    "examine": "Evil legs for an evil human wanting to dress like an evil chicken.",
+    "weight": 0.25,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

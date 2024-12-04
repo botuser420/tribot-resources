@@ -1,0 +1,14 @@
+{
+    "itemId": 9771,
+    "itemName": "Agility cape",
+    "examine": "The cape worn by the most agile of heroes.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 540,
+    "itemName": "Druid's robe top",
+    "examine": "I feel closer to the gods when I am wearing this.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "BODY",
+        "prayerBonus": 4
+    }
+}

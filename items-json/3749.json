@@ -1,0 +1,20 @@
+{
+    "itemId": 3749,
+    "itemName": "Archer helm",
+    "examine": "This helmet is worn by archers.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": -5,
+        "slashAttackBonus": -5,
+        "crushAttackBonus": -5,
+        "magicAttackBonus": -5,
+        "rangeAttackBonus": 6,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 6
+    }
+}

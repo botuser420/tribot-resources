@@ -1,0 +1,21 @@
+{
+    "itemId": 22002,
+    "itemName": "Dragonfire ward",
+    "examine": "A light shield with a haunting, skeletal visage.",
+    "weight": 4.082,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -10,
+        "slashAttackBonus": -10,
+        "crushAttackBonus": -10,
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 15,
+        "stabDefenceBonus": 25,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 28,
+        "magicDefenceBonus": 28,
+        "rangeDefenceBonus": 68,
+        "strengthBonus": -2,
+        "rangedStrengthBonus": 8
+    }
+}

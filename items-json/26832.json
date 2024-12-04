@@ -1,0 +1,9 @@
+{
+    "itemId": 26832,
+    "itemName": "Abyssal lantern (purple logs)",
+    "examine": "A lantern containing power from the Abyss. It's been lit with some purple logs.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

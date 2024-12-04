@@ -1,0 +1,30 @@
+{
+    "npcId": 419,
+    "name": "Cockatrice",
+    "hitpoints": 37,
+    "combatLevel": 37,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Cockatrice",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 37.0,
+    "size": 2,
+    "attackLevel": 22,
+    "strengthLevel": 37,
+    "defenceLevel": 37,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "magicDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

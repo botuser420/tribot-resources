@@ -1,0 +1,17 @@
+{
+    "itemId": 746,
+    "itemName": "Dark dagger",
+    "examine": "A black obsidian dagger. It has a strange aura about it.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 5,
+        "slashAttackBonus": 3,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

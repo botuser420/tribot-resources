@@ -1,0 +1,11 @@
+{
+    "itemId": 22229,
+    "itemName": "Blunt arrow",
+    "examine": "Arrows with blunt heads.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangeAttackBonus": 46,
+        "rangedStrengthBonus": 125
+    }
+}

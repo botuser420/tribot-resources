@@ -1,0 +1,17 @@
+{
+    "itemId": 2601,
+    "itemName": "Adamant platelegs (t)",
+    "examine": "Adamant platelegs with trim.",
+    "weight": 10.432,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 33,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 29,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 31
+    }
+}

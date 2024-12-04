@@ -1,0 +1,17 @@
+{
+    "itemId": 25495,
+    "itemName": "Crystal helm (beta)",
+    "examine": "This helmet shines bright, like a diamond.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 8,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": 26,
+        "rangeDefenceBonus": 18,
+        "prayerBonus": 2
+    }
+}

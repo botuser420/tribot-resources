@@ -1,0 +1,17 @@
+{
+    "itemId": 10352,
+    "itemName": "3rd age kiteshield",
+    "examine": "Fabulously ancient armour beaten from magical silver.",
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": -4,
+        "stabDefenceBonus": 63,
+        "slashDefenceBonus": 65,
+        "crushDefenceBonus": 61,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 63
+    }
+}

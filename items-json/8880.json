@@ -1,0 +1,14 @@
+{
+    "itemId": 8880,
+    "itemName": "Dorgeshuun crossbow",
+    "examine": "This fires crossbow bolts.",
+    "weight": 2.267,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 42,
+        "weaponAttackRange": 6,
+        "weaponAttackSpeed": 5,
+        "weaponType": "CROSSBOW"
+    }
+}

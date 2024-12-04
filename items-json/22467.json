@@ -1,0 +1,7 @@
+{
+    "itemId": 22467,
+    "itemName": "Bastion potion(2)",
+    "examine": "2 doses of bastion potion.",
+    "weight": 0.03,
+    "buyLimit": 2000
+}

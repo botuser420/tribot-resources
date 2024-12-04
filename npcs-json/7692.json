@@ -1,0 +1,36 @@
+{
+    "npcId": 7692,
+    "name": "Jal-MejRah",
+    "hitpoints": 25,
+    "combatLevel": 85,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        19
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 25.0,
+    "size": 2,
+    "defenceLevel": 55,
+    "magicLevel": 120,
+    "rangedLevel": 120,
+    "rangeAttackBonus": 30,
+    "rangedStrengthBonus": 30,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": -20,
+    "rangeDefenceBonus": 45,
+    "lightRangeDefenceBonus": 45,
+    "standardRangeDefenceBonus": 45,
+    "heavyRangeDefenceBonus": 45,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

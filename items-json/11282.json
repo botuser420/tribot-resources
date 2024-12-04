@@ -1,0 +1,9 @@
+{
+    "itemId": 11282,
+    "itemName": "Beret mask",
+    "examine": "Essential mime wear.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "npcId": 1025,
+    "name": "Necromancer",
+    "hitpoints": 40,
+    "combatLevel": 26,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 18,
+    "strengthLevel": 18,
+    "defenceLevel": 18,
+    "magicLevel": 18,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

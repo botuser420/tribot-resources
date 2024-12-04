@@ -1,0 +1,12 @@
+{
+    "itemId": 8674,
+    "itemName": "Banner",
+    "examine": "A banner with the symbol of Saradomin.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BANNER"
+    }
+}

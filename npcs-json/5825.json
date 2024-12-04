@@ -1,0 +1,35 @@
+{
+    "npcId": 5825,
+    "name": "Frenzied ice troll female",
+    "hitpoints": 80,
+    "combatLevel": 82,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        17
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 84.0,
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 60,
+    "strengthBonus": 60,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 30,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

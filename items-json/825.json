@@ -1,0 +1,11 @@
+{
+    "itemId": 825,
+    "itemName": "Bronze javelin",
+    "examine": "A bronze tipped javelin.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 25
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "itemId": 12253,
+    "itemName": "Armadyl robe top",
+    "examine": "Armadyl Vestments.",
+    "weight": 1.8,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4,
+        "prayerBonus": 6
+    }
+}

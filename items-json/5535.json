@@ -1,0 +1,10 @@
+{
+    "itemId": 5535,
+    "itemName": "Earth tiara",
+    "examine": "A tiara infused with the properties of the earth.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 21316,
+    "itemName": "Amethyst broad bolts",
+    "examine": "Crossbow bolts with amethyst broad tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 115
+    }
+}

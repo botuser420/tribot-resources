@@ -1,0 +1,33 @@
+{
+    "npcId": 240,
+    "name": "Black demon",
+    "hitpoints": 157,
+    "combatLevel": 172,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        16
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Black Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 157.0,
+    "size": 3,
+    "attackLevel": 145,
+    "strengthLevel": 148,
+    "defenceLevel": 152,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -10,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 40,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 26804,
+    "itemName": "Elemental tiara",
+    "examine": "A tiara infused with the properties of every elemental rune.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 28019,
+    "itemName": "Dragon dagger (cr)",
+    "examine": "A powerful dagger.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 40,
+        "slashAttackBonus": 25,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 40,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

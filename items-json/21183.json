@@ -1,0 +1,10 @@
+{
+    "itemId": 21183,
+    "itemName": "Bracelet of slaughter",
+    "examine": "Occasionally prevents slayer kill count being decremented.",
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

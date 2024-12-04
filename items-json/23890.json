@@ -1,0 +1,20 @@
+{
+    "itemId": 23890,
+    "itemName": "Crystal body (attuned)",
+    "examine": "A sturdier piece of armour with some protection from crystalline creatures.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": 12,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 12,
+        "rangeAttackBonus": 12,
+        "stabDefenceBonus": 102,
+        "slashDefenceBonus": 102,
+        "crushDefenceBonus": 102,
+        "magicDefenceBonus": 102,
+        "rangeDefenceBonus": 102,
+        "prayerBonus": 4
+    }
+}

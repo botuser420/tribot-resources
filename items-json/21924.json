@@ -1,0 +1,11 @@
+{
+    "itemId": 21924,
+    "itemName": "Dragon bolts (p)",
+    "examine": "Some poisoned dragon bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

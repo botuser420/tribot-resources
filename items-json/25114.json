@@ -1,0 +1,12 @@
+{
+    "itemId": 25114,
+    "itemName": "Echo harpoon",
+    "examine": "A very powerful harpoon, echoing with power from the past.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAB_SWORD"
+    }
+}

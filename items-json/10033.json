@@ -1,0 +1,14 @@
+{
+    "itemId": 10033,
+    "itemName": "Chinchompa",
+    "examine": "Handle with care.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 45,
+        "weaponAttackRange": 9,
+        "weaponAttackSpeed": 4,
+        "weaponType": "CHINCHOMPA"
+    }
+}

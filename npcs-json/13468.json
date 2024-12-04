@@ -1,0 +1,29 @@
+{
+    "npcId": 13468,
+    "name": "Elite Dark Ranger",
+    "hitpoints": 80,
+    "combatLevel": 96,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 1,
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 80,
+    "magicLevel": 40,
+    "rangedLevel": 80,
+    "rangeAttackBonus": 80,
+    "stabDefenceBonus": 5,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 60,
+    "rangeDefenceBonus": 5,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 5,
+    "heavyRangeDefenceBonus": 15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,29 @@
+{
+    "npcId": 13529,
+    "name": "Balance Elemental",
+    "hitpoints": 750,
+    "combatLevel": 524,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        40
+    ],
+    "size": 3,
+    "attackLevel": 275,
+    "strengthLevel": 286,
+    "defenceLevel": 275,
+    "magicLevel": 275,
+    "rangedLevel": 275,
+    "strengthBonus": 22,
+    "magicDamageBonus": 22,
+    "rangedStrengthBonus": 22,
+    "stabDefenceBonus": 5,
+    "crushDefenceBonus": -40,
+    "magicDefenceBonus": -40,
+    "lightRangeDefenceBonus": 5,
+    "heavyRangeDefenceBonus": -40,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

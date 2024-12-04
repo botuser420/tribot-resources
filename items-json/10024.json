@@ -1,0 +1,13 @@
+{
+    "itemId": 10024,
+    "itemName": "Falconer's glove",
+    "examine": "A very large, single leather glove.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4
+    }
+}

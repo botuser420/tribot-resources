@@ -1,0 +1,22 @@
+{
+    "npcId": 12390,
+    "name": "Scarred lesser demon",
+    "hitpoints": 79,
+    "combatLevel": 85,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "monsterAttribute": "demon",
+    "size": 2,
+    "attackLevel": 68,
+    "strengthLevel": 80,
+    "defenceLevel": 71,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

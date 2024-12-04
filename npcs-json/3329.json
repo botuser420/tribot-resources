@@ -1,0 +1,21 @@
+{
+    "npcId": 3329,
+    "name": "Giant Champion",
+    "hitpoints": 70,
+    "combatLevel": 56,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 2,
+    "attackLevel": 36,
+    "strengthLevel": 44,
+    "defenceLevel": 52,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

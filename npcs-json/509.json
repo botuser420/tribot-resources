@@ -1,0 +1,28 @@
+{
+    "npcId": 509,
+    "name": "Death wing",
+    "hitpoints": 80,
+    "combatLevel": 83,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        8
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Bats",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 80.0,
+    "size": 2,
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

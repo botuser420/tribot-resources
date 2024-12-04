@@ -1,0 +1,31 @@
+{
+    "npcId": 8637,
+    "name": "Third Age Mage",
+    "hitpoints": 40,
+    "combatLevel": 83,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        16
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 80,
+    "magicLevel": 110,
+    "rangedLevel": 1,
+    "magicAttackBonus": 145,
+    "magicDamageBonus": 24,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 6,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 65,
+    "rangeDefenceBonus": -5,
+    "lightRangeDefenceBonus": -5,
+    "standardRangeDefenceBonus": -5,
+    "heavyRangeDefenceBonus": -5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

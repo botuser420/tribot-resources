@@ -1,0 +1,37 @@
+{
+    "npcId": 817,
+    "name": "Elvarg",
+    "hitpoints": 80,
+    "combatLevel": 83,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "MAGIC"
+    ],
+    "maxHits": [
+        8,
+        69,
+        10
+    ],
+    "slayerCategory": "Green Dragons",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 80.0,
+    "size": 4,
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 70,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 30,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

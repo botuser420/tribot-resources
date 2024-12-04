@@ -1,0 +1,13 @@
+{
+    "itemId": 27853,
+    "itemName": "Dark bow (bh)",
+    "examine": "A bow from an even darker dimension.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 105,
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 9,
+        "weaponType": "BOW"
+    }
+}

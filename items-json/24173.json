@@ -1,0 +1,19 @@
+{
+    "itemId": 24173,
+    "itemName": "Fighter hat (l)",
+    "examine": "A Penance Fighter hat.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 5,
+        "slashAttackBonus": 5,
+        "crushAttackBonus": 5,
+        "magicAttackBonus": -7,
+        "rangeAttackBonus": -7,
+        "stabDefenceBonus": 27,
+        "slashDefenceBonus": 29,
+        "crushDefenceBonus": 26,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 28
+    }
+}

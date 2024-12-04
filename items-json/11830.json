@@ -1,0 +1,21 @@
+{
+    "itemId": 11830,
+    "itemName": "Armadyl chainskirt",
+    "examine": "A chainskirt of great craftsmanship.",
+    "weight": 1.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": -6,
+        "slashAttackBonus": -6,
+        "crushAttackBonus": -6,
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 20,
+        "stabDefenceBonus": 32,
+        "slashDefenceBonus": 26,
+        "crushDefenceBonus": 34,
+        "magicDefenceBonus": 40,
+        "rangeDefenceBonus": 33,
+        "prayerBonus": 1
+    }
+}

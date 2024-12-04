@@ -1,0 +1,26 @@
+{
+    "npcId": 1098,
+    "name": "Sea Snake Hatchling",
+    "hitpoints": 50,
+    "combatLevel": 62,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Sea Snakes",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 55,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

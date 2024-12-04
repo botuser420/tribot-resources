@@ -1,0 +1,38 @@
+{
+    "npcId": 8097,
+    "name": "Galvek",
+    "hitpoints": 1200,
+    "combatLevel": 608,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        28,
+        121
+    ],
+    "monsterAttribute": "dragon",
+    "size": 7,
+    "attackLevel": 632,
+    "strengthLevel": 268,
+    "defenceLevel": 188,
+    "magicLevel": 160,
+    "rangedLevel": 246,
+    "attackBonus": 34,
+    "magicAttackBonus": 160,
+    "magicDamageBonus": 42,
+    "rangeAttackBonus": 180,
+    "rangedStrengthBonus": 6,
+    "stabDefenceBonus": 80,
+    "slashDefenceBonus": 140,
+    "crushDefenceBonus": 140,
+    "magicDefenceBonus": 280,
+    "rangeDefenceBonus": 86,
+    "lightRangeDefenceBonus": 86,
+    "standardRangeDefenceBonus": 86,
+    "heavyRangeDefenceBonus": 86,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

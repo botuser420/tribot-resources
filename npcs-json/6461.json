@@ -1,0 +1,34 @@
+{
+    "npcId": 6461,
+    "name": "Zombie",
+    "hitpoints": 76,
+    "combatLevel": 86,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "size": 1,
+    "attackLevel": 74,
+    "strengthLevel": 80,
+    "defenceLevel": 71,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

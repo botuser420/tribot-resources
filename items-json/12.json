@@ -1,0 +1,7 @@
+{
+    "itemId": 12,
+    "itemName": "Cannon furnace",
+    "examine": "This powers the multicannon.",
+    "weight": 5.0,
+    "buyLimit": 70
+}

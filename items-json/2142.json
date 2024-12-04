@@ -1,0 +1,7 @@
+{
+    "itemId": 2142,
+    "itemName": "Cooked meat",
+    "examine": "Mmm this looks tasty.",
+    "weight": 0.283,
+    "buyLimit": 6000
+}

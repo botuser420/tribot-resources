@@ -1,0 +1,22 @@
+{
+    "itemId": 22368,
+    "itemName": "Bryophyta's staff (uncharged)",
+    "examine": "It's a slightly magical stick. All natural, of course.",
+    "weight": 1.5,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 40,
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 15,
+        "strengthBonus": 50,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

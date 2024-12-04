@@ -1,0 +1,30 @@
+{
+    "npcId": 6605,
+    "name": "Bandit",
+    "hitpoints": 155,
+    "combatLevel": 130,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        12
+    ],
+    "slayerCategory": "Bandits",
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 159.0,
+    "size": 1,
+    "attackLevel": 57,
+    "strengthLevel": 57,
+    "defenceLevel": 57,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 57,
+    "strengthBonus": 52,
+    "slashDefenceBonus": 23,
+    "crushDefenceBonus": 22,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

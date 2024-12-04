@@ -1,0 +1,40 @@
+{
+    "npcId": 243,
+    "name": "Baby blue dragon",
+    "hitpoints": 50,
+    "combatLevel": 48,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Blue Dragons",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 50.0,
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 40,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 50,
+    "rangeDefenceBonus": 30,
+    "lightRangeDefenceBonus": 30,
+    "standardRangeDefenceBonus": 30,
+    "heavyRangeDefenceBonus": 15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,26 @@
+{
+    "npcId": 9013,
+    "name": "Mourner",
+    "hitpoints": 19,
+    "combatLevel": 11,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 8,
+    "strengthLevel": 8,
+    "defenceLevel": 8,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 6,
+    "strengthBonus": 2,
+    "stabDefenceBonus": 6,
+    "slashDefenceBonus": 6,
+    "crushDefenceBonus": 9,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

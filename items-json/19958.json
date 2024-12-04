@@ -1,0 +1,10 @@
+{
+    "itemId": 19958,
+    "itemName": "Dark tuxedo jacket",
+    "examine": "A dark tuxedo jacket with a white shirt.",
+    "weight": 2.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

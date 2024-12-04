@@ -1,0 +1,28 @@
+{
+    "npcId": 2487,
+    "name": "Goblin",
+    "hitpoints": 22,
+    "combatLevel": 16,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Goblins",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 22.0,
+    "size": 1,
+    "attackLevel": 13,
+    "strengthLevel": 11,
+    "defenceLevel": 14,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 22,
+    "strengthBonus": 22,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

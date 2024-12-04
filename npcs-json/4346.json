@@ -1,0 +1,24 @@
+{
+    "npcId": 4346,
+    "name": "Sir Tristram",
+    "hitpoints": 105,
+    "combatLevel": 115,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        15
+    ],
+    "size": 1,
+    "attackLevel": 99,
+    "strengthLevel": 99,
+    "defenceLevel": 99,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 25,
+    "strengthBonus": 25,
+    "crushDefenceBonus": 225,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 27859,
+    "itemName": "Dragon longsword (bh)",
+    "examine": "A very powerful sword.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 62,
+        "slashAttackBonus": 75,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 71,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

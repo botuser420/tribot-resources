@@ -1,0 +1,32 @@
+{
+    "npcId": 12821,
+    "name": "Sol Heredit",
+    "hitpoints": 1500,
+    "combatLevel": 1563,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        45
+    ],
+    "size": 5,
+    "attackLevel": 350,
+    "strengthLevel": 400,
+    "defenceLevel": 200,
+    "magicLevel": 300,
+    "rangedLevel": 350,
+    "attackBonus": 250,
+    "strengthBonus": 5,
+    "rangeAttackBonus": 150,
+    "rangedStrengthBonus": 5,
+    "stabDefenceBonus": 65,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 750,
+    "rangeDefenceBonus": 825,
+    "lightRangeDefenceBonus": 825,
+    "standardRangeDefenceBonus": 825,
+    "heavyRangeDefenceBonus": 825,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

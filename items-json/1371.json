@@ -1,0 +1,18 @@
+{
+    "itemId": 1371,
+    "itemName": "Adamant battleaxe",
+    "examine": "A vicious looking axe.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 31,
+        "crushAttackBonus": 26,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 41,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

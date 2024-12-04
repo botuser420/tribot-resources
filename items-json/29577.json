@@ -1,0 +1,18 @@
+{
+    "itemId": 29577,
+    "itemName": "Burning claws",
+    "examine": "Torn from the hands of ancient demons.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 43,
+        "slashAttackBonus": 54,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 32,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

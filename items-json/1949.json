@@ -1,0 +1,10 @@
+{
+    "itemId": 1949,
+    "itemName": "Chef's hat",
+    "examine": "What a silly hat.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

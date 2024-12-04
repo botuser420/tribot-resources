@@ -1,0 +1,28 @@
+{
+    "npcId": 7566,
+    "name": "Vasa Nistirio",
+    "hitpoints": 300,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MAGIC",
+        "RANGED"
+    ],
+    "monsterAttribute": "xerician",
+    "size": 5,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 175,
+    "magicLevel": 230,
+    "rangedLevel": 230,
+    "rangeAttackBonus": 100,
+    "stabDefenceBonus": 170,
+    "slashDefenceBonus": 190,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 400,
+    "rangeDefenceBonus": 40,
+    "lightRangeDefenceBonus": 40,
+    "standardRangeDefenceBonus": 40,
+    "heavyRangeDefenceBonus": 30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

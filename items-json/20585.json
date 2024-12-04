@@ -1,0 +1,21 @@
+{
+    "itemId": 20585,
+    "itemName": "Amulet of power",
+    "examine": "An enchanted diamond amulet of power.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 6,
+        "magicAttackBonus": 6,
+        "rangeAttackBonus": 6,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 6,
+        "strengthBonus": 6,
+        "prayerBonus": 1
+    }
+}

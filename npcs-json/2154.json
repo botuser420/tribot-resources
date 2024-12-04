@@ -1,0 +1,30 @@
+{
+    "npcId": 2154,
+    "name": "TzHaar-Mej",
+    "hitpoints": 100,
+    "combatLevel": 103,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC",
+        "CRUSH"
+    ],
+    "maxHits": [
+        13,
+        9
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 100.0,
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "magicLevel": 120,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

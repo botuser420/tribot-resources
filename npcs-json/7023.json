@@ -1,0 +1,26 @@
+{
+    "npcId": 7023,
+    "name": "Reanimated bear",
+    "hitpoints": 15,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Bears",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 15.0,
+    "size": 2,
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 15,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

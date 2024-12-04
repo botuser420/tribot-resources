@@ -1,0 +1,24 @@
+{
+    "npcId": 300,
+    "name": "Jailer",
+    "hitpoints": 47,
+    "combatLevel": 47,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 79,
+    "slashDefenceBonus": 63,
+    "crushDefenceBonus": 47,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

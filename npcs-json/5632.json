@@ -1,0 +1,28 @@
+{
+    "npcId": 5632,
+    "name": "Asyn shadow",
+    "hitpoints": 94,
+    "combatLevel": 110,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Shades",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 94.0,
+    "size": 1,
+    "attackLevel": 110,
+    "strengthLevel": 96,
+    "defenceLevel": 80,
+    "magicLevel": 50,
+    "rangedLevel": 50,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

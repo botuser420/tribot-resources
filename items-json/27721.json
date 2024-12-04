@@ -1,0 +1,17 @@
+{
+    "itemId": 27721,
+    "itemName": "Crystal body",
+    "examine": "Sturdier than it looks.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -18,
+        "rangeAttackBonus": 31,
+        "stabDefenceBonus": 46,
+        "slashDefenceBonus": 38,
+        "crushDefenceBonus": 48,
+        "magicDefenceBonus": 44,
+        "rangeDefenceBonus": 68,
+        "prayerBonus": 3
+    }
+}

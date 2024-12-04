@@ -1,0 +1,9 @@
+{
+    "itemId": 26844,
+    "itemName": "Abyssal lantern (blisterwood logs)",
+    "examine": "A lantern containing power from the Abyss. It's been lit with some blisterwood logs.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

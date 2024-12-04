@@ -1,0 +1,9 @@
+{
+    "itemId": 4035,
+    "itemName": "10th squad sigil",
+    "examine": "It's the official sigil of the 10th squad of the Royal Guard.",
+    "weight": 0.085,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

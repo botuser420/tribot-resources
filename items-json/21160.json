@@ -1,0 +1,10 @@
+{
+    "itemId": 21160,
+    "itemName": "Amulet of bounty",
+    "examine": "Saves seeds when planting in allotments.",
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

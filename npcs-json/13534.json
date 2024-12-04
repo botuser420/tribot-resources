@@ -1,0 +1,26 @@
+{
+    "npcId": 13534,
+    "name": "Elite Khazard Guard",
+    "hitpoints": 85,
+    "combatLevel": 95,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        12
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 88,
+    "defenceLevel": 80,
+    "magicLevel": 30,
+    "rangedLevel": 1,
+    "attackBonus": 10,
+    "strengthBonus": 14,
+    "stabDefenceBonus": 44,
+    "slashDefenceBonus": 38,
+    "crushDefenceBonus": 30,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

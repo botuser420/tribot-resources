@@ -1,0 +1,21 @@
+{
+    "npcId": 1558,
+    "name": "Earth wizard",
+    "hitpoints": 25,
+    "combatLevel": 13,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 10,
+    "magicLevel": 10,
+    "magicDefenceBonus": 15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

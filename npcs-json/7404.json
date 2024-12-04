@@ -1,0 +1,29 @@
+{
+    "npcId": 7404,
+    "name": "Choke devil",
+    "hitpoints": 300,
+    "combatLevel": 264,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        24
+    ],
+    "slayerCategory": "Dust Devils",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 3000.0,
+    "size": 2,
+    "attackLevel": 260,
+    "strengthLevel": 230,
+    "defenceLevel": 120,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

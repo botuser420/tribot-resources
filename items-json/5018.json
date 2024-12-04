@@ -1,0 +1,18 @@
+{
+    "itemId": 5018,
+    "itemName": "Bone club",
+    "examine": "Basic but brutal!",
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 16,
+        "magicAttackBonus": -4,
+        "strengthBonus": 15,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

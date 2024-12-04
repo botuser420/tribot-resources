@@ -1,0 +1,9 @@
+{
+    "itemId": 27408,
+    "itemName": "Adventurer's hood (t3)",
+    "examine": "The headgear of an adventurer.",
+    "weight": 0.4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

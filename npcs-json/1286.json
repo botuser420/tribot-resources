@@ -1,0 +1,26 @@
+{
+    "npcId": 1286,
+    "name": "Fiyr Shade",
+    "hitpoints": 110,
+    "combatLevel": 120,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "shade",
+    "slayerCategory": "Shades",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 110.0,
+    "size": 1,
+    "attackLevel": 120,
+    "strengthLevel": 100,
+    "defenceLevel": 85,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

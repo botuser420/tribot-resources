@@ -1,0 +1,27 @@
+{
+    "npcId": 4185,
+    "name": "Jackal",
+    "hitpoints": 27,
+    "combatLevel": 21,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Dogs",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 27.0,
+    "size": 1,
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 15,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

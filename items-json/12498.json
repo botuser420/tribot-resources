@@ -1,0 +1,17 @@
+{
+    "itemId": 12498,
+    "itemName": "Bandos bracers",
+    "examine": "Bandos blessed dragonhide vambraces.",
+    "weight": 1.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 11,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 8,
+        "prayerBonus": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "npcId": 5127,
+    "name": "Mouse",
+    "hitpoints": 70,
+    "combatLevel": 95,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 4,
+    "attackLevel": 95,
+    "strengthLevel": 80,
+    "defenceLevel": 86,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 55,
+    "crushDefenceBonus": 65,
+    "magicDefenceBonus": 50,
+    "rangeDefenceBonus": 60,
+    "lightRangeDefenceBonus": 60,
+    "standardRangeDefenceBonus": 60,
+    "heavyRangeDefenceBonus": 60,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

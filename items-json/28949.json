@@ -1,0 +1,11 @@
+{
+    "itemId": 28949,
+    "itemName": "Dizana's quiver (uncharged) (l)",
+    "examine": "A quiver awarded to those who have proved their worth in the Colosseum.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "rangeAttackBonus": 18,
+        "rangedStrengthBonus": 3
+    }
+}

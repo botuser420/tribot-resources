@@ -1,0 +1,9 @@
+{
+    "itemId": 24431,
+    "itemName": "Blue gingerbread shield",
+    "examine": "A delicious looking Gingerbread Gnome.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "npcId": 13283,
+    "name": "Bandit",
+    "hitpoints": 27,
+    "combatLevel": 23,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 17,
+    "strengthLevel": 22,
+    "defenceLevel": 17,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 11,
+    "strengthBonus": 12,
+    "stabDefenceBonus": 4,
+    "slashDefenceBonus": 8,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 1,
+    "rangeDefenceBonus": 4,
+    "lightRangeDefenceBonus": 4,
+    "standardRangeDefenceBonus": 4,
+    "heavyRangeDefenceBonus": 4,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

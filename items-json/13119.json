@@ -1,0 +1,17 @@
+{
+    "itemId": 13119,
+    "itemName": "Falador shield 3",
+    "examine": "A shield from Falador.",
+    "weight": 5.443,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 18,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 20,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 20,
+        "prayerBonus": 4
+    }
+}

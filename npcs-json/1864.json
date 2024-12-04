@@ -1,0 +1,21 @@
+{
+    "npcId": 1864,
+    "name": "Tree spirit",
+    "hitpoints": 85,
+    "combatLevel": 79,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 65,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

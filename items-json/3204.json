@@ -1,0 +1,20 @@
+{
+    "itemId": 3204,
+    "itemName": "Dragon halberd",
+    "examine": "A dragon halberd.",
+    "weight": 3.175,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 70,
+        "slashAttackBonus": 95,
+        "magicAttackBonus": -4,
+        "stabDefenceBonus": -1,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 5,
+        "strengthBonus": 89,
+        "weaponAttackRange": 2,
+        "weaponAttackSpeed": 7,
+        "weaponType": "POLEARM"
+    }
+}

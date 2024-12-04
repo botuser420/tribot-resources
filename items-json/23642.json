@@ -1,0 +1,15 @@
+{
+    "itemId": 23642,
+    "itemName": "Blessed spirit shield",
+    "examine": "An ethereal shield that has been blessed with holy powers.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 53,
+        "slashDefenceBonus": 55,
+        "crushDefenceBonus": 73,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 52,
+        "prayerBonus": 3
+    }
+}

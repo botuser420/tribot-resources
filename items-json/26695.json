@@ -1,0 +1,16 @@
+{
+    "itemId": 26695,
+    "itemName": "Centurion cuirass (broken)",
+    "examine": "A chest piece worn by the mightiest warriors of the arena, but it's broken.",
+    "weight": 6.0,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -40,
+        "stabDefenceBonus": 72,
+        "slashDefenceBonus": 91,
+        "crushDefenceBonus": 70,
+        "magicDefenceBonus": -10,
+        "rangeDefenceBonus": 7,
+        "strengthBonus": 4
+    }
+}

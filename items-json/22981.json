@@ -1,0 +1,15 @@
+{
+    "itemId": 22981,
+    "itemName": "Ferocious gloves",
+    "examine": "A pair of very very nice gloves.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 16,
+        "slashAttackBonus": 16,
+        "crushAttackBonus": 16,
+        "magicAttackBonus": -16,
+        "rangeAttackBonus": -16,
+        "strengthBonus": 14
+    }
+}

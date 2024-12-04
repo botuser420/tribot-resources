@@ -1,0 +1,27 @@
+{
+    "npcId": 232,
+    "name": "Jungle Wolf",
+    "hitpoints": 69,
+    "combatLevel": 64,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Wolves",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 70.0,
+    "size": 2,
+    "attackLevel": 50,
+    "strengthLevel": 55,
+    "defenceLevel": 52,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

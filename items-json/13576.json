@@ -1,0 +1,18 @@
+{
+    "itemId": 13576,
+    "itemName": "Dragon warhammer",
+    "examine": "Spikey, close combat weapon.",
+    "weight": 2.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 95,
+        "magicAttackBonus": -4,
+        "strengthBonus": 85,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

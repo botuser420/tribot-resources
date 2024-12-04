@@ -1,0 +1,17 @@
+{
+    "npcId": 5770,
+    "name": "Penance Healer",
+    "hitpoints": 49,
+    "attackSpeed": -1,
+    "maxHits": [
+        0
+    ],
+    "size": 1,
+    "attackLevel": 26,
+    "strengthLevel": 27,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

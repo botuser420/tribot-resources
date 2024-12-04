@@ -1,0 +1,14 @@
+{
+    "itemId": 12424,
+    "itemName": "3rd age bow",
+    "examine": "A beautifully crafted bow carved by ancient archers.",
+    "weight": 3.175,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 80,
+        "weaponAttackRange": 9,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 10402,
+    "itemName": "Black elegant legs",
+    "examine": "A rather elegant pair of men's black pantaloons.",
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

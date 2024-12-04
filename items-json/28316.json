@@ -1,0 +1,11 @@
+{
+    "itemId": 28316,
+    "itemName": "Bellator ring",
+    "examine": "An occult ring that grants immense slicing power.",
+    "weight": 0.012,
+    "equipment": {
+        "slot": "RING",
+        "slashAttackBonus": 20,
+        "strengthBonus": 6
+    }
+}

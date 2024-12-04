@@ -1,0 +1,7 @@
+{
+    "itemId": 3228,
+    "itemName": "Cooked rabbit",
+    "examine": "Mmm this looks tasty.",
+    "weight": 0.141,
+    "buyLimit": 6000
+}

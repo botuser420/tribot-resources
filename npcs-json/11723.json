@@ -1,0 +1,25 @@
+{
+    "npcId": 11723,
+    "name": "Scarab Swarm",
+    "hitpoints": 10,
+    "combatLevel": 8,
+    "attackSpeed": 4,
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -100,
+    "slashDefenceBonus": -100,
+    "crushDefenceBonus": -100,
+    "magicDefenceBonus": -100,
+    "rangeDefenceBonus": -100,
+    "lightRangeDefenceBonus": -100,
+    "standardRangeDefenceBonus": -100,
+    "heavyRangeDefenceBonus": -100,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

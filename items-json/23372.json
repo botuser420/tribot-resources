@@ -1,0 +1,17 @@
+{
+    "itemId": 23372,
+    "itemName": "Black platebody (h3)",
+    "examine": "Black plate body with a heraldic design.",
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 41,
+        "slashDefenceBonus": 40,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 40
+    }
+}

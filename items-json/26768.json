@@ -1,0 +1,11 @@
+{
+    "itemId": 26768,
+    "itemName": "Archers ring (i)",
+    "examine": "A fabled ring that improves the wearer's skill with a bow...",
+    "weight": 0.004,
+    "equipment": {
+        "slot": "RING",
+        "rangeAttackBonus": 8,
+        "rangeDefenceBonus": 8
+    }
+}

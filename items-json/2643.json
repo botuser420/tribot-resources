@@ -1,0 +1,10 @@
+{
+    "itemId": 2643,
+    "itemName": "Black cavalier",
+    "examine": "All for one and one for all!",
+    "weight": 0.08,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "npcId": 6327,
+    "name": "Agrith Naar (hard)",
+    "hitpoints": 209,
+    "combatLevel": 196,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        21
+    ],
+    "monsterAttribute": "demon",
+    "size": 3,
+    "attackLevel": 182,
+    "strengthLevel": 198,
+    "defenceLevel": 82,
+    "magicLevel": 220,
+    "rangedLevel": 220,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

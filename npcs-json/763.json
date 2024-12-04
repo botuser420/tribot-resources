@@ -1,0 +1,29 @@
+{
+    "npcId": 763,
+    "name": "Giant Roc",
+    "hitpoints": 250,
+    "combatLevel": 172,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        14,
+        20
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 250.0,
+    "size": 5,
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 130,
+    "magicDefenceBonus": 150,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

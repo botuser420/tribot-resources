@@ -1,0 +1,10 @@
+{
+    "itemId": 2538,
+    "itemName": "Adamant fire arrow",
+    "examine": "Arrows with adamant heads wrapped in oily cloth.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 31
+    }
+}

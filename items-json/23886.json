@@ -1,0 +1,20 @@
+{
+    "itemId": 23886,
+    "itemName": "Crystal helm (basic)",
+    "examine": "A shiny helmet that provides a little protection from crystalline creatures.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 1,
+        "magicAttackBonus": 2,
+        "rangeAttackBonus": 2,
+        "stabDefenceBonus": 28,
+        "slashDefenceBonus": 28,
+        "crushDefenceBonus": 28,
+        "magicDefenceBonus": 28,
+        "rangeDefenceBonus": 28,
+        "prayerBonus": 1
+    }
+}

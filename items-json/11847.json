@@ -1,0 +1,9 @@
+{
+    "itemId": 11847,
+    "itemName": "Black h'ween mask",
+    "examine": "Aaaarrrghhh, I'm an old-school monster!",
+    "weight": 0.34,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

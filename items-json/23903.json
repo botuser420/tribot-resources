@@ -1,0 +1,15 @@
+{
+    "itemId": 23903,
+    "itemName": "Crystal bow (perfected)",
+    "examine": "A powerful bow formed from crystal and wood.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 172,
+        "rangedStrengthBonus": 138,
+        "prayerBonus": 3,
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

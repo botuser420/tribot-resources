@@ -1,0 +1,11 @@
+{
+    "itemId": 3690,
+    "itemName": "Enchanted lyre",
+    "examine": "A musical instrument that I can magically play.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4
+    }
+}

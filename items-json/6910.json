@@ -1,0 +1,15 @@
+{
+    "itemId": 6910,
+    "itemName": "Apprentice wand",
+    "examine": "An apprentice level wand.",
+    "weight": 0.255,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 10,
+        "magicDefenceBonus": 10,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

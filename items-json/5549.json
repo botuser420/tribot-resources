@@ -1,0 +1,9 @@
+{
+    "itemId": 5549,
+    "itemName": "Blood tiara",
+    "examine": "A tiara infused with the properties of blood.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

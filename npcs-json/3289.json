@@ -1,0 +1,27 @@
+{
+    "npcId": 3289,
+    "name": "Hobgoblin",
+    "hitpoints": 29,
+    "combatLevel": 28,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Hobgoblins",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 29.0,
+    "size": 1,
+    "attackLevel": 22,
+    "strengthLevel": 24,
+    "defenceLevel": 24,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

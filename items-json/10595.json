@@ -1,0 +1,9 @@
+{
+    "itemId": 10595,
+    "itemName": "Clockwork suit",
+    "examine": "A clockwork penguin suit.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

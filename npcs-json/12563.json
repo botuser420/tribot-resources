@@ -1,0 +1,29 @@
+{
+    "npcId": 12563,
+    "name": "Bloodthirsty pyrelord",
+    "hitpoints": 187,
+    "combatLevel": 145,
+    "attackSpeed": 4,
+    "monsterAttribute": "demon",
+    "slayerCategory": "Pyrefiends",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "size": 2,
+    "attackLevel": 147,
+    "strengthLevel": 97,
+    "defenceLevel": 52,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 18,
+    "slashDefenceBonus": 18,
+    "crushDefenceBonus": 18,
+    "rangeDefenceBonus": 18,
+    "lightRangeDefenceBonus": 18,
+    "standardRangeDefenceBonus": 18,
+    "heavyRangeDefenceBonus": 18,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,31 @@
+{
+    "npcId": 12819,
+    "name": "Shockwave Colossus",
+    "hitpoints": 125,
+    "combatLevel": 239,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        56
+    ],
+    "size": 3,
+    "attackLevel": 120,
+    "strengthLevel": 190,
+    "defenceLevel": 150,
+    "magicLevel": 350,
+    "rangedLevel": 220,
+    "magicAttackBonus": 55,
+    "magicDamageBonus": 35,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 5,
+    "rangeDefenceBonus": 35,
+    "lightRangeDefenceBonus": 35,
+    "standardRangeDefenceBonus": 35,
+    "heavyRangeDefenceBonus": 35,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

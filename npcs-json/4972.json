@@ -1,0 +1,21 @@
+{
+    "npcId": 4972,
+    "name": "Khazard commander",
+    "hitpoints": 22,
+    "combatLevel": 48,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 50,
+    "strengthLevel": 45,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

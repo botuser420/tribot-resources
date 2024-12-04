@@ -1,0 +1,35 @@
+{
+    "npcId": 2044,
+    "name": "Zulrah",
+    "hitpoints": 500,
+    "combatLevel": 725,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        41
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 500.0,
+    "size": 5,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 300,
+    "magicLevel": 300,
+    "rangedLevel": 300,
+    "magicAttackBonus": 50,
+    "magicDamageBonus": 20,
+    "rangeAttackBonus": 50,
+    "rangedStrengthBonus": 20,
+    "magicDefenceBonus": 300,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,29 @@
+{
+    "npcId": 5282,
+    "name": "Monkey Zombie",
+    "hitpoints": 90,
+    "combatLevel": 129,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        12
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Monkeys",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 90.0,
+    "size": 1,
+    "attackLevel": 150,
+    "strengthLevel": 110,
+    "defenceLevel": 90,
+    "magicLevel": 90,
+    "rangedLevel": 1,
+    "attackBonus": 35,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

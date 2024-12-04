@@ -1,0 +1,13 @@
+{
+    "itemId": 25916,
+    "itemName": "Dragon hunter crossbow (t)",
+    "examine": "A crossbow used for dragon hunting.",
+    "weight": 7.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 95,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

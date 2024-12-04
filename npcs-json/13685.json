@@ -1,0 +1,36 @@
+{
+    "npcId": 13685,
+    "name": "Amoxliatl",
+    "hitpoints": 520,
+    "combatLevel": 263,
+    "attackSpeed": 8,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        22
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Lesser Nagua",
+    "assignedBy": [
+        "CHAELDAR"
+    ],
+    "slayerExperience": 546.0,
+    "size": 3,
+    "defenceLevel": 80,
+    "magicLevel": 170,
+    "magicAttackBonus": 160,
+    "magicDamageBonus": 15,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 100,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 30,
+    "rangeDefenceBonus": 200,
+    "lightRangeDefenceBonus": 200,
+    "standardRangeDefenceBonus": 200,
+    "heavyRangeDefenceBonus": 200,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

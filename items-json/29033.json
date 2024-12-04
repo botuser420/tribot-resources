@@ -1,0 +1,17 @@
+{
+    "itemId": 29033,
+    "itemName": "Eclipse moon tassets",
+    "examine": "The tassets of the Eclipse Moon.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -15,
+        "rangeAttackBonus": 17,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 37,
+        "magicDefenceBonus": 31,
+        "rangeDefenceBonus": 17,
+        "strengthBonus": 1
+    }
+}

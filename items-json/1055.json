@@ -1,0 +1,10 @@
+{
+    "itemId": 1055,
+    "itemName": "Blue halloween mask",
+    "examine": "Aaaarrrghhh ... I'm a monster.",
+    "weight": 0.34,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

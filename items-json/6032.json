@@ -1,0 +1,7 @@
+{
+    "itemId": 6032,
+    "itemName": "Compost",
+    "examine": "Good for plants, helps them grow.",
+    "weight": 3.0,
+    "buyLimit": 2000
+}

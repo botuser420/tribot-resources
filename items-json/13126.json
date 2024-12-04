@@ -1,0 +1,10 @@
+{
+    "itemId": 13126,
+    "itemName": "Explorer's ring 2",
+    "examine": "A Lumbridge explorer's ring.",
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING",
+        "prayerBonus": 1
+    }
+}

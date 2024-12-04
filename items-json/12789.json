@@ -1,0 +1,7 @@
+{
+    "itemId": 12789,
+    "itemName": "Clue box",
+    "examine": "Protects your clue scroll if you die.",
+    "weight": 0.005,
+    "buyLimit": 50
+}

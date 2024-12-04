@@ -1,0 +1,20 @@
+{
+    "npcId": 9042,
+    "name": "Corrupted Bat",
+    "hitpoints": 14,
+    "combatLevel": 48,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 2,
+    "attackLevel": 36,
+    "strengthLevel": 102,
+    "defenceLevel": 2,
+    "magicLevel": 2,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

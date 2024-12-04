@@ -1,0 +1,20 @@
+{
+    "itemId": 3100,
+    "itemName": "Adamant claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 18,
+        "slashAttackBonus": 23,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 3,
+        "strengthBonus": 24,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

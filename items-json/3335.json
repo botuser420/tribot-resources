@@ -1,0 +1,17 @@
+{
+    "itemId": 3335,
+    "itemName": "Broken bark snelm",
+    "examine": "An orange and bark coloured snail shell helmet.",
+    "weight": 2.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 7
+    }
+}

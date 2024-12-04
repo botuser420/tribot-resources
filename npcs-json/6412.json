@@ -1,0 +1,23 @@
+{
+    "npcId": 6412,
+    "name": "Broodoo victim",
+    "hitpoints": 100,
+    "combatLevel": 60,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "defenceLevel": 26,
+    "magicLevel": 60,
+    "rangedLevel": 1,
+    "magicAttackBonus": 25,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

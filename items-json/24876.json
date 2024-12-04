@@ -1,0 +1,9 @@
+{
+    "itemId": 24876,
+    "itemName": "Carpenter's trousers",
+    "examine": "The trousers of a superior builder.",
+    "weight": 0.71,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

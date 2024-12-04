@@ -1,0 +1,37 @@
+{
+    "npcId": 6916,
+    "name": "Lizardman",
+    "hitpoints": 60,
+    "combatLevel": 62,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        9
+    ],
+    "slayerCategory": "Lizardmen",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 60.0,
+    "size": 1,
+    "attackLevel": 53,
+    "strengthLevel": 53,
+    "defenceLevel": 52,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 28,
+    "strengthBonus": 25,
+    "rangeAttackBonus": 28,
+    "rangedStrengthBonus": 25,
+    "stabDefenceBonus": -20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 5,
+    "lightRangeDefenceBonus": -10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

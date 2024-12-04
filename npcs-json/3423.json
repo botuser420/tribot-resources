@@ -1,0 +1,28 @@
+{
+    "npcId": 3423,
+    "name": "Grizzly bear",
+    "hitpoints": 35,
+    "combatLevel": 42,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Bears",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 35.0,
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 36,
+    "defenceLevel": 35,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

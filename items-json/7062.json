@@ -1,0 +1,7 @@
+{
+    "itemId": 7062,
+    "itemName": "Chilli con carne",
+    "examine": "A bowl of meat in chilli-con-carne sauce.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

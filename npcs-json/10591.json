@@ -1,0 +1,28 @@
+{
+    "npcId": 10591,
+    "name": "Undead Zealot",
+    "hitpoints": 28,
+    "combatLevel": 34,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 28,
+    "strengthLevel": 28,
+    "defenceLevel": 38,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

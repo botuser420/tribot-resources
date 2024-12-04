@@ -1,0 +1,21 @@
+{
+    "npcId": 143,
+    "name": "Rocnar",
+    "hitpoints": 100,
+    "combatLevel": 97,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        12
+    ],
+    "size": 2,
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "attackBonus": 22,
+    "strengthBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 4160,
+    "itemName": "Broad arrows",
+    "examine": "Arrows with a wider than normal tip.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 28
+    }
+}

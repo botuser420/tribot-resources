@@ -1,0 +1,31 @@
+{
+    "npcId": 1798,
+    "name": "White Knight",
+    "hitpoints": 52,
+    "combatLevel": 36,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 27,
+    "strengthLevel": 29,
+    "defenceLevel": 21,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 30,
+    "strengthBonus": 31,
+    "stabDefenceBonus": 83,
+    "slashDefenceBonus": 76,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": -11,
+    "rangeDefenceBonus": 74,
+    "lightRangeDefenceBonus": 74,
+    "standardRangeDefenceBonus": 74,
+    "heavyRangeDefenceBonus": 74,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

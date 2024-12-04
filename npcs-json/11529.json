@@ -1,0 +1,28 @@
+{
+    "npcId": 11529,
+    "name": "Head Menaphite Guard",
+    "hitpoints": 180,
+    "combatLevel": 174,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        16
+    ],
+    "size": 1,
+    "attackLevel": 180,
+    "strengthLevel": 150,
+    "defenceLevel": 150,
+    "magicLevel": 150,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,13 @@
+{
+    "itemId": 19693,
+    "itemName": "Clue hunter trousers",
+    "examine": "A promising pair of trousers.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "LEGS",
+        "rangeAttackBonus": 4,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1
+    }
+}

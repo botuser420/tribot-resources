@@ -1,0 +1,17 @@
+{
+    "npcId": 7288,
+    "name": "Awakened Altar",
+    "hitpoints": 100,
+    "attackSpeed": -1,
+    "maxHits": [
+        0
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

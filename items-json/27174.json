@@ -1,0 +1,12 @@
+{
+    "itemId": 27174,
+    "itemName": "Elder chaos top",
+    "examine": "The robes worn by the dangerous elder druids.",
+    "weight": 0.2,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 10,
+        "magicDefenceBonus": 8,
+        "magicDamageBonus": 1.0
+    }
+}

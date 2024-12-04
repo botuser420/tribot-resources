@@ -1,0 +1,33 @@
+{
+    "npcId": 9021,
+    "name": "Crystalline Hunllef",
+    "hitpoints": 600,
+    "combatLevel": 674,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC",
+        "RANGED"
+    ],
+    "size": 5,
+    "attackLevel": 240,
+    "strengthLevel": 240,
+    "defenceLevel": 240,
+    "magicLevel": 240,
+    "rangedLevel": 240,
+    "attackBonus": 76,
+    "strengthBonus": 64,
+    "magicAttackBonus": 76,
+    "magicDamageBonus": 64,
+    "rangeAttackBonus": 76,
+    "rangedStrengthBonus": 64,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 20,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

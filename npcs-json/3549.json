@@ -1,0 +1,24 @@
+{
+    "npcId": 3549,
+    "name": "Menaphite Thug",
+    "hitpoints": 60,
+    "combatLevel": 55,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 50,
+    "defenceLevel": 20,
+    "attackBonus": 4,
+    "strengthBonus": 9,
+    "stabDefenceBonus": 9,
+    "slashDefenceBonus": 8,
+    "crushDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

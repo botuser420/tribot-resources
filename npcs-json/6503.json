@@ -1,0 +1,39 @@
+{
+    "npcId": 6503,
+    "name": "Callisto",
+    "hitpoints": 255,
+    "combatLevel": 470,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        50,
+        60
+    ],
+    "slayerCategory": "Bears",
+    "assignedBy": [
+        "MAZCHNA",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 312.0,
+    "size": 5,
+    "attackLevel": 350,
+    "strengthLevel": 370,
+    "defenceLevel": 440,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 135,
+    "slashDefenceBonus": 104,
+    "crushDefenceBonus": 175,
+    "magicDefenceBonus": 900,
+    "rangeDefenceBonus": 230,
+    "lightRangeDefenceBonus": 230,
+    "standardRangeDefenceBonus": 230,
+    "heavyRangeDefenceBonus": 230,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

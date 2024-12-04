@@ -1,0 +1,23 @@
+{
+    "npcId": 8996,
+    "name": "Holthion",
+    "hitpoints": 87,
+    "combatLevel": 91,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "monsterAttribute": "demon",
+    "size": 3,
+    "attackLevel": 76,
+    "strengthLevel": 78,
+    "defenceLevel": 77,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

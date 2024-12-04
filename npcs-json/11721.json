@@ -1,0 +1,31 @@
+{
+    "npcId": 11721,
+    "name": "Kephri",
+    "hitpoints": 80,
+    "combatLevel": 341,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        24
+    ],
+    "monsterAttribute": "kalphite",
+    "size": 5,
+    "defenceLevel": 80,
+    "magicLevel": 125,
+    "magicAttackBonus": 125,
+    "magicDamageBonus": 50,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 300,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 200,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 35,
+    "rangeDefenceBonus": 300,
+    "lightRangeDefenceBonus": 300,
+    "standardRangeDefenceBonus": 300,
+    "heavyRangeDefenceBonus": 300,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

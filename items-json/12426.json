@@ -1,0 +1,18 @@
+{
+    "itemId": 12426,
+    "itemName": "3rd age longsword",
+    "examine": "A beautifully crafted sword forged by ancient blacksmiths.",
+    "weight": 1.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 72,
+        "crushAttackBonus": 60,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 75,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

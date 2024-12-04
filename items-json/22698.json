@@ -1,0 +1,9 @@
+{
+    "itemId": 22698,
+    "itemName": "Clown trousers",
+    "examine": "Puffy, stripy and colourful! There's nothing grim about these.",
+    "weight": 0.8,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

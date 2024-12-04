@@ -1,0 +1,30 @@
+{
+    "npcId": 10988,
+    "name": "Barbarian",
+    "hitpoints": 20,
+    "combatLevel": 9,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 6,
+    "strengthLevel": 7,
+    "defenceLevel": 3,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 16,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": -3,
+    "rangeDefenceBonus": 5,
+    "lightRangeDefenceBonus": 5,
+    "standardRangeDefenceBonus": 5,
+    "heavyRangeDefenceBonus": 5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

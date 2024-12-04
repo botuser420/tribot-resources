@@ -1,0 +1,16 @@
+{
+    "npcId": 1738,
+    "name": "Brawler",
+    "hitpoints": 173,
+    "combatLevel": 158,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "size": 2,
+    "attackLevel": 87,
+    "strengthLevel": 157,
+    "defenceLevel": 143,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

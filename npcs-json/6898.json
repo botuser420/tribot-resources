@@ -1,0 +1,24 @@
+{
+    "npcId": 6898,
+    "name": "Gangster",
+    "hitpoints": 50,
+    "combatLevel": 50,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 50,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 35,
+    "strengthBonus": 15,
+    "crushDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

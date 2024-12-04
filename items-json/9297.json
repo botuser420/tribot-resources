@@ -1,0 +1,11 @@
+{
+    "itemId": 9297,
+    "itemName": "Adamant bolts (p+)",
+    "examine": "Some poisoned adamantite bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 100
+    }
+}

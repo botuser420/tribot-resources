@@ -1,0 +1,31 @@
+{
+    "npcId": 4773,
+    "name": "Fortress Guard",
+    "hitpoints": 22,
+    "combatLevel": 20,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 18,
+    "strengthLevel": 18,
+    "defenceLevel": 15,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "strengthBonus": 6,
+    "stabDefenceBonus": 14,
+    "slashDefenceBonus": 18,
+    "crushDefenceBonus": 14,
+    "magicDefenceBonus": -4,
+    "rangeDefenceBonus": 15,
+    "lightRangeDefenceBonus": 15,
+    "standardRangeDefenceBonus": 15,
+    "heavyRangeDefenceBonus": 15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

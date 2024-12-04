@@ -1,0 +1,14 @@
+{
+    "itemId": 26482,
+    "itemName": "Abyssal whip (or)",
+    "examine": "A weapon plucked from the shattered abyss.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 82,
+        "strengthBonus": 82,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "WHIP"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 21326,
+    "itemName": "Amethyst arrow",
+    "examine": "Arrows with amethyst heads.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 55
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "npcId": 12394,
+    "name": "Abyssal walker",
+    "hitpoints": 120,
+    "combatLevel": 90,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 150,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 75,
+    "slashDefenceBonus": 75,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 75,
+    "rangeDefenceBonus": 75,
+    "lightRangeDefenceBonus": 75,
+    "standardRangeDefenceBonus": 75,
+    "heavyRangeDefenceBonus": 75,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,29 @@
+{
+    "npcId": 11716,
+    "name": "Volatile Baboon",
+    "hitpoints": 8,
+    "combatLevel": 72,
+    "attackSpeed": 4,
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 20,
+    "magicLevel": 60,
+    "rangedLevel": 60,
+    "attackBonus": 25,
+    "magicAttackBonus": 25,
+    "rangeAttackBonus": 25,
+    "stabDefenceBonus": 900,
+    "slashDefenceBonus": 900,
+    "crushDefenceBonus": 900,
+    "magicDefenceBonus": -60,
+    "rangeDefenceBonus": -50,
+    "lightRangeDefenceBonus": -50,
+    "standardRangeDefenceBonus": -50,
+    "heavyRangeDefenceBonus": -50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

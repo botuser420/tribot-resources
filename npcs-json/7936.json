@@ -1,0 +1,45 @@
+{
+    "npcId": 7936,
+    "name": "Revenant demon",
+    "hitpoints": 80,
+    "combatLevel": 98,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        15
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Revenants",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 86.0,
+    "size": 3,
+    "attackLevel": 83,
+    "strengthLevel": 76,
+    "defenceLevel": 80,
+    "magicLevel": 120,
+    "rangedLevel": 80,
+    "attackBonus": 30,
+    "strengthBonus": 50,
+    "magicAttackBonus": 50,
+    "magicDamageBonus": 24,
+    "rangeAttackBonus": 40,
+    "rangedStrengthBonus": 30,
+    "stabDefenceBonus": 124,
+    "slashDefenceBonus": 118,
+    "crushDefenceBonus": 130,
+    "magicDefenceBonus": 85,
+    "rangeDefenceBonus": 90,
+    "lightRangeDefenceBonus": 90,
+    "standardRangeDefenceBonus": 90,
+    "heavyRangeDefenceBonus": 90,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

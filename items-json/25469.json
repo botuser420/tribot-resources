@@ -1,0 +1,9 @@
+{
+    "itemId": 25469,
+    "itemName": "Open bronze coffin",
+    "examine": "Can store up to 3 shade remains.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

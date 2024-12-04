@@ -1,0 +1,21 @@
+{
+    "npcId": 1072,
+    "name": "Hopeless creature",
+    "hitpoints": 25,
+    "combatLevel": 40,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 2,
+    "attackLevel": 38,
+    "strengthLevel": 36,
+    "defenceLevel": 39,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 7064,
+    "itemName": "Egg and tomato",
+    "examine": "A bowl of scrambled eggs and tomato.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

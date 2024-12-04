@@ -1,0 +1,27 @@
+{
+    "npcId": 7035,
+    "name": "Reanimated TzHaar",
+    "hitpoints": 35,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        15
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 35.0,
+    "size": 1,
+    "attackLevel": 120,
+    "strengthLevel": 140,
+    "defenceLevel": 120,
+    "magicLevel": 40,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

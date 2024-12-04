@@ -1,0 +1,33 @@
+{
+    "npcId": 3127,
+    "name": "TzTok-Jad",
+    "hitpoints": 250,
+    "combatLevel": 702,
+    "attackSpeed": 8,
+    "attackStyles": [
+        "STAB",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        97,
+        97,
+        95
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 25250.0,
+    "size": 5,
+    "attackLevel": 640,
+    "strengthLevel": 960,
+    "defenceLevel": 480,
+    "magicLevel": 480,
+    "rangedLevel": 960,
+    "magicAttackBonus": 60,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

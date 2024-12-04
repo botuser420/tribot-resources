@@ -1,0 +1,25 @@
+{
+    "npcId": 7019,
+    "name": "Reanimated monkey",
+    "hitpoints": 5,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Monkeys",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 5.0,
+    "size": 1,
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 3,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

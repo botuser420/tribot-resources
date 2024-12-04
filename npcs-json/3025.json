@@ -1,0 +1,34 @@
+{
+    "npcId": 3025,
+    "name": "Poison Scorpion",
+    "hitpoints": 23,
+    "combatLevel": 20,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 23.0,
+    "size": 2,
+    "attackLevel": 16,
+    "strengthLevel": 17,
+    "defenceLevel": 15,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "rangeDefenceBonus": 5,
+    "lightRangeDefenceBonus": 5,
+    "standardRangeDefenceBonus": 5,
+    "heavyRangeDefenceBonus": 5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 109,
+    "itemName": "Dwarf weed potion (unf)",
+    "examine": "I need another ingredient to finish this Dwarf Weed potion.",
+    "weight": 0.056,
+    "buyLimit": 10000
+}

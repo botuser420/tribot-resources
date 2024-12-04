@@ -1,0 +1,11 @@
+{
+    "itemId": 19490,
+    "itemName": "Dragon javelin(p++)",
+    "examine": "A dragon tipped javelin.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 150
+    }
+}

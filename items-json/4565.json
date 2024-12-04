@@ -1,0 +1,16 @@
+{
+    "itemId": 4565,
+    "itemName": "Easter basket",
+    "examine": "A holiday gift from the Easter Bunny.",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

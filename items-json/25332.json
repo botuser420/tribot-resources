@@ -1,0 +1,9 @@
+{
+    "itemId": 25332,
+    "itemName": "20th anniversary necklace",
+    "examine": "Celebrating the 20th Anniversary of RuneScape.",
+    "weight": 0.141,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

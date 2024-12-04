@@ -1,0 +1,18 @@
+{
+    "itemId": 278,
+    "itemName": "Cattleprod",
+    "examine": "A sharp cattleprod.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 3,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

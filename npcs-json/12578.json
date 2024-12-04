@@ -1,0 +1,26 @@
+{
+    "npcId": 12578,
+    "name": "Bloodthirsty gargoyle",
+    "hitpoints": 270,
+    "combatLevel": 349,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH",
+        "RANGED"
+    ],
+    "slayerCategory": "Gargoyles",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 3,
+    "attackLevel": 230,
+    "strengthLevel": 250,
+    "defenceLevel": 190,
+    "magicLevel": 1,
+    "rangedLevel": 220,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

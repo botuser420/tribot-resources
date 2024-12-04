@@ -1,0 +1,17 @@
+{
+    "itemId": 12219,
+    "itemName": "Bronze plateskirt (t)",
+    "examine": "Bronze plateskirt with trim.",
+    "weight": 8.164,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 7
+    }
+}

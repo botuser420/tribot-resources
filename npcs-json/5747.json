@@ -1,0 +1,22 @@
+{
+    "npcId": 5747,
+    "name": "Penance Fighter",
+    "hitpoints": 56,
+    "combatLevel": 77,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "monsterAttribute": "penance",
+    "size": 1,
+    "attackLevel": 71,
+    "strengthLevel": 73,
+    "defenceLevel": 66,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

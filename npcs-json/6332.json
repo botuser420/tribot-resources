@@ -1,0 +1,34 @@
+{
+    "npcId": 6332,
+    "name": "Count Draynor (hard)",
+    "hitpoints": 223,
+    "combatLevel": 177,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        17
+    ],
+    "monsterAttribute": "vampyre1",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 210.0,
+    "size": 1,
+    "attackLevel": 198,
+    "strengthLevel": 165,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 2,
+    "slashDefenceBonus": 1,
+    "crushDefenceBonus": 3,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

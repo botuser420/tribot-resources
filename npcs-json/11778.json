@@ -1,0 +1,30 @@
+{
+    "npcId": 11778,
+    "name": "Ba-Ba",
+    "hitpoints": 380,
+    "combatLevel": 359,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED",
+        "CRUSH"
+    ],
+    "maxHits": [
+        24
+    ],
+    "size": 5,
+    "attackLevel": 150,
+    "strengthLevel": 160,
+    "defenceLevel": 80,
+    "magicLevel": 100,
+    "strengthBonus": 26,
+    "stabDefenceBonus": 80,
+    "slashDefenceBonus": 160,
+    "crushDefenceBonus": 240,
+    "magicDefenceBonus": 280,
+    "rangeDefenceBonus": 200,
+    "lightRangeDefenceBonus": 200,
+    "standardRangeDefenceBonus": 200,
+    "heavyRangeDefenceBonus": 120,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

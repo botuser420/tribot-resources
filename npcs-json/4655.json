@@ -1,0 +1,21 @@
+{
+    "npcId": 4655,
+    "name": "Bedabin Nomad Fighter",
+    "hitpoints": 50,
+    "combatLevel": 56,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 50,
+    "defenceLevel": 60,
+    "attackBonus": 9,
+    "strengthBonus": 14,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

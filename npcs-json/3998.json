@@ -1,0 +1,21 @@
+{
+    "npcId": 3998,
+    "name": "Witch's experiment (third form)",
+    "hitpoints": 41,
+    "combatLevel": 42,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 2,
+    "attackLevel": 38,
+    "strengthLevel": 30,
+    "defenceLevel": 39,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

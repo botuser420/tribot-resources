@@ -1,0 +1,11 @@
+{
+    "itemId": 6126,
+    "itemName": "Enchanted lyre(3)",
+    "examine": "This will teleport me to the Fremennik province when I play it.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4
+    }
+}

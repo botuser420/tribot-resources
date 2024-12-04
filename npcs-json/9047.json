@@ -1,0 +1,23 @@
+{
+    "npcId": 9047,
+    "name": "Corrupted Dragon",
+    "hitpoints": 100,
+    "combatLevel": 258,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        48
+    ],
+    "size": 4,
+    "attackLevel": 147,
+    "strengthLevel": 147,
+    "defenceLevel": 98,
+    "magicLevel": 98,
+    "rangedLevel": 147,
+    "magicAttackBonus": 146,
+    "magicDamageBonus": 226,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

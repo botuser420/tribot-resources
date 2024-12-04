@@ -1,0 +1,9 @@
+{
+    "itemId": 22701,
+    "itemName": "Clown shoes",
+    "examine": "Great for floating.",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "npcId": 9031,
+    "name": "Crystalline Wolf",
+    "hitpoints": 52,
+    "combatLevel": 74,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 2,
+    "attackLevel": 106,
+    "strengthLevel": 66,
+    "defenceLevel": 22,
+    "magicLevel": 22,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

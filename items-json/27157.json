@@ -1,0 +1,14 @@
+{
+    "itemId": 27157,
+    "itemName": "Dragon knife",
+    "examine": "A finely balanced and powerful throwing knife.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 28,
+        "rangedStrengthBonus": 30,
+        "weaponAttackRange": 4,
+        "weaponAttackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

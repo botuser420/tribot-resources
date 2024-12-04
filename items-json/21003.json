@@ -1,0 +1,16 @@
+{
+    "itemId": 21003,
+    "itemName": "Elder maul",
+    "examine": "A maul crafted from the component parts of Tekton.",
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 135,
+        "magicAttackBonus": -4,
+        "strengthBonus": 147,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

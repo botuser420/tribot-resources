@@ -1,0 +1,10 @@
+{
+    "itemId": 9139,
+    "itemName": "Blurite bolts",
+    "examine": "Blurite crossbow bolts.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 28
+    }
+}

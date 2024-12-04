@@ -1,0 +1,7 @@
+{
+    "itemId": 13153,
+    "itemName": "Book of balance page set",
+    "examine": "A set containing the four pages of Guthix's Book of Balance.",
+    "weight": 0.05,
+    "buyLimit": 5
+}

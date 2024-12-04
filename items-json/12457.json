@@ -1,0 +1,12 @@
+{
+    "itemId": 12457,
+    "itemName": "Dark infinity hat",
+    "examine": "A mystic hat with a dark recolour.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 6,
+        "magicDefenceBonus": 6,
+        "magicDamageBonus": 1.0
+    }
+}

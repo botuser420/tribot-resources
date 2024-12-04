@@ -1,0 +1,28 @@
+{
+    "npcId": 2189,
+    "name": "Tz-Kih",
+    "hitpoints": 10,
+    "combatLevel": 22,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 10.0,
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 30,
+    "defenceLevel": 15,
+    "magicLevel": 15,
+    "rangedLevel": 30,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 19924,
+    "itemName": "Bandos d'hide boots",
+    "examine": "Bandos blessed dragonhide boots.",
+    "weight": 1.4,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 7,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 4,
+        "prayerBonus": 1
+    }
+}

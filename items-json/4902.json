@@ -1,0 +1,10 @@
+{
+    "itemId": 4902,
+    "itemName": "Dharok's platelegs 0",
+    "examine": "Dharok the Wretched's plate leg armour.",
+    "weight": 9.071,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

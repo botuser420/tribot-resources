@@ -1,0 +1,29 @@
+{
+    "npcId": 10692,
+    "name": "Rubble",
+    "hitpoints": 60,
+    "combatLevel": 50,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 2,
+    "attackLevel": 33,
+    "strengthLevel": 43,
+    "defenceLevel": 45,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 28,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "magicDefenceBonus": 2,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

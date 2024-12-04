@@ -1,0 +1,11 @@
+{
+    "itemId": 22230,
+    "itemName": "Barbed arrow",
+    "examine": "Arrows with barbed heads.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangeAttackBonus": 46,
+        "rangedStrengthBonus": 125
+    }
+}

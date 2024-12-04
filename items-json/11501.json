@@ -1,0 +1,7 @@
+{
+    "itemId": 11501,
+    "itemName": "Antidote+ mix(2)",
+    "examine": "Two doses of fishy extra strength antidote potion.",
+    "weight": 0.075,
+    "buyLimit": 2000
+}

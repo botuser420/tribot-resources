@@ -1,0 +1,30 @@
+{
+    "npcId": 3132,
+    "name": "Balfrug Kreeyath",
+    "hitpoints": 161,
+    "combatLevel": 151,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        16
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Black Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 161.0,
+    "size": 3,
+    "attackLevel": 115,
+    "strengthLevel": 60,
+    "defenceLevel": 153,
+    "magicLevel": 150,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

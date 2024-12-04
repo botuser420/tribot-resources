@@ -1,0 +1,39 @@
+{
+    "npcId": 5889,
+    "name": "Abyssal Sire",
+    "hitpoints": 400,
+    "combatLevel": 350,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        66,
+        96
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 6,
+    "attackLevel": 180,
+    "strengthLevel": 136,
+    "defenceLevel": 250,
+    "magicLevel": 200,
+    "rangedLevel": 1,
+    "attackBonus": 65,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 20,
+    "rangeDefenceBonus": 60,
+    "lightRangeDefenceBonus": 60,
+    "standardRangeDefenceBonus": 60,
+    "heavyRangeDefenceBonus": 60,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

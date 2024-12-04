@@ -1,0 +1,16 @@
+{
+    "itemId": 27193,
+    "itemName": "Ancestral robe top",
+    "examine": "The robe top of a powerful sorceress from a bygone era.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 35,
+        "rangeAttackBonus": -8,
+        "stabDefenceBonus": 42,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 51,
+        "magicDefenceBonus": 28,
+        "magicDamageBonus": 3.0
+    }
+}

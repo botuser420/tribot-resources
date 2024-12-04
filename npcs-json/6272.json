@@ -1,0 +1,25 @@
+{
+    "npcId": 6272,
+    "name": "Large mosquito",
+    "hitpoints": 3,
+    "combatLevel": 13,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 5,
+    "strengthLevel": 1,
+    "defenceLevel": 45,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 2,
+    "slashDefenceBonus": 2,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 2,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,37 @@
+{
+    "npcId": 7251,
+    "name": "Fire giant",
+    "hitpoints": 150,
+    "combatLevel": 109,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        13
+    ],
+    "monsterAttribute": "fiery",
+    "slayerCategory": "Fire Giants",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 153.5,
+    "size": 2,
+    "attackLevel": 90,
+    "strengthLevel": 80,
+    "defenceLevel": 65,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 29,
+    "strengthBonus": 31,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 2,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 100,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 12449,
+    "itemName": "Black wizard robe (g)",
+    "examine": "I can do magic better in this.",
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

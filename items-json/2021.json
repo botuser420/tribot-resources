@@ -1,0 +1,7 @@
+{
+    "itemId": 2021,
+    "itemName": "Brandy",
+    "examine": "A strong spirit best served in a large glass.",
+    "weight": 1.0,
+    "buyLimit": 13000
+}

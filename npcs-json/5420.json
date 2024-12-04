@@ -1,0 +1,29 @@
+{
+    "npcId": 5420,
+    "name": "Watchman",
+    "hitpoints": 22,
+    "combatLevel": 33,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 31,
+    "strengthLevel": 31,
+    "defenceLevel": 31,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 24,
+    "slashDefenceBonus": 14,
+    "crushDefenceBonus": 19,
+    "magicDefenceBonus": -4,
+    "rangeDefenceBonus": 16,
+    "lightRangeDefenceBonus": 16,
+    "standardRangeDefenceBonus": 16,
+    "heavyRangeDefenceBonus": 16,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

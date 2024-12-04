@@ -1,0 +1,21 @@
+{
+    "npcId": 5629,
+    "name": "Giant snail",
+    "hitpoints": 150,
+    "combatLevel": 109,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        13
+    ],
+    "size": 3,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 75,
+    "magicLevel": 30,
+    "rangedLevel": 110,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

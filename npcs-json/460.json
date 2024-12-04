@@ -1,0 +1,34 @@
+{
+    "npcId": 460,
+    "name": "Desert Lizard",
+    "hitpoints": 25,
+    "combatLevel": 24,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Lizards",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 25.0,
+    "size": 2,
+    "attackLevel": 20,
+    "strengthLevel": 22,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "rangeDefenceBonus": 5,
+    "lightRangeDefenceBonus": 5,
+    "standardRangeDefenceBonus": 5,
+    "heavyRangeDefenceBonus": 5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

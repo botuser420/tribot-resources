@@ -1,0 +1,17 @@
+{
+    "itemId": 20243,
+    "itemName": "Crier bell",
+    "examine": "For whom?",
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

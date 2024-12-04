@@ -1,0 +1,21 @@
+{
+    "npcId": 3544,
+    "name": "Snake",
+    "hitpoints": 6,
+    "combatLevel": 5,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 4,
+    "strengthLevel": 5,
+    "defenceLevel": 3,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

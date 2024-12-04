@@ -1,0 +1,14 @@
+{
+    "itemId": 3093,
+    "itemName": "Black dart",
+    "examine": "A deadly throwing dart with a black tip.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedStrengthBonus": 6,
+        "weaponAttackRange": 3,
+        "weaponAttackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

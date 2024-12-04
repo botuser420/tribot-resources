@@ -1,0 +1,30 @@
+{
+    "npcId": 2169,
+    "name": "TzHaar-Xil",
+    "hitpoints": 120,
+    "combatLevel": 133,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        11,
+        16
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 120.0,
+    "size": 1,
+    "attackLevel": 140,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "magicLevel": 40,
+    "rangedLevel": 120,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

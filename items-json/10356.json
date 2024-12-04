@@ -1,0 +1,21 @@
+{
+    "itemId": 10356,
+    "itemName": "Amulet of glory (t3)",
+    "examine": "A very powerful dragonstone amulet.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": 10,
+        "rangeAttackBonus": 10,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 3,
+        "strengthBonus": 6,
+        "prayerBonus": 3
+    }
+}

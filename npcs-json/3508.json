@@ -1,0 +1,21 @@
+{
+    "npcId": 3508,
+    "name": "Bouncer",
+    "hitpoints": 120,
+    "combatLevel": 160,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        15
+    ],
+    "size": 2,
+    "attackLevel": 145,
+    "strengthLevel": 145,
+    "defenceLevel": 145,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

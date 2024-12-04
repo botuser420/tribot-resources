@@ -1,0 +1,33 @@
+{
+    "npcId": 4135,
+    "name": "Thrower troll",
+    "hitpoints": 95,
+    "combatLevel": 68,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 95.0,
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 95,
+    "defenceLevel": 15,
+    "rangedLevel": 60,
+    "magicDefenceBonus": 200,
+    "rangeDefenceBonus": 200,
+    "lightRangeDefenceBonus": 200,
+    "standardRangeDefenceBonus": 200,
+    "heavyRangeDefenceBonus": 200,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

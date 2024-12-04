@@ -1,0 +1,32 @@
+{
+    "npcId": 299,
+    "name": "Gunthor the brave",
+    "hitpoints": 35,
+    "combatLevel": 29,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerExperience": 35.0,
+    "size": 1,
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 8,
+    "strengthBonus": 13,
+    "stabDefenceBonus": 12,
+    "slashDefenceBonus": 14,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": -1,
+    "rangeDefenceBonus": 11,
+    "lightRangeDefenceBonus": 11,
+    "standardRangeDefenceBonus": 11,
+    "heavyRangeDefenceBonus": 11,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

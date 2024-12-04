@@ -1,0 +1,39 @@
+{
+    "npcId": 6615,
+    "name": "Scorpia",
+    "hitpoints": 200,
+    "combatLevel": 225,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        16
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "MAZCHNA",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 260.0,
+    "size": 5,
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 180,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 60,
+    "stabDefenceBonus": 246,
+    "slashDefenceBonus": 284,
+    "crushDefenceBonus": 284,
+    "magicDefenceBonus": 44,
+    "rangeDefenceBonus": 284,
+    "lightRangeDefenceBonus": 284,
+    "standardRangeDefenceBonus": 284,
+    "heavyRangeDefenceBonus": 284,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

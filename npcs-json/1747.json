@@ -1,0 +1,17 @@
+{
+    "npcId": 1747,
+    "name": "Portal",
+    "hitpoints": 200,
+    "attackSpeed": -1,
+    "maxHits": [
+        0
+    ],
+    "size": 3,
+    "defenceLevel": 120,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 100,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

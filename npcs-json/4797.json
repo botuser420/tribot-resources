@@ -1,0 +1,29 @@
+{
+    "npcId": 4797,
+    "name": "Slug Prince",
+    "hitpoints": 70,
+    "combatLevel": 62,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 2,
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 99,
+    "rangeDefenceBonus": 99,
+    "lightRangeDefenceBonus": 99,
+    "standardRangeDefenceBonus": 99,
+    "heavyRangeDefenceBonus": 99,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

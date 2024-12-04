@@ -1,0 +1,38 @@
+{
+    "npcId": 7868,
+    "name": "Green dragon",
+    "hitpoints": 100,
+    "combatLevel": 88,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8,
+        50
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Green Dragons",
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 100.0,
+    "size": 4,
+    "attackLevel": 68,
+    "strengthLevel": 75,
+    "defenceLevel": 68,
+    "magicLevel": 75,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 30,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 50,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

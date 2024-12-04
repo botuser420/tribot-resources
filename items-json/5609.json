@@ -1,0 +1,9 @@
+{
+    "itemId": 5609,
+    "itemName": "Chicken",
+    "examine": "He'd be easier to carry if I cooked and ate him first...",
+    "weight": 5.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "npcId": 4248,
+    "name": "Head Thief",
+    "hitpoints": 37,
+    "combatLevel": 26,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 24,
+    "strengthLevel": 18,
+    "defenceLevel": 16,
+    "rangedLevel": 2,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 8,
+    "slashDefenceBonus": 14,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 4,
+    "rangeDefenceBonus": 9,
+    "lightRangeDefenceBonus": 9,
+    "standardRangeDefenceBonus": 9,
+    "heavyRangeDefenceBonus": 9,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

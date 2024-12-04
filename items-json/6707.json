@@ -1,0 +1,9 @@
+{
+    "itemId": 6707,
+    "itemName": "Camulet",
+    "examine": "An amulet of Camel-speak. It makes vague braying noises.",
+    "weight": 0.007,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

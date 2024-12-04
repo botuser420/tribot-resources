@@ -1,0 +1,9 @@
+{
+    "itemId": 25539,
+    "itemName": "Celestial ring (uncharged)",
+    "examine": "A ring forged in the heart of a shooting star. It provides some useful mining boosts.",
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING"
+    }
+}

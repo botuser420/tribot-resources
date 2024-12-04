@@ -1,0 +1,25 @@
+{
+    "npcId": 5353,
+    "name": "Nazastarool",
+    "hitpoints": 70,
+    "combatLevel": 91,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 70.0,
+    "size": 2,
+    "attackLevel": 85,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

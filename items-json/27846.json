@@ -1,0 +1,20 @@
+{
+    "itemId": 27846,
+    "itemName": "Corrupted statius's platelegs (bh)",
+    "examine": "A powerful pair of platelegs.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": 1,
+        "slashAttackBonus": 1,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": -26,
+        "rangeAttackBonus": -13,
+        "stabDefenceBonus": 25,
+        "slashDefenceBonus": 23,
+        "crushDefenceBonus": 21,
+        "magicDefenceBonus": -10,
+        "rangeDefenceBonus": 22,
+        "strengthBonus": 2
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "npcId": 519,
+    "name": "Highwayman",
+    "hitpoints": 13,
+    "combatLevel": 5,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 4,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 6,
+    "strengthBonus": 7,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 2,
+    "rangeDefenceBonus": 2,
+    "lightRangeDefenceBonus": 2,
+    "standardRangeDefenceBonus": 2,
+    "heavyRangeDefenceBonus": 2,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

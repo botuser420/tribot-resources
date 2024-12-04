@@ -1,0 +1,17 @@
+{
+    "itemId": 25497,
+    "itemName": "Crystal legs (beta)",
+    "examine": "A bright, shiny set of leg armour.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -12,
+        "rangeAttackBonus": 17,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": 34,
+        "rangeDefenceBonus": 29,
+        "prayerBonus": 2
+    }
+}

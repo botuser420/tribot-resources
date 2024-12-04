@@ -1,0 +1,30 @@
+{
+    "npcId": 13773,
+    "name": "Emissary Brawler",
+    "hitpoints": 35,
+    "combatLevel": 74,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 90,
+    "strengthLevel": 50,
+    "defenceLevel": 70,
+    "magicLevel": 15,
+    "rangedLevel": 1,
+    "attackBonus": 40,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 5,
+    "rangeDefenceBonus": 30,
+    "lightRangeDefenceBonus": 30,
+    "standardRangeDefenceBonus": 30,
+    "heavyRangeDefenceBonus": 30,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

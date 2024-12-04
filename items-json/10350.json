@@ -1,0 +1,17 @@
+{
+    "itemId": 10350,
+    "itemName": "3rd age full helmet",
+    "examine": "Fabulously ancient armour beaten from magical silver.",
+    "weight": 0.907,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -5,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 47,
+        "slashDefenceBonus": 49,
+        "crushDefenceBonus": 43,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 48
+    }
+}

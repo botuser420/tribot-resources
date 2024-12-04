@@ -1,0 +1,20 @@
+{
+    "itemId": 7454,
+    "itemName": "Bronze gloves",
+    "examine": "A pair of gloves.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 2,
+        "magicAttackBonus": 1,
+        "rangeAttackBonus": 2,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 2,
+        "strengthBonus": 2
+    }
+}

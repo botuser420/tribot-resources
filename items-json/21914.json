@@ -1,0 +1,16 @@
+{
+    "itemId": 21914,
+    "itemName": "Ava's assembler (broken)",
+    "examine": "A broken Ava's Assembler.",
+    "weight": 5.896,
+    "equipment": {
+        "slot": "CAPE",
+        "rangeAttackBonus": 8,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 2,
+        "rangedStrengthBonus": 2
+    }
+}

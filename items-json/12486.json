@@ -1,0 +1,18 @@
+{
+    "itemId": 12486,
+    "itemName": "Bandos full helm",
+    "examine": "Rune full helmet in the colours of Bandos.",
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30,
+        "prayerBonus": 1
+    }
+}

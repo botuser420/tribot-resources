@@ -1,0 +1,14 @@
+{
+    "itemId": 23852,
+    "itemName": "Corrupted staff (basic)",
+    "examine": "A basic staff of corrupted crystal.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 84,
+        "prayerBonus": 1,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

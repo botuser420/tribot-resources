@@ -1,0 +1,9 @@
+{
+    "itemId": 21900,
+    "itemName": "Assembler max hood",
+    "examine": "The hood worn by only the most experienced players.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

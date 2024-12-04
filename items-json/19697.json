@@ -1,0 +1,12 @@
+{
+    "itemId": 19697,
+    "itemName": "Clue hunter cloak",
+    "examine": "Winter is coming.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

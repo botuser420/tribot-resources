@@ -1,0 +1,27 @@
+{
+    "npcId": 7271,
+    "name": "Cyclops",
+    "hitpoints": 75,
+    "combatLevel": 56,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Hill Giants",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 75.0,
+    "size": 2,
+    "attackLevel": 47,
+    "strengthLevel": 50,
+    "defenceLevel": 26,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,26 @@
+{
+    "npcId": 13011,
+    "name": "Blood Moon",
+    "hitpoints": 500,
+    "combatLevel": 329,
+    "attackSpeed": 6,
+    "maxHits": [
+        20
+    ],
+    "size": 5,
+    "attackLevel": 258,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "magicLevel": 100,
+    "rangedLevel": 1,
+    "attackBonus": 100,
+    "stabDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 500,
+    "rangeDefenceBonus": 500,
+    "lightRangeDefenceBonus": 500,
+    "standardRangeDefenceBonus": 500,
+    "heavyRangeDefenceBonus": 500,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 10336,
+    "itemName": "3rd age vambraces",
+    "examine": "Fabulously ancient range protection crafted from white dragonhide.",
+    "weight": 1.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 11,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 9
+    }
+}

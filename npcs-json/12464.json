@@ -1,0 +1,36 @@
+{
+    "npcId": 12464,
+    "name": "Mutated Terrorbird",
+    "hitpoints": 320,
+    "combatLevel": 178,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "CRUSH"
+    ],
+    "maxHits": [
+        16
+    ],
+    "slayerCategory": "Warped Creatures",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 3200.0,
+    "size": 3,
+    "attackLevel": 90,
+    "strengthLevel": 150,
+    "defenceLevel": 40,
+    "magicLevel": 110,
+    "rangedLevel": 75,
+    "rangeAttackBonus": 400,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "rangeDefenceBonus": 62,
+    "lightRangeDefenceBonus": 62,
+    "standardRangeDefenceBonus": 62,
+    "heavyRangeDefenceBonus": 62,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

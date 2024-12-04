@@ -1,0 +1,31 @@
+{
+    "npcId": 7527,
+    "name": "Vanguard",
+    "hitpoints": 280,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        27
+    ],
+    "monsterAttribute": "xerician",
+    "size": 3,
+    "attackLevel": 225,
+    "strengthLevel": 225,
+    "defenceLevel": 240,
+    "magicLevel": 225,
+    "rangedLevel": 225,
+    "attackBonus": 20,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 150,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150,
+    "magicDefenceBonus": 20,
+    "rangeDefenceBonus": 400,
+    "lightRangeDefenceBonus": 400,
+    "standardRangeDefenceBonus": 400,
+    "heavyRangeDefenceBonus": 400,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,22 @@
+{
+    "npcId": 5762,
+    "name": "Penance Ranger",
+    "hitpoints": 50,
+    "combatLevel": 51,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        6
+    ],
+    "monsterAttribute": "penance",
+    "size": 1,
+    "attackLevel": 51,
+    "strengthLevel": 1,
+    "defenceLevel": 54,
+    "magicLevel": 1,
+    "rangedLevel": 52,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

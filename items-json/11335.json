@@ -1,0 +1,17 @@
+{
+    "itemId": 11335,
+    "itemName": "Dragon full helm",
+    "examine": "Protects your head and looks impressive too.",
+    "weight": 2.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 45,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 41,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 46
+    }
+}

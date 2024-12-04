@@ -1,0 +1,37 @@
+{
+    "npcId": 801,
+    "name": "Locust rider",
+    "hitpoints": 90,
+    "combatLevel": 68,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        22
+    ],
+    "monsterAttribute": "kalphite",
+    "slayerCategory": "Scabarites",
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "slayerExperience": 92.5,
+    "size": 2,
+    "attackLevel": 105,
+    "strengthLevel": 90,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 90,
+    "rangeAttackBonus": 80,
+    "rangedStrengthBonus": 80,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 90,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 34,
+    "rangeDefenceBonus": 66,
+    "lightRangeDefenceBonus": 66,
+    "standardRangeDefenceBonus": 66,
+    "heavyRangeDefenceBonus": 66,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

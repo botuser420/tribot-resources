@@ -1,0 +1,26 @@
+{
+    "npcId": 12573,
+    "name": "Bloodthirsty spectre",
+    "hitpoints": 250,
+    "combatLevel": 253,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Aberrant Spectres",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 3,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 180,
+    "magicLevel": 300,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

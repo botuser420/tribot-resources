@@ -1,0 +1,17 @@
+{
+    "itemId": 10129,
+    "itemName": "Barb-tail harpoon",
+    "examine": "A mighty Hunter weapon. One previous owner.",
+    "weight": 1.36,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 9,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": -4,
+        "strengthBonus": 6,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

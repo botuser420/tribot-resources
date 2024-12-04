@@ -1,0 +1,27 @@
+{
+    "npcId": 4522,
+    "name": "Guard",
+    "hitpoints": 30,
+    "combatLevel": 22,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 16,
+    "strengthLevel": 20,
+    "defenceLevel": 12,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 7,
+    "slashDefenceBonus": 7,
+    "rangeDefenceBonus": 7,
+    "lightRangeDefenceBonus": 7,
+    "standardRangeDefenceBonus": 7,
+    "heavyRangeDefenceBonus": 7,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

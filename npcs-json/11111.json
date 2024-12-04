@@ -1,0 +1,29 @@
+{
+    "npcId": 11111,
+    "name": "Dark warrior",
+    "hitpoints": 50,
+    "combatLevel": 37,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Dark Warriors",
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 20,
+    "magicLevel": 10,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 40,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

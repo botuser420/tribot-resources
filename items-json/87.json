@@ -1,0 +1,9 @@
+{
+    "itemId": 87,
+    "itemName": "Armadyl pendant",
+    "examine": "Worn by followers of Armadyl.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

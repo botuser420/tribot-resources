@@ -1,0 +1,22 @@
+{
+    "npcId": 5139,
+    "name": "Sigmund",
+    "hitpoints": 70,
+    "combatLevel": 64,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 55,
+    "strengthLevel": 55,
+    "defenceLevel": 44,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicAttackBonus": 8,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

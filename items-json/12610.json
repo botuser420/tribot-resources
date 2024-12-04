@@ -1,0 +1,11 @@
+{
+    "itemId": 12610,
+    "itemName": "Book of law",
+    "examine": "The book of Armadyl's Law.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "rangeAttackBonus": 10,
+        "prayerBonus": 5
+    }
+}

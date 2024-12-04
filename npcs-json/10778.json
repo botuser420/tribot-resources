@@ -1,0 +1,24 @@
+{
+    "npcId": 10778,
+    "name": "Nylocas Toxobolos",
+    "hitpoints": 3,
+    "combatLevel": 82,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 2,
+    "attackLevel": 100,
+    "strengthLevel": 90,
+    "defenceLevel": 6,
+    "magicLevel": 6,
+    "rangedLevel": 100,
+    "magicAttackBonus": 400,
+    "magicDamageBonus": 360,
+    "rangedStrengthBonus": -6,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

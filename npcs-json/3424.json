@@ -1,0 +1,27 @@
+{
+    "npcId": 3424,
+    "name": "Grizzly bear cub",
+    "hitpoints": 35,
+    "combatLevel": 33,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Bears",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 35.0,
+    "size": 2,
+    "attackLevel": 30,
+    "strengthLevel": 26,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

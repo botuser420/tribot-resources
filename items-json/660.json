@@ -1,0 +1,12 @@
+{
+    "itemId": 660,
+    "itemName": "Blue hat",
+    "examine": "A silly blue pointed hat.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

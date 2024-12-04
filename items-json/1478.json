@@ -1,0 +1,15 @@
+{
+    "itemId": 1478,
+    "itemName": "Amulet of accuracy",
+    "examine": "It increases my aim.",
+    "weight": 0.01,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 4,
+        "rangeAttackBonus": 4
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "npcId": 3963,
+    "name": "Viyeldi",
+    "hitpoints": 80,
+    "combatLevel": 79,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 62,
+    "strengthLevel": 66,
+    "defenceLevel": 70,
+    "attackBonus": 7,
+    "strengthBonus": 3,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

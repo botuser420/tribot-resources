@@ -1,0 +1,26 @@
+{
+    "npcId": 3520,
+    "name": "Sir Gawain",
+    "hitpoints": 110,
+    "combatLevel": 122,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        19
+    ],
+    "size": 1,
+    "attackLevel": 110,
+    "strengthLevel": 105,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 40,
+    "strengthBonus": 45,
+    "stabDefenceBonus": 65,
+    "slashDefenceBonus": 90,
+    "crushDefenceBonus": 300,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

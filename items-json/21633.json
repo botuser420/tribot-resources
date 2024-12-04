@@ -1,0 +1,21 @@
+{
+    "itemId": 21633,
+    "itemName": "Ancient wyvern shield",
+    "examine": "A magical shield with a wyvern visage.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -10,
+        "slashAttackBonus": -10,
+        "crushAttackBonus": -10,
+        "magicAttackBonus": 15,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 72,
+        "slashDefenceBonus": 80,
+        "crushDefenceBonus": 75,
+        "magicDefenceBonus": 15,
+        "rangeDefenceBonus": -5,
+        "strengthBonus": -2,
+        "magicDamageBonus": 2.0
+    }
+}

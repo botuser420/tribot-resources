@@ -1,0 +1,9 @@
+{
+    "itemId": 29870,
+    "itemName": "Emissary robe top",
+    "examine": "Robes of the Twilight Emissaries.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

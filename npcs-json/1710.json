@@ -1,0 +1,21 @@
+{
+    "npcId": 1710,
+    "name": "Spinner",
+    "hitpoints": 53,
+    "combatLevel": 55,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 68,
+    "magicLevel": 52,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

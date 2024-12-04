@@ -1,0 +1,9 @@
+{
+    "itemId": 11862,
+    "itemName": "Black partyhat",
+    "examine": "A dark hat produced by Shanty Claws.",
+    "weight": 0.056,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

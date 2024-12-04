@@ -1,0 +1,17 @@
+{
+    "itemId": 23849,
+    "itemName": "Corrupted halberd (basic)",
+    "examine": "A wooden stick with some corrupted on the end.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 68,
+        "slashAttackBonus": 68,
+        "crushAttackBonus": 4,
+        "strengthBonus": 42,
+        "prayerBonus": 1,
+        "weaponAttackRange": 2,
+        "weaponAttackSpeed": 4,
+        "weaponType": "POLEARM"
+    }
+}

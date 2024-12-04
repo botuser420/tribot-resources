@@ -1,0 +1,21 @@
+{
+    "npcId": 3510,
+    "name": "General Khazard",
+    "hitpoints": 170,
+    "combatLevel": 142,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 2,
+    "attackLevel": 75,
+    "strengthLevel": 78,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

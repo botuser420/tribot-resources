@@ -1,0 +1,9 @@
+{
+    "itemId": 27442,
+    "itemName": "Adventurer's cape",
+    "examine": "The cape of an adventurer.",
+    "weight": 0.4,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

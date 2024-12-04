@@ -1,0 +1,7 @@
+{
+    "itemId": 6701,
+    "itemName": "Baked potato",
+    "examine": "It'd taste even better with some toppings.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

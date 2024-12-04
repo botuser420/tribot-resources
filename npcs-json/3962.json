@@ -1,0 +1,23 @@
+{
+    "npcId": 3962,
+    "name": "Nezikchened",
+    "hitpoints": 150,
+    "combatLevel": 187,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        18
+    ],
+    "monsterAttribute": "demon",
+    "size": 3,
+    "attackLevel": 165,
+    "strengthLevel": 168,
+    "defenceLevel": 167,
+    "magicLevel": 160,
+    "rangedLevel": 160,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

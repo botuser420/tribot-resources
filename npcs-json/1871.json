@@ -1,0 +1,38 @@
+{
+    "npcId": 1871,
+    "name": "Baby black dragon",
+    "hitpoints": 80,
+    "combatLevel": 83,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Black Dragons",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 80.0,
+    "size": 2,
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 40,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 50,
+    "rangeDefenceBonus": 30,
+    "lightRangeDefenceBonus": 30,
+    "standardRangeDefenceBonus": 30,
+    "heavyRangeDefenceBonus": 15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 24190,
+    "itemName": "Deadman's legs",
+    "examine": "That numb feeling.",
+    "weight": 0.11,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

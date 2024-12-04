@@ -1,0 +1,25 @@
+{
+    "npcId": 717,
+    "name": "Mummy",
+    "hitpoints": 1,
+    "combatLevel": 96,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 255,
+    "strengthLevel": 2,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 27438,
+    "itemName": "Cloak of ruin",
+    "examine": "A magical-looking cloak.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

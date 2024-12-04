@@ -1,0 +1,18 @@
+{
+    "npcId": 7310,
+    "name": "Brassican Mage",
+    "hitpoints": 150,
+    "combatLevel": 140,
+    "attackSpeed": 3,
+    "maxHits": [
+        16
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 80,
+    "magicLevel": 170,
+    "rangedLevel": 140,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,28 @@
+{
+    "npcId": 13470,
+    "name": "Elite Dark Mage",
+    "hitpoints": 80,
+    "combatLevel": 96,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        16
+    ],
+    "size": 1,
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 80,
+    "magicLevel": 80,
+    "rangedLevel": 25,
+    "magicAttackBonus": 80,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 50,
+    "lightRangeDefenceBonus": 5,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

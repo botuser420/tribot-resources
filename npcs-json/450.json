@@ -1,0 +1,28 @@
+{
+    "npcId": 450,
+    "name": "Crawling Hand",
+    "hitpoints": 15,
+    "combatLevel": 7,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Crawling Hands",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 12.0,
+    "size": 1,
+    "attackLevel": 7,
+    "strengthLevel": 3,
+    "defenceLevel": 3,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

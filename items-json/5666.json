@@ -1,0 +1,15 @@
+{
+    "itemId": 5666,
+    "itemName": "Adamant knife(p++)",
+    "examine": "A finely balanced throwing knife.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 15,
+        "rangedStrengthBonus": 14,
+        "weaponAttackRange": 4,
+        "weaponAttackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

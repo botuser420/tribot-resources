@@ -1,0 +1,7 @@
+{
+    "itemId": 8,
+    "itemName": "Cannon stand",
+    "examine": "The mounting for the multicannon.",
+    "weight": 0.907,
+    "buyLimit": 70
+}

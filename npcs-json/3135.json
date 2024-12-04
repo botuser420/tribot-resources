@@ -1,0 +1,34 @@
+{
+    "npcId": 3135,
+    "name": "Werewolf",
+    "hitpoints": 92,
+    "combatLevel": 93,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "slayerCategory": "Werewolves",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 100.0,
+    "size": 1,
+    "attackLevel": 77,
+    "strengthLevel": 76,
+    "defenceLevel": 85,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -21,
+    "slashDefenceBonus": -21,
+    "crushDefenceBonus": -21,
+    "magicDefenceBonus": -21,
+    "rangeDefenceBonus": -21,
+    "lightRangeDefenceBonus": -21,
+    "standardRangeDefenceBonus": -21,
+    "heavyRangeDefenceBonus": -21,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

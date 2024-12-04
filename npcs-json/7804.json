@@ -1,0 +1,18 @@
+{
+    "npcId": 7804,
+    "name": "Tar Monster",
+    "hitpoints": 200,
+    "combatLevel": 132,
+    "attackSpeed": 4,
+    "maxHits": [
+        7
+    ],
+    "size": 2,
+    "attackLevel": 120,
+    "strengthLevel": 80,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 100,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

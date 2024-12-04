@@ -1,0 +1,21 @@
+{
+    "npcId": 7894,
+    "name": "Sand Snake (hard)",
+    "hitpoints": 180,
+    "combatLevel": 154,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        15
+    ],
+    "size": 3,
+    "attackLevel": 180,
+    "strengthLevel": 140,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

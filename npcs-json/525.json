@@ -1,0 +1,26 @@
+{
+    "npcId": 525,
+    "name": "Thug",
+    "hitpoints": 18,
+    "combatLevel": 10,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 7,
+    "strengthLevel": 5,
+    "defenceLevel": 9,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "strengthBonus": 5,
+    "stabDefenceBonus": 2,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 3,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

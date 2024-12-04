@@ -1,0 +1,16 @@
+{
+    "itemId": 22244,
+    "itemName": "Dragon kiteshield (g)",
+    "examine": "An ancient and powerful looking Dragon Kiteshield with a gold trim.",
+    "weight": 6.803,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 56,
+        "slashDefenceBonus": 60,
+        "crushDefenceBonus": 58,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 58
+    }
+}

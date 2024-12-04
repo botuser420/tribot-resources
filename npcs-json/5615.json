@@ -1,0 +1,21 @@
+{
+    "npcId": 5615,
+    "name": "Swamp snake",
+    "hitpoints": 120,
+    "combatLevel": 80,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 3,
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 70,
+    "magicLevel": 30,
+    "rangedLevel": 30,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

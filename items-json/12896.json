@@ -1,0 +1,9 @@
+{
+    "itemId": 12896,
+    "itemName": "Antisanta boots",
+    "examine": "Definitely no jingle-bells on these boots.",
+    "weight": 0.4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

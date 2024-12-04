@@ -1,0 +1,21 @@
+{
+    "npcId": 11586,
+    "name": "Plague frog",
+    "hitpoints": 10,
+    "combatLevel": 11,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 18,
+    "strengthLevel": 10,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

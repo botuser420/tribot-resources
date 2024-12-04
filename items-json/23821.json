@@ -1,0 +1,16 @@
+{
+    "itemId": 23821,
+    "itemName": "Corrupted axe",
+    "examine": "A very powerful axe.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "strengthBonus": 5,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 13317,
+    "itemName": "Deadman's chest",
+    "examine": "15 men may jump on you, but only to steal the contents of your bank.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 20
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "itemId": 28549,
+    "itemName": "Corrupted tumeken's shadow (uncharged)",
+    "examine": "An ancient staff created using a higher power.",
+    "weight": 4.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 35,
+        "magicDefenceBonus": 20,
+        "prayerBonus": 1,
+        "weaponAttackRange": 8,
+        "weaponAttackSpeed": 5,
+        "weaponType": "POWERED_STAFF"
+    }
+}

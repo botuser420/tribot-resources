@@ -1,0 +1,21 @@
+{
+    "npcId": 1369,
+    "name": "Air elemental",
+    "hitpoints": 30,
+    "combatLevel": 34,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 20,
+    "defenceLevel": 30,
+    "magicLevel": 40,
+    "rangedLevel": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 20720,
+    "itemName": "Bruma torch",
+    "examine": "A torch made from the wood of the magical Bruma tree.",
+    "weight": 0.003,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4
+    }
+}

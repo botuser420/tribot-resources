@@ -1,0 +1,10 @@
+{
+    "itemId": 5537,
+    "itemName": "Fire tiara",
+    "examine": "A tiara infused with the properties of fire.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

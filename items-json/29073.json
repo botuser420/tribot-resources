@@ -1,0 +1,17 @@
+{
+    "itemId": 29073,
+    "itemName": "Blood moon helm (broken)",
+    "examine": "The helm of the Blood Moon.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 34,
+        "magicDefenceBonus": 7,
+        "rangeDefenceBonus": 29,
+        "strengthBonus": 4
+    }
+}

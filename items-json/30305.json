@@ -1,0 +1,19 @@
+{
+    "itemId": 30305,
+    "itemName": "Arclight (inactive)",
+    "examine": "The magical sword is inactive and requires more ancient shards to regain its power.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 16,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "strengthBonus": 13,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

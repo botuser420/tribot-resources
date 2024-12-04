@@ -1,0 +1,30 @@
+{
+    "npcId": 11463,
+    "name": "Reanimated hellhound",
+    "hitpoints": 35,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Hellhounds",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 35.0,
+    "size": 2,
+    "attackLevel": 105,
+    "strengthLevel": 104,
+    "defenceLevel": 102,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

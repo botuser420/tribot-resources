@@ -1,0 +1,10 @@
+{
+    "itemId": 23294,
+    "itemName": "Demon feet",
+    "examine": "Vicious demon slippers.",
+    "weight": 0.2,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "npcId": 4406,
+    "name": "Colonel Radick",
+    "hitpoints": 65,
+    "combatLevel": 38,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 13,
+    "stabDefenceBonus": 39,
+    "slashDefenceBonus": 31,
+    "crushDefenceBonus": 34,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

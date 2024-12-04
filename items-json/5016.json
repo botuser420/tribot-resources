@@ -1,0 +1,19 @@
+{
+    "itemId": 5016,
+    "itemName": "Bone spear",
+    "examine": "Basic but brutal!",
+    "weight": 1.36,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 11,
+        "slashAttackBonus": 11,
+        "crushAttackBonus": 11,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 13,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "SPEAR"
+    }
+}

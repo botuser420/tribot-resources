@@ -1,0 +1,28 @@
+{
+    "npcId": 872,
+    "name": "Skogre",
+    "hitpoints": 71,
+    "combatLevel": 44,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Ogres",
+    "assignedBy": [
+        "VANNAKA",
+        "SPRIA"
+    ],
+    "slayerExperience": 71.0,
+    "size": 2,
+    "attackLevel": 20,
+    "strengthLevel": 36,
+    "defenceLevel": 35,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,32 @@
+{
+    "npcId": 3134,
+    "name": "Imp",
+    "hitpoints": 10,
+    "combatLevel": 7,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        1
+    ],
+    "monsterAttribute": "demon",
+    "size": 1,
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 6,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": -42,
+    "strengthBonus": -37,
+    "stabDefenceBonus": -42,
+    "slashDefenceBonus": -42,
+    "crushDefenceBonus": -42,
+    "magicDefenceBonus": -42,
+    "rangeDefenceBonus": -42,
+    "lightRangeDefenceBonus": -42,
+    "standardRangeDefenceBonus": -42,
+    "heavyRangeDefenceBonus": -42,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

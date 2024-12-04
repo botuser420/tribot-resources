@@ -1,0 +1,22 @@
+{
+    "npcId": 2058,
+    "name": "Dark wizard",
+    "hitpoints": 15,
+    "combatLevel": 11,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 10,
+    "magicLevel": 10,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

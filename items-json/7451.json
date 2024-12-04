@@ -1,0 +1,18 @@
+{
+    "itemId": 7451,
+    "itemName": "Cleaver",
+    "examine": "An effective tool for chopping tough meat.",
+    "weight": 1.814,
+    "buyLimit": 50,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": 45,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 44,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

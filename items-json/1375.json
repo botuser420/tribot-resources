@@ -1,0 +1,18 @@
+{
+    "itemId": 1375,
+    "itemName": "Bronze battleaxe",
+    "examine": "A vicious looking axe.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 3,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 9,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

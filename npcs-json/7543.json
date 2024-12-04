@@ -1,0 +1,26 @@
+{
+    "npcId": 7543,
+    "name": "Tekton (enraged)",
+    "hitpoints": 300,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        59
+    ],
+    "monsterAttribute": "xerician",
+    "size": 4,
+    "attackLevel": 390,
+    "strengthLevel": 390,
+    "defenceLevel": 205,
+    "magicLevel": 205,
+    "rangedLevel": 1,
+    "attackBonus": 64,
+    "strengthBonus": 30,
+    "stabDefenceBonus": 280,
+    "slashDefenceBonus": 290,
+    "crushDefenceBonus": 180,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

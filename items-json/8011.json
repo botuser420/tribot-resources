@@ -1,0 +1,7 @@
+{
+    "itemId": 8011,
+    "itemName": "Ardougne teleport",
+    "examine": "A teleport to East Ardougne.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

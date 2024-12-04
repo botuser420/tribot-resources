@@ -1,0 +1,32 @@
+{
+    "npcId": 410,
+    "name": "Kurask",
+    "hitpoints": 97,
+    "combatLevel": 106,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "leafy",
+    "slayerCategory": "Kurask",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 97.0,
+    "size": 3,
+    "attackLevel": 67,
+    "strengthLevel": 105,
+    "defenceLevel": 105,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

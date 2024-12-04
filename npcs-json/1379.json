@@ -1,0 +1,22 @@
+{
+    "npcId": 1379,
+    "name": "Camp dweller",
+    "hitpoints": 30,
+    "combatLevel": 31,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 25,
+    "strengthLevel": 30,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

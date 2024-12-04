@@ -1,0 +1,10 @@
+{
+    "itemId": 28991,
+    "itemName": "Atlatl dart",
+    "examine": "Quite big for a dart.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO"
+    }
+}

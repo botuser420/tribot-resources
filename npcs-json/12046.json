@@ -1,0 +1,29 @@
+{
+    "npcId": 12046,
+    "name": "Evelot",
+    "hitpoints": 160,
+    "combatLevel": 148,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        34
+    ],
+    "size": 1,
+    "attackLevel": 160,
+    "strengthLevel": 150,
+    "defenceLevel": 120,
+    "magicLevel": 80,
+    "attackBonus": 30,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 70,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 40,
+    "rangeDefenceBonus": 40,
+    "lightRangeDefenceBonus": 40,
+    "standardRangeDefenceBonus": 40,
+    "heavyRangeDefenceBonus": 40,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

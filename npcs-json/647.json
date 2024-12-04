@@ -1,0 +1,27 @@
+{
+    "npcId": 647,
+    "name": "Ice wolf",
+    "hitpoints": 70,
+    "combatLevel": 132,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        16
+    ],
+    "slayerCategory": "Wolves",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 70.0,
+    "size": 2,
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

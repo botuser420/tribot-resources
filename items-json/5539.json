@@ -1,0 +1,10 @@
+{
+    "itemId": 5539,
+    "itemName": "Cosmic tiara",
+    "examine": "A tiara infused with the properties of the cosmos.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

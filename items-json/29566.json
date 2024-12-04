@@ -1,0 +1,11 @@
+{
+    "itemId": 29566,
+    "itemName": "Dark squall hood",
+    "examine": "A hood worn by the Dark Squall.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 2,
+        "magicDefenceBonus": 2
+    }
+}

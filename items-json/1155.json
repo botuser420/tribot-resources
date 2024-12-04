@@ -1,0 +1,17 @@
+{
+    "itemId": 1155,
+    "itemName": "Bronze full helm",
+    "examine": "A full face helmet.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 4
+    }
+}

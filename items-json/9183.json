@@ -1,0 +1,14 @@
+{
+    "itemId": 9183,
+    "itemName": "Adamant crossbow",
+    "examine": "An adamantite crossbow.",
+    "weight": 6.0,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 78,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

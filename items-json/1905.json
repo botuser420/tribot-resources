@@ -1,0 +1,7 @@
+{
+    "itemId": 1905,
+    "itemName": "Asgarnian ale",
+    "examine": "Probably the finest ale in Asgarnia.",
+    "weight": 0.55,
+    "buyLimit": 2000
+}

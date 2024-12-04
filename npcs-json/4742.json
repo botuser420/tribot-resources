@@ -1,0 +1,30 @@
+{
+    "npcId": 4742,
+    "name": "Black golem",
+    "hitpoints": 80,
+    "combatLevel": 75,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "monsterAttribute": "golem",
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 30,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 300,
+    "slashDefenceBonus": 300,
+    "crushDefenceBonus": 1,
+    "magicDefenceBonus": 300,
+    "rangeDefenceBonus": 300,
+    "lightRangeDefenceBonus": 300,
+    "standardRangeDefenceBonus": 300,
+    "heavyRangeDefenceBonus": 300,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

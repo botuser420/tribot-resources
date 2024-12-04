@@ -1,0 +1,12 @@
+{
+    "itemId": 8966,
+    "itemName": "Cutthroat flag",
+    "examine": "The flag of The Cutthroat.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BANNER"
+    }
+}

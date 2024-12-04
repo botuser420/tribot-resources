@@ -1,0 +1,33 @@
+{
+    "npcId": 1408,
+    "name": "Dwarf",
+    "hitpoints": 10,
+    "combatLevel": 7,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "slayerCategory": "Dwarves",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 10.0,
+    "size": 1,
+    "attackLevel": 6,
+    "strengthLevel": 6,
+    "defenceLevel": 6,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "strengthBonus": 7,
+    "magicDefenceBonus": 5,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

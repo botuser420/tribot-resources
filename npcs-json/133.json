@@ -1,0 +1,29 @@
+{
+    "npcId": 133,
+    "name": "Troll",
+    "hitpoints": 120,
+    "combatLevel": 91,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        23
+    ],
+    "size": 1,
+    "attackLevel": 50,
+    "strengthLevel": 100,
+    "defenceLevel": 50,
+    "attackBonus": 40,
+    "strengthBonus": 70,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 200,
+    "rangeDefenceBonus": 200,
+    "lightRangeDefenceBonus": 200,
+    "standardRangeDefenceBonus": 200,
+    "heavyRangeDefenceBonus": 200,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

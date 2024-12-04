@@ -1,0 +1,22 @@
+{
+    "itemId": 5716,
+    "itemName": "Dragon spear(p+)",
+    "examine": "A poisoned dragon tipped spear.",
+    "weight": 2.267,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 55,
+        "slashAttackBonus": 55,
+        "crushAttackBonus": 55,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 5,
+        "strengthBonus": 60,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 1833,
+    "itemName": "Desert shirt",
+    "examine": "A cool, light desert shirt.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

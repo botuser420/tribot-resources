@@ -1,0 +1,14 @@
+{
+    "npcId": 5141,
+    "name": "Guard",
+    "hitpoints": 30,
+    "combatLevel": 22,
+    "size": 1,
+    "attackLevel": 16,
+    "strengthLevel": 20,
+    "defenceLevel": 12,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,24 @@
+{
+    "npcId": 11989,
+    "name": "Grizzly bear",
+    "hitpoints": 75,
+    "combatLevel": 83,
+    "attackSpeed": 4,
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Bears",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 75.0,
+    "attackLevel": 72,
+    "strengthLevel": 72,
+    "defenceLevel": 72,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

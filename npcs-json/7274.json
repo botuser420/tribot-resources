@@ -1,0 +1,39 @@
+{
+    "npcId": 7274,
+    "name": "Brutal red dragon",
+    "hitpoints": 285,
+    "combatLevel": 289,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        22,
+        50
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Red Dragons",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 306.2,
+    "size": 4,
+    "attackLevel": 310,
+    "strengthLevel": 210,
+    "defenceLevel": 198,
+    "magicLevel": 250,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 60,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 50,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 15,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

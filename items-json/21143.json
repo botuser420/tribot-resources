@@ -1,0 +1,10 @@
+{
+    "itemId": 21143,
+    "itemName": "Dodgy necklace",
+    "examine": "Lets you get away with it - sometimes.",
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

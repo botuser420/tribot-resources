@@ -1,0 +1,15 @@
+{
+    "itemId": 13263,
+    "itemName": "Abyssal bludgeon",
+    "examine": "Elements of deceased Abyssal Sires have been fused together.",
+    "weight": 6.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 102,
+        "strengthBonus": 85,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUDGEON"
+    }
+}

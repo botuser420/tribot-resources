@@ -1,0 +1,19 @@
+{
+    "itemId": 1245,
+    "itemName": "Adamant spear",
+    "examine": "An adamantite tipped spear.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 24,
+        "slashAttackBonus": 24,
+        "crushAttackBonus": 24,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 28,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

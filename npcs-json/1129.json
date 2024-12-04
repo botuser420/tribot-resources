@@ -1,0 +1,32 @@
+{
+    "npcId": 1129,
+    "name": "Kamil (hard)",
+    "hitpoints": 255,
+    "combatLevel": 273,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "MAGIC"
+    ],
+    "maxHits": [
+        43
+    ],
+    "slayerCategory": "Ice Warriors",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "size": 1,
+    "attackLevel": 380,
+    "strengthLevel": 160,
+    "defenceLevel": 135,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 60,
+    "strengthBonus": 100,
+    "stabDefenceBonus": 35,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 35,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

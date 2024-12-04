@@ -1,0 +1,7 @@
+{
+    "itemId": 10008,
+    "itemName": "Box trap",
+    "examine": "If a creature goes inside, the box should then slam shut.",
+    "weight": 0.226,
+    "buyLimit": 250
+}

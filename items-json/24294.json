@@ -1,0 +1,13 @@
+{
+    "itemId": 24294,
+    "itemName": "Dagon'hai robe bottom",
+    "examine": "A robe worn by members of the Dagon'hai.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 18,
+        "magicDefenceBonus": 14,
+        "magicDamageBonus": 1.0,
+        "prayerBonus": 2
+    }
+}

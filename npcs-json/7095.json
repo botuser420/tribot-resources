@@ -1,0 +1,27 @@
+{
+    "npcId": 7095,
+    "name": "Tortured gorilla",
+    "hitpoints": 110,
+    "combatLevel": 142,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        29
+    ],
+    "slayerCategory": "Monkeys",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "size": 2,
+    "attackLevel": 180,
+    "strengthLevel": 90,
+    "defenceLevel": 110,
+    "magicLevel": 110,
+    "rangedLevel": 1,
+    "attackBonus": 90,
+    "strengthBonus": 123,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

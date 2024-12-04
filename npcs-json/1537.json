@@ -1,0 +1,37 @@
+{
+    "npcId": 1537,
+    "name": "Skeleton hero",
+    "hitpoints": 124,
+    "combatLevel": 149,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "SPRIA"
+    ],
+    "slayerExperience": 124.0,
+    "size": 1,
+    "attackLevel": 145,
+    "strengthLevel": 134,
+    "defenceLevel": 110,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 15,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 2,
+    "magicDefenceBonus": -3,
+    "rangeDefenceBonus": 2,
+    "lightRangeDefenceBonus": 2,
+    "standardRangeDefenceBonus": 2,
+    "heavyRangeDefenceBonus": 2,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

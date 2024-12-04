@@ -1,0 +1,7 @@
+{
+    "itemId": 13573,
+    "itemName": "Dynamite",
+    "examine": "A pot of dynamite for blast mining, with a fuse ready to light.",
+    "weight": 1.36,
+    "buyLimit": 13000
+}

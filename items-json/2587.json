@@ -1,0 +1,17 @@
+{
+    "itemId": 2587,
+    "itemName": "Black full helm (t)",
+    "examine": "Black full helmet with trim.",
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 12
+    }
+}

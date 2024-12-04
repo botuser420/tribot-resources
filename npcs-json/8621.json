@@ -1,0 +1,37 @@
+{
+    "npcId": 8621,
+    "name": "Alchemical Hydra",
+    "hitpoints": 1100,
+    "combatLevel": 426,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        55
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Hydras",
+    "slayerExperience": 1320.0,
+    "size": 6,
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "magicLevel": 260,
+    "rangedLevel": 260,
+    "magicAttackBonus": 45,
+    "magicDamageBonus": 20,
+    "rangeAttackBonus": 45,
+    "rangedStrengthBonus": 20,
+    "stabDefenceBonus": 75,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150,
+    "magicDefenceBonus": 150,
+    "rangeDefenceBonus": 45,
+    "lightRangeDefenceBonus": 45,
+    "standardRangeDefenceBonus": 45,
+    "heavyRangeDefenceBonus": 45,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,14 @@
+{
+    "itemId": 9174,
+    "itemName": "Bronze crossbow",
+    "examine": "A bronze crossbow.",
+    "weight": 4.0,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 18,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

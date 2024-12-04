@@ -1,0 +1,10 @@
+{
+    "itemId": 10400,
+    "itemName": "Black elegant shirt",
+    "examine": "A well made elegant men's black shirt.",
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

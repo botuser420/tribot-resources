@@ -1,0 +1,15 @@
+{
+    "itemId": 4234,
+    "itemName": "Crystal shield 1/10",
+    "examine": "A nice sturdy crystal shield.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 33,
+        "slashDefenceBonus": 36,
+        "crushDefenceBonus": 35,
+        "rangeDefenceBonus": 62
+    }
+}

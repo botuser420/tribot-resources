@@ -1,0 +1,29 @@
+{
+    "npcId": 496,
+    "name": "Whirlpool",
+    "hitpoints": 255,
+    "attackSpeed": 4,
+    "maxHits": [
+        28
+    ],
+    "slayerCategory": "Cave Kraken",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 255.0,
+    "size": 5,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 130,
+    "rangeDefenceBonus": 300,
+    "lightRangeDefenceBonus": 300,
+    "standardRangeDefenceBonus": 300,
+    "heavyRangeDefenceBonus": 300,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

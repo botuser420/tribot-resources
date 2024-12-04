@@ -1,0 +1,10 @@
+{
+    "itemId": 11115,
+    "itemName": "Dragonstone bracelet",
+    "examine": "I wonder if this is valuable.",
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

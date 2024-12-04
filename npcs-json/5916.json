@@ -1,0 +1,24 @@
+{
+    "npcId": 5916,
+    "name": "Spawn",
+    "hitpoints": 15,
+    "combatLevel": 60,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "CRUSH"
+    ],
+    "maxHits": [
+        9,
+        4
+    ],
+    "size": 1,
+    "attackLevel": 120,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 50,
+    "magicDefenceBonus": -10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

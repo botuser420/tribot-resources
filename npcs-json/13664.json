@@ -1,0 +1,30 @@
+{
+    "npcId": 13664,
+    "name": "Ranging Ro",
+    "hitpoints": 1500,
+    "combatLevel": 473,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        16
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 30,
+    "defenceLevel": 100,
+    "magicLevel": 15,
+    "rangedLevel": 150,
+    "magicAttackBonus": 100,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 200,
+    "rangeDefenceBonus": 100,
+    "lightRangeDefenceBonus": 100,
+    "standardRangeDefenceBonus": 100,
+    "heavyRangeDefenceBonus": 100,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

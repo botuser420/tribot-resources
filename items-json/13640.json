@@ -1,0 +1,9 @@
+{
+    "itemId": 13640,
+    "itemName": "Farmer's boro trousers",
+    "examine": "This will help with farming.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

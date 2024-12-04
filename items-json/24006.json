@@ -1,0 +1,9 @@
+{
+    "itemId": 24006,
+    "itemName": "Elven gloves",
+    "examine": "Decorative elven gloves.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

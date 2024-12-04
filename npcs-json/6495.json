@@ -1,0 +1,42 @@
+{
+    "npcId": 6495,
+    "name": "K'ril Tsutsaroth",
+    "hitpoints": 255,
+    "combatLevel": 650,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        30,
+        46,
+        49
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 350.5,
+    "size": 5,
+    "attackLevel": 340,
+    "strengthLevel": 300,
+    "defenceLevel": 270,
+    "magicLevel": 200,
+    "rangedLevel": 1,
+    "attackBonus": 160,
+    "strengthBonus": 31,
+    "stabDefenceBonus": 80,
+    "slashDefenceBonus": 80,
+    "crushDefenceBonus": 80,
+    "magicDefenceBonus": 130,
+    "rangeDefenceBonus": 80,
+    "lightRangeDefenceBonus": 80,
+    "standardRangeDefenceBonus": 80,
+    "heavyRangeDefenceBonus": 80,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

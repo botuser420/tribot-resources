@@ -1,0 +1,12 @@
+{
+    "itemId": 4515,
+    "itemName": "Castlewars hood",
+    "examine": "The colours of Zamorak.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 2,
+        "rangeDefenceBonus": 1
+    }
+}

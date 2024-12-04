@@ -1,0 +1,11 @@
+{
+    "itemId": 11212,
+    "itemName": "Dragon arrow",
+    "examine": "An arrow made using a dragon's talon.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 60
+    }
+}

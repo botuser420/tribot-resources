@@ -1,0 +1,21 @@
+{
+    "itemId": 22986,
+    "itemName": "Bonecrusher necklace",
+    "examine": "A necklace made out of dragon bones, hydra tail and a bonecrusher.",
+    "weight": 0.025,
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": 10,
+        "rangeAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 2,
+        "strengthBonus": 2,
+        "prayerBonus": 12
+    }
+}

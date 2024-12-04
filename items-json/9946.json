@@ -1,0 +1,9 @@
+{
+    "itemId": 9946,
+    "itemName": "Cap and goggles",
+    "examine": "For better flying vision.",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

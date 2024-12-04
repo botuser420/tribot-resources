@@ -1,0 +1,17 @@
+{
+    "itemId": 28211,
+    "itemName": "Adamant felling axe",
+    "examine": "A powerful felling axe.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 17,
+        "crushAttackBonus": 15,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 19,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

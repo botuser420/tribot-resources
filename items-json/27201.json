@@ -1,0 +1,16 @@
+{
+    "itemId": 27201,
+    "itemName": "3rd age range coif",
+    "examine": "Fabulously ancient range protection crafted from white dragonhide.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -2,
+        "rangeAttackBonus": 9,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 8
+    }
+}

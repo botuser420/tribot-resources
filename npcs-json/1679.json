@@ -1,0 +1,27 @@
+{
+    "npcId": 1679,
+    "name": "Crypt rat",
+    "hitpoints": 35,
+    "combatLevel": 43,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "monsterAttribute": "rat",
+    "slayerCategory": "Rats",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 35.0,
+    "size": 1,
+    "attackLevel": 70,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

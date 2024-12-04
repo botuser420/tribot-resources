@@ -1,0 +1,17 @@
+{
+    "itemId": 1195,
+    "itemName": "Black kiteshield",
+    "examine": "A large metal shield.",
+    "weight": 5.443,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 19,
+        "crushDefenceBonus": 18,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 18
+    }
+}

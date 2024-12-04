@@ -1,0 +1,10 @@
+{
+    "itemId": 9300,
+    "itemName": "Blurite bolts (p++)",
+    "examine": "Super poisoned blurite bolts.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 28
+    }
+}

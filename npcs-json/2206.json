@@ -1,0 +1,31 @@
+{
+    "npcId": 2206,
+    "name": "Starlight",
+    "hitpoints": 160,
+    "combatLevel": 149,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        15
+    ],
+    "size": 2,
+    "attackLevel": 120,
+    "strengthLevel": 125,
+    "defenceLevel": 120,
+    "magicLevel": 125,
+    "rangedLevel": 1,
+    "attackBonus": 60,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 12,
+    "slashDefenceBonus": 14,
+    "crushDefenceBonus": 13,
+    "magicDefenceBonus": 5,
+    "rangeDefenceBonus": 13,
+    "lightRangeDefenceBonus": 13,
+    "standardRangeDefenceBonus": 13,
+    "heavyRangeDefenceBonus": 13,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

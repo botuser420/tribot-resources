@@ -1,0 +1,42 @@
+{
+    "npcId": 8242,
+    "name": "Ranis Drakan",
+    "hitpoints": 400,
+    "combatLevel": 233,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC",
+        "SLASH"
+    ],
+    "maxHits": [
+        20
+    ],
+    "monsterAttribute": "vampyre3",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 400.0,
+    "size": 1,
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "magicLevel": 120,
+    "rangedLevel": 1,
+    "strengthBonus": 34,
+    "magicDamageBonus": 34,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 60,
+    "rangeDefenceBonus": 60,
+    "lightRangeDefenceBonus": 60,
+    "standardRangeDefenceBonus": 60,
+    "heavyRangeDefenceBonus": 60,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

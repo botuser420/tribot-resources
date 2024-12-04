@@ -1,0 +1,20 @@
+{
+    "npcId": 4930,
+    "name": "Solus Dellagar",
+    "hitpoints": 40,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

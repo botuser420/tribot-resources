@@ -1,0 +1,9 @@
+{
+    "itemId": 26310,
+    "itemName": "Festive elf slippers",
+    "examine": "A pair of festive slippers.",
+    "weight": 0.2,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

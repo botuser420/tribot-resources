@@ -1,0 +1,31 @@
+{
+    "npcId": 4067,
+    "name": "Black Knight Titan",
+    "hitpoints": 142,
+    "combatLevel": 120,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        15
+    ],
+    "size": 1,
+    "attackLevel": 91,
+    "strengthLevel": 100,
+    "defenceLevel": 91,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 27,
+    "strengthBonus": 22,
+    "stabDefenceBonus": 18,
+    "slashDefenceBonus": 27,
+    "crushDefenceBonus": 18,
+    "magicDefenceBonus": 1000,
+    "rangeDefenceBonus": 1000,
+    "lightRangeDefenceBonus": 1000,
+    "standardRangeDefenceBonus": 1000,
+    "heavyRangeDefenceBonus": 1000,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

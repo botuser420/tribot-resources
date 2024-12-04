@@ -1,0 +1,32 @@
+{
+    "npcId": 2585,
+    "name": "Abyssal guardian",
+    "hitpoints": 50,
+    "combatLevel": 59,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB",
+        "MAGIC"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 90,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 15,
+    "strengthBonus": 5,
+    "stabDefenceBonus": 70,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 150,
+    "rangeDefenceBonus": 70,
+    "lightRangeDefenceBonus": 70,
+    "standardRangeDefenceBonus": 70,
+    "heavyRangeDefenceBonus": 70,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

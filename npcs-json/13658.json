@@ -1,0 +1,27 @@
+{
+    "npcId": 13658,
+    "name": "Bee Swarm",
+    "hitpoints": 2000,
+    "combatLevel": 670,
+    "attackSpeed": 1,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 3,
+    "attackLevel": 400,
+    "strengthLevel": 100,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 200,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,13 @@
+{
+    "itemId": 23997,
+    "itemName": "Blade of saeldor (inactive)",
+    "examine": "A magical elven sword.",
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

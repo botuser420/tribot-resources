@@ -1,0 +1,28 @@
+{
+    "npcId": 5631,
+    "name": "Riyl shadow",
+    "hitpoints": 76,
+    "combatLevel": 80,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Shades",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 76.0,
+    "size": 1,
+    "attackLevel": 87,
+    "strengthLevel": 56,
+    "defenceLevel": 60,
+    "magicLevel": 50,
+    "rangedLevel": 50,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

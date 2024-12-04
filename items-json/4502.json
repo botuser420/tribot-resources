@@ -1,0 +1,16 @@
+{
+    "itemId": 4502,
+    "itemName": "Bearhead",
+    "examine": "Quite ferocious looking.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 14,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 7,
+        "rangeDefenceBonus": 9
+    }
+}

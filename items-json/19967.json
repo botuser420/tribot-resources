@@ -1,0 +1,10 @@
+{
+    "itemId": 19967,
+    "itemName": "Dark tuxedo shoes",
+    "examine": "Dark shoes to match your dark tuxedo.",
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

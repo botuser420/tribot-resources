@@ -1,0 +1,10 @@
+{
+    "itemId": 11095,
+    "itemName": "Abyssal bracelet(5)",
+    "examine": "Makes using the Abyss just slightly safer.",
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

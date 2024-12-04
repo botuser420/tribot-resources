@@ -1,0 +1,7 @@
+{
+    "itemId": 4525,
+    "itemName": "Empty oil lamp",
+    "examine": "An oil lamp with no oil in it.",
+    "weight": 0.453,
+    "buyLimit": 10000
+}

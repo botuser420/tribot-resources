@@ -1,0 +1,28 @@
+{
+    "npcId": 3899,
+    "name": "Koschei the deathless",
+    "hitpoints": 70,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 60,
+    "rangeDefenceBonus": 60,
+    "lightRangeDefenceBonus": 60,
+    "standardRangeDefenceBonus": 60,
+    "heavyRangeDefenceBonus": 60,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

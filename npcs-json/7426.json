@@ -1,0 +1,21 @@
+{
+    "npcId": 7426,
+    "name": "Zamorak crafter",
+    "hitpoints": 25,
+    "combatLevel": 19,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 15,
+    "strengthLevel": 15,
+    "defenceLevel": 12,
+    "magicLevel": 20,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

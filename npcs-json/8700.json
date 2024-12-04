@@ -1,0 +1,21 @@
+{
+    "npcId": 8700,
+    "name": "Giant frog",
+    "hitpoints": 23,
+    "combatLevel": 13,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 2,
+    "attackLevel": 10,
+    "strengthLevel": 8,
+    "defenceLevel": 6,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

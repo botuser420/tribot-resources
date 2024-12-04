@@ -1,0 +1,45 @@
+{
+    "npcId": 7939,
+    "name": "Revenant knight",
+    "hitpoints": 143,
+    "combatLevel": 126,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        27
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Revenants",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 168.0,
+    "size": 1,
+    "attackLevel": 100,
+    "strengthLevel": 119,
+    "defenceLevel": 80,
+    "magicLevel": 146,
+    "rangedLevel": 146,
+    "attackBonus": 69,
+    "strengthBonus": 71,
+    "magicAttackBonus": 55,
+    "magicDamageBonus": 30,
+    "rangeAttackBonus": 55,
+    "rangedStrengthBonus": 45,
+    "stabDefenceBonus": 195,
+    "slashDefenceBonus": 200,
+    "crushDefenceBonus": 180,
+    "magicDefenceBonus": 95,
+    "rangeDefenceBonus": 190,
+    "lightRangeDefenceBonus": 190,
+    "standardRangeDefenceBonus": 190,
+    "heavyRangeDefenceBonus": 190,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

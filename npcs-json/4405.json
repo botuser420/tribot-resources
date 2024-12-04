@@ -1,0 +1,26 @@
+{
+    "npcId": 4405,
+    "name": "Tower guard",
+    "hitpoints": 22,
+    "combatLevel": 28,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 26,
+    "strengthLevel": 26,
+    "defenceLevel": 26,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 8,
+    "strengthBonus": 8,
+    "stabDefenceBonus": 23,
+    "slashDefenceBonus": 35,
+    "crushDefenceBonus": 28,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

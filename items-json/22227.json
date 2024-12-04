@@ -1,0 +1,11 @@
+{
+    "itemId": 22227,
+    "itemName": "Bullet arrow",
+    "examine": "Arrows with bullet heads.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangeAttackBonus": 46,
+        "rangedStrengthBonus": 125
+    }
+}

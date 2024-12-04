@@ -1,0 +1,14 @@
+{
+    "itemId": 11777,
+    "itemName": "Black mask (7) (i)",
+    "examine": "A magic cave horror mask.",
+    "weight": 10.0,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9
+    }
+}

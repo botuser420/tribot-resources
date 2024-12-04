@@ -1,0 +1,16 @@
+{
+    "itemId": 4883,
+    "itemName": "Dharok's helm 25",
+    "examine": "Dharok the Wretched's helm.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 45,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 44,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 51
+    }
+}

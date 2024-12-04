@@ -1,0 +1,9 @@
+{
+    "itemId": 9791,
+    "itemName": "Construct. hood",
+    "examine": "Construction skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

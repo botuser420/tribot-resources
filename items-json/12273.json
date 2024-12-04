@@ -1,0 +1,17 @@
+{
+    "itemId": 12273,
+    "itemName": "Bandos cloak",
+    "examine": "A Bandos cloak.",
+    "weight": 0.4,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "CAPE",
+        "magicAttackBonus": 1,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 3,
+        "prayerBonus": 3
+    }
+}

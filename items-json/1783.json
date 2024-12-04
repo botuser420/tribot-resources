@@ -1,0 +1,7 @@
+{
+    "itemId": 1783,
+    "itemName": "Bucket of sand",
+    "examine": "One of the ingredients for making glass.",
+    "weight": 2.5,
+    "buyLimit": 13000
+}

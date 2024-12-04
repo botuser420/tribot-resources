@@ -1,0 +1,10 @@
+{
+    "itemId": 20104,
+    "itemName": "Ankou's leggings",
+    "examine": "These leggings will make your flesh transparent.",
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

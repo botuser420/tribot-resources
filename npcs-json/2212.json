@@ -1,0 +1,40 @@
+{
+    "npcId": 2212,
+    "name": "Spiritual mage",
+    "hitpoints": 85,
+    "combatLevel": 120,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        20
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Spiritual Creatures",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 85.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 86,
+    "magicLevel": 160,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 8,
+    "slashDefenceBonus": 7,
+    "crushDefenceBonus": 3,
+    "magicDefenceBonus": 16,
+    "elementalWeakness": "None",
+    "rangeDefenceBonus": 2,
+    "lightRangeDefenceBonus": 2,
+    "standardRangeDefenceBonus": 2,
+    "heavyRangeDefenceBonus": 2,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

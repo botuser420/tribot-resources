@@ -1,0 +1,37 @@
+{
+    "npcId": 7410,
+    "name": "Greater abyssal demon",
+    "hitpoints": 400,
+    "combatLevel": 342,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        31
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Abyssal Demons",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 4200.0,
+    "size": 1,
+    "attackLevel": 300,
+    "strengthLevel": 260,
+    "defenceLevel": 240,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

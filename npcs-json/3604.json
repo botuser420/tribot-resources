@@ -1,0 +1,21 @@
+{
+    "npcId": 3604,
+    "name": "Jubster",
+    "hitpoints": 60,
+    "combatLevel": 87,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 3,
+    "attackLevel": 82,
+    "strengthLevel": 78,
+    "defenceLevel": 81,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,15 @@
+{
+    "npcId": 1723,
+    "name": "Torcher",
+    "hitpoints": 71,
+    "combatLevel": 92,
+    "attackSpeed": 4,
+    "maxHits": [
+        12
+    ],
+    "size": 1,
+    "defenceLevel": 89,
+    "magicLevel": 107,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

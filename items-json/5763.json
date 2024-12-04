@@ -1,0 +1,7 @@
+{
+    "itemId": 5763,
+    "itemName": "Cider",
+    "examine": "A glass of cider.",
+    "weight": 0.55,
+    "buyLimit": 2000
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 30441,
+    "itemName": "Echo virtus robe bottom",
+    "examine": "Virtus robes in the style of Leagues V: Raging Echoes.",
+    "weight": 3.79,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 26,
+        "rangeAttackBonus": -9,
+        "stabDefenceBonus": 31,
+        "slashDefenceBonus": 28,
+        "crushDefenceBonus": 34,
+        "magicDefenceBonus": 22,
+        "magicDamageBonus": 2.0,
+        "prayerBonus": 1
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 1927,
+    "itemName": "Bucket of milk",
+    "examine": "It's a bucket of milk.",
+    "weight": 2.2,
+    "buyLimit": 13000
+}

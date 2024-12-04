@@ -1,0 +1,29 @@
+{
+    "npcId": 3026,
+    "name": "Pit Scorpion",
+    "hitpoints": 32,
+    "combatLevel": 28,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 32.0,
+    "size": 1,
+    "attackLevel": 23,
+    "strengthLevel": 23,
+    "defenceLevel": 23,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

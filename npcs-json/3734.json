@@ -1,0 +1,22 @@
+{
+    "npcId": 3734,
+    "name": "Vanstrom Klause",
+    "hitpoints": 155,
+    "combatLevel": 169,
+    "attackSpeed": 8,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        16
+    ],
+    "monsterAttribute": "vampyre3",
+    "size": 1,
+    "attackLevel": 150,
+    "strengthLevel": 136,
+    "defenceLevel": 150,
+    "magicLevel": 150,
+    "rangedLevel": 150,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

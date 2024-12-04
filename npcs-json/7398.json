@@ -1,0 +1,27 @@
+{
+    "npcId": 7398,
+    "name": "Insatiable mutated Bloodveld",
+    "hitpoints": 410,
+    "combatLevel": 278,
+    "attackSpeed": 4,
+    "maxHits": [
+        20
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Bloodveld",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 4100.0,
+    "size": 3,
+    "attackLevel": 250,
+    "strengthLevel": 190,
+    "defenceLevel": 130,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

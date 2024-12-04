@@ -1,0 +1,34 @@
+{
+    "npcId": 12730,
+    "name": "Armoured zombie",
+    "hitpoints": 85,
+    "combatLevel": 85,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 85.0,
+    "size": 1,
+    "attackLevel": 73,
+    "strengthLevel": 72,
+    "defenceLevel": 68,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

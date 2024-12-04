@@ -1,0 +1,20 @@
+{
+    "npcId": 2911,
+    "name": "Carnivorous chinchompa",
+    "hitpoints": 1,
+    "combatLevel": 2,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 2,
+    "magicLevel": 2,
+    "rangedLevel": 2,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

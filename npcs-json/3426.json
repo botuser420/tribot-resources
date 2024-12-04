@@ -1,0 +1,27 @@
+{
+    "npcId": 3426,
+    "name": "Dire Wolf",
+    "hitpoints": 85,
+    "combatLevel": 88,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Wolves",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 85.0,
+    "size": 2,
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 75,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

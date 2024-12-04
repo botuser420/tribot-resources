@@ -1,0 +1,32 @@
+{
+    "npcId": 7394,
+    "name": "Flaming pyrelord",
+    "hitpoints": 126,
+    "combatLevel": 97,
+    "attackSpeed": 4,
+    "maxHits": [
+        7
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Pyrefiends",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 1250.0,
+    "size": 2,
+    "attackLevel": 98,
+    "strengthLevel": 65,
+    "defenceLevel": 52,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 18,
+    "slashDefenceBonus": 18,
+    "crushDefenceBonus": 18,
+    "rangeDefenceBonus": 18,
+    "lightRangeDefenceBonus": 18,
+    "standardRangeDefenceBonus": 18,
+    "heavyRangeDefenceBonus": 18,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

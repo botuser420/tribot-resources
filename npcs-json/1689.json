@@ -1,0 +1,20 @@
+{
+    "npcId": 1689,
+    "name": "Splatter",
+    "hitpoints": 13,
+    "combatLevel": 22,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 17,
+    "strengthLevel": 17,
+    "defenceLevel": 33,
+    "magicLevel": 17,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

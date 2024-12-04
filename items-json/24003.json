@@ -1,0 +1,10 @@
+{
+    "itemId": 24003,
+    "itemName": "Elven boots",
+    "examine": "Decorative elven boots.",
+    "weight": 4.535,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

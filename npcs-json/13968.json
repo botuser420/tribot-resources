@@ -1,0 +1,21 @@
+{
+    "npcId": 13968,
+    "name": "Porcupine",
+    "hitpoints": 5,
+    "combatLevel": 4,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 4,
+    "strengthLevel": 5,
+    "defenceLevel": 2,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

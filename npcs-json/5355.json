@@ -1,0 +1,26 @@
+{
+    "npcId": 5355,
+    "name": "Nazastarool",
+    "hitpoints": 80,
+    "combatLevel": 93,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Ghosts",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 80.0,
+    "size": 2,
+    "attackLevel": 85,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,30 @@
+{
+    "npcId": 523,
+    "name": "Pirate",
+    "hitpoints": 23,
+    "combatLevel": 26,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Pirates",
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 20.0,
+    "size": 1,
+    "attackLevel": 23,
+    "strengthLevel": 23,
+    "defenceLevel": 23,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 8,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 3,
+    "slashDefenceBonus": 2,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

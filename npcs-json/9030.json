@@ -1,0 +1,20 @@
+{
+    "npcId": 9030,
+    "name": "Crystalline Scorpion",
+    "hitpoints": 38,
+    "combatLevel": 64,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 2,
+    "attackLevel": 48,
+    "strengthLevel": 106,
+    "defenceLevel": 18,
+    "magicLevel": 18,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 9340,
+    "itemName": "Diamond bolts",
+    "examine": "Diamond tipped Adamantite crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 105
+    }
+}

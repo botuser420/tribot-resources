@@ -1,0 +1,29 @@
+{
+    "npcId": 6099,
+    "name": "Gnome Mage",
+    "hitpoints": 10,
+    "combatLevel": 5,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 3,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 5,
+    "stabDefenceBonus": -30,
+    "slashDefenceBonus": -30,
+    "crushDefenceBonus": -30,
+    "magicDefenceBonus": -30,
+    "rangeDefenceBonus": -30,
+    "lightRangeDefenceBonus": -30,
+    "standardRangeDefenceBonus": -30,
+    "heavyRangeDefenceBonus": -30,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,21 @@
+{
+    "npcId": 1678,
+    "name": "Bloodworm",
+    "hitpoints": 45,
+    "combatLevel": 52,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 20,
+    "defenceLevel": 35,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

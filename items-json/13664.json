@@ -1,0 +1,9 @@
+{
+    "itemId": 13664,
+    "itemName": "Bunny legs",
+    "examine": "These look furry.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

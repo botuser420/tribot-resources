@@ -1,0 +1,7 @@
+{
+    "itemId": 1777,
+    "itemName": "Bow string",
+    "examine": "I need a bow stave to attach this to.",
+    "weight": 0.014,
+    "buyLimit": 13000
+}

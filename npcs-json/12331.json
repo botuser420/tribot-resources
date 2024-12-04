@@ -1,0 +1,35 @@
+{
+    "npcId": 12331,
+    "name": "Kasonde the Craven",
+    "hitpoints": 200,
+    "combatLevel": 221,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED",
+        "MELEE"
+    ],
+    "maxHits": [
+        22
+    ],
+    "monsterAttribute": "spectral",
+    "size": 1,
+    "attackLevel": 200,
+    "strengthLevel": 200,
+    "defenceLevel": 120,
+    "magicLevel": 120,
+    "rangedLevel": 200,
+    "attackBonus": 40,
+    "strengthBonus": 4,
+    "rangeAttackBonus": 50,
+    "rangedStrengthBonus": 4,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 250,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

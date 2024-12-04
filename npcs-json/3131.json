@@ -1,0 +1,31 @@
+{
+    "npcId": 3131,
+    "name": "Zakl'n Gritch",
+    "hitpoints": 150,
+    "combatLevel": 142,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        21
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Lesser Demons",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "slayerExperience": 150.0,
+    "size": 2,
+    "attackLevel": 83,
+    "strengthLevel": 76,
+    "defenceLevel": 127,
+    "magicLevel": 50,
+    "rangedLevel": 150,
+    "rangeAttackBonus": 20,
+    "rangedStrengthBonus": 20,
+    "magicDefenceBonus": -5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

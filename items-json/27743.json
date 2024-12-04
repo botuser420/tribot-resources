@@ -1,0 +1,9 @@
+{
+    "itemId": 27743,
+    "itemName": "Crystal helm (inactive)",
+    "examine": "This helmet shines bright, like a diamond.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

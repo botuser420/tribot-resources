@@ -1,0 +1,10 @@
+{
+    "itemId": 3839,
+    "itemName": "Damaged book",
+    "examine": "An incomplete book of Saradomin.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "prayerBonus": 5
+    }
+}

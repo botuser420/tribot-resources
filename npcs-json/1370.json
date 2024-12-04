@@ -1,0 +1,21 @@
+{
+    "npcId": 1370,
+    "name": "Water elemental",
+    "hitpoints": 30,
+    "combatLevel": 34,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "magicLevel": 30,
+    "rangedLevel": 30,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

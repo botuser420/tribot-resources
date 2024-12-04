@@ -1,0 +1,30 @@
+{
+    "npcId": 5194,
+    "name": "Baby green dragon",
+    "hitpoints": 50,
+    "combatLevel": 48,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "monsterAttribute": "dragon",
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 40,
+    "rangeDefenceBonus": 30,
+    "lightRangeDefenceBonus": 30,
+    "standardRangeDefenceBonus": 30,
+    "heavyRangeDefenceBonus": 30,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

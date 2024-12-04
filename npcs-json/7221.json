@@ -1,0 +1,46 @@
+{
+    "npcId": 7221,
+    "name": "Scurrius",
+    "hitpoints": 1500,
+    "combatLevel": 250,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "RANGED",
+        "MELEE"
+    ],
+    "maxHits": [
+        13,
+        14,
+        13,
+        24
+    ],
+    "monsterAttribute": "rat",
+    "slayerCategory": "Rats",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 2137.5,
+    "size": 3,
+    "attackLevel": 300,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "rangedLevel": 100,
+    "attackBonus": 150,
+    "strengthBonus": 10,
+    "magicAttackBonus": 150,
+    "magicDamageBonus": 20,
+    "rangeAttackBonus": 150,
+    "rangedStrengthBonus": 10,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 10,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

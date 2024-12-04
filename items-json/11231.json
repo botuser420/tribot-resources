@@ -1,0 +1,14 @@
+{
+    "itemId": 11231,
+    "itemName": "Dragon dart(p)",
+    "examine": "A deadly poisoned dart with a dragon tip.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedStrengthBonus": 35,
+        "weaponAttackRange": 3,
+        "weaponAttackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

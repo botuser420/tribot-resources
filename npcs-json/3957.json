@@ -1,0 +1,24 @@
+{
+    "npcId": 3957,
+    "name": "Ungadulu",
+    "hitpoints": 65,
+    "combatLevel": 70,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 57,
+    "strengthLevel": 61,
+    "defenceLevel": 65,
+    "magicLevel": 65,
+    "attackBonus": 7,
+    "strengthBonus": 3,
+    "rangedStrengthBonus": 7,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 10312,
+    "itemName": "Black helm (h4)",
+    "examine": "A black helmet with a heraldic design.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 12
+    }
+}

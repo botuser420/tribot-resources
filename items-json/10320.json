@@ -1,0 +1,10 @@
+{
+    "itemId": 10320,
+    "itemName": "Bob's green shirt",
+    "examine": "'Bob says: Never trade in the wilderness!'",
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

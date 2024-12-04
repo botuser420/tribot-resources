@@ -1,0 +1,7 @@
+{
+    "itemId": 1985,
+    "itemName": "Cheese",
+    "examine": "It's got holes in it.",
+    "weight": 0.2,
+    "buyLimit": 13000
+}

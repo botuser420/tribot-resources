@@ -1,0 +1,37 @@
+{
+    "npcId": 1543,
+    "name": "Gargoyle",
+    "hitpoints": 105,
+    "combatLevel": 111,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "slayerCategory": "Gargoyles",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 105.0,
+    "size": 3,
+    "attackLevel": 75,
+    "strengthLevel": 105,
+    "defenceLevel": 107,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": -20,
+    "magicDefenceBonus": 20,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": -20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

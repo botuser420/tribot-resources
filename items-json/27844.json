@@ -1,0 +1,20 @@
+{
+    "itemId": 27844,
+    "itemName": "Corrupted statius's full helm (bh)",
+    "examine": "A powerful helmet.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 1,
+        "slashAttackBonus": 1,
+        "crushAttackBonus": 6,
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 18,
+        "strengthBonus": 2
+    }
+}

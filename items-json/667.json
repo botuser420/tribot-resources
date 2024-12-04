@@ -1,0 +1,18 @@
+{
+    "itemId": 667,
+    "itemName": "Blurite sword",
+    "examine": "A Faladian Knight's sword.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 9,
+        "slashAttackBonus": 14,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 10,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

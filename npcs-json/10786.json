@@ -1,0 +1,27 @@
+{
+    "npcId": 10786,
+    "name": "Nylocas Vasilias",
+    "hitpoints": 1440,
+    "combatLevel": 301,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        24
+    ],
+    "size": 4,
+    "attackLevel": 160,
+    "strengthLevel": 140,
+    "defenceLevel": 50,
+    "magicLevel": 20,
+    "rangedLevel": 140,
+    "strengthBonus": 40,
+    "magicAttackBonus": 380,
+    "magicDamageBonus": 460,
+    "rangedStrengthBonus": 40,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

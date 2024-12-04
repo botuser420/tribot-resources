@@ -1,0 +1,36 @@
+{
+    "npcId": 3028,
+    "name": "Goblin",
+    "hitpoints": 5,
+    "combatLevel": 2,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "slayerCategory": "Goblins",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 5.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": -21,
+    "strengthBonus": -15,
+    "stabDefenceBonus": -15,
+    "slashDefenceBonus": -15,
+    "crushDefenceBonus": -15,
+    "magicDefenceBonus": -15,
+    "rangeDefenceBonus": -15,
+    "lightRangeDefenceBonus": -15,
+    "standardRangeDefenceBonus": -15,
+    "heavyRangeDefenceBonus": -15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

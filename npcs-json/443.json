@@ -1,0 +1,27 @@
+{
+    "npcId": 443,
+    "name": "Infernal Mage",
+    "hitpoints": 60,
+    "combatLevel": 66,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Infernal Mages",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 60.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 60,
+    "magicLevel": 75,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 40,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

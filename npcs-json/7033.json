@@ -1,0 +1,28 @@
+{
+    "npcId": 7033,
+    "name": "Reanimated dagannoth",
+    "hitpoints": 35,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "Dagannoths",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 35.0,
+    "size": 1,
+    "attackLevel": 78,
+    "strengthLevel": 78,
+    "defenceLevel": 81,
+    "magicLevel": 1,
+    "rangedLevel": 50,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

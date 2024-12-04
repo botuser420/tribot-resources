@@ -1,0 +1,7 @@
+{
+    "itemId": 39,
+    "itemName": "Bronze arrowtips",
+    "examine": "I can make some arrows with these.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

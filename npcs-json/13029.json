@@ -1,0 +1,35 @@
+{
+    "npcId": 13029,
+    "name": "Grimy Lizard",
+    "hitpoints": 75,
+    "combatLevel": 50,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Lizard",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 75.0,
+    "size": 2,
+    "attackLevel": 65,
+    "strengthLevel": 25,
+    "defenceLevel": 10,
+    "magicLevel": 25,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 35,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 50,
+    "rangeDefenceBonus": 35,
+    "lightRangeDefenceBonus": 35,
+    "standardRangeDefenceBonus": 35,
+    "heavyRangeDefenceBonus": 35,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

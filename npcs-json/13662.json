@@ -1,0 +1,32 @@
+{
+    "npcId": 13662,
+    "name": "Durial321",
+    "hitpoints": 1000,
+    "combatLevel": 334,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        28
+    ],
+    "size": 1,
+    "attackLevel": 95,
+    "strengthLevel": 98,
+    "defenceLevel": 88,
+    "magicLevel": 94,
+    "rangedLevel": 80,
+    "strengthBonus": 105,
+    "magicAttackBonus": 47,
+    "rangeAttackBonus": -12,
+    "stabDefenceBonus": 148,
+    "slashDefenceBonus": 134,
+    "crushDefenceBonus": 162,
+    "magicDefenceBonus": 69,
+    "rangeDefenceBonus": 88,
+    "lightRangeDefenceBonus": 88,
+    "standardRangeDefenceBonus": 88,
+    "heavyRangeDefenceBonus": 88,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

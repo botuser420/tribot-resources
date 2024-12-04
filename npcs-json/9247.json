@@ -1,0 +1,35 @@
+{
+    "npcId": 9247,
+    "name": "Essyllt (hard)",
+    "hitpoints": 320,
+    "combatLevel": 395,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB",
+        "RANGED"
+    ],
+    "maxHits": [
+        60,
+        75
+    ],
+    "size": 1,
+    "attackLevel": 408,
+    "strengthLevel": 408,
+    "defenceLevel": 104,
+    "magicLevel": 104,
+    "rangedLevel": 512,
+    "attackBonus": 14,
+    "strengthBonus": 28,
+    "rangeAttackBonus": 168,
+    "rangedStrengthBonus": 28,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 30,
+    "rangeDefenceBonus": 120,
+    "lightRangeDefenceBonus": 120,
+    "standardRangeDefenceBonus": 120,
+    "heavyRangeDefenceBonus": 120,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

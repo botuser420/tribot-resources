@@ -1,0 +1,31 @@
+{
+    "npcId": 5563,
+    "name": "Angry barbarian spirit",
+    "hitpoints": 190,
+    "combatLevel": 166,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "monsterAttribute": "spectral",
+    "size": 1,
+    "attackLevel": 150,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 15,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 2,
+    "magicDefenceBonus": -3,
+    "rangeDefenceBonus": 2,
+    "lightRangeDefenceBonus": 2,
+    "standardRangeDefenceBonus": 2,
+    "heavyRangeDefenceBonus": 2,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

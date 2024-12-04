@@ -1,0 +1,30 @@
+{
+    "npcId": 4501,
+    "name": "Brine rat",
+    "hitpoints": 50,
+    "combatLevel": 70,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        9
+    ],
+    "monsterAttribute": "rat",
+    "slayerCategory": "Brine Rats",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 70,
+    "strengthLevel": 79,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

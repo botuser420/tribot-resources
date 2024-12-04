@@ -1,0 +1,19 @@
+{
+    "itemId": 7158,
+    "itemName": "Dragon 2h sword",
+    "examine": "A two-handed Dragon Sword.",
+    "weight": 3.628,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 92,
+        "crushAttackBonus": 80,
+        "magicAttackBonus": -4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 93,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 7,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "npcId": 4708,
+    "name": "The Shaikahan",
+    "hitpoints": 100,
+    "combatLevel": 83,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 3,
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 10000,
+    "rangeDefenceBonus": 10000,
+    "lightRangeDefenceBonus": 10000,
+    "standardRangeDefenceBonus": 10000,
+    "heavyRangeDefenceBonus": 10000,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,24 @@
+{
+    "npcId": 738,
+    "name": "Bandit champion",
+    "hitpoints": 50,
+    "combatLevel": 70,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 1,
+    "attackLevel": 59,
+    "strengthLevel": 80,
+    "defenceLevel": 50,
+    "attackBonus": 9,
+    "strengthBonus": 9,
+    "stabDefenceBonus": 9,
+    "slashDefenceBonus": 8,
+    "crushDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

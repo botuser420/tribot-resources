@@ -1,0 +1,7 @@
+{
+    "itemId": 10981,
+    "itemName": "Cave goblin wire",
+    "examine": "Wire found in Dorgesh-Kaan.",
+    "weight": 1.0,
+    "buyLimit": 11000
+}

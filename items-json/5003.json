@@ -1,0 +1,7 @@
+{
+    "itemId": 5003,
+    "itemName": "Cave eel",
+    "examine": "It's a bit slimy.",
+    "weight": 0.5,
+    "buyLimit": 10000
+}

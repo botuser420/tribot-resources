@@ -1,0 +1,12 @@
+{
+    "itemId": 27123,
+    "itemName": "Dagon'hai hat (or)",
+    "examine": "A hat worn by members of the Dagon'hai, tastefully decorated.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 5,
+        "magicDefenceBonus": 5,
+        "prayerBonus": 2
+    }
+}

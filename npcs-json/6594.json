@@ -1,0 +1,34 @@
+{
+    "npcId": 6594,
+    "name": "Ent",
+    "hitpoints": 105,
+    "combatLevel": 101,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "Ents",
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 107.5,
+    "size": 2,
+    "attackLevel": 80,
+    "strengthLevel": 95,
+    "defenceLevel": 75,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 40,
+    "rangeDefenceBonus": 30,
+    "lightRangeDefenceBonus": 30,
+    "standardRangeDefenceBonus": 30,
+    "heavyRangeDefenceBonus": 30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

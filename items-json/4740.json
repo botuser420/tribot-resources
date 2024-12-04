@@ -1,0 +1,11 @@
+{
+    "itemId": 4740,
+    "itemName": "Bolt rack",
+    "examine": "Must need a special type of crossbow to use this.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 55
+    }
+}

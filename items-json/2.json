@@ -1,0 +1,7 @@
+{
+    "itemId": 2,
+    "itemName": "Cannonball",
+    "examine": "Ammo for the Dwarf Cannon.",
+    "weight": 0.0,
+    "buyLimit": 11000
+}

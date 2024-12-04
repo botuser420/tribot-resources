@@ -1,0 +1,21 @@
+{
+    "npcId": 5213,
+    "name": "Jonny the Beard",
+    "hitpoints": 8,
+    "combatLevel": 2,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

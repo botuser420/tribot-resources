@@ -1,0 +1,26 @@
+{
+    "npcId": 13482,
+    "name": "Surok Magis",
+    "hitpoints": 450,
+    "combatLevel": 265,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 160,
+    "magicLevel": 160,
+    "rangedLevel": 1,
+    "magicAttackBonus": 85,
+    "magicDamageBonus": 105,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 40,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

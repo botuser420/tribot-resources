@@ -1,0 +1,10 @@
+{
+    "itemId": 1015,
+    "itemName": "Black skirt",
+    "examine": "Clothing favoured by women and dark wizards.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

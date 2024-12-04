@@ -1,0 +1,40 @@
+{
+    "npcId": 12584,
+    "name": "Bloodthirsty Shadow Wyrm",
+    "hitpoints": 480,
+    "combatLevel": 400,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "MELEE"
+    ],
+    "maxHits": [
+        41
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Wyrms",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 5520.0,
+    "size": 5,
+    "attackLevel": 450,
+    "strengthLevel": 270,
+    "defenceLevel": 125,
+    "magicLevel": 240,
+    "rangedLevel": 187,
+    "strengthBonus": 30,
+    "magicDamageBonus": 30,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 50,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

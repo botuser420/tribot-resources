@@ -1,0 +1,10 @@
+{
+    "itemId": 6752,
+    "itemName": "Black desert robe",
+    "examine": "A desert robe stained black.",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

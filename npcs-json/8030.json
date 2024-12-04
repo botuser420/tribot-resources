@@ -1,0 +1,41 @@
+{
+    "npcId": 8030,
+    "name": "Adamant dragon",
+    "hitpoints": 295,
+    "combatLevel": 338,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        29,
+        50
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Adamant Dragons",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 324.5,
+    "size": 5,
+    "attackLevel": 280,
+    "strengthLevel": 280,
+    "defenceLevel": 272,
+    "magicLevel": 186,
+    "rangedLevel": 186,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 110,
+    "crushDefenceBonus": 85,
+    "magicDefenceBonus": 30,
+    "elementalWeakness": "Earth",
+    "elementalWeaknessPercent": 50,
+    "rangeDefenceBonus": 95,
+    "lightRangeDefenceBonus": 95,
+    "standardRangeDefenceBonus": 95,
+    "heavyRangeDefenceBonus": 65,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

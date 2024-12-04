@@ -1,0 +1,37 @@
+{
+    "npcId": 4143,
+    "name": "Mountain troll",
+    "hitpoints": 90,
+    "combatLevel": 71,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        13
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 90.0,
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 90,
+    "defenceLevel": 25,
+    "attackBonus": 20,
+    "strengthBonus": 20,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 200,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangeDefenceBonus": 200,
+    "lightRangeDefenceBonus": 200,
+    "standardRangeDefenceBonus": 200,
+    "heavyRangeDefenceBonus": 200,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

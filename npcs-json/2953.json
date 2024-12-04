@@ -1,0 +1,24 @@
+{
+    "npcId": 2953,
+    "name": "Void Knight",
+    "hitpoints": 200,
+    "attackSpeed": -1,
+    "maxHits": [
+        0
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 50,
+    "magicLevel": 50,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 100,
+    "rangeDefenceBonus": 100,
+    "lightRangeDefenceBonus": 100,
+    "standardRangeDefenceBonus": 100,
+    "heavyRangeDefenceBonus": 100,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,16 @@
+{
+    "npcId": 8367,
+    "name": "Blood spawn",
+    "hitpoints": 120,
+    "combatLevel": 55,
+    "attackSpeed": -1,
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

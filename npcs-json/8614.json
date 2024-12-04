@@ -1,0 +1,34 @@
+{
+    "npcId": 8614,
+    "name": "Sulphur Lizard",
+    "hitpoints": 50,
+    "combatLevel": 50,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Lizards",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 2,
+    "attackLevel": 50,
+    "strengthLevel": 45,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 25,
+    "rangeDefenceBonus": 15,
+    "lightRangeDefenceBonus": 15,
+    "standardRangeDefenceBonus": 15,
+    "heavyRangeDefenceBonus": 15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

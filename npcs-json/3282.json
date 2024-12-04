@@ -1,0 +1,29 @@
+{
+    "npcId": 3282,
+    "name": "Jeff",
+    "hitpoints": 7,
+    "combatLevel": 2,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -10,
+    "slashDefenceBonus": -10,
+    "crushDefenceBonus": -10,
+    "magicDefenceBonus": -10,
+    "rangeDefenceBonus": -10,
+    "lightRangeDefenceBonus": -10,
+    "standardRangeDefenceBonus": -10,
+    "heavyRangeDefenceBonus": -10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

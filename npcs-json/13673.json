@@ -1,0 +1,38 @@
+{
+    "npcId": 13673,
+    "name": "Ruptura Araxyte",
+    "hitpoints": 58,
+    "combatLevel": 114,
+    "attackSpeed": 6,
+    "maxHits": [
+        15
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 65.0,
+    "size": 2,
+    "attackLevel": 150,
+    "strengthLevel": 120,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 60,
+    "attackBonus": 180,
+    "strengthBonus": 12,
+    "rangeAttackBonus": 450,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 25,
+    "magicDefenceBonus": -10,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangeDefenceBonus": 25,
+    "lightRangeDefenceBonus": 25,
+    "standardRangeDefenceBonus": 25,
+    "heavyRangeDefenceBonus": 25,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

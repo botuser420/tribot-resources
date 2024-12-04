@@ -1,0 +1,7 @@
+{
+    "itemId": 1919,
+    "itemName": "Beer glass",
+    "examine": "I need to fill this with beer.",
+    "weight": 0.05,
+    "buyLimit": 10000
+}

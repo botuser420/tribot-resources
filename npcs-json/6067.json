@@ -1,0 +1,27 @@
+{
+    "npcId": 6067,
+    "name": "Tower Archer",
+    "hitpoints": 70,
+    "combatLevel": 49,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 60,
+    "rangedStrengthBonus": 31,
+    "magicDefenceBonus": 20,
+    "rangeDefenceBonus": 45,
+    "lightRangeDefenceBonus": 45,
+    "standardRangeDefenceBonus": 45,
+    "heavyRangeDefenceBonus": 45,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

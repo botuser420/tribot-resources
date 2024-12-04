@@ -1,0 +1,22 @@
+{
+    "npcId": 8340,
+    "name": "Xarpus",
+    "hitpoints": 5000,
+    "combatLevel": 960,
+    "attackSpeed": 4,
+    "maxHits": [
+        11
+    ],
+    "size": 5,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 250,
+    "magicLevel": 220,
+    "rangedLevel": 100,
+    "rangeDefenceBonus": 160,
+    "lightRangeDefenceBonus": 160,
+    "standardRangeDefenceBonus": 160,
+    "heavyRangeDefenceBonus": 160,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,25 @@
+{
+    "npcId": 14125,
+    "name": "Golem guard",
+    "hitpoints": 150,
+    "combatLevel": 141,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "monsterAttribute": "golem",
+    "size": 2,
+    "attackLevel": 170,
+    "strengthLevel": 170,
+    "defenceLevel": 100,
+    "magicLevel": 170,
+    "stabDefenceBonus": 180,
+    "slashDefenceBonus": 200,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 40,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 29568,
+    "itemName": "Dark squall robe top",
+    "examine": "A robe worn by the Dark Squall.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4
+    }
+}

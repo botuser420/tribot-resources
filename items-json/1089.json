@@ -1,0 +1,17 @@
+{
+    "itemId": 1089,
+    "itemName": "Black plateskirt",
+    "examine": "Big, black and heavy looking.",
+    "weight": 8.164,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 19,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 20
+    }
+}

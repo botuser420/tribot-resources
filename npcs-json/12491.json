@@ -1,0 +1,36 @@
+{
+    "npcId": 12491,
+    "name": "Warped Terrorbird",
+    "hitpoints": 150,
+    "combatLevel": 96,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "Warped Creatures",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 150.0,
+    "size": 2,
+    "attackLevel": 60,
+    "strengthLevel": 90,
+    "defenceLevel": 20,
+    "magicLevel": 60,
+    "rangedLevel": 40,
+    "rangeAttackBonus": 240,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "rangeDefenceBonus": 62,
+    "lightRangeDefenceBonus": 62,
+    "standardRangeDefenceBonus": 62,
+    "heavyRangeDefenceBonus": 62,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

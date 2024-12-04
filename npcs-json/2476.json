@@ -1,0 +1,35 @@
+{
+    "npcId": 2476,
+    "name": "Catablepon",
+    "hitpoints": 50,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB",
+        "MAGIC"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "Catablepon",
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 2,
+    "attackLevel": 65,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "magicLevel": 60,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 30,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

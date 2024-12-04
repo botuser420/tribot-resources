@@ -1,0 +1,28 @@
+{
+    "npcId": 3315,
+    "name": "Giant rat",
+    "hitpoints": 3,
+    "combatLevel": 3,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -100,
+    "slashDefenceBonus": -100,
+    "crushDefenceBonus": -100,
+    "rangeDefenceBonus": -100,
+    "lightRangeDefenceBonus": -100,
+    "standardRangeDefenceBonus": -100,
+    "heavyRangeDefenceBonus": -100,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

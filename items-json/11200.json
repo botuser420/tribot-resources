@@ -1,0 +1,18 @@
+{
+    "itemId": 11200,
+    "itemName": "Dwarven helmet",
+    "examine": "A sturdy helmet that belonged to Rupert the Beard.",
+    "weight": 1.9,
+    "buyLimit": 50,
+    "equipment": {
+        "slot": "HEAD",
+        "crushAttackBonus": 6,
+        "magicAttackBonus": -2,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 27,
+        "slashDefenceBonus": 28,
+        "crushDefenceBonus": 31,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 24
+    }
+}

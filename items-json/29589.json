@@ -1,0 +1,18 @@
+{
+    "itemId": 29589,
+    "itemName": "Emberlight",
+    "examine": "Silver, blood and crystal smelted in tormenting flames.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 63,
+        "slashAttackBonus": 70,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 5,
+        "strengthBonus": 13,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

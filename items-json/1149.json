@@ -1,0 +1,16 @@
+{
+    "itemId": 1149,
+    "itemName": "Dragon med helm",
+    "examine": "Makes the wearer pretty intimidating.",
+    "weight": 1.36,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 33,
+        "slashDefenceBonus": 35,
+        "crushDefenceBonus": 32,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 34
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "npcId": 3443,
+    "name": "Lucien",
+    "hitpoints": 17,
+    "combatLevel": 14,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 12,
+    "strengthLevel": 11,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "strengthBonus": 4,
+    "stabDefenceBonus": 6,
+    "slashDefenceBonus": 8,
+    "crushDefenceBonus": 7,
+    "magicDefenceBonus": -1,
+    "rangeDefenceBonus": 4,
+    "lightRangeDefenceBonus": 4,
+    "standardRangeDefenceBonus": 4,
+    "heavyRangeDefenceBonus": 4,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

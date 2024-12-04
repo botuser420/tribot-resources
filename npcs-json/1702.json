@@ -1,0 +1,20 @@
+{
+    "npcId": 1702,
+    "name": "Shifter",
+    "hitpoints": 83,
+    "combatLevel": 104,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 1,
+    "attackLevel": 110,
+    "strengthLevel": 83,
+    "defenceLevel": 83,
+    "magicLevel": 60,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

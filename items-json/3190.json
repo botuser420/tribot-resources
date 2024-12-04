@@ -1,0 +1,20 @@
+{
+    "itemId": 3190,
+    "itemName": "Bronze halberd",
+    "examine": "A bronze halberd.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": 8,
+        "magicAttackBonus": -4,
+        "stabDefenceBonus": -1,
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 8,
+        "weaponAttackRange": 2,
+        "weaponAttackSpeed": 7,
+        "weaponType": "POLEARM"
+    }
+}

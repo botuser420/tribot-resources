@@ -1,0 +1,29 @@
+{
+    "npcId": 970,
+    "name": "Dagannoth",
+    "hitpoints": 70,
+    "combatLevel": 74,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Dagannoth",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 70.0,
+    "size": 1,
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

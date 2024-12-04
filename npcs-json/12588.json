@@ -1,0 +1,32 @@
+{
+    "npcId": 12588,
+    "name": "Bloodthirsty Hydra",
+    "hitpoints": 1125,
+    "combatLevel": 501,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        38
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Hydras",
+    "size": 5,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "magicLevel": 375,
+    "rangedLevel": 375,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 200,
+    "crushDefenceBonus": 200,
+    "magicDefenceBonus": 200,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

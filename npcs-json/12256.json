@@ -1,0 +1,32 @@
+{
+    "npcId": 12256,
+    "name": "Kasonde",
+    "hitpoints": 240,
+    "combatLevel": 231,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MELEE",
+        "RANGED"
+    ],
+    "maxHits": [
+        20
+    ],
+    "size": 1,
+    "attackLevel": 190,
+    "strengthLevel": 190,
+    "defenceLevel": 90,
+    "magicLevel": 90,
+    "rangedLevel": 190,
+    "attackBonus": 40,
+    "rangeAttackBonus": 50,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 250,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 22954,
+    "itemName": "Devout boots",
+    "examine": "A pair of Devout Boots.",
+    "weight": 0.5,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "FEET",
+        "prayerBonus": 5
+    }
+}

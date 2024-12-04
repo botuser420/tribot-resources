@@ -1,0 +1,31 @@
+{
+    "npcId": 12814,
+    "name": "Fremennik warband archer",
+    "hitpoints": 50,
+    "combatLevel": 104,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        14
+    ],
+    "size": 1,
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 80,
+    "magicLevel": 110,
+    "rangedLevel": 110,
+    "attackBonus": 150,
+    "strengthBonus": 150,
+    "magicAttackBonus": 150,
+    "rangeAttackBonus": 150,
+    "rangedStrengthBonus": 10,
+    "magicDefenceBonus": 75,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

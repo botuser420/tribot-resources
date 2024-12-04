@@ -1,0 +1,20 @@
+{
+    "itemId": 23894,
+    "itemName": "Crystal legs (perfected)",
+    "examine": "The most resilient set of leg armour with a lot of protection from crystalline creatures.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": 14,
+        "slashAttackBonus": 14,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 14,
+        "rangeAttackBonus": 14,
+        "stabDefenceBonus": 92,
+        "slashDefenceBonus": 92,
+        "crushDefenceBonus": 92,
+        "magicDefenceBonus": 92,
+        "rangeDefenceBonus": 92,
+        "prayerBonus": 4
+    }
+}

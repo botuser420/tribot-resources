@@ -1,0 +1,40 @@
+{
+    "npcId": 12566,
+    "name": "Bloodthirsty Basilisk Sentinel",
+    "hitpoints": 780,
+    "combatLevel": 537,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "MELEE"
+    ],
+    "maxHits": [
+        42
+    ],
+    "slayerCategory": "Basilisks",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 8580.0,
+    "size": 3,
+    "attackLevel": 411,
+    "strengthLevel": 411,
+    "defenceLevel": 274,
+    "magicLevel": 411,
+    "rangedLevel": 1,
+    "attackBonus": 12,
+    "magicDamageBonus": 12,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 50,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

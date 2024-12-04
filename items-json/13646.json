@@ -1,0 +1,9 @@
+{
+    "itemId": 13646,
+    "itemName": "Farmer's strawhat",
+    "examine": "This will help with farming.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

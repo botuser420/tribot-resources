@@ -1,0 +1,13 @@
+{
+    "itemId": 23898,
+    "itemName": "Crystal staff (basic)",
+    "examine": "A basic staff of crystal.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 84,
+        "prayerBonus": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

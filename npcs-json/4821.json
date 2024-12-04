@@ -1,0 +1,21 @@
+{
+    "npcId": 4821,
+    "name": "Mudskipper",
+    "hitpoints": 20,
+    "combatLevel": 31,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 2,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 29,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,26 @@
+{
+    "npcId": 12815,
+    "name": "Fremennik warband seer",
+    "hitpoints": 50,
+    "combatLevel": 104,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        12
+    ],
+    "size": 1,
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 80,
+    "magicLevel": 110,
+    "rangedLevel": 110,
+    "magicAttackBonus": 150,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

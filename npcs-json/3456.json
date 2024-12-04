@@ -1,0 +1,27 @@
+{
+    "npcId": 3456,
+    "name": "Fareed",
+    "hitpoints": 130,
+    "combatLevel": 167,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        40,
+        37
+    ],
+    "size": 1,
+    "attackLevel": 190,
+    "strengthLevel": 120,
+    "defenceLevel": 135,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 120,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,20 @@
+{
+    "npcId": 9026,
+    "name": "Crystalline Rat",
+    "hitpoints": 14,
+    "combatLevel": 24,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 2,
+    "attackLevel": 28,
+    "strengthLevel": 32,
+    "defenceLevel": 6,
+    "magicLevel": 6,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

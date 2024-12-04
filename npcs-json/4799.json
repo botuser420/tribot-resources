@@ -1,0 +1,35 @@
+{
+    "npcId": 4799,
+    "name": "Giant Lobster",
+    "hitpoints": 50,
+    "combatLevel": 45,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 30,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 99,
+    "rangeDefenceBonus": 70,
+    "lightRangeDefenceBonus": 70,
+    "standardRangeDefenceBonus": 70,
+    "heavyRangeDefenceBonus": 70,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,40 @@
+{
+    "npcId": 2205,
+    "name": "Commander Zilyana",
+    "hitpoints": 255,
+    "combatLevel": 596,
+    "attackSpeed": 2,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        27,
+        20
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 350.0,
+    "size": 2,
+    "attackLevel": 280,
+    "strengthLevel": 196,
+    "defenceLevel": 300,
+    "magicLevel": 300,
+    "rangedLevel": 250,
+    "attackBonus": 195,
+    "strengthBonus": 20,
+    "magicAttackBonus": 200,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 100,
+    "rangeDefenceBonus": 100,
+    "lightRangeDefenceBonus": 100,
+    "standardRangeDefenceBonus": 100,
+    "heavyRangeDefenceBonus": 75,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

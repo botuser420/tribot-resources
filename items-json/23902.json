@@ -1,0 +1,15 @@
+{
+    "itemId": 23902,
+    "itemName": "Crystal bow (attuned)",
+    "examine": "A sturdy bow formed from crystal and wood.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 118,
+        "rangedStrengthBonus": 88,
+        "prayerBonus": 2,
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

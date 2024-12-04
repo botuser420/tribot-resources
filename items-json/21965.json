@@ -1,0 +1,11 @@
+{
+    "itemId": 21965,
+    "itemName": "Emerald dragon bolts",
+    "examine": "Dragon crossbow bolts, tipped with emerald.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

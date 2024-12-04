@@ -1,0 +1,9 @@
+{
+    "itemId": 13681,
+    "itemName": "Cruciferous codex",
+    "examine": "The holy book of Cabbages.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

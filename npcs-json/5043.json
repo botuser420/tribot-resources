@@ -1,0 +1,31 @@
+{
+    "npcId": 5043,
+    "name": "Suit of armour",
+    "hitpoints": 29,
+    "combatLevel": 19,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 16,
+    "strengthLevel": 14,
+    "defenceLevel": 9,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 8,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 46,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 45,
+    "magicDefenceBonus": -12,
+    "rangeDefenceBonus": 45,
+    "lightRangeDefenceBonus": 45,
+    "standardRangeDefenceBonus": 45,
+    "heavyRangeDefenceBonus": 45,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,32 @@
+{
+    "npcId": 7395,
+    "name": "Monstrous basilisk",
+    "hitpoints": 170,
+    "combatLevel": 135,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "slayerCategory": "Basilisks",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 1700.0,
+    "size": 3,
+    "attackLevel": 88,
+    "strengthLevel": 98,
+    "defenceLevel": 130,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 35,
+    "slashDefenceBonus": 35,
+    "magicDefenceBonus": 35,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

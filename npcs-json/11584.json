@@ -1,0 +1,21 @@
+{
+    "npcId": 11584,
+    "name": "Locust",
+    "hitpoints": 27,
+    "combatLevel": 18,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 17,
+    "strengthLevel": 18,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

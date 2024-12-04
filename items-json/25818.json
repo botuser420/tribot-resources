@@ -1,0 +1,11 @@
+{
+    "itemId": 25818,
+    "itemName": "Book of the dead",
+    "examine": "A book that grants its holder the powers of resurrection.",
+    "weight": 0.2,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 6,
+        "prayerBonus": 3
+    }
+}

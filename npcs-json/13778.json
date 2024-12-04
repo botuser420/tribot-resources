@@ -1,0 +1,30 @@
+{
+    "npcId": 13778,
+    "name": "Emissary Conjurer",
+    "hitpoints": 40,
+    "combatLevel": 71,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 40,
+    "defenceLevel": 70,
+    "magicLevel": 70,
+    "rangedLevel": 1,
+    "magicDamageBonus": 40,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 15,
+    "rangeDefenceBonus": 5,
+    "lightRangeDefenceBonus": 5,
+    "standardRangeDefenceBonus": 5,
+    "heavyRangeDefenceBonus": 5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

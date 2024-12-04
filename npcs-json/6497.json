@@ -1,0 +1,36 @@
+{
+    "npcId": 6497,
+    "name": "Dagannoth Prime",
+    "hitpoints": 255,
+    "combatLevel": 303,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        50
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 331.4,
+    "size": 3,
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 255,
+    "magicLevel": 255,
+    "stabDefenceBonus": 255,
+    "slashDefenceBonus": 255,
+    "crushDefenceBonus": 255,
+    "magicDefenceBonus": 255,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

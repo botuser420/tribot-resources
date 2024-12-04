@@ -1,0 +1,26 @@
+{
+    "npcId": 6143,
+    "name": "Urium Shadow",
+    "hitpoints": 130,
+    "combatLevel": 140,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        13
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Shades",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 130.0,
+    "size": 1,
+    "attackLevel": 138,
+    "strengthLevel": 116,
+    "defenceLevel": 100,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

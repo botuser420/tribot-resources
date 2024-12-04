@@ -1,0 +1,20 @@
+{
+    "npcId": 7024,
+    "name": "Reanimated unicorn",
+    "hitpoints": 15,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 2,
+    "attackLevel": 11,
+    "strengthLevel": 13,
+    "defenceLevel": 13,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

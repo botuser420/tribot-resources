@@ -1,0 +1,7 @@
+{
+    "itemId": 560,
+    "itemName": "Death rune",
+    "examine": "Used for medium level missile spells.",
+    "weight": 0.0,
+    "buyLimit": 25000
+}

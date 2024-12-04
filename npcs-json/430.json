@@ -1,0 +1,31 @@
+{
+    "npcId": 430,
+    "name": "Turoth",
+    "hitpoints": 76,
+    "combatLevel": 83,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        9
+    ],
+    "monsterAttribute": "leafy",
+    "slayerCategory": "Turoth",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "NIEVE"
+    ],
+    "slayerExperience": 76.0,
+    "size": 1,
+    "attackLevel": 53,
+    "strengthLevel": 83,
+    "defenceLevel": 83,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

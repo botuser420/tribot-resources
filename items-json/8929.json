@@ -1,0 +1,13 @@
+{
+    "itemId": 8929,
+    "itemName": "Crabclaw hook",
+    "examine": "Tied together so they don't come apart.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HANDS",
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "strengthBonus": 1
+    }
+}

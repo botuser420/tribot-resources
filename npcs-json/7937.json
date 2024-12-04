@@ -1,0 +1,42 @@
+{
+    "npcId": 7937,
+    "name": "Revenant ork",
+    "hitpoints": 105,
+    "combatLevel": 105,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        20
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Revenants",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 115.0,
+    "size": 3,
+    "attackLevel": 99,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "magicLevel": 110,
+    "rangedLevel": 130,
+    "attackBonus": 60,
+    "strengthBonus": 55,
+    "rangeAttackBonus": 50,
+    "stabDefenceBonus": 148,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 146,
+    "magicDefenceBonus": 50,
+    "rangeDefenceBonus": 148,
+    "lightRangeDefenceBonus": 148,
+    "standardRangeDefenceBonus": 148,
+    "heavyRangeDefenceBonus": 148,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

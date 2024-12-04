@@ -1,0 +1,19 @@
+{
+    "itemId": 28531,
+    "itemName": "Corrupted voidwaker",
+    "examine": "A truly fearsome weapon.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 56,
+        "slashAttackBonus": 64,
+        "crushAttackBonus": -2,
+        "magicAttackBonus": 4,
+        "slashDefenceBonus": 1,
+        "magicDefenceBonus": 2,
+        "strengthBonus": 64,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

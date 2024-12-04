@@ -1,0 +1,37 @@
+{
+    "npcId": 7038,
+    "name": "Reanimated abyssal",
+    "hitpoints": 35,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        8
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Abyssal Demons",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 35.0,
+    "size": 1,
+    "attackLevel": 97,
+    "strengthLevel": 67,
+    "defenceLevel": 135,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

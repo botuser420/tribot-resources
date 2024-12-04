@@ -1,0 +1,17 @@
+{
+    "itemId": 12207,
+    "itemName": "Bronze platelegs (g)",
+    "examine": "Bronze platelegs with gold trim.",
+    "weight": 9.071,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 7
+    }
+}

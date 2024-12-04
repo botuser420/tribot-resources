@@ -1,0 +1,22 @@
+{
+    "npcId": 823,
+    "name": "Melzar the Mad",
+    "hitpoints": 44,
+    "combatLevel": 43,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 37,
+    "strengthLevel": 37,
+    "defenceLevel": 34,
+    "magicLevel": 40,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

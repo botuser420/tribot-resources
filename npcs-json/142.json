@@ -1,0 +1,22 @@
+{
+    "npcId": 142,
+    "name": "Demon",
+    "hitpoints": 79,
+    "combatLevel": 82,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 2,
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 71,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

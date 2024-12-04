@@ -1,0 +1,7 @@
+{
+    "itemId": 21163,
+    "itemName": "Amulet of chemistry",
+    "examine": "Useful when making potions - has the chance of giving an extra dose.",
+    "weight": 0.007,
+    "buyLimit": 10000
+}

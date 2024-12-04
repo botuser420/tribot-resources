@@ -1,0 +1,10 @@
+{
+    "itemId": 20059,
+    "itemName": "Bucket helm (g)",
+    "examine": "A helm made from a golden bucket.",
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "itemId": 20405,
+    "itemName": "Abyssal whip",
+    "examine": "A weapon from the Abyss.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 82,
+        "strengthBonus": 82,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "WHIP"
+    }
+}

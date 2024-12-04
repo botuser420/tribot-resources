@@ -1,0 +1,15 @@
+{
+    "itemId": 1729,
+    "itemName": "Amulet of defence",
+    "examine": "An enchanted emerald amulet of protection.",
+    "weight": 0.01,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 7,
+        "rangeDefenceBonus": 7
+    }
+}

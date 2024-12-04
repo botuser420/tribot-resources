@@ -1,0 +1,7 @@
+{
+    "itemId": 10,
+    "itemName": "Cannon barrels",
+    "examine": "The barrels of the multicannon.",
+    "weight": 15.0,
+    "buyLimit": 70
+}

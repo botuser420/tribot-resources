@@ -1,0 +1,14 @@
+{
+    "itemId": 25894,
+    "itemName": "Bow of faerdhinen (c)",
+    "examine": "A magical elven bow, corrupted through the addition of too many shards.",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 128,
+        "rangedStrengthBonus": 106,
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

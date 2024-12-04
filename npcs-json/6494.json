@@ -1,0 +1,41 @@
+{
+    "npcId": 6494,
+    "name": "General Graardor",
+    "hitpoints": 255,
+    "combatLevel": 624,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        60,
+        35
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 338.0,
+    "size": 4,
+    "attackLevel": 280,
+    "strengthLevel": 350,
+    "defenceLevel": 250,
+    "magicLevel": 80,
+    "rangedLevel": 350,
+    "attackBonus": 120,
+    "strengthBonus": 43,
+    "rangeAttackBonus": 100,
+    "rangedStrengthBonus": 40,
+    "stabDefenceBonus": 90,
+    "slashDefenceBonus": 90,
+    "crushDefenceBonus": 90,
+    "magicDefenceBonus": 298,
+    "rangeDefenceBonus": 90,
+    "lightRangeDefenceBonus": 90,
+    "standardRangeDefenceBonus": 90,
+    "heavyRangeDefenceBonus": 90,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

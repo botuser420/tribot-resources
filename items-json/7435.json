@@ -1,0 +1,19 @@
+{
+    "itemId": 7435,
+    "itemName": "Egg whisk",
+    "examine": "A large whisk of death.",
+    "weight": 0.453,
+    "buyLimit": 50,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 5,
+        "slashAttackBonus": 3,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 4,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

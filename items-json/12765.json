@@ -1,0 +1,13 @@
+{
+    "itemId": 12765,
+    "itemName": "Dark bow",
+    "examine": "A bow from a darker dimension, painted green.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 95,
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 9,
+        "weaponType": "BOW"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "npcId": 12290,
+    "name": "Strangled Lynx",
+    "hitpoints": 50,
+    "combatLevel": 182,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "TYPELESS"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 2,
+    "attackLevel": 190,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "magicLevel": 60,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

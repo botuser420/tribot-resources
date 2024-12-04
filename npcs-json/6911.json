@@ -1,0 +1,25 @@
+{
+    "npcId": 6911,
+    "name": "Soldier (tier 4)",
+    "hitpoints": 65,
+    "combatLevel": 70,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 10,
+    "strengthBonus": 8,
+    "stabDefenceBonus": 1,
+    "slashDefenceBonus": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

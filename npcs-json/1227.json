@@ -1,0 +1,18 @@
+{
+    "npcId": 1227,
+    "name": "Arzinian Avatar of Strength",
+    "hitpoints": 200,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        14
+    ],
+    "size": 1,
+    "attackLevel": 150,
+    "strengthLevel": 130,
+    "defenceLevel": 120,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

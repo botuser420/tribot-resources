@@ -1,0 +1,10 @@
+{
+    "itemId": 21330,
+    "itemName": "Amethyst fire arrow (lit)",
+    "examine": "These amethyst-headed arrows are ablaze with fire.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 55
+    }
+}

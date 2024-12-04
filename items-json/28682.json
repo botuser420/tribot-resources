@@ -1,0 +1,19 @@
+{
+    "itemId": 28682,
+    "itemName": "Dinh's blazing bulwark",
+    "examine": "Hot to the touch.",
+    "weight": 30.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 124,
+        "stabDefenceBonus": 106,
+        "slashDefenceBonus": 109,
+        "crushDefenceBonus": 109,
+        "magicDefenceBonus": -10,
+        "rangeDefenceBonus": 148,
+        "strengthBonus": 38,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "BULWARK"
+    }
+}

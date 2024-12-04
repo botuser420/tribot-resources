@@ -1,0 +1,9 @@
+{
+    "itemId": 24340,
+    "itemName": "Bounty hunter hat (tier 2)",
+    "examine": "A hat fit for the casual player killers.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

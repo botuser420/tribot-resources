@@ -1,0 +1,37 @@
+{
+    "npcId": 11730,
+    "name": "Zebak",
+    "hitpoints": 580,
+    "combatLevel": 371,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "MELEE",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        38
+    ],
+    "size": 9,
+    "attackLevel": 250,
+    "strengthLevel": 140,
+    "defenceLevel": 70,
+    "magicLevel": 100,
+    "rangedLevel": 120,
+    "attackBonus": 160,
+    "strengthBonus": 100,
+    "magicAttackBonus": 215,
+    "magicDamageBonus": 30,
+    "rangeAttackBonus": 220,
+    "rangedStrengthBonus": 16,
+    "stabDefenceBonus": 160,
+    "slashDefenceBonus": 160,
+    "crushDefenceBonus": 260,
+    "magicDefenceBonus": 200,
+    "rangeDefenceBonus": 110,
+    "lightRangeDefenceBonus": 110,
+    "standardRangeDefenceBonus": 110,
+    "heavyRangeDefenceBonus": 110,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

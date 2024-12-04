@@ -1,0 +1,13 @@
+{
+    "itemId": 28053,
+    "itemName": "Dragon crossbow (cr)",
+    "examine": "A dragon crossbow.",
+    "weight": 6.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 94,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

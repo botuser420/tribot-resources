@@ -1,0 +1,16 @@
+{
+    "itemId": 4072,
+    "itemName": "Decorative shield",
+    "examine": "A very decorative shield.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 14
+    }
+}

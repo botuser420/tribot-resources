@@ -1,0 +1,11 @@
+{
+    "itemId": 20235,
+    "itemName": "Ancient blessing",
+    "examine": "The misery that is now upon us is but the passing of greed, the bitterness of those who fear the way of progress.",
+    "weight": 0.51,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "AMMO",
+        "prayerBonus": 1
+    }
+}

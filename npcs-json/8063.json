@@ -1,0 +1,30 @@
+{
+    "npcId": 8063,
+    "name": "Zombified Spawn",
+    "hitpoints": 38,
+    "combatLevel": 64,
+    "attackSpeed": -1,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        60
+    ],
+    "monsterAttribute": "undead",
+    "size": 1,
+    "attackLevel": 82,
+    "strengthLevel": 82,
+    "defenceLevel": 6,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 3,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 3,
+    "magicDefenceBonus": -100,
+    "rangeDefenceBonus": 3,
+    "lightRangeDefenceBonus": 3,
+    "standardRangeDefenceBonus": 3,
+    "heavyRangeDefenceBonus": 3,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

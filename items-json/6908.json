@@ -1,0 +1,15 @@
+{
+    "itemId": 6908,
+    "itemName": "Beginner wand",
+    "examine": "A beginner level wand.",
+    "weight": 0.283,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 5,
+        "magicDefenceBonus": 5,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

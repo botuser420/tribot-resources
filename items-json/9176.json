@@ -1,0 +1,13 @@
+{
+    "itemId": 9176,
+    "itemName": "Blurite crossbow",
+    "examine": "A blurite crossbow.",
+    "weight": 4.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 30,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

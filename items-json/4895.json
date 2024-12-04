@@ -1,0 +1,16 @@
+{
+    "itemId": 4895,
+    "itemName": "Dharok's platebody 25",
+    "examine": "Dharok the Wretched's platebody armour.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 122,
+        "slashDefenceBonus": 120,
+        "crushDefenceBonus": 107,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 132
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "npcId": 5566,
+    "name": "Ferocious barbarian spirit",
+    "hitpoints": 190,
+    "combatLevel": 166,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "monsterAttribute": "spectral",
+    "size": 1,
+    "attackLevel": 150,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 15,
+    "slashDefenceBonus": 73,
+    "crushDefenceBonus": 72,
+    "magicDefenceBonus": -3,
+    "rangeDefenceBonus": 72,
+    "lightRangeDefenceBonus": 72,
+    "standardRangeDefenceBonus": 72,
+    "heavyRangeDefenceBonus": 72,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

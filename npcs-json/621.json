@@ -1,0 +1,28 @@
+{
+    "npcId": 621,
+    "name": "Zombie swab",
+    "hitpoints": 50,
+    "combatLevel": 55,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 45,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

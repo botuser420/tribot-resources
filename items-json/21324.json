@@ -1,0 +1,11 @@
+{
+    "itemId": 21324,
+    "itemName": "Amethyst javelin(p++)",
+    "examine": "An amethyst tipped javelin.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 135
+    }
+}

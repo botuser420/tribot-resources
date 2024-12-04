@@ -1,0 +1,26 @@
+{
+    "npcId": 6435,
+    "name": "Cave goblin",
+    "hitpoints": 10,
+    "combatLevel": 3,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "slayerCategory": "Goblins",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 10.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

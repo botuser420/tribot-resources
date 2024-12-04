@@ -1,0 +1,7 @@
+{
+    "itemId": 9420,
+    "itemName": "Bronze limbs",
+    "examine": "A pair of bronze crossbow limbs.",
+    "weight": 1.0,
+    "buyLimit": 10000
+}

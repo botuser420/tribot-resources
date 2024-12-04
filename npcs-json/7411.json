@@ -1,0 +1,37 @@
+{
+    "npcId": 7411,
+    "name": "Nechryarch",
+    "hitpoints": 320,
+    "combatLevel": 300,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        27
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Nechryael",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 3280.0,
+    "size": 2,
+    "attackLevel": 310,
+    "strengthLevel": 260,
+    "defenceLevel": 140,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "rangeDefenceBonus": 30,
+    "lightRangeDefenceBonus": 30,
+    "standardRangeDefenceBonus": 30,
+    "heavyRangeDefenceBonus": 30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

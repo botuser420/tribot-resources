@@ -1,0 +1,12 @@
+{
+    "itemId": 25725,
+    "itemName": "Clan vexillum",
+    "examine": "While this is equipped, you'll see an option for recruiting people into your clan.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BANNER"
+    }
+}

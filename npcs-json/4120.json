@@ -1,0 +1,37 @@
+{
+    "npcId": 4120,
+    "name": "Troll general",
+    "hitpoints": 140,
+    "combatLevel": 113,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        38
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 150.5,
+    "size": 2,
+    "attackLevel": 70,
+    "strengthLevel": 140,
+    "defenceLevel": 40,
+    "attackBonus": 60,
+    "strengthBonus": 100,
+    "stabDefenceBonus": 35,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 35,
+    "magicDefenceBonus": 200,
+    "rangeDefenceBonus": 200,
+    "lightRangeDefenceBonus": 200,
+    "standardRangeDefenceBonus": 200,
+    "heavyRangeDefenceBonus": 200,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

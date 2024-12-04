@@ -1,0 +1,34 @@
+{
+    "npcId": 4184,
+    "name": "Crocodile",
+    "hitpoints": 62,
+    "combatLevel": 63,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Crocodiles",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 62.0,
+    "size": 2,
+    "attackLevel": 53,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 12,
+    "crushDefenceBonus": 22,
+    "magicDefenceBonus": 10,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 27199,
+    "itemName": "3rd age range top",
+    "examine": "Fabulously ancient range protection crafted from white dragonhide.",
+    "weight": 4.0,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangeAttackBonus": 30,
+        "stabDefenceBonus": 55,
+        "slashDefenceBonus": 47,
+        "crushDefenceBonus": 60,
+        "magicDefenceBonus": 60,
+        "rangeDefenceBonus": 55
+    }
+}

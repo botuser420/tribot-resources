@@ -1,0 +1,17 @@
+{
+    "itemId": 26233,
+    "itemName": "Ancient godsword",
+    "examine": "A mysterious, heavy sword.",
+    "weight": 10.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 132,
+        "crushAttackBonus": 80,
+        "strengthBonus": 132,
+        "prayerBonus": 8,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

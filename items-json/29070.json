@@ -1,0 +1,18 @@
+{
+    "itemId": 29070,
+    "itemName": "Blood moon tassets (broken)",
+    "examine": "The tassets of the Blood Moon.",
+    "weight": 4.082,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -7,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 50,
+        "crushDefenceBonus": 49,
+        "magicDefenceBonus": 32,
+        "rangeDefenceBonus": 46,
+        "strengthBonus": 2
+    }
+}

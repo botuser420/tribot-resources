@@ -1,0 +1,28 @@
+{
+    "npcId": 1235,
+    "name": "Arzinian Avatar of Magic",
+    "hitpoints": 70,
+    "combatLevel": 75,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 50,
+    "defenceLevel": 75,
+    "magicLevel": 75,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 15,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 10,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 10,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

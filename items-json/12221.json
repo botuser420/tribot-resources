@@ -1,0 +1,17 @@
+{
+    "itemId": 12221,
+    "itemName": "Bronze full helm (t)",
+    "examine": "Bronze full helm with trim.",
+    "weight": 2.721,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 4
+    }
+}

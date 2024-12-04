@@ -1,0 +1,32 @@
+{
+    "npcId": 11990,
+    "name": "Poison spider",
+    "hitpoints": 73,
+    "combatLevel": 48,
+    "attackSpeed": 5,
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 35,
+    "magicLevel": 1,
+    "rangedLevel": 45,
+    "rangeAttackBonus": 63,
+    "rangedStrengthBonus": 35,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 17,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 14,
+    "rangeDefenceBonus": 14,
+    "lightRangeDefenceBonus": 14,
+    "standardRangeDefenceBonus": 14,
+    "heavyRangeDefenceBonus": 14,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

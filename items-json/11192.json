@@ -1,0 +1,9 @@
+{
+    "itemId": 11192,
+    "itemName": "Digsite pendant (3)",
+    "examine": "An enchanted necklace.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

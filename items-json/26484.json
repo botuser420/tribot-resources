@@ -1,0 +1,14 @@
+{
+    "itemId": 26484,
+    "itemName": "Abyssal tentacle (or)",
+    "examine": "A weapon plucked from the shattered abyss, embedded in a spiked chain.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 90,
+        "strengthBonus": 86,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "WHIP"
+    }
+}

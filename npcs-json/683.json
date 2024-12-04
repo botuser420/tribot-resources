@@ -1,0 +1,30 @@
+{
+    "npcId": 683,
+    "name": "Damis",
+    "hitpoints": 200,
+    "combatLevel": 174,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        28
+    ],
+    "size": 1,
+    "attackLevel": 160,
+    "strengthLevel": 100,
+    "defenceLevel": 160,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 100,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 80,
+    "rangeDefenceBonus": 120,
+    "lightRangeDefenceBonus": 120,
+    "standardRangeDefenceBonus": 120,
+    "heavyRangeDefenceBonus": 120,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

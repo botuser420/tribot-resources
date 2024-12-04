@@ -1,0 +1,39 @@
+{
+    "npcId": 7795,
+    "name": "Ancient Wyvern",
+    "hitpoints": 300,
+    "combatLevel": 210,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        16,
+        44,
+        10
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Fossil Island Wyverns",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 315.0,
+    "size": 5,
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 150,
+    "magicLevel": 90,
+    "rangedLevel": 90,
+    "stabDefenceBonus": 70,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 170,
+    "rangeDefenceBonus": 120,
+    "lightRangeDefenceBonus": 120,
+    "standardRangeDefenceBonus": 120,
+    "heavyRangeDefenceBonus": 120,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

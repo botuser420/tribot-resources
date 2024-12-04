@@ -1,0 +1,26 @@
+{
+    "npcId": 4342,
+    "name": "Sir Lucan",
+    "hitpoints": 105,
+    "combatLevel": 120,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        19
+    ],
+    "size": 1,
+    "attackLevel": 105,
+    "strengthLevel": 110,
+    "defenceLevel": 99,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 40,
+    "strengthBonus": 40,
+    "stabDefenceBonus": 275,
+    "slashDefenceBonus": 65,
+    "crushDefenceBonus": 45,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

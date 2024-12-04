@@ -1,0 +1,41 @@
+{
+    "npcId": 7416,
+    "name": "Obor",
+    "hitpoints": 120,
+    "combatLevel": 106,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        22,
+        28
+    ],
+    "slayerCategory": "Hill Giants",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 129.0,
+    "size": 2,
+    "attackLevel": 90,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "magicLevel": 1,
+    "rangedLevel": 120,
+    "attackBonus": 100,
+    "strengthBonus": 68,
+    "rangeAttackBonus": 100,
+    "rangedStrengthBonus": 65,
+    "stabDefenceBonus": 35,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 45,
+    "magicDefenceBonus": 20,
+    "rangeDefenceBonus": 20,
+    "lightRangeDefenceBonus": 20,
+    "standardRangeDefenceBonus": 20,
+    "heavyRangeDefenceBonus": 20,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

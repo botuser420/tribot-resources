@@ -1,0 +1,19 @@
+{
+    "itemId": 3755,
+    "itemName": "Farseer helm",
+    "examine": "This helmet is worn by farseers.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": -5,
+        "slashAttackBonus": -5,
+        "crushAttackBonus": -5,
+        "magicAttackBonus": 6,
+        "rangeAttackBonus": -5,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 6
+    }
+}

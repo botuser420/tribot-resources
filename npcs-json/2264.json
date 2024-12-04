@@ -1,0 +1,28 @@
+{
+    "npcId": 2264,
+    "name": "Dagannoth fledgeling",
+    "hitpoints": 100,
+    "combatLevel": 70,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Dagannoth",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 2,
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

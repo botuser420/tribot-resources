@@ -1,0 +1,18 @@
+{
+    "itemId": 11920,
+    "itemName": "Dragon pickaxe",
+    "examine": "If rocks could feel fear, they'd fear this.",
+    "weight": 2.4,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 38,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 32,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 42,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "PICKAXE"
+    }
+}

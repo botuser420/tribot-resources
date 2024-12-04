@@ -1,0 +1,17 @@
+{
+    "itemId": 11283,
+    "itemName": "Dragonfire shield",
+    "examine": "A heavy shield with a snarling, draconic visage.",
+    "weight": 7.257,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": -5,
+        "stabDefenceBonus": 70,
+        "slashDefenceBonus": 75,
+        "crushDefenceBonus": 72,
+        "magicDefenceBonus": 10,
+        "rangeDefenceBonus": 72,
+        "strengthBonus": 7
+    }
+}

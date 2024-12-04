@@ -1,0 +1,7 @@
+{
+    "itemId": 5945,
+    "itemName": "Antidote+(3)",
+    "examine": "3 doses of extra strong antipoison potion.",
+    "weight": 0.035,
+    "buyLimit": 4000
+}

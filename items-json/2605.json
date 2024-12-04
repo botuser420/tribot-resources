@@ -1,0 +1,17 @@
+{
+    "itemId": 2605,
+    "itemName": "Adamant full helm (t)",
+    "examine": "Adamant full helmet with trim.",
+    "weight": 3.175,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 19,
+        "slashDefenceBonus": 21,
+        "crushDefenceBonus": 16,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 19
+    }
+}

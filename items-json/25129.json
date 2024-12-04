@@ -1,0 +1,9 @@
+{
+    "itemId": 25129,
+    "itemName": "Beekeeper's hat",
+    "examine": "Makes sure no bees get in your eyes!!",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

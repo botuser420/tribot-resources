@@ -1,0 +1,16 @@
+{
+    "itemId": 23787,
+    "itemName": "Ardougne knight platebody",
+    "examine": "A platebody worn by the Knights of Ardougne.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 20
+    }
+}

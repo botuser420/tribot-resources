@@ -1,0 +1,23 @@
+{
+    "npcId": 2234,
+    "name": "Jogre",
+    "hitpoints": 70,
+    "combatLevel": 58,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 2,
+    "attackLevel": 46,
+    "strengthLevel": 48,
+    "defenceLevel": 43,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 22,
+    "strengthBonus": 21,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

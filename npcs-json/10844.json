@@ -1,0 +1,18 @@
+{
+    "npcId": 10844,
+    "name": "Nylocas Athanatos",
+    "hitpoints": 30,
+    "combatLevel": 107,
+    "attackSpeed": -1,
+    "maxHits": [
+        1
+    ],
+    "size": 3,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 40,
+    "magicLevel": 40,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

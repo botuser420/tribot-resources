@@ -1,0 +1,19 @@
+{
+    "itemId": 28039,
+    "itemName": "Dragon claws (cr)",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 41,
+        "slashAttackBonus": 57,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 26,
+        "crushDefenceBonus": 7,
+        "strengthBonus": 56,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

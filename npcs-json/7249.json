@@ -1,0 +1,27 @@
+{
+    "npcId": 7249,
+    "name": "Dust devil",
+    "hitpoints": 130,
+    "combatLevel": 110,
+    "attackSpeed": 4,
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "Dust Devils",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 130.0,
+    "size": 1,
+    "attackLevel": 120,
+    "strengthLevel": 90,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 6384,
+    "itemName": "Desert top",
+    "examine": "A bit itchy.",
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

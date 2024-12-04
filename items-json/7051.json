@@ -1,0 +1,10 @@
+{
+    "itemId": 7051,
+    "itemName": "Unlit bug lantern",
+    "examine": "A lantern to aid attacking Harpie bugs.",
+    "weight": 2.267,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "itemId": 12006,
+    "itemName": "Abyssal tentacle",
+    "examine": "A weapon from the Abyss, embedded in a slimy tentacle.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 90,
+        "strengthBonus": 86,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "WHIP"
+    }
+}

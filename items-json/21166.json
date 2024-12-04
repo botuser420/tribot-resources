@@ -1,0 +1,10 @@
+{
+    "itemId": 21166,
+    "itemName": "Burning amulet(5)",
+    "examine": "Useful teleports around the wilderness.",
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

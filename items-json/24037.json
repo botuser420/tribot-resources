@@ -1,0 +1,16 @@
+{
+    "itemId": 24037,
+    "itemName": "Dragonstone platebody",
+    "examine": "A stylish rune platebody inlaid with dragonstones.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 82,
+        "slashDefenceBonus": 80,
+        "crushDefenceBonus": 72,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 80
+    }
+}

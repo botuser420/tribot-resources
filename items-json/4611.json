@@ -1,0 +1,9 @@
+{
+    "itemId": 4611,
+    "itemName": "Desert disguise",
+    "examine": "A disguise suitable for the desert.",
+    "weight": 0.04,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

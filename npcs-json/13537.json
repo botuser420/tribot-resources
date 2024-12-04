@@ -1,0 +1,31 @@
+{
+    "npcId": 13537,
+    "name": "Mercenary mage",
+    "hitpoints": 150,
+    "combatLevel": 112,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 90,
+    "magicLevel": 150,
+    "rangedLevel": 1,
+    "magicAttackBonus": 150,
+    "magicDamageBonus": 10,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 10,
+    "rangeDefenceBonus": 10,
+    "lightRangeDefenceBonus": 5,
+    "standardRangeDefenceBonus": 10,
+    "heavyRangeDefenceBonus": 15,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

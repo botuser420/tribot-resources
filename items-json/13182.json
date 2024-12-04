@@ -1,0 +1,9 @@
+{
+    "itemId": 13182,
+    "itemName": "Bunny feet",
+    "examine": "Bigger and softer than a rabbit's foot necklace.",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

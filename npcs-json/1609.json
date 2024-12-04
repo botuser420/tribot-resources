@@ -1,0 +1,29 @@
+{
+    "npcId": 1609,
+    "name": "Kolodion",
+    "hitpoints": 107,
+    "combatLevel": 112,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        20
+    ],
+    "slayerCategory": "Black Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 107.0,
+    "size": 3,
+    "attackLevel": 85,
+    "strengthLevel": 98,
+    "defenceLevel": 105,
+    "magicLevel": 80,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

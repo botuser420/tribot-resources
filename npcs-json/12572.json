@@ -1,0 +1,21 @@
+{
+    "npcId": 12572,
+    "name": "Bloodthirsty abomination",
+    "hitpoints": 130,
+    "combatLevel": 206,
+    "attackSpeed": 4,
+    "slayerCategory": "Cave Horrors",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 2,
+    "attackLevel": 230,
+    "strengthLevel": 195,
+    "defenceLevel": 142,
+    "magicLevel": 230,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": true
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 25862,
+    "itemName": "Bow of faerdhinen (inactive)",
+    "examine": "A magical elven bow.",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

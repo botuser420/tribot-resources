@@ -1,0 +1,37 @@
+{
+    "npcId": 7032,
+    "name": "Reanimated kalphite",
+    "hitpoints": 35,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        12
+    ],
+    "monsterAttribute": "kalphite",
+    "slayerCategory": "Kalphite",
+    "assignedBy": [
+        "MAZCHNA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 35.0,
+    "size": 4,
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 110,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 50,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

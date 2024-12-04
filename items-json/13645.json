@@ -1,0 +1,9 @@
+{
+    "itemId": 13645,
+    "itemName": "Farmer's boots",
+    "examine": "This will help with farming.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

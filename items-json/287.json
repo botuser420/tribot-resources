@@ -1,0 +1,9 @@
+{
+    "itemId": 287,
+    "itemName": "Blue goblin mail",
+    "examine": "Some blue armour designed to fit goblins.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

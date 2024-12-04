@@ -1,0 +1,43 @@
+{
+    "npcId": 9773,
+    "name": "Kroy",
+    "hitpoints": 209,
+    "combatLevel": 133,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "MELEE"
+    ],
+    "maxHits": [
+        15
+    ],
+    "monsterAttribute": "vampyre1",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 240.0,
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "magicLevel": 80,
+    "attackBonus": 36,
+    "strengthBonus": 42,
+    "magicAttackBonus": 36,
+    "magicDamageBonus": 42,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 50,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

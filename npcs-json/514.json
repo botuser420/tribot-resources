@@ -1,0 +1,14 @@
+{
+    "npcId": 514,
+    "name": "Witch",
+    "hitpoints": 10,
+    "combatLevel": 25,
+    "size": 1,
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "magicLevel": 30,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

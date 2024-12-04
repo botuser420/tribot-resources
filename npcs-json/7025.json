@@ -1,0 +1,26 @@
+{
+    "npcId": 7025,
+    "name": "Reanimated dog",
+    "hitpoints": 35,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Dogs",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 35.0,
+    "size": 1,
+    "attackLevel": 53,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

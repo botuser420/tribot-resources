@@ -1,0 +1,12 @@
+{
+    "itemId": 11708,
+    "itemName": "Cursed goblin bow",
+    "examine": "A curse has been placed on this bow.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 6,
+        "weaponAttackSpeed": 6,
+        "weaponType": "BOW"
+    }
+}

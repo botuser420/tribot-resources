@@ -1,0 +1,16 @@
+{
+    "itemId": 25416,
+    "itemName": "Bloodbark legs",
+    "examine": "Strong leg protection.",
+    "weight": 3.628,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 16,
+        "stabDefenceBonus": 33,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 38,
+        "magicDefenceBonus": 17,
+        "magicDamageBonus": 1.0
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "itemId": 3196,
+    "itemName": "Black halberd",
+    "examine": "A black halberd.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 19,
+        "slashAttackBonus": 25,
+        "magicAttackBonus": -4,
+        "stabDefenceBonus": -1,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 3,
+        "strengthBonus": 20,
+        "weaponAttackRange": 2,
+        "weaponAttackSpeed": 7,
+        "weaponType": "POLEARM"
+    }
+}

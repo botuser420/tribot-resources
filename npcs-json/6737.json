@@ -1,0 +1,29 @@
+{
+    "npcId": 6737,
+    "name": "River troll",
+    "hitpoints": 170,
+    "combatLevel": 159,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        14
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 4.0,
+    "size": 1,
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 130,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

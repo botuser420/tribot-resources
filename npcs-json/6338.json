@@ -1,0 +1,30 @@
+{
+    "npcId": 6338,
+    "name": "Nazastarool (hard)",
+    "hitpoints": 180,
+    "combatLevel": 153,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "slayerCategory": "No",
+    "size": 2,
+    "attackLevel": 150,
+    "strengthLevel": 140,
+    "defenceLevel": 58,
+    "attackBonus": 15,
+    "strengthBonus": 15,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 5,
+    "rangeDefenceBonus": 5,
+    "lightRangeDefenceBonus": 5,
+    "standardRangeDefenceBonus": 5,
+    "heavyRangeDefenceBonus": 5,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

@@ -1,0 +1,21 @@
+{
+    "npcId": 6075,
+    "name": "Tortoise",
+    "hitpoints": 100,
+    "combatLevel": 79,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 3,
+    "attackLevel": 15,
+    "strengthLevel": 90,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

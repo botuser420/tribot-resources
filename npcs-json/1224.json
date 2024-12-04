@@ -1,0 +1,31 @@
+{
+    "npcId": 1224,
+    "name": "Bouncer",
+    "hitpoints": 116,
+    "combatLevel": 137,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        13
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Hellhounds",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 116.0,
+    "size": 2,
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

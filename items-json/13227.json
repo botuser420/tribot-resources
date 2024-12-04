@@ -1,0 +1,7 @@
+{
+    "itemId": 13227,
+    "itemName": "Eternal crystal",
+    "examine": "A powerful crystal of magic.",
+    "weight": 0.05,
+    "buyLimit": 15
+}

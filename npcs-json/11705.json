@@ -1,0 +1,30 @@
+{
+    "npcId": 11705,
+    "name": "Crocodile",
+    "hitpoints": 30,
+    "combatLevel": 71,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "size": 2,
+    "attackLevel": 150,
+    "strengthLevel": 60,
+    "defenceLevel": 100,
+    "magicLevel": 30,
+    "rangedLevel": 1,
+    "strengthBonus": 100,
+    "stabDefenceBonus": 150,
+    "slashDefenceBonus": 350,
+    "crushDefenceBonus": 350,
+    "magicDefenceBonus": 5,
+    "rangeDefenceBonus": 150,
+    "lightRangeDefenceBonus": 150,
+    "standardRangeDefenceBonus": 150,
+    "heavyRangeDefenceBonus": 150,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

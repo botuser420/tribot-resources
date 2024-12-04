@@ -1,0 +1,30 @@
+{
+    "npcId": 8917,
+    "name": "Fragment of Seren",
+    "hitpoints": 1000,
+    "combatLevel": 494,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "MELEE",
+        "RANGED"
+    ],
+    "size": 3,
+    "attackLevel": 242,
+    "strengthLevel": 288,
+    "defenceLevel": 102,
+    "magicLevel": 102,
+    "rangedLevel": 235,
+    "attackBonus": 236,
+    "strengthBonus": 44,
+    "rangeAttackBonus": 224,
+    "stabDefenceBonus": 320,
+    "slashDefenceBonus": 220,
+    "crushDefenceBonus": 320,
+    "magicDefenceBonus": 10,
+    "rangeDefenceBonus": 480,
+    "lightRangeDefenceBonus": 480,
+    "standardRangeDefenceBonus": 480,
+    "heavyRangeDefenceBonus": 480,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

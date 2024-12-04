@@ -1,0 +1,18 @@
+{
+    "itemId": 29067,
+    "itemName": "Blood moon chestplate (broken)",
+    "examine": "The chestplate of the Blood Moon.",
+    "weight": 5.443,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 60,
+        "slashDefenceBonus": 80,
+        "crushDefenceBonus": 80,
+        "magicDefenceBonus": 40,
+        "rangeDefenceBonus": 79,
+        "strengthBonus": 4
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "npcId": 7708,
+    "name": "Jal-MejJak",
+    "hitpoints": 75,
+    "combatLevel": 250,
+    "attackSpeed": 3,
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 75.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

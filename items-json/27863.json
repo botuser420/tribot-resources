@@ -1,0 +1,18 @@
+{
+    "itemId": 27863,
+    "itemName": "Abyssal dagger (bh)(p)",
+    "examine": "Something sharp and poisonous from the body of a defeated Abyssal Sire.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 85,
+        "slashAttackBonus": 40,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 75,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

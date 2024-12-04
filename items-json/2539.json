@@ -1,0 +1,10 @@
+{
+    "itemId": 2539,
+    "itemName": "Adamant fire arrow (lit)",
+    "examine": "These adamant-headed arrows are ablaze with fire.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 31
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "itemId": 1313,
+    "itemName": "Black 2h sword",
+    "examine": "A two handed sword.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 27,
+        "crushAttackBonus": 21,
+        "magicAttackBonus": -4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 26,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 7,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

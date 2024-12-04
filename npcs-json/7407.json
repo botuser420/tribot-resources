@@ -1,0 +1,38 @@
+{
+    "npcId": 7407,
+    "name": "Marble gargoyle",
+    "hitpoints": 270,
+    "combatLevel": 349,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH",
+        "RANGED"
+    ],
+    "maxHits": [
+        38
+    ],
+    "slayerCategory": "Gargoyles",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 2768.0,
+    "size": 3,
+    "attackLevel": 230,
+    "strengthLevel": 250,
+    "defenceLevel": 190,
+    "magicLevel": 1,
+    "rangedLevel": 220,
+    "rangedStrengthBonus": 20,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "magicDefenceBonus": 50,
+    "rangeDefenceBonus": 50,
+    "lightRangeDefenceBonus": 50,
+    "standardRangeDefenceBonus": 50,
+    "heavyRangeDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

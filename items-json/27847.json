@@ -1,0 +1,17 @@
+{
+    "itemId": 27847,
+    "itemName": "Corrupted morrigan's coif (bh)",
+    "examine": "A powerful coif.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -4,
+        "rangeAttackBonus": 13,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 6,
+        "rangedStrengthBonus": 2
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "npcId": 9295,
+    "name": "Typhor",
+    "hitpoints": 360,
+    "combatLevel": 218,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "MELEE"
+    ],
+    "maxHits": [
+        20
+    ],
+    "slayerCategory": "Basilisks",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 360.0,
+    "size": 3,
+    "attackLevel": 186,
+    "strengthLevel": 186,
+    "defenceLevel": 186,
+    "magicLevel": 186,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "magicDefenceBonus": 30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

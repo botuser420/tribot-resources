@@ -1,0 +1,31 @@
+{
+    "npcId": 494,
+    "name": "Kraken",
+    "hitpoints": 255,
+    "combatLevel": 291,
+    "attackSpeed": 4,
+    "maxHits": [
+        28
+    ],
+    "slayerCategory": "Cave Kraken",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 255.0,
+    "size": 4,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDamageBonus": 50,
+    "magicDefenceBonus": 130,
+    "rangeDefenceBonus": 300,
+    "lightRangeDefenceBonus": 300,
+    "standardRangeDefenceBonus": 300,
+    "heavyRangeDefenceBonus": 300,
+    "immuneToPoison": false,
+    "immuneToVenom": false
+}

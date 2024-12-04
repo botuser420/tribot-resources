@@ -1,0 +1,10 @@
+{
+    "itemId": 1011,
+    "itemName": "Blue skirt",
+    "examine": "Leg covering favoured by women and wizards.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}
