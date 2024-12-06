@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        626
+    ],
+    "name": "Fever spider",
+    "hitpoints": 40,
+    "combatLevel": 49,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Fever Spiders",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "slayerExperience": 40.0,
+    "size": 2,
+    "attackLevel": 60,
+    "strengthLevel": 30,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 15,
+    "rangedDefenceBonus": 15
+}

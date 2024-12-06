@@ -1,0 +1,9 @@
+{
+    "itemId": 6187,
+    "itemName": "Royal frog skirt",
+    "examine": "Very posh!",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

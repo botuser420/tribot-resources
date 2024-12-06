@@ -1,0 +1,9 @@
+{
+    "itemId": 27370,
+    "itemName": "Mask of rebirth",
+    "examine": "A mask representing rebirth.",
+    "weight": 0.35,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

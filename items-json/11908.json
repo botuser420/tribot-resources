@@ -1,0 +1,18 @@
+{
+    "itemId": 11908,
+    "itemName": "Uncharged trident",
+    "examine": "It needs to be charged with death runes, chaos runes, fire runes and coins.",
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 15,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

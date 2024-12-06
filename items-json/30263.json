@@ -1,0 +1,9 @@
+{
+    "itemId": 30263,
+    "itemName": "Yellow pumpkin (sad)",
+    "examine": "That pumpkin is somewhat distressed.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "itemId": 5678,
+    "itemName": "Rune dagger(p+)",
+    "examine": "The blade is covered with a nasty poison.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 25,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 24,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 832,
+    "itemName": "Iron javelin(p)",
+    "examine": "An iron tipped javelin.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 42
+    }
+}

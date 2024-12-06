@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        4635
+    ],
+    "name": "Mercenary Captain",
+    "hitpoints": 80,
+    "combatLevel": 47,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 32,
+    "strengthLevel": 29,
+    "defenceLevel": 32,
+    "attackBonus": 9,
+    "strengthBonus": 14,
+    "stabDefenceBonus": 17,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 19,
+    "magicDefenceBonus": -3,
+    "rangedDefenceBonus": 19
+}

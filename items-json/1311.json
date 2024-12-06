@@ -1,0 +1,19 @@
+{
+    "itemId": 1311,
+    "itemName": "Steel 2h sword",
+    "examine": "A two handed sword.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 21,
+        "crushAttackBonus": 16,
+        "magicAttackBonus": -4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 22,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 7,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

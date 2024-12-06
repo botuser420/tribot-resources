@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        12223,
+        12426
+    ],
+    "name": "Vardorvis",
+    "searchName": "Vardorvis#Post-quest",
+    "hitpoints": 700,
+    "combatLevel": 784,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 1085.0,
+    "size": 2,
+    "attackLevel": 280,
+    "magicLevel": 215,
+    "attackBonus": 190,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 215,
+    "slashDefenceBonus": 65,
+    "crushDefenceBonus": 85,
+    "magicDefenceBonus": 580,
+    "rangedDefenceBonus": 580,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

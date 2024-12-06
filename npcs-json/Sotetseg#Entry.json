@@ -1,0 +1,38 @@
+{
+    "npcIds": [
+        10864,
+        10865
+    ],
+    "name": "Sotetseg",
+    "searchName": "Sotetseg#Entry",
+    "hitpoints": 2240,
+    "combatLevel": 336,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        20,
+        22,
+        22
+    ],
+    "size": 5,
+    "attackLevel": 180,
+    "strengthLevel": 140,
+    "defenceLevel": 150,
+    "magicLevel": 150,
+    "rangedLevel": 150,
+    "strengthBonus": 20,
+    "magicAttackBonus": -10,
+    "magicDamageBonus": 26,
+    "rangeAttackBonus": -10,
+    "rangedStrengthBonus": 26,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 120,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

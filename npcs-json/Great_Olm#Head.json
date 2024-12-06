@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        7551
+    ],
+    "name": "Great Olm",
+    "searchName": "Great Olm#Head",
+    "hitpoints": 800,
+    "combatLevel": 1043,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "RANGED"
+    ],
+    "monsterAttribute": "dragon",
+    "size": 5,
+    "attackLevel": 250,
+    "strengthLevel": 250,
+    "defenceLevel": 150,
+    "magicLevel": 250,
+    "rangedLevel": 250,
+    "magicAttackBonus": 60,
+    "rangeAttackBonus": 60,
+    "stabDefenceBonus": 200,
+    "slashDefenceBonus": 200,
+    "crushDefenceBonus": 200,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

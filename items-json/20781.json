@@ -1,0 +1,12 @@
+{
+    "itemId": 20781,
+    "itemName": "Killer's knife",
+    "examine": "A blood-stained knife.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

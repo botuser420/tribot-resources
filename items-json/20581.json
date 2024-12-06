@@ -1,0 +1,20 @@
+{
+    "itemId": 20581,
+    "itemName": "Mithril gloves",
+    "examine": "A pair of nice gloves.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 6,
+        "magicAttackBonus": 3,
+        "rangeAttackBonus": 6,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 6,
+        "strengthBonus": 6
+    }
+}

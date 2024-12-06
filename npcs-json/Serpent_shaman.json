@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        12811
+    ],
+    "name": "Serpent shaman",
+    "hitpoints": 125,
+    "combatLevel": 161,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        28
+    ],
+    "size": 1,
+    "attackLevel": 100,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "magicLevel": 220,
+    "rangedLevel": 160,
+    "magicAttackBonus": 50,
+    "magicDamageBonus": 15,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 15,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

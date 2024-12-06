@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        2085
+    ],
+    "name": "Ice giant",
+    "searchName": "Ice giant#1",
+    "hitpoints": 70,
+    "combatLevel": 53,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "Ice Giants",
+    "assignedBy": [
+        "VANNAKA",
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 70.0,
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 29,
+    "strengthBonus": 31,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 2,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 100
+}

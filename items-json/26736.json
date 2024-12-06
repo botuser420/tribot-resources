@@ -1,0 +1,18 @@
+{
+    "itemId": 26736,
+    "itemName": "Saika's shroud (l)",
+    "examine": "Saika the puppet master's shroud.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": -60,
+        "slashAttackBonus": -60,
+        "crushAttackBonus": -60,
+        "magicAttackBonus": 18,
+        "rangeAttackBonus": -60,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 20,
+        "rangeDefenceBonus": -25
+    }
+}

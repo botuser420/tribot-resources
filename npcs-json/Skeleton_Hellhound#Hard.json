@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        6326
+    ],
+    "name": "Skeleton Hellhound (hard)",
+    "searchName": "Skeleton Hellhound#Hard",
+    "hitpoints": 132,
+    "combatLevel": 198,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        27
+    ],
+    "slayerCategory": "No",
+    "slayerExperience": 55.0,
+    "size": 2,
+    "attackLevel": 168,
+    "strengthLevel": 264,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

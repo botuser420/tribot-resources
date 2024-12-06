@@ -1,0 +1,11 @@
+{
+    "itemId": 10144,
+    "itemName": "Tarromin tar",
+    "examine": "A thick, foul-smelling, tar-like substance with a red tinge.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 31
+    }
+}

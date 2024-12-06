@@ -1,0 +1,7 @@
+{
+    "itemId": 10016,
+    "itemName": "Snowy knight",
+    "examine": "There's a snowy knight butterfly in here.",
+    "weight": 0.02,
+    "buyLimit": 125
+}

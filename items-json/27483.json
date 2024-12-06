@@ -1,0 +1,9 @@
+{
+    "itemId": 27483,
+    "itemName": "Terrifying charm",
+    "examine": "Anyone who wears this must be terrifying.",
+    "weight": 0.09,
+    "equipment": {
+        "slot": "AMMO"
+    }
+}

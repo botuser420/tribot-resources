@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        11482,
+        11483
+    ],
+    "name": "Champion of Scabaras",
+    "hitpoints": 600,
+    "combatLevel": 379,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "MELEE"
+    ],
+    "maxHits": [
+        24
+    ],
+    "size": 1,
+    "attackLevel": 160,
+    "strengthLevel": 160,
+    "defenceLevel": 160,
+    "magicLevel": 160,
+    "attackBonus": 28,
+    "strengthBonus": 26,
+    "magicAttackBonus": 28,
+    "magicDamageBonus": 26,
+    "stabDefenceBonus": 120,
+    "slashDefenceBonus": 160,
+    "crushDefenceBonus": 160,
+    "magicDefenceBonus": 340,
+    "rangedDefenceBonus": 5,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

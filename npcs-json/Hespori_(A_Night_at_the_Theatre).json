@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        11192
+    ],
+    "name": "Hespori",
+    "searchName": "Hespori (A Night at the Theatre)",
+    "hitpoints": 360,
+    "combatLevel": 302,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        8,
+        14
+    ],
+    "size": 3,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 120,
+    "magicLevel": 126,
+    "rangedLevel": 150,
+    "magicAttackBonus": 150,
+    "rangeAttackBonus": 150,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 80,
+    "rangedDefenceBonus": 80,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

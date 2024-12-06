@@ -1,0 +1,10 @@
+{
+    "itemId": 12345,
+    "itemName": "Gold elegant skirt",
+    "examine": "A rather elegant gold skirt.",
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

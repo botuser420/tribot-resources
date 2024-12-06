@@ -1,0 +1,7 @@
+{
+    "itemId": 1865,
+    "itemName": "Pitta bread",
+    "examine": "Nicely baked pitta bread. Needs more ingredients to make a kebab.",
+    "weight": 0.1,
+    "buyLimit": 11000
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 6697,
+    "itemName": "Pat of butter",
+    "examine": "A pat of freshly churned butter.",
+    "weight": 0.2,
+    "buyLimit": 11000
+}

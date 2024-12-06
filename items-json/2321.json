@@ -1,0 +1,7 @@
+{
+    "itemId": 2321,
+    "itemName": "Uncooked berry pie",
+    "examine": "This would be much more appetising cooked.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

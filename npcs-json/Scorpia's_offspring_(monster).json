@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        6616
+    ],
+    "name": "Scorpia's offspring",
+    "searchName": "Scorpia's offspring (monster)",
+    "hitpoints": 2,
+    "combatLevel": 15,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        2
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 2.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 30,
+    "rangeAttackBonus": 900,
+    "rangedStrengthBonus": -30,
+    "magicDefenceBonus": -40
+}

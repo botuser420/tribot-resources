@@ -1,0 +1,21 @@
+{
+    "itemId": 1381,
+    "itemName": "Staff of air",
+    "examine": "A Magical staff.",
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 7,
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 10,
+        "strengthBonus": 3,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

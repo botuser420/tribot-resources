@@ -1,0 +1,12 @@
+{
+    "itemId": 75,
+    "itemName": "Khazard armour",
+    "examine": "Armour, as worn by the minions of General Khazard.",
+    "weight": 0.566,
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 11,
+        "crushDefenceBonus": 10
+    }
+}

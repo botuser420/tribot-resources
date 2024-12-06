@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        11271,
+        11298
+    ],
+    "name": "Mosschin",
+    "hitpoints": 120,
+    "combatLevel": 88,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "MAGIC"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 1,
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "magicLevel": 50,
+    "rangedLevel": 1,
+    "attackBonus": 34,
+    "strengthBonus": 40,
+    "magicAttackBonus": 34,
+    "magicDamageBonus": 40,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

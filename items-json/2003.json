@@ -1,0 +1,7 @@
+{
+    "itemId": 2003,
+    "itemName": "Stew",
+    "examine": "It's a meat and potato stew.",
+    "weight": 1.5,
+    "buyLimit": 10000
+}

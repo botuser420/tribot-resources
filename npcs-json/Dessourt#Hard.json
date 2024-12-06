@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        6311
+    ],
+    "name": "Dessourt (hard)",
+    "searchName": "Dessourt#Hard",
+    "hitpoints": 255,
+    "combatLevel": 217,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        37
+    ],
+    "size": 1,
+    "attackLevel": 198,
+    "strengthLevel": 198,
+    "defenceLevel": 99,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 50,
+    "strengthBonus": 50,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150
+}

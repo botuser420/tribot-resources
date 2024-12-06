@@ -1,0 +1,10 @@
+{
+    "itemId": 21111,
+    "itemName": "Jade amulet",
+    "examine": "I wonder if I can get this enchanted.",
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

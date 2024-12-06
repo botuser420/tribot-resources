@@ -1,0 +1,18 @@
+{
+    "itemId": 6623,
+    "itemName": "White full helm",
+    "examine": "A full face helmet.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 12,
+        "prayerBonus": 1
+    }
+}

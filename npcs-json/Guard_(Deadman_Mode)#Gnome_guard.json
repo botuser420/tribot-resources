@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        6574
+    ],
+    "name": "Gnome guard",
+    "searchName": "Guard (Deadman Mode)#Gnome guard",
+    "hitpoints": 800,
+    "combatLevel": 1337,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        45
+    ],
+    "size": 1,
+    "attackLevel": 800,
+    "strengthLevel": 400,
+    "defenceLevel": 300,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 60,
+    "strengthBonus": 7,
+    "stabDefenceBonus": 8,
+    "slashDefenceBonus": 9,
+    "crushDefenceBonus": 7,
+    "rangedDefenceBonus": 8
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 24407,
+    "itemName": "Twisted coat (t1)",
+    "examine": "The coat of a twisted relic hunter.",
+    "weight": 0.907,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

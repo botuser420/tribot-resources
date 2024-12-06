@@ -1,0 +1,10 @@
+{
+    "itemId": 288,
+    "itemName": "Goblin mail",
+    "examine": "Some brown armour designed to fit goblins.",
+    "weight": 3.628,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

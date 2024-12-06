@@ -1,0 +1,10 @@
+{
+    "itemId": 9237,
+    "itemName": "Jade bolts (e)",
+    "examine": "Enchanted Jade tipped Blurite Crossbow Bolts.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 30
+    }
+}

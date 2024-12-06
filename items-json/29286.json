@@ -1,0 +1,17 @@
+{
+    "itemId": 29286,
+    "itemName": "Mixed hide boots",
+    "examine": "Made from the hide of a few different creatures.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 5,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 3,
+        "strengthBonus": 2
+    }
+}

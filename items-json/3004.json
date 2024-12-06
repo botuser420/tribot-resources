@@ -1,0 +1,7 @@
+{
+    "itemId": 3004,
+    "itemName": "Snapdragon potion (unf)",
+    "examine": "I need another ingredient to finish this Snapdragon potion.",
+    "weight": 0.056,
+    "buyLimit": 10000
+}

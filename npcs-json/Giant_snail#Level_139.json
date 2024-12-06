@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        5630
+    ],
+    "name": "Giant snail",
+    "searchName": "Giant snail#Level 139",
+    "hitpoints": 160,
+    "combatLevel": 139,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        17
+    ],
+    "size": 3,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 86,
+    "magicLevel": 30,
+    "rangedLevel": 160
+}

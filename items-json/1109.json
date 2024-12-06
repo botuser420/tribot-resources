@@ -1,0 +1,16 @@
+{
+    "itemId": 1109,
+    "itemName": "Mithril chainbody",
+    "examine": "A series of connected metal rings.",
+    "weight": 5.896,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "stabDefenceBonus": 25,
+        "slashDefenceBonus": 35,
+        "crushDefenceBonus": 42,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 27
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 10075,
+    "itemName": "Gloves of silence",
+    "examine": "Made from dark kebbit fur, these are perfect for tasks of a stealthier nature.",
+    "weight": 0.226,
+    "buyLimit": 8000,
+    "equipment": {
+        "slot": "HANDS",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 2
+    }
+}

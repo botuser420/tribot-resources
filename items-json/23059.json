@@ -1,0 +1,12 @@
+{
+    "itemId": 23059,
+    "itemName": "Mystic boots (dusk)",
+    "examine": "Dusky magical boots.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

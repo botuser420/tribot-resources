@@ -1,0 +1,7 @@
+{
+    "itemId": 7223,
+    "itemName": "Roast rabbit",
+    "examine": "A delicious looking piece of roast rabbit.",
+    "weight": 0.3,
+    "buyLimit": 6000
+}

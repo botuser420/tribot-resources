@@ -1,0 +1,10 @@
+{
+    "itemId": 10398,
+    "itemName": "Sleeping cap",
+    "examine": "A cap for wearing whilzzzzzzzzzz.",
+    "weight": 0.4,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

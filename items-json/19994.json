@@ -1,0 +1,16 @@
+{
+    "itemId": 19994,
+    "itemName": "Ranger gloves",
+    "examine": "Lightweight gloves ideal for rangers.",
+    "weight": 0.226,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 11,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 2
+    }
+}

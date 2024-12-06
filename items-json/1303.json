@@ -1,0 +1,19 @@
+{
+    "itemId": 1303,
+    "itemName": "Rune longsword",
+    "examine": "A razor sharp longsword.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 38,
+        "slashAttackBonus": 47,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 49,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

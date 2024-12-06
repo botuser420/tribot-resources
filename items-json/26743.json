@@ -1,0 +1,17 @@
+{
+    "itemId": 26743,
+    "itemName": "Maoma's med helm",
+    "examine": "Maoma the Corrupt Captain's med helm.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 6,
+        "magicAttackBonus": -20,
+        "rangeAttackBonus": -20,
+        "magicDefenceBonus": -10,
+        "rangeDefenceBonus": 10,
+        "strengthBonus": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 20128,
+    "itemName": "Hood of darkness",
+    "examine": "A dark power is woven into this hood.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "itemId": 23628,
+    "itemName": "Ghrazi rapier",
+    "examine": "A razor sharp rapier, smeared with vampyric blood.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 94,
+        "slashAttackBonus": 55,
+        "strengthBonus": 89,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

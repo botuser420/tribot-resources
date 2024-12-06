@@ -1,0 +1,18 @@
+{
+    "itemId": 11926,
+    "itemName": "Odium ward",
+    "examine": "An ancient, evil shield forged by Volcanic heat.",
+    "weight": 3.628,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -12,
+        "slashAttackBonus": -12,
+        "crushAttackBonus": -12,
+        "magicAttackBonus": -8,
+        "rangeAttackBonus": 12,
+        "magicDefenceBonus": 24,
+        "rangeDefenceBonus": 52,
+        "rangedStrengthBonus": 4
+    }
+}

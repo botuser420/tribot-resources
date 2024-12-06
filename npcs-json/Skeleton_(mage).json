@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        6441
+    ],
+    "name": "Skeleton",
+    "searchName": "Skeleton (mage)",
+    "hitpoints": 85,
+    "combatLevel": 94,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "CRUSH"
+    ],
+    "maxHits": [
+        12,
+        7
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 85.0,
+    "size": 1,
+    "attackLevel": 70,
+    "strengthLevel": 60,
+    "defenceLevel": 80,
+    "magicLevel": 110,
+    "rangedLevel": 1,
+    "strengthBonus": 5,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 40,
+    "rangedDefenceBonus": 40
+}

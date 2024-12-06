@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        11063,
+        11064,
+        11065
+    ],
+    "name": "Bandit",
+    "searchName": "Bandit (Shayzien)",
+    "hitpoints": 27,
+    "combatLevel": 22,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 17,
+    "strengthLevel": 17,
+    "defenceLevel": 17,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 11,
+    "strengthBonus": 12,
+    "stabDefenceBonus": 4,
+    "slashDefenceBonus": 8,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 1,
+    "rangedDefenceBonus": 4
+}

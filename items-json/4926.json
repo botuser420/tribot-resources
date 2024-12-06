@@ -1,0 +1,10 @@
+{
+    "itemId": 4926,
+    "itemName": "Guthan's chainskirt 0",
+    "examine": "Guthan the Infested's chainskirt.",
+    "weight": 8.164,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

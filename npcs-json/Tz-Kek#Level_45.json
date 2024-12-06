@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        2191,
+        2192,
+        3118,
+        3119
+    ],
+    "name": "Tz-Kek",
+    "searchName": "Tz-Kek#Level 45",
+    "hitpoints": 20,
+    "combatLevel": 45,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 20.0,
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 60,
+    "defenceLevel": 30,
+    "magicLevel": 30,
+    "rangedLevel": 60
+}

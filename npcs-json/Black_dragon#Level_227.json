@@ -1,0 +1,48 @@
+{
+    "npcIds": [
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        8084,
+        8085
+    ],
+    "name": "Black dragon",
+    "searchName": "Black dragon#Level 227",
+    "hitpoints": 190,
+    "combatLevel": 227,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        21,
+        50
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Black Dragons",
+    "assignedBy": [
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 199.5,
+    "size": 4,
+    "attackLevel": 200,
+    "strengthLevel": 200,
+    "defenceLevel": 200,
+    "magicLevel": 100,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 60,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 50,
+    "heavyRangedDefenceBonus": 15
+}

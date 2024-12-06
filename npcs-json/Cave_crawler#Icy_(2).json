@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        13801
+    ],
+    "name": "Cave crawler",
+    "searchName": "Cave crawler#Icy (2)",
+    "hitpoints": 22,
+    "combatLevel": 23,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Cave Crawlers",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 22.0,
+    "size": 2,
+    "attackLevel": 22,
+    "strengthLevel": 18,
+    "defenceLevel": 18,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 5,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 10
+}

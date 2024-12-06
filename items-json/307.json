@@ -1,0 +1,7 @@
+{
+    "itemId": 307,
+    "itemName": "Fishing rod",
+    "examine": "Useful for catching sardine or herring.",
+    "weight": 1.36,
+    "buyLimit": 40
+}

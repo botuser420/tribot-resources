@@ -1,0 +1,21 @@
+{
+    "itemId": 11373,
+    "itemName": "Mithril hasta",
+    "examine": "A mithril-tipped, one-handed hasta.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 17,
+        "slashAttackBonus": 17,
+        "crushAttackBonus": 17,
+        "stabDefenceBonus": -5,
+        "slashDefenceBonus": -5,
+        "crushDefenceBonus": -4,
+        "rangeDefenceBonus": -5,
+        "strengthBonus": 18,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

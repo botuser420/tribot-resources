@@ -1,0 +1,11 @@
+{
+    "itemId": 9236,
+    "itemName": "Opal bolts (e)",
+    "examine": "Enchanted Opal tipped Bronze Crossbow Bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 14
+    }
+}

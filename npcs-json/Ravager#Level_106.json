@@ -1,0 +1,20 @@
+{
+    "npcIds": [
+        1708
+    ],
+    "name": "Ravager",
+    "searchName": "Ravager#Level 106",
+    "hitpoints": 83,
+    "combatLevel": 106,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        17
+    ],
+    "size": 1,
+    "attackLevel": 67,
+    "strengthLevel": 157,
+    "defenceLevel": 53
+}

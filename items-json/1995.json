@@ -1,0 +1,6 @@
+{
+    "itemId": 1995,
+    "itemName": "Unfermented wine",
+    "examine": "This wine needs to ferment before it can be drunk.",
+    "weight": 1.5
+}

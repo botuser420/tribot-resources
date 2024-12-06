@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        12448
+    ],
+    "name": "Porazdir",
+    "searchName": "Porazdir (Deadman)#Apocalypse",
+    "hitpoints": 320,
+    "combatLevel": 235,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Black Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "size": 3,
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "magicLevel": 180,
+    "rangedLevel": 1,
+    "magicAttackBonus": 80,
+    "magicDamageBonus": 80,
+    "stabDefenceBonus": 200,
+    "slashDefenceBonus": 200,
+    "crushDefenceBonus": 200,
+    "magicDefenceBonus": -60,
+    "rangedDefenceBonus": 200,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

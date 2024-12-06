@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        2515,
+        2518
+    ],
+    "name": "Ankou",
+    "searchName": "Ankou#Level 82",
+    "hitpoints": 65,
+    "combatLevel": 82,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Ankou",
+    "assignedBy": [
+        "VANNAKA",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 65.0,
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

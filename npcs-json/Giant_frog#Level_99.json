@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        477
+    ],
+    "name": "Giant frog",
+    "searchName": "Giant frog#Level 99",
+    "hitpoints": 100,
+    "combatLevel": 99,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 2,
+    "attackLevel": 100,
+    "strengthLevel": 80,
+    "defenceLevel": 65,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

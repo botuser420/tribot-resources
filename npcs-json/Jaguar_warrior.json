@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        12810
+    ],
+    "name": "Jaguar warrior",
+    "hitpoints": 125,
+    "combatLevel": 234,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        47
+    ],
+    "size": 2,
+    "attackLevel": 200,
+    "strengthLevel": 330,
+    "defenceLevel": 125,
+    "magicLevel": 100,
+    "rangedLevel": 160,
+    "strengthBonus": 25,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 15,
+    "rangedDefenceBonus": 45,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

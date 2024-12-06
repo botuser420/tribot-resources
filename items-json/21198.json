@@ -1,0 +1,21 @@
+{
+    "itemId": 21198,
+    "itemName": "Lava battlestaff",
+    "examine": "It's a slightly magical but highly beautiful stick.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 28,
+        "magicAttackBonus": 12,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 12,
+        "strengthBonus": 35,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

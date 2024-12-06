@@ -1,0 +1,20 @@
+{
+    "npcIds": [
+        1233
+    ],
+    "name": "Arzinian Avatar of Magic",
+    "searchName": "Arzinian Avatar of Magic#Invincible",
+    "hitpoints": 200,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        15
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 100,
+    "defenceLevel": 130,
+    "magicLevel": 150
+}

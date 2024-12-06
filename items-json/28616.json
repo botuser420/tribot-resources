@@ -1,0 +1,9 @@
+{
+    "itemId": 28616,
+    "itemName": "Pheasant cape",
+    "examine": "You'll look magni-pheasant wearing this!",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

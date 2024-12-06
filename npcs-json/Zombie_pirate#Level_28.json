@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        13490,
+        13491
+    ],
+    "name": "Zombie pirate",
+    "searchName": "Zombie pirate#Level 28",
+    "hitpoints": 35,
+    "combatLevel": 28,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 35.0,
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 15,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

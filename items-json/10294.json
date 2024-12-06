@@ -1,0 +1,17 @@
+{
+    "itemId": 10294,
+    "itemName": "Rune helm (h5)",
+    "examine": "A rune helmet with a heraldic design.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30
+    }
+}

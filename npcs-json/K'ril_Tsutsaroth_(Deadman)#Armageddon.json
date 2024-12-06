@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        12446
+    ],
+    "name": "K'ril Tsutsaroth",
+    "searchName": "K'ril Tsutsaroth (Deadman)#Armageddon",
+    "hitpoints": 1000,
+    "combatLevel": 650,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        46
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 5,
+    "attackLevel": 340,
+    "strengthLevel": 300,
+    "defenceLevel": 270,
+    "magicLevel": 200,
+    "rangedLevel": 1,
+    "attackBonus": 160,
+    "strengthBonus": 31,
+    "stabDefenceBonus": 80,
+    "slashDefenceBonus": 80,
+    "crushDefenceBonus": 80,
+    "magicDefenceBonus": 130,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 30,
+    "rangedDefenceBonus": 80,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

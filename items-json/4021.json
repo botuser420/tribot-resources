@@ -1,0 +1,9 @@
+{
+    "itemId": 4021,
+    "itemName": "M'speak amulet",
+    "examine": "It's an Amulet of Monkey Speak. It makes vague chattering noises.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

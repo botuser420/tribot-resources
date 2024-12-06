@@ -1,0 +1,11 @@
+{
+    "itemId": 10143,
+    "itemName": "Marrentill tar",
+    "examine": "A thick, foul-smelling, tar-like substance with an orange tinge.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 22
+    }
+}

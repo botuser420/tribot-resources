@@ -1,0 +1,7 @@
+{
+    "itemId": 12642,
+    "itemName": "Lumberyard teleport",
+    "examine": "Teleports you to the Lumberyard.",
+    "weight": 0.0,
+    "buyLimit": 15000
+}

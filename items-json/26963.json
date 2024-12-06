@@ -1,0 +1,9 @@
+{
+    "itemId": 26963,
+    "itemName": "Odd spectacles",
+    "examine": "Do they make me look... grouchy?",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

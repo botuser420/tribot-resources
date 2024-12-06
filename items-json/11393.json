@@ -1,0 +1,21 @@
+{
+    "itemId": 11393,
+    "itemName": "Steel hasta(p)",
+    "examine": "A poison-tipped, one-handed steel hasta.",
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 12,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 12,
+        "stabDefenceBonus": -3,
+        "slashDefenceBonus": -3,
+        "crushDefenceBonus": -3,
+        "rangeDefenceBonus": -3,
+        "strengthBonus": 12,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

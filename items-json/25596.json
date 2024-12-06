@@ -1,0 +1,9 @@
+{
+    "itemId": 25596,
+    "itemName": "Spirit angler waders",
+    "examine": "This will help with fishing.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

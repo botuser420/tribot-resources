@@ -1,0 +1,17 @@
+{
+    "itemId": 1157,
+    "itemName": "Steel full helm",
+    "examine": "A full face helmet.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9
+    }
+}

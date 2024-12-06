@@ -1,0 +1,18 @@
+{
+    "itemId": 1339,
+    "itemName": "Steel warhammer",
+    "examine": "I don't think it's intended for joinery.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 18,
+        "magicAttackBonus": -4,
+        "strengthBonus": 16,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

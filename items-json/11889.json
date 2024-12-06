@@ -1,0 +1,22 @@
+{
+    "itemId": 11889,
+    "itemName": "Zamorakian hasta",
+    "examine": "An evil one-handed spear.",
+    "weight": 3.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 85,
+        "slashAttackBonus": 65,
+        "crushAttackBonus": 65,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 12,
+        "rangeDefenceBonus": 13,
+        "strengthBonus": 75,
+        "prayerBonus": 2,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

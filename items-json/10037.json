@@ -1,0 +1,14 @@
+{
+    "itemId": 10037,
+    "itemName": "Kyatt top",
+    "examine": "This should make me harder to spot in polar areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 19,
+        "rangeDefenceBonus": 12
+    }
+}

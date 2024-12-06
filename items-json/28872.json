@@ -1,0 +1,11 @@
+{
+    "itemId": 28872,
+    "itemName": "Sunlight antler bolts",
+    "examine": "Bolts made from the antlers of a sunlight antelope.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 55
+    }
+}

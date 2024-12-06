@@ -1,0 +1,18 @@
+{
+    "itemId": 26732,
+    "itemName": "Saika's hood (l)",
+    "examine": "Saika the puppet master's hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": -20,
+        "slashAttackBonus": -20,
+        "crushAttackBonus": -20,
+        "magicAttackBonus": 10,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "rangeDefenceBonus": -10
+    }
+}

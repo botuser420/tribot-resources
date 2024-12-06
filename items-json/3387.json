@@ -1,0 +1,16 @@
+{
+    "itemId": 3387,
+    "itemName": "Splitbark body",
+    "examine": "Provides good protection.",
+    "weight": 4.535,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 10,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 36,
+        "slashDefenceBonus": 26,
+        "crushDefenceBonus": 42,
+        "magicDefenceBonus": 15
+    }
+}

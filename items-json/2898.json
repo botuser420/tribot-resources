@@ -1,0 +1,12 @@
+{
+    "itemId": 2898,
+    "itemName": "Grey robe bottoms",
+    "examine": "Made by werewolves for werewolves.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2
+    }
+}

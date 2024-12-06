@@ -1,0 +1,9 @@
+{
+    "itemId": 26460,
+    "itemName": "Shattered boots (t3)",
+    "examine": "The boots of a Shattered Relic Hunter.",
+    "weight": 0.34,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

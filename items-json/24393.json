@@ -1,0 +1,10 @@
+{
+    "itemId": 24393,
+    "itemName": "Twisted boots (t3)",
+    "examine": "The boots of a twisted relic hunter.",
+    "weight": 0.34,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

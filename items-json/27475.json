@@ -1,0 +1,9 @@
+{
+    "itemId": 27475,
+    "itemName": "Witch top",
+    "examine": "Might help me turn people into newts.",
+    "weight": 0.028,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

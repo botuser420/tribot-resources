@@ -1,0 +1,17 @@
+{
+    "itemId": 23267,
+    "itemName": "Gilded d'hide chaps",
+    "examine": "Made with 100% golden dragonhide.",
+    "weight": 5.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 8,
+        "stabDefenceBonus": 22,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 22
+    }
+}

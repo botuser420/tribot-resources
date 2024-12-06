@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        12365
+    ],
+    "name": "Lesser demon",
+    "searchName": "Lesser demon (The Scar)#Level 94 (ranged)",
+    "hitpoints": 80,
+    "combatLevel": 94,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        12
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Lesser Demons",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KRYSTILIA"
+    ],
+    "size": 2,
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 110,
+    "magicLevel": 110,
+    "rangedLevel": 110,
+    "attackBonus": 100,
+    "magicAttackBonus": 100,
+    "rangeAttackBonus": 100
+}

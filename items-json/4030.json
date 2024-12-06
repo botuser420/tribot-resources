@@ -1,0 +1,11 @@
+{
+    "itemId": 4030,
+    "itemName": "Zombie monkey greegree",
+    "examine": "A magical talisman in the shape of a big zombie monkey head.",
+    "weight": 0.085,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": -1
+    }
+}

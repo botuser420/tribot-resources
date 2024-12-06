@@ -1,0 +1,15 @@
+{
+    "itemId": 10045,
+    "itemName": "Larupia hat",
+    "examine": "This should make me harder to spot in woodland and jungle areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD",
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "rangeDefenceBonus": 1
+    }
+}

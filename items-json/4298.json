@@ -1,0 +1,12 @@
+{
+    "itemId": 4298,
+    "itemName": "Ham shirt",
+    "examine": "The label says 'Vivid Crimson', but it looks pink to me!",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2
+    }
+}

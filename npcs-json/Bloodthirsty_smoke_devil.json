@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        12577
+    ],
+    "name": "Bloodthirsty smoke devil",
+    "hitpoints": 360,
+    "combatLevel": 420,
+    "attackSpeed": 4,
+    "maxHits": [
+        35
+    ],
+    "slayerCategory": "Smoke Devils",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 3600.0,
+    "size": 2,
+    "attackLevel": 360,
+    "strengthLevel": 345,
+    "defenceLevel": 390,
+    "magicLevel": 1,
+    "rangedLevel": 420,
+    "magicDefenceBonus": 850,
+    "rangedDefenceBonus": 80,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,38 @@
+{
+    "npcIds": [
+        7604,
+        7605,
+        7606
+    ],
+    "name": "Skeletal Mystic",
+    "searchName": "Skeletal Mystic#Challenge Mode",
+    "hitpoints": 240,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "MELEE"
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 240.0,
+    "size": 2,
+    "attackLevel": 210,
+    "strengthLevel": 210,
+    "defenceLevel": 280,
+    "magicLevel": 210,
+    "rangedLevel": 1,
+    "attackBonus": 85,
+    "strengthBonus": 50,
+    "magicAttackBonus": 40,
+    "magicDamageBonus": 38,
+    "stabDefenceBonus": 155,
+    "slashDefenceBonus": 155,
+    "crushDefenceBonus": 75,
+    "magicDefenceBonus": 140,
+    "rangedDefenceBonus": 115,
+    "heavyRangedDefenceBonus": 75
+}

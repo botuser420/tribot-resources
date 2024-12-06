@@ -1,0 +1,11 @@
+{
+    "itemId": 20232,
+    "itemName": "War blessing",
+    "examine": "The blood of the soldier makes the glory of the general.",
+    "weight": 0.51,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "AMMO",
+        "prayerBonus": 1
+    }
+}

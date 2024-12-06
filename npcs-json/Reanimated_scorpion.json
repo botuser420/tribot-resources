@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        7022
+    ],
+    "name": "Reanimated scorpion",
+    "hitpoints": 15,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 15.0,
+    "size": 2,
+    "attackLevel": 11,
+    "strengthLevel": 12,
+    "defenceLevel": 11,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 5
+}

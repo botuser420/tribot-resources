@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        304
+    ],
+    "name": "Salarin the twisted",
+    "hitpoints": 70,
+    "combatLevel": 70,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "Chaos Druids",
+    "slayerExperience": 70.0,
+    "size": 1,
+    "attackLevel": 58,
+    "strengthLevel": 58,
+    "defenceLevel": 62,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

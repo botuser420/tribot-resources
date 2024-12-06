@@ -1,0 +1,21 @@
+{
+    "itemId": 22296,
+    "itemName": "Staff of light",
+    "examine": "A ghastly weapon with evil origins combined with a holy light.",
+    "weight": 1.5,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 55,
+        "slashAttackBonus": 70,
+        "magicAttackBonus": 17,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 17,
+        "strengthBonus": 72,
+        "magicDamageBonus": 15.0,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLADED_STAFF"
+    }
+}

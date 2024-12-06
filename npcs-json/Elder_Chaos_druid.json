@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        6607
+    ],
+    "name": "Elder Chaos druid",
+    "hitpoints": 150,
+    "combatLevel": 129,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        17
+    ],
+    "slayerCategory": "Chaos Druids",
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 150.0,
+    "size": 1,
+    "attackLevel": 98,
+    "strengthLevel": 98,
+    "defenceLevel": 65,
+    "magicLevel": 110,
+    "rangedLevel": 1
+}

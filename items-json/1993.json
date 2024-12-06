@@ -1,0 +1,7 @@
+{
+    "itemId": 1993,
+    "itemName": "Jug of wine",
+    "examine": "It's full of wine.",
+    "weight": 1.5,
+    "buyLimit": 6000
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 9674,
+    "itemName": "Proselyte hauberk",
+    "examine": "A Proselyte Temple Knight's armour.",
+    "weight": 8.618,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 65,
+        "slashDefenceBonus": 63,
+        "crushDefenceBonus": 55,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 63,
+        "prayerBonus": 8
+    }
+}

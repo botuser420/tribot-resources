@@ -1,0 +1,7 @@
+{
+    "itemId": 2317,
+    "itemName": "Uncooked apple pie",
+    "examine": "This would be much tastier cooked.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

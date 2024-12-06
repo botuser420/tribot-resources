@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        7266
+    ],
+    "name": "King Sand Crab",
+    "searchName": "King Sand Crab#Active",
+    "hitpoints": 200,
+    "combatLevel": 107,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 2,
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

@@ -1,0 +1,13 @@
+{
+    "itemId": 1035,
+    "itemName": "Zamorak monk top",
+    "examine": "A robe worn by worshippers of Zamorak.",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 2,
+        "magicDefenceBonus": 3,
+        "prayerBonus": 3
+    }
+}

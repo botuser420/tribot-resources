@@ -1,0 +1,17 @@
+{
+    "itemId": 1131,
+    "itemName": "Hardleather body",
+    "examine": "Harder than normal leather.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -4,
+        "rangeAttackBonus": 8,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 18,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 15
+    }
+}

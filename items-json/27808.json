@@ -1,0 +1,9 @@
+{
+    "itemId": 27808,
+    "itemName": "Jad slippers",
+    "examine": "Look out, here comes ToesTok-Jad!",
+    "weight": 0.2,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

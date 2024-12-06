@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        6299
+    ],
+    "name": "Black Knight Titan (hard)",
+    "searchName": "Black Knight Titan#Hard",
+    "hitpoints": 255,
+    "combatLevel": 210,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        28
+    ],
+    "size": 1,
+    "attackLevel": 182,
+    "strengthLevel": 200,
+    "defenceLevel": 91,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 27,
+    "strengthBonus": 22,
+    "stabDefenceBonus": 18,
+    "slashDefenceBonus": 27,
+    "crushDefenceBonus": 18,
+    "magicDefenceBonus": 1000,
+    "rangedDefenceBonus": 1000
+}

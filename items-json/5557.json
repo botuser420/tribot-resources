@@ -1,0 +1,14 @@
+{
+    "itemId": 5557,
+    "itemName": "Rogue boots",
+    "examine": "Black banded leather boots, a rogue's dream!",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "FEET",
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 2
+    }
+}

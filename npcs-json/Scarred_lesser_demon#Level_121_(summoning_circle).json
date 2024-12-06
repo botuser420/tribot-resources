@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        12378
+    ],
+    "name": "Scarred lesser demon",
+    "searchName": "Scarred lesser demon#Level 121 (summoning circle)",
+    "hitpoints": 70,
+    "combatLevel": 121,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        19
+    ],
+    "monsterAttribute": "demon",
+    "size": 2,
+    "attackLevel": 120,
+    "strengthLevel": 148,
+    "defenceLevel": 90,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 66,
+    "strengthBonus": 12
+}

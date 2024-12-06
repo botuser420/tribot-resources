@@ -1,0 +1,11 @@
+{
+    "itemId": 24378,
+    "itemName": "Twisted mithril trophy",
+    "examine": "A Mithril trophy for competing in Leagues I - Twisted (14th Nov 2019 to 16th Jan 2020).",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "weaponAttackRange": 1,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 6862,
+    "itemName": "Woolly hat",
+    "examine": "A woolly tobogganing hat.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

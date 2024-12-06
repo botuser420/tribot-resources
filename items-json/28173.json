@@ -1,0 +1,9 @@
+{
+    "itemId": 28173,
+    "itemName": "Forestry hat",
+    "examine": "You'll certainly be alright wearing this.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

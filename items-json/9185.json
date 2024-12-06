@@ -1,0 +1,14 @@
+{
+    "itemId": 9185,
+    "itemName": "Rune crossbow",
+    "examine": "A runite crossbow.",
+    "weight": 6.0,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 90,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

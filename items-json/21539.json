@@ -1,0 +1,11 @@
+{
+    "itemId": 21539,
+    "itemName": "Heat-proof vessel",
+    "examine": "Prevents the water from evaporating!",
+    "weight": 4.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4
+    }
+}

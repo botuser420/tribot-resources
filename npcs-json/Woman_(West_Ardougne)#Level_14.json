@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        1142
+    ],
+    "name": "Woman",
+    "searchName": "Woman (West Ardougne)#Level 14",
+    "hitpoints": 23,
+    "combatLevel": 14,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

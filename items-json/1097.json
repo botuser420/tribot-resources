@@ -1,0 +1,17 @@
+{
+    "itemId": 1097,
+    "itemName": "Studded chaps",
+    "examine": "Those studs should provide a bit more protection.",
+    "weight": 4.535,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -5,
+        "rangeAttackBonus": 6,
+        "stabDefenceBonus": 15,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 17,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 16
+    }
+}

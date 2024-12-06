@@ -1,0 +1,19 @@
+{
+    "itemId": 6523,
+    "itemName": "Toktz-xil-ak",
+    "examine": "A razor sharp sword of obsidian.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 47,
+        "slashAttackBonus": 38,
+        "crushAttackBonus": -2,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "strengthBonus": 49,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

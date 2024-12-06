@@ -1,0 +1,18 @@
+{
+    "itemId": 2661,
+    "itemName": "Saradomin platebody",
+    "examine": "Rune platebody in the colours of Saradomin.",
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 82,
+        "slashDefenceBonus": 80,
+        "crushDefenceBonus": 72,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 80,
+        "prayerBonus": 1
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 3448,
+    "itemName": "Magic pyre logs",
+    "examine": "Magic logs prepared with sacred oil for a funeral pyre.",
+    "weight": 1.36,
+    "buyLimit": 11000
+}

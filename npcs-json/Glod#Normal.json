@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        5129,
+        6358
+    ],
+    "name": "Glod",
+    "searchName": "Glod#Normal",
+    "hitpoints": 160,
+    "combatLevel": 138,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        25
+    ],
+    "size": 4,
+    "attackLevel": 115,
+    "strengthLevel": 120,
+    "defenceLevel": 110,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 105,
+    "slashDefenceBonus": 110,
+    "crushDefenceBonus": 130,
+    "magicDefenceBonus": 125,
+    "rangedDefenceBonus": 100,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

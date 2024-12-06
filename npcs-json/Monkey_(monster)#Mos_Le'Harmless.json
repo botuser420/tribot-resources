@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        1038
+    ],
+    "name": "Monkey",
+    "searchName": "Monkey (monster)#Mos Le'Harmless",
+    "hitpoints": 6,
+    "combatLevel": 3,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "slayerCategory": "Monkeys",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 6.0,
+    "size": 1,
+    "attackLevel": 2,
+    "strengthLevel": 3,
+    "defenceLevel": 2,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

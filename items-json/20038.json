@@ -1,0 +1,15 @@
+{
+    "itemId": 20038,
+    "itemName": "Samurai shirt",
+    "examine": "A type of shirt worn by the Samurai.",
+    "weight": 2.0,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 69,
+        "slashDefenceBonus": 67,
+        "crushDefenceBonus": 59,
+        "magicDefenceBonus": 10,
+        "rangeDefenceBonus": 67
+    }
+}

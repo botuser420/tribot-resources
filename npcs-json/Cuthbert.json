@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        12955,
+        12957
+    ],
+    "name": "Cuthbert, Lord of Dread",
+    "searchName": "Cuthbert",
+    "hitpoints": 1,
+    "combatLevel": 1,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

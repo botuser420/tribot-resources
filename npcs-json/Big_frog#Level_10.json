@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        8701
+    ],
+    "name": "Big frog",
+    "searchName": "Big frog#Level 10",
+    "hitpoints": 18,
+    "combatLevel": 10,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 8,
+    "strengthLevel": 6,
+    "defenceLevel": 4,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

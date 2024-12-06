@@ -1,0 +1,17 @@
+{
+    "itemId": 1069,
+    "itemName": "Steel platelegs",
+    "examine": "These look pretty heavy.",
+    "weight": 9.071,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 15,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 16
+    }
+}

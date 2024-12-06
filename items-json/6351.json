@@ -1,0 +1,10 @@
+{
+    "itemId": 6351,
+    "itemName": "Tribal top",
+    "examine": "Local dress.",
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        4311
+    ],
+    "name": "Sea troll",
+    "searchName": "Sea troll#Level 101",
+    "hitpoints": 80,
+    "combatLevel": 101,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 1,
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

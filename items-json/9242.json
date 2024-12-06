@@ -1,0 +1,11 @@
+{
+    "itemId": 9242,
+    "itemName": "Ruby bolts (e)",
+    "examine": "Enchanted Ruby tipped Adamantite Crossbow Bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 103
+    }
+}

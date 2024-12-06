@@ -1,0 +1,7 @@
+{
+    "itemId": 2106,
+    "itemName": "Lemon slices",
+    "examine": "Fresh lemon slices.",
+    "weight": 0.08,
+    "buyLimit": 13000
+}

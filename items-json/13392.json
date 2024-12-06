@@ -1,0 +1,10 @@
+{
+    "itemId": 13392,
+    "itemName": "Xeric's talisman (inert)",
+    "examine": "A dormant relic of the ancient times of Kourend.",
+    "weight": 0.06,
+    "equipment": {
+        "slot": "NECK",
+        "magicAttackBonus": 2
+    }
+}

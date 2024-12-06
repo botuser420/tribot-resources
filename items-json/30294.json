@@ -1,0 +1,9 @@
+{
+    "itemId": 30294,
+    "itemName": "Powder grey pumpkin (silly)",
+    "examine": "That pumpkin is not very detailed at all.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

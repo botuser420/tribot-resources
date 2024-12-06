@@ -1,0 +1,10 @@
+{
+    "itemId": 1692,
+    "itemName": "Gold amulet",
+    "examine": "A plain gold amulet.",
+    "weight": 0.007,
+    "buyLimit": 18000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        113
+    ],
+    "name": "Wild dog",
+    "searchName": "Wild dog#Unused",
+    "hitpoints": 62,
+    "combatLevel": 63,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Dogs",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 62.0,
+    "size": 1,
+    "attackLevel": 53,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

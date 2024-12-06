@@ -1,0 +1,7 @@
+{
+    "itemId": 12633,
+    "itemName": "Stamina mix(2)",
+    "examine": "Two doses of fishy stamina potion.",
+    "weight": 0.075,
+    "buyLimit": 2000
+}

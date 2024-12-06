@@ -1,0 +1,9 @@
+{
+    "itemId": 13582,
+    "itemName": "Graceful cape",
+    "examine": "A sign of your grace and loyalty.",
+    "weight": -4.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

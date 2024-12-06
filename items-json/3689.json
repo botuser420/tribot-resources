@@ -1,0 +1,11 @@
+{
+    "itemId": 3689,
+    "itemName": "Lyre",
+    "examine": "It's a musical instrument I don't know how to play.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4
+    }
+}

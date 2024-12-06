@@ -1,0 +1,7 @@
+{
+    "itemId": 397,
+    "itemName": "Sea turtle",
+    "examine": "Tasty!",
+    "weight": 0.35,
+    "buyLimit": 10000
+}

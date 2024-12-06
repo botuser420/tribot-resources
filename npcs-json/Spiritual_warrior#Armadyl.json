@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        3166
+    ],
+    "name": "Spiritual warrior",
+    "searchName": "Spiritual warrior#Armadyl",
+    "hitpoints": 98,
+    "combatLevel": 123,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        15
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Spiritual Creatures",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 98.0,
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 120,
+    "magicLevel": 1,
+    "rangedLevel": 141,
+    "rangeAttackBonus": 110,
+    "stabDefenceBonus": 23,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 13,
+    "magicDefenceBonus": 35,
+    "elementalWeakness": "None",
+    "rangedDefenceBonus": 35
+}

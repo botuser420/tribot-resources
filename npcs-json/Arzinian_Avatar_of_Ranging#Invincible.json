@@ -1,0 +1,20 @@
+{
+    "npcIds": [
+        1230
+    ],
+    "name": "Arzinian Avatar of Ranging",
+    "searchName": "Arzinian Avatar of Ranging#Invincible",
+    "hitpoints": 200,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        17
+    ],
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 110,
+    "defenceLevel": 130,
+    "rangedLevel": 140
+}

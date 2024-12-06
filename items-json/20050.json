@@ -1,0 +1,15 @@
+{
+    "itemId": 20050,
+    "itemName": "Obsidian cape (r)",
+    "examine": "A cape of woven obsidian plates.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9
+    }
+}

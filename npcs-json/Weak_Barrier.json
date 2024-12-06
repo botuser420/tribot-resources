@@ -1,0 +1,15 @@
+{
+    "npcIds": [
+        11418,
+        11419
+    ],
+    "name": "Null",
+    "searchName": "Weak Barrier",
+    "hitpoints": 50,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

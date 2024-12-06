@@ -1,0 +1,7 @@
+{
+    "itemId": 13231,
+    "itemName": "Primordial crystal",
+    "examine": "A powerful crystal of strength.",
+    "weight": 0.05,
+    "buyLimit": 15
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 24812,
+    "itemName": "Vyre noble coat tails",
+    "examine": "Lets you dress like a vampyre noble.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

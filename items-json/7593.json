@@ -1,0 +1,9 @@
+{
+    "itemId": 7593,
+    "itemName": "Zombie trousers",
+    "examine": "Good for a shamble about town.",
+    "weight": 0.003,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

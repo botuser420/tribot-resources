@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        5946,
+        5948,
+        5962
+    ],
+    "name": "Suspicious water",
+    "searchName": "Spinolyp#Suspicious water",
+    "hitpoints": 100,
+    "combatLevel": 34,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

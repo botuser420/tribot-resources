@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        4491,
+        4492,
+        4493
+    ],
+    "name": "Skeleton fremennik",
+    "searchName": "Skeleton fremennik#Level 40",
+    "hitpoints": 25,
+    "combatLevel": 40,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "SPRIA"
+    ],
+    "slayerExperience": 25.0,
+    "size": 1,
+    "attackLevel": 53,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 8,
+    "strengthBonus": 13,
+    "stabDefenceBonus": 14,
+    "slashDefenceBonus": 18,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": -4,
+    "rangedDefenceBonus": 15
+}

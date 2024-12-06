@@ -1,0 +1,9 @@
+{
+    "itemId": 28136,
+    "itemName": "Forestry kit",
+    "examine": "Holds assorted Forestry gear.",
+    "weight": 0.95,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

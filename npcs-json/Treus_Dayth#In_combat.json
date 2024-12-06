@@ -1,0 +1,37 @@
+{
+    "npcIds": [
+        6359
+    ],
+    "name": "Treus Dayth",
+    "searchName": "Treus Dayth#In combat",
+    "hitpoints": 100,
+    "combatLevel": 95,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "CRUSH"
+    ],
+    "maxHits": [
+        15,
+        8
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Ghosts",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 100.0,
+    "size": 1,
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": -5,
+    "rangedDefenceBonus": 5,
+    "immuneToPoison": true
+}

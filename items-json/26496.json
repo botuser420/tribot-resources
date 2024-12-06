@@ -1,0 +1,15 @@
+{
+    "itemId": 26496,
+    "itemName": "Holy book (or)",
+    "examine": "The holy book of Saradomin, plucked from the shattered abyss.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 8,
+        "prayerBonus": 5
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 20208,
+    "itemName": "Golden apron",
+    "examine": "An astonishingly gold apron.",
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 139,
+    "itemName": "Prayer potion(3)",
+    "examine": "3 doses of Prayer restore potion.",
+    "weight": 0.03,
+    "buyLimit": 2000
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 24409,
+    "itemName": "Twisted trousers (t1)",
+    "examine": "The trousers of a twisted relic hunter.",
+    "weight": 0.907,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

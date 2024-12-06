@@ -1,0 +1,16 @@
+{
+    "itemId": 1167,
+    "itemName": "Leather cowl",
+    "examine": "Better than no armour!",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HEAD",
+        "rangeAttackBonus": 1,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 3
+    }
+}

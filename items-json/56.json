@@ -1,0 +1,7 @@
+{
+    "itemId": 56,
+    "itemName": "Oak longbow (u)",
+    "examine": "An unstrung oak longbow; I need a bowstring for this.",
+    "weight": 1.332,
+    "buyLimit": 10000
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 29509,
+    "itemName": "Colourful crown shirt",
+    "examine": "A humble shirt with a colourful crown motif on the back!",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 27358,
+    "itemName": "Tome of fire",
+    "examine": "An ancient tome containing the secrets of fire magic.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 8,
+        "magicDefenceBonus": 8
+    }
+}

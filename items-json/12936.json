@@ -1,0 +1,7 @@
+{
+    "itemId": 12936,
+    "itemName": "Jar of swamp",
+    "examine": "This is my Swamp!",
+    "weight": 0.02,
+    "buyLimit": 4
+}

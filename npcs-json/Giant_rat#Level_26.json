@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        2510,
+        2511,
+        2512
+    ],
+    "name": "Giant rat",
+    "searchName": "Giant rat#Level 26",
+    "hitpoints": 25,
+    "combatLevel": 26,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "monsterAttribute": "rat",
+    "slayerCategory": "Rats",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 25.0,
+    "size": 2,
+    "attackLevel": 22,
+    "strengthLevel": 23,
+    "defenceLevel": 22,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

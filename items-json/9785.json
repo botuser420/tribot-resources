@@ -1,0 +1,9 @@
+{
+    "itemId": 9785,
+    "itemName": "Fletching hood",
+    "examine": "Fletching skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

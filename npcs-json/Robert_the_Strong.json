@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        2639,
+        8124,
+        8129,
+        8057
+    ],
+    "name": "Robert the Strong",
+    "hitpoints": 280,
+    "combatLevel": 224,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        34
+    ],
+    "size": 1,
+    "defenceLevel": 140,
+    "magicLevel": 128,
+    "rangedLevel": 328,
+    "rangeAttackBonus": 126,
+    "stabDefenceBonus": 140,
+    "slashDefenceBonus": 180,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 940,
+    "rangedDefenceBonus": 860,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

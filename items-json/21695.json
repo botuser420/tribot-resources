@@ -1,0 +1,9 @@
+{
+    "itemId": 21695,
+    "itemName": "Runefest shield",
+    "examine": "Celebrating RuneFest 2017.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

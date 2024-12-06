@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        11069
+    ],
+    "name": "Lynx",
+    "searchName": "Lynx#Level 24",
+    "hitpoints": 30,
+    "combatLevel": 24,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 2,
+    "attackLevel": 20,
+    "strengthLevel": 18,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

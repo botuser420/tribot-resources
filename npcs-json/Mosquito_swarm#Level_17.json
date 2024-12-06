@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        6273
+    ],
+    "name": "Mosquito swarm",
+    "searchName": "Mosquito swarm#Level 17",
+    "hitpoints": 9,
+    "combatLevel": 17,
+    "attackSpeed": 2,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 1,
+    "defenceLevel": 45,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 2,
+    "slashDefenceBonus": 2,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 2
+}

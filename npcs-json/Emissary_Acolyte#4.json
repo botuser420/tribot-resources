@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        13732,
+        13733,
+        13734,
+        13735,
+        13736,
+        13737
+    ],
+    "name": "Emissary Acolyte",
+    "searchName": "Emissary Acolyte#4",
+    "hitpoints": 25,
+    "combatLevel": 34,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 35,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 20
+}

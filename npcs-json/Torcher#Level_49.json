@@ -1,0 +1,17 @@
+{
+    "npcIds": [
+        1716,
+        1717
+    ],
+    "name": "Torcher",
+    "searchName": "Torcher#Level 49",
+    "hitpoints": 30,
+    "combatLevel": 49,
+    "attackSpeed": 4,
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "defenceLevel": 41,
+    "magicLevel": 66
+}

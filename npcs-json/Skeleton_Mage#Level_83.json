@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        4319
+    ],
+    "name": "Skeleton Mage",
+    "searchName": "Skeleton Mage#Level 83",
+    "hitpoints": 80,
+    "combatLevel": 83,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 80.0,
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 60,
+    "magicLevel": 100,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 15
+}

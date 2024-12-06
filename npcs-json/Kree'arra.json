@@ -1,0 +1,44 @@
+{
+    "npcIds": [
+        3162
+    ],
+    "name": "Kree'arra",
+    "hitpoints": 255,
+    "combatLevel": 580,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED",
+        "MELEE"
+    ],
+    "maxHits": [
+        69,
+        21,
+        26
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 357.0,
+    "size": 5,
+    "attackLevel": 300,
+    "strengthLevel": 200,
+    "defenceLevel": 260,
+    "magicLevel": 200,
+    "rangedLevel": 380,
+    "attackBonus": 136,
+    "strengthBonus": 12,
+    "rangeAttackBonus": 120,
+    "rangedStrengthBonus": 50,
+    "stabDefenceBonus": 180,
+    "slashDefenceBonus": 180,
+    "crushDefenceBonus": 180,
+    "magicDefenceBonus": 200,
+    "elementalWeakness": "Air",
+    "elementalWeaknessPercent": 30,
+    "rangedDefenceBonus": 200,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

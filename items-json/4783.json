@@ -1,0 +1,11 @@
+{
+    "itemId": 4783,
+    "itemName": "Steel brutal",
+    "examine": "Blunt steel arrow... ouch.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 19
+    }
+}

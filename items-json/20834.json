@@ -1,0 +1,9 @@
+{
+    "itemId": 20834,
+    "itemName": "Sack of presents",
+    "examine": "You too can look like Santa.",
+    "weight": 0.003,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

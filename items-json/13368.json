@@ -1,0 +1,14 @@
+{
+    "itemId": 13368,
+    "itemName": "Shayzien boots (3)",
+    "examine": "Dress like a tier 3 Shayzien soldier.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -2,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 6
+    }
+}

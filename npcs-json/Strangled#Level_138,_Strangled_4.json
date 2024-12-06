@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        12271,
+        12279,
+        12284,
+        12432
+    ],
+    "name": "Strangled",
+    "searchName": "Strangled#Level 138, Strangled 4",
+    "hitpoints": 40,
+    "combatLevel": 138,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "TYPELESS"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

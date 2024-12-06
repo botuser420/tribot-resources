@@ -1,0 +1,16 @@
+{
+    "itemId": 4931,
+    "itemName": "Karil's coif 25",
+    "examine": "Karil the Tainted's coif.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -1,
+        "rangeAttackBonus": 7,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 10
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 25592,
+    "itemName": "Spirit angler headband",
+    "examine": "This will help with fishing.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

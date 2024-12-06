@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        4086,
+        4087,
+        4089,
+        4090,
+        4091,
+        4088
+    ],
+    "name": "Soldier",
+    "searchName": "Soldier (Burthorpe)",
+    "hitpoints": 50,
+    "combatLevel": 48,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "attackBonus": 11,
+    "strengthBonus": 12,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 23,
+    "crushDefenceBonus": 21,
+    "magicDefenceBonus": 6,
+    "rangedDefenceBonus": 14
+}

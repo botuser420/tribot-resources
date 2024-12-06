@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        11949
+    ],
+    "name": "White Knight",
+    "searchName": "White Knight#Proselyte (f)",
+    "hitpoints": 52,
+    "combatLevel": 38,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 29,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 30,
+    "strengthBonus": 31,
+    "stabDefenceBonus": 83,
+    "slashDefenceBonus": 76,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": -11,
+    "rangedDefenceBonus": 74
+}

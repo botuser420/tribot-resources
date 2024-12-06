@@ -1,0 +1,20 @@
+{
+    "itemId": 22625,
+    "itemName": "Statius's full helm",
+    "examine": "A powerful helmet.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 3,
+        "slashAttackBonus": 3,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 65,
+        "slashDefenceBonus": 70,
+        "crushDefenceBonus": 63,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 71,
+        "strengthBonus": 3
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 2315,
+    "itemName": "Pie shell",
+    "examine": "I need to find a filling for this pie.",
+    "weight": 0.25,
+    "buyLimit": 13000
+}

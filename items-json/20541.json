@@ -1,0 +1,15 @@
+{
+    "itemId": 20541,
+    "itemName": "Guthix halo (broken)",
+    "examine": "A broken halo with the protection of Guthix.",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 11,
+        "rangeDefenceBonus": -1,
+        "prayerBonus": 3
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        925
+    ],
+    "name": "Rock",
+    "searchName": "Rock (Troll)",
+    "hitpoints": 140,
+    "combatLevel": 111,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        30
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 150.5,
+    "size": 2,
+    "attackLevel": 70,
+    "strengthLevel": 110,
+    "defenceLevel": 70,
+    "attackBonus": 60,
+    "strengthBonus": 100,
+    "stabDefenceBonus": 35,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 35,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 200
+}

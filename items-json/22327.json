@@ -1,0 +1,18 @@
+{
+    "itemId": 22327,
+    "itemName": "Justiciar chestguard",
+    "examine": "A Justiciar's chestguard. They once roamed the land casting judgements on wrongdoers, their decisions were never questioned.",
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -40,
+        "rangeAttackBonus": -20,
+        "stabDefenceBonus": 132,
+        "slashDefenceBonus": 130,
+        "crushDefenceBonus": 117,
+        "magicDefenceBonus": -16,
+        "rangeDefenceBonus": 142,
+        "prayerBonus": 4
+    }
+}

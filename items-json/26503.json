@@ -1,0 +1,11 @@
+{
+    "itemId": 26503,
+    "itemName": "Shattered relics bronze trophy",
+    "examine": "A Bronze trophy for competing in Leagues III - Shattered Relics",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "weaponAttackRange": 1,
+        "weaponType": "BLUNT"
+    }
+}

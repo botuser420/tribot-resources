@@ -1,0 +1,9 @@
+{
+    "itemId": 24736,
+    "itemName": "Ring of endurance",
+    "examine": "I wonder if this ring helps with...",
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING"
+    }
+}

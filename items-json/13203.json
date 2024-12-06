@@ -1,0 +1,9 @@
+{
+    "itemId": 13203,
+    "itemName": "Mask of balance",
+    "examine": "A shining mask of balance.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

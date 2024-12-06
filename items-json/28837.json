@@ -1,0 +1,11 @@
+{
+    "itemId": 28837,
+    "itemName": "Irit tar",
+    "examine": "A dark, thick, foul-smelling, tar-like substance.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 60
+    }
+}

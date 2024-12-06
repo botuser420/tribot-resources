@@ -1,0 +1,9 @@
+{
+    "itemId": 5545,
+    "itemName": "Law tiara",
+    "examine": "A tiara infused with the properties of law.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 1641,
+    "itemName": "Ruby ring",
+    "examine": "A valuable ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "RING"
+    }
+}

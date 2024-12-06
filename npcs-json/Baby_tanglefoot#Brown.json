@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        5854
+    ],
+    "name": "Baby tanglefoot",
+    "searchName": "Baby tanglefoot#Brown",
+    "hitpoints": 40,
+    "combatLevel": 45,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 38,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

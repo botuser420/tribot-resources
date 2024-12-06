@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        1380
+    ],
+    "name": "Camp dweller",
+    "searchName": "Camp dweller#Level 31 (2)",
+    "hitpoints": 30,
+    "combatLevel": 31,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 25,
+    "strengthLevel": 30,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 20
+}

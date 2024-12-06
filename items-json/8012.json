@@ -1,0 +1,7 @@
+{
+    "itemId": 8012,
+    "itemName": "Watchtower teleport",
+    "examine": "A teleport to the Yanille Watchtower.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

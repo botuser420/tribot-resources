@@ -1,0 +1,9 @@
+{
+    "itemId": 29265,
+    "itemName": "Guild hunter top",
+    "examine": "The top of the Hunters.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

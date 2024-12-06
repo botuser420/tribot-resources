@@ -1,0 +1,9 @@
+{
+    "itemId": 24676,
+    "itemName": "Vyre noble top",
+    "examine": "Lets you dress like a vampyre noble.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

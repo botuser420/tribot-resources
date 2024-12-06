@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        8736
+    ],
+    "name": "Moss Giant",
+    "searchName": "Moss Giant (Iorwerth Dungeon)",
+    "hitpoints": 120,
+    "combatLevel": 84,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MELEE",
+        "MAGIC"
+    ],
+    "maxHits": [
+        14
+    ],
+    "slayerCategory": "Moss Giants",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 120.0,
+    "size": 2,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 66,
+    "strengthBonus": 62,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50
+}

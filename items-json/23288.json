@@ -1,0 +1,10 @@
+{
+    "itemId": 23288,
+    "itemName": "Frog slippers",
+    "examine": "Cute frog slippers.",
+    "weight": 0.2,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

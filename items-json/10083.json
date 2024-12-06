@@ -1,0 +1,17 @@
+{
+    "itemId": 10083,
+    "itemName": "Red spiky vambraces",
+    "examine": "Vambraces made from 100% real dragonhide. Now with added spikiness.",
+    "weight": 0.283,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 10,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 6,
+        "strengthBonus": 2
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "itemId": 7433,
+    "itemName": "Wooden spoon",
+    "examine": "Spoooooon!",
+    "weight": 0.453,
+    "buyLimit": 50,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 5,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 7,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

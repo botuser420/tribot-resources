@@ -1,0 +1,10 @@
+{
+    "itemId": 25344,
+    "itemName": "Soul cape",
+    "examine": "A silky cape infused with the power of souls.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "prayerBonus": 8
+    }
+}

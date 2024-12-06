@@ -1,0 +1,19 @@
+{
+    "itemId": 1293,
+    "itemName": "Iron longsword",
+    "examine": "A razor sharp longsword.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 10,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

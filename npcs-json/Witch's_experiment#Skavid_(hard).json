@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        6333
+    ],
+    "name": "Witch's experiment (hard)",
+    "searchName": "Witch's experiment#Skavid (hard)",
+    "hitpoints": 63,
+    "combatLevel": 47,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 54,
+    "strengthLevel": 30,
+    "defenceLevel": 19,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

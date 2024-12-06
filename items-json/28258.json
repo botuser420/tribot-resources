@@ -1,0 +1,18 @@
+{
+    "itemId": 28258,
+    "itemName": "Sanguine torva platelegs",
+    "examine": "An ancient warrior's platelegs.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -24,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 87,
+        "slashDefenceBonus": 78,
+        "crushDefenceBonus": 79,
+        "magicDefenceBonus": -9,
+        "rangeDefenceBonus": 102,
+        "strengthBonus": 4,
+        "prayerBonus": 1
+    }
+}

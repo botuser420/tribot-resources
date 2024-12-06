@@ -1,0 +1,10 @@
+{
+    "itemId": 10404,
+    "itemName": "Red elegant shirt",
+    "examine": "A well made elegant men's red shirt.",
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

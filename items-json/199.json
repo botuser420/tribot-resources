@@ -1,0 +1,7 @@
+{
+    "itemId": 199,
+    "itemName": "Grimy guam leaf",
+    "examine": "It needs cleaning.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

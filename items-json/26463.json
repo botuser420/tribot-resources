@@ -1,0 +1,14 @@
+{
+    "itemId": 26463,
+    "itemName": "Void knight top (or)",
+    "examine": "A void knight top plucked from the shattered abyss.",
+    "weight": 6.803,
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 45,
+        "slashDefenceBonus": 45,
+        "crushDefenceBonus": 45,
+        "magicDefenceBonus": 45,
+        "rangeDefenceBonus": 45
+    }
+}

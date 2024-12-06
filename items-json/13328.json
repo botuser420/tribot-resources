@@ -1,0 +1,12 @@
+{
+    "itemId": 13328,
+    "itemName": "Green banner",
+    "examine": "Makes me think of whales... I wish I knew why.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BANNER"
+    }
+}

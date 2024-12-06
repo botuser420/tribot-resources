@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        12453
+    ],
+    "name": "Flaming pyrelord",
+    "searchName": "Flaming pyrelord (Deadman)#Armageddon",
+    "hitpoints": 750,
+    "combatLevel": 338,
+    "attackSpeed": 4,
+    "maxHits": [
+        21
+    ],
+    "monsterAttribute": "demon",
+    "size": 3,
+    "attackLevel": 150,
+    "strengthLevel": 200,
+    "defenceLevel": 150,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 18,
+    "slashDefenceBonus": 18,
+    "crushDefenceBonus": 18,
+    "magicDefenceBonus": 150,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 100,
+    "rangedDefenceBonus": 18,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

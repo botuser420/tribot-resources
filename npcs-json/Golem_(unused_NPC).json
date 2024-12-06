@@ -1,0 +1,15 @@
+{
+    "npcIds": [
+        2836
+    ],
+    "name": "Golem",
+    "searchName": "Golem (unused NPC)",
+    "hitpoints": 70,
+    "combatLevel": 55,
+    "size": 2,
+    "attackLevel": 35,
+    "strengthLevel": 60,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 9238,
+    "itemName": "Pearl bolts (e)",
+    "examine": "Enchanted Pearl tipped Iron Crossbow Bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 48
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        5966,
+        5967
+    ],
+    "name": "Gnome troop",
+    "searchName": "Gnome troop#Level 3",
+    "hitpoints": 3,
+    "combatLevel": 3,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 5,
+    "attackBonus": 2,
+    "strengthBonus": 3,
+    "rangedStrengthBonus": 2,
+    "stabDefenceBonus": 3,
+    "slashDefenceBonus": 4,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 2,
+    "rangedDefenceBonus": 4
+}

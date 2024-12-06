@@ -1,0 +1,10 @@
+{
+    "itemId": 5042,
+    "itemName": "Shorts",
+    "examine": "These look great, on dwarves!",
+    "weight": 0.1,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

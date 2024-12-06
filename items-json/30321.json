@@ -1,0 +1,17 @@
+{
+    "itemId": 30321,
+    "itemName": "Zombie helmet",
+    "examine": "A rusty yet tough helmet.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "crushAttackBonus": 8,
+        "magicAttackBonus": -4,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 38,
+        "rangeDefenceBonus": 30,
+        "strengthBonus": 2
+    }
+}

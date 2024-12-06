@@ -1,0 +1,18 @@
+{
+    "itemId": 25981,
+    "itemName": "Keris partisan of breaching",
+    "examine": "A mystical-feeling polearm imbued with great power.",
+    "weight": 3.218,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 58,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 57,
+        "magicAttackBonus": 2,
+        "strengthBonus": 45,
+        "prayerBonus": 3,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "PARTISAN"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 28307,
+    "itemName": "Ultor ring",
+    "examine": "An occult ring that grants immense physical power.",
+    "weight": 0.012,
+    "equipment": {
+        "slot": "RING",
+        "strengthBonus": 12
+    }
+}

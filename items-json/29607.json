@@ -1,0 +1,19 @@
+{
+    "itemId": 29607,
+    "itemName": "Voidwaker (deadman)",
+    "examine": "A truly fearsome weapon.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 70,
+        "slashAttackBonus": 80,
+        "crushAttackBonus": -2,
+        "magicAttackBonus": 5,
+        "slashDefenceBonus": 1,
+        "magicDefenceBonus": 2,
+        "strengthBonus": 80,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

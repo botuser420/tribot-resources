@@ -1,0 +1,21 @@
+{
+    "itemId": 21295,
+    "itemName": "Infernal cape",
+    "examine": "Whose idea was it to have a cape made of lava anyway?",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "CAPE",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 1,
+        "rangeAttackBonus": 1,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 12,
+        "rangeDefenceBonus": 12,
+        "strengthBonus": 8,
+        "prayerBonus": 2
+    }
+}

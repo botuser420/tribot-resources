@@ -1,0 +1,17 @@
+{
+    "itemId": 6324,
+    "itemName": "Snakeskin chaps",
+    "examine": "Made from 100% real snake.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -5,
+        "rangeAttackBonus": 6,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 10
+    }
+}

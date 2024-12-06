@@ -1,0 +1,10 @@
+{
+    "itemId": 20080,
+    "itemName": "Mummy's head",
+    "examine": "A mummy's head.",
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

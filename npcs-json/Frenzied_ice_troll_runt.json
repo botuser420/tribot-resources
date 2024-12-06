@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        5823
+    ],
+    "name": "Frenzied ice troll runt",
+    "hitpoints": 60,
+    "combatLevel": 74,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        15
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 63.0,
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 60,
+    "strengthBonus": 60,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 30
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 5013,
+    "itemName": "Mining helmet",
+    "examine": "A helmet with a lamp on it.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 4
+    }
+}

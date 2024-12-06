@@ -1,0 +1,17 @@
+{
+    "itemId": 29289,
+    "itemName": "Mixed hide cape",
+    "examine": "Made from the hide of a few different creatures.",
+    "weight": 3.0,
+    "equipment": {
+        "slot": "CAPE",
+        "magicAttackBonus": -15,
+        "rangeAttackBonus": 5,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 1
+    }
+}

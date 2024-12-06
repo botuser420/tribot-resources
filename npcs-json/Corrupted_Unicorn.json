@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        9043
+    ],
+    "name": "Corrupted Unicorn",
+    "hitpoints": 44,
+    "combatLevel": 64,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        17
+    ],
+    "size": 2,
+    "attackLevel": 75,
+    "strengthLevel": 72,
+    "defenceLevel": 24,
+    "magicLevel": 24,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

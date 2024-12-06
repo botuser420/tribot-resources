@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        579
+    ],
+    "name": "Zombie pirate",
+    "searchName": "Zombie pirate (Harmony Island)#14",
+    "hitpoints": 52,
+    "combatLevel": 57,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 52.0,
+    "size": 1,
+    "attackLevel": 49,
+    "strengthLevel": 50,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

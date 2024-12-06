@@ -1,0 +1,17 @@
+{
+    "itemId": 3757,
+    "itemName": "Fremennik blade",
+    "examine": "A sword used only by Fremennik warriors.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 29,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 28,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

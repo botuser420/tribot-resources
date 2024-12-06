@@ -1,0 +1,7 @@
+{
+    "itemId": 1550,
+    "itemName": "Garlic",
+    "examine": "A clove of garlic.",
+    "weight": 0.028,
+    "buyLimit": 11000
+}

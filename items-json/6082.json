@@ -1,0 +1,11 @@
+{
+    "itemId": 6082,
+    "itemName": "Fixed device",
+    "examine": "A device for firing dye.",
+    "weight": 4.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackSpeed": 4,
+        "weaponType": "GUN"
+    }
+}

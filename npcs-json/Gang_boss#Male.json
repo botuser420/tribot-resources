@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        6902,
+        6903
+    ],
+    "name": "Gang boss",
+    "searchName": "Gang boss#Male",
+    "hitpoints": 80,
+    "combatLevel": 76,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED",
+        "MELEE"
+    ],
+    "maxHits": [
+        13
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 80,
+    "rangeAttackBonus": 50,
+    "crushDefenceBonus": 10
+}

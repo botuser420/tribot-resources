@@ -1,0 +1,14 @@
+{
+    "itemId": 25389,
+    "itemName": "Swampbark body",
+    "examine": "Keeps my chest protected.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 38,
+        "slashDefenceBonus": 44,
+        "crushDefenceBonus": 48,
+        "magicDefenceBonus": 21
+    }
+}

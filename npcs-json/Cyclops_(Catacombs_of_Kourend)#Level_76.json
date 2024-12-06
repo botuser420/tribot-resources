@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        7270
+    ],
+    "name": "Cyclops",
+    "searchName": "Cyclops (Catacombs of Kourend)#Level 76",
+    "hitpoints": 100,
+    "combatLevel": 76,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "Hill Giants",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 100.0,
+    "size": 2,
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 35,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

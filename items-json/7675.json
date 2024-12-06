@@ -1,0 +1,18 @@
+{
+    "itemId": 7675,
+    "itemName": "Wooden sword",
+    "examine": "A less-than razor sharp sword.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 3,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 5,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

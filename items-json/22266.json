@@ -1,0 +1,15 @@
+{
+    "itemId": 22266,
+    "itemName": "Redwood shield",
+    "examine": "A solid redwood shield.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 11,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 10
+    }
+}

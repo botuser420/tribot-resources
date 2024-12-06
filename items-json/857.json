@@ -1,0 +1,14 @@
+{
+    "itemId": 857,
+    "itemName": "Yew shortbow",
+    "examine": "A shortbow made out of yew, still effective.",
+    "weight": 1.36,
+    "buyLimit": 18000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 47,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

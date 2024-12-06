@@ -1,0 +1,11 @@
+{
+    "itemId": 6111,
+    "itemName": "Ghostly cloak",
+    "examine": "Made of a strange ghostly material...",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "CAPE",
+        "magicAttackBonus": 5,
+        "magicDefenceBonus": 5
+    }
+}

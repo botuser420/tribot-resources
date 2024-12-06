@@ -1,0 +1,22 @@
+{
+    "itemId": 27920,
+    "itemName": "Zuriel's staff (bh)",
+    "examine": "A powerful staff.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 13,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 65,
+        "magicAttackBonus": 18,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 18,
+        "strengthBonus": 72,
+        "magicDamageBonus": 10.0,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

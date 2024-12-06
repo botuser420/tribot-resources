@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        11462
+    ],
+    "name": "Menaphite Shadow",
+    "hitpoints": 50,
+    "combatLevel": 147,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        22
+    ],
+    "attackLevel": 150,
+    "strengthLevel": 150,
+    "defenceLevel": 70,
+    "magicLevel": 150,
+    "rangedLevel": 150,
+    "attackBonus": 46,
+    "strengthBonus": 24,
+    "magicAttackBonus": 46,
+    "rangeAttackBonus": 46,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 280,
+    "rangedDefenceBonus": 180,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

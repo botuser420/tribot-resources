@@ -1,0 +1,18 @@
+{
+    "itemId": 1432,
+    "itemName": "Rune mace",
+    "examine": "A spiky mace.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 20,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 39,
+        "strengthBonus": 36,
+        "prayerBonus": 4,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

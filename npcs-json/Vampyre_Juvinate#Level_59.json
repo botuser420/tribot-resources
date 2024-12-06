@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        5634,
+        5637
+    ],
+    "name": "Vampyre Juvinate",
+    "searchName": "Vampyre Juvinate#Level 59",
+    "hitpoints": 50,
+    "combatLevel": 59,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "monsterAttribute": "vampyre2",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 95,
+    "strengthLevel": 16,
+    "defenceLevel": 45,
+    "magicLevel": 50,
+    "rangedLevel": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

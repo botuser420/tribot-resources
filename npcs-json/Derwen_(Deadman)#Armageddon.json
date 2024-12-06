@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        12450
+    ],
+    "name": "Derwen",
+    "searchName": "Derwen (Deadman)#Armageddon",
+    "hitpoints": 500,
+    "combatLevel": 280,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        16
+    ],
+    "size": 3,
+    "attackLevel": 250,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "magicLevel": 180,
+    "rangedLevel": 1,
+    "magicAttackBonus": 80,
+    "magicDamageBonus": 80,
+    "stabDefenceBonus": 200,
+    "slashDefenceBonus": 200,
+    "crushDefenceBonus": 200,
+    "magicDefenceBonus": -60,
+    "rangedDefenceBonus": 200,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

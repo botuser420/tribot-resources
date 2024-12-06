@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        5342,
+        5343
+    ],
+    "name": "Undead one",
+    "searchName": "Undead one#Level 68 (Skeletal)",
+    "hitpoints": 47,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 63,
+    "strengthLevel": 63,
+    "defenceLevel": 63
+}

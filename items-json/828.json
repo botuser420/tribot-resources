@@ -1,0 +1,11 @@
+{
+    "itemId": 828,
+    "itemName": "Mithril javelin",
+    "examine": "A mithril tipped javelin.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 85
+    }
+}

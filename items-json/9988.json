@@ -1,0 +1,7 @@
+{
+    "itemId": 9988,
+    "itemName": "Roast beast meat",
+    "examine": "A delicious looking slab of roast beast.",
+    "weight": 2.0,
+    "buyLimit": 6000
+}

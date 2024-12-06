@@ -1,0 +1,10 @@
+{
+    "itemId": 4980,
+    "itemName": "Verac's helm 0",
+    "examine": "Verac the Defiled's helm.",
+    "weight": 1.36,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

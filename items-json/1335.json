@@ -1,0 +1,18 @@
+{
+    "itemId": 1335,
+    "itemName": "Iron warhammer",
+    "examine": "I don't think it's intended for joinery.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 11,
+        "magicAttackBonus": -4,
+        "strengthBonus": 11,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

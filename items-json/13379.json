@@ -1,0 +1,16 @@
+{
+    "itemId": 13379,
+    "itemName": "Shayzien helm (5)",
+    "examine": "Dress like a tier 5 Shayzien soldier.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": 4,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 14,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": -2,
+        "rangeDefenceBonus": 13
+    }
+}

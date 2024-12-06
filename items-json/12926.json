@@ -1,0 +1,14 @@
+{
+    "itemId": 12926,
+    "itemName": "Toxic blowpipe",
+    "examine": "Fires darts while coating them with venom.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 30,
+        "rangedStrengthBonus": 20,
+        "weaponAttackRange": 5,
+        "weaponAttackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

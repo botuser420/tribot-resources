@@ -1,0 +1,11 @@
+{
+    "itemId": 4778,
+    "itemName": "Iron brutal",
+    "examine": "Blunt iron arrow... ouch.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 13
+    }
+}

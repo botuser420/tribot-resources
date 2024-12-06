@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        3898
+    ],
+    "name": "Koschei the deathless",
+    "searchName": "Koschei the deathless#The Fremennik Trials (Form 2)",
+    "hitpoints": 50,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 40,
+    "rangedDefenceBonus": 40
+}

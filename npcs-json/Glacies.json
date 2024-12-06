@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        11286
+    ],
+    "name": "Glacies",
+    "hitpoints": 500,
+    "combatLevel": 285,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        29
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 200,
+    "magicLevel": 200,
+    "rangedLevel": 1,
+    "magicDamageBonus": 25,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 25,
+    "magicDefenceBonus": 150,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

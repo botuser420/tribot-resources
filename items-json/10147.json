@@ -1,0 +1,16 @@
+{
+    "itemId": 10147,
+    "itemName": "Red salamander",
+    "examine": "Slightly slimy but certainly striking.",
+    "weight": 4.0,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 37,
+        "rangeAttackBonus": 47,
+        "strengthBonus": 49,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SALAMANDER"
+    }
+}

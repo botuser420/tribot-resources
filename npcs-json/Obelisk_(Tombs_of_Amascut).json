@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        11750,
+        11751,
+        11752
+    ],
+    "name": "Obelisk",
+    "searchName": "Obelisk (Tombs of Amascut)",
+    "hitpoints": 260,
+    "attackSpeed": 4,
+    "maxHits": [
+        0
+    ],
+    "size": 3,
+    "attackLevel": 200,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "rangedLevel": 100,
+    "stabDefenceBonus": 70,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 60,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

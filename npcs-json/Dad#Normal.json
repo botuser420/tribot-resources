@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        4130,
+        6391
+    ],
+    "name": "Dad",
+    "searchName": "Dad#Normal",
+    "hitpoints": 120,
+    "combatLevel": 101,
+    "attackSpeed": 8,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        27
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 126.0,
+    "size": 3,
+    "attackLevel": 60,
+    "strengthLevel": 120,
+    "defenceLevel": 50,
+    "attackBonus": 40,
+    "strengthBonus": 70,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 200
+}

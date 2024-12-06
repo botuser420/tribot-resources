@@ -1,0 +1,18 @@
+{
+    "itemId": 26245,
+    "itemName": "Virtus robe bottom",
+    "examine": "An ancient mage's robe bottom.",
+    "weight": 3.79,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 26,
+        "rangeAttackBonus": -9,
+        "stabDefenceBonus": 31,
+        "slashDefenceBonus": 28,
+        "crushDefenceBonus": 34,
+        "magicDefenceBonus": 22,
+        "magicDamageBonus": 2.0,
+        "prayerBonus": 1
+    }
+}

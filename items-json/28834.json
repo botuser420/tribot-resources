@@ -1,0 +1,15 @@
+{
+    "itemId": 28834,
+    "itemName": "Tecu salamander",
+    "examine": "I thought this would be slimier.",
+    "weight": 6.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 77,
+        "rangeAttackBonus": 87,
+        "strengthBonus": 91,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SALAMANDER"
+    }
+}

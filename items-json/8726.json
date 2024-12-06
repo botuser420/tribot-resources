@@ -1,0 +1,16 @@
+{
+    "itemId": 8726,
+    "itemName": "Rune kiteshield",
+    "examine": "A shield with the symbol of the HAM cult.",
+    "weight": 5.443,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 44,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 46,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 46
+    }
+}

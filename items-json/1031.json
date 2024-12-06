@@ -1,0 +1,13 @@
+{
+    "itemId": 1031,
+    "itemName": "Orange cape",
+    "examine": "A thick orange cape.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

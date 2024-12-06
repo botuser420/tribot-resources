@@ -1,0 +1,7 @@
+{
+    "itemId": 23517,
+    "itemName": "Giant egg sac(full)",
+    "examine": "A giant sac of red spider eggs, hopefully none of them hatch.",
+    "weight": 5.0,
+    "buyLimit": 100
+}

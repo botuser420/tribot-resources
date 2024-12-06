@@ -1,0 +1,17 @@
+{
+    "itemId": 1079,
+    "itemName": "Rune platelegs",
+    "examine": "These look pretty heavy.",
+    "weight": 9.071,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 51,
+        "slashDefenceBonus": 49,
+        "crushDefenceBonus": 47,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 49
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        13812
+    ],
+    "name": "Dire Wolf Alpha",
+    "hitpoints": 100,
+    "combatLevel": 113,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        12
+    ],
+    "size": 3,
+    "attackLevel": 120,
+    "strengthLevel": 110,
+    "defenceLevel": 80,
+    "magicLevel": 40,
+    "rangedLevel": 1,
+    "elementalWeakness": "None"
+}

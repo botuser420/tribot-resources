@@ -1,0 +1,14 @@
+{
+    "itemId": 19478,
+    "itemName": "Light ballista",
+    "examine": "A weapon forged from the wreckage of an airship.",
+    "weight": 3.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 110,
+        "weaponAttackRange": 9,
+        "weaponAttackSpeed": 7,
+        "weaponType": "CROSSBOW"
+    }
+}

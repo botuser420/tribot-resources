@@ -1,0 +1,10 @@
+{
+    "itemId": 22121,
+    "itemName": "Wrath tiara",
+    "examine": "A tiara infused with the properties of wrath.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 237,
+    "itemName": "Unicorn horn",
+    "examine": "This horn has restorative properties.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

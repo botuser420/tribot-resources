@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        3966
+    ],
+    "name": "Ranalph Devere",
+    "hitpoints": 130,
+    "combatLevel": 92,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        13
+    ],
+    "monsterAttribute": "spectral",
+    "size": 1,
+    "attackLevel": 66,
+    "strengthLevel": 67,
+    "defenceLevel": 66,
+    "attackBonus": 45,
+    "strengthBonus": 44,
+    "stabDefenceBonus": 38,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 36,
+    "rangedDefenceBonus": 38
+}

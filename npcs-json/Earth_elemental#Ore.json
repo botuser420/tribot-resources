@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        1367
+    ],
+    "name": "Earth elemental",
+    "searchName": "Earth elemental#Ore",
+    "hitpoints": 35,
+    "combatLevel": 35,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 35,
+    "defenceLevel": 35,
+    "magicLevel": 10,
+    "rangedLevel": 30
+}

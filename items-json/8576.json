@@ -1,0 +1,7 @@
+{
+    "itemId": 8576,
+    "itemName": "Wooden bed",
+    "examine": "How does it all fit in there?",
+    "weight": 1.0,
+    "buyLimit": 500
+}

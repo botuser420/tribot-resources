@@ -1,0 +1,15 @@
+{
+    "itemId": 10035,
+    "itemName": "Kyatt legs",
+    "examine": "These should make me harder to spot in polar areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS",
+        "rangeAttackBonus": -7,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "rangeDefenceBonus": 10
+    }
+}

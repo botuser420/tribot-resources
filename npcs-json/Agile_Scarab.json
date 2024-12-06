@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        11727
+    ],
+    "name": "Agile Scarab",
+    "hitpoints": 30,
+    "combatLevel": 53,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        5
+    ],
+    "monsterAttribute": "kalphite",
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 20,
+    "defenceLevel": 5,
+    "magicLevel": 30,
+    "rangedLevel": 40,
+    "strengthBonus": 25,
+    "magicAttackBonus": 150,
+    "magicDamageBonus": 25,
+    "rangeAttackBonus": 150,
+    "rangedStrengthBonus": 5,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

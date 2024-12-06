@@ -1,0 +1,14 @@
+{
+    "itemId": 9786,
+    "itemName": "Slayer cape",
+    "examine": "The cape worn by Slayer masters.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 101,
+    "itemName": "Irit potion (unf)",
+    "examine": "I need another ingredient to finish this Irit potion.",
+    "weight": 0.056,
+    "buyLimit": 10000
+}

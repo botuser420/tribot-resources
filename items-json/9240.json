@@ -1,0 +1,11 @@
+{
+    "itemId": 9240,
+    "itemName": "Sapphire bolts (e)",
+    "examine": "Enchanted Sapphire tipped Mithril Crossbow Bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 83
+    }
+}

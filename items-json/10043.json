@@ -1,0 +1,14 @@
+{
+    "itemId": 10043,
+    "itemName": "Larupia top",
+    "examine": "This should make me harder to spot in woodland and jungle areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 19,
+        "rangeDefenceBonus": 12
+    }
+}

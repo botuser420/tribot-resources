@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        4345,
+        4361,
+        3522
+    ],
+    "name": "Sir Bedivere",
+    "hitpoints": 90,
+    "combatLevel": 110,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        14
+    ],
+    "size": 1,
+    "attackLevel": 99,
+    "strengthLevel": 95,
+    "defenceLevel": 99,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 20,
+    "strengthBonus": 20,
+    "stabDefenceBonus": 15,
+    "crushDefenceBonus": 190,
+    "immuneToVenom": true
+}

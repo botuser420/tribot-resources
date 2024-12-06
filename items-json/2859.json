@@ -1,0 +1,7 @@
+{
+    "itemId": 2859,
+    "itemName": "Wolf bones",
+    "examine": "Bones of a recently slain wolf.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

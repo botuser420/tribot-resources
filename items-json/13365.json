@@ -1,0 +1,16 @@
+{
+    "itemId": 13365,
+    "itemName": "Shayzien greaves (2)",
+    "examine": "Dress like a tier 2 Shayzien soldier.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -14,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 14,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 14
+    }
+}

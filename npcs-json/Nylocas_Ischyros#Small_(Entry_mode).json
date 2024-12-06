@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        10774,
+        10780
+    ],
+    "name": "Nylocas Ischyros",
+    "searchName": "Nylocas Ischyros#Small (Entry mode)",
+    "hitpoints": 2,
+    "combatLevel": 46,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 40,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 80,
+    "magicAttackBonus": 505,
+    "magicDamageBonus": 280,
+    "rangedStrengthBonus": -30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

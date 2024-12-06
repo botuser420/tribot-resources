@@ -1,0 +1,7 @@
+{
+    "itemId": 2293,
+    "itemName": "Meat pizza",
+    "examine": "A pizza with bits of meat on it.",
+    "weight": 0.9,
+    "buyLimit": 10000
+}

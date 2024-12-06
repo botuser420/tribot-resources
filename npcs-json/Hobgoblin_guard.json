@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        132
+    ],
+    "name": "Hobgoblin",
+    "searchName": "Hobgoblin guard",
+    "hitpoints": 62,
+    "combatLevel": 54,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 45,
+    "strengthLevel": 43,
+    "defenceLevel": 43,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 8,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 1,
+    "slashDefenceBonus": 1
+}

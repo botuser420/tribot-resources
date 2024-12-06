@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        10812
+    ],
+    "name": "Pestilent Bloat",
+    "searchName": "Pestilent Bloat#Entry",
+    "hitpoints": 1280,
+    "combatLevel": 312,
+    "attackSpeed": 1,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        8,
+        40
+    ],
+    "monsterAttribute": "undead",
+    "size": 5,
+    "attackLevel": 100,
+    "strengthLevel": 180,
+    "defenceLevel": 80,
+    "magicLevel": 120,
+    "rangedLevel": 72,
+    "attackBonus": 60,
+    "strengthBonus": 46,
+    "rangeAttackBonus": 72,
+    "rangedStrengthBonus": 2,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 600,
+    "rangedDefenceBonus": 800,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

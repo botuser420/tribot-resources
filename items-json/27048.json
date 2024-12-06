@@ -1,0 +1,16 @@
+{
+    "itemId": 27048,
+    "itemName": "Group ironman platebody (unranked)",
+    "examine": "A platebody representing your group of two.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 20
+    }
+}

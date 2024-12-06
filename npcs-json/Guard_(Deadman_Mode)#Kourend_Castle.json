@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        3361
+    ],
+    "name": "Guard",
+    "searchName": "Guard (Deadman Mode)#Kourend Castle",
+    "hitpoints": 800,
+    "combatLevel": 1337,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        45
+    ],
+    "size": 1,
+    "attackLevel": 800,
+    "strengthLevel": 400,
+    "defenceLevel": 300,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 60,
+    "strengthBonus": 7,
+    "stabDefenceBonus": 8,
+    "slashDefenceBonus": 9,
+    "crushDefenceBonus": 7,
+    "rangedDefenceBonus": 8
+}

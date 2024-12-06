@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        475
+    ],
+    "name": "Hole in the wall",
+    "searchName": "Wall beast#Hole",
+    "hitpoints": 105,
+    "combatLevel": 49,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4,
+        18
+    ],
+    "slayerCategory": "Wall Beasts",
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "slayerExperience": 105.0,
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 16,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

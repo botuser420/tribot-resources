@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        7560
+    ],
+    "name": "Deathly mage",
+    "searchName": "Deathly mage#Challenge Mode",
+    "hitpoints": 180,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "monsterAttribute": "xerician",
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 232,
+    "magicLevel": 315,
+    "rangedLevel": 1,
+    "magicAttackBonus": 120,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 12007,
+    "itemName": "Jar of dirt",
+    "examine": "It's just a jar of dirt.",
+    "weight": 0.02,
+    "buyLimit": 4
+}

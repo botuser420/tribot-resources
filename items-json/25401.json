@@ -1,0 +1,14 @@
+{
+    "itemId": 25401,
+    "itemName": "Swampbark legs",
+    "examine": "Strong leg protection.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": 15
+    }
+}

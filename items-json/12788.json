@@ -1,0 +1,13 @@
+{
+    "itemId": 12788,
+    "itemName": "Magic shortbow (i)",
+    "examine": "Short and magical, but still effective.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 75,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "itemId": 30388,
+    "itemName": "Thunder khopesh",
+    "examine": "A powerful Khopesh, imbued with the power of thunder and lightning.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 65,
+        "slashAttackBonus": 110,
+        "strengthBonus": 100,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

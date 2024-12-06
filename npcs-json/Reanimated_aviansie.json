@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        7037
+    ],
+    "name": "Reanimated aviansie",
+    "hitpoints": 35,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        9
+    ],
+    "slayerCategory": "Aviansie",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 35.0,
+    "size": 2,
+    "attackLevel": 71,
+    "strengthLevel": 1,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

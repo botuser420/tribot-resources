@@ -1,0 +1,16 @@
+{
+    "itemId": 26679,
+    "itemName": "Turquoise slayer helmet (i)",
+    "examine": "You really don't want to wear it inside-out.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "rangeAttackBonus": 3,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": 10,
+        "rangeDefenceBonus": 30
+    }
+}

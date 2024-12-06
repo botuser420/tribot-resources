@@ -1,0 +1,43 @@
+{
+    "npcIds": [
+        5822,
+        6356
+    ],
+    "name": "Ice Troll King",
+    "searchName": "Ice Troll King#Normal",
+    "hitpoints": 150,
+    "combatLevel": 122,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        21,
+        16,
+        11,
+        7
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 161.0,
+    "size": 2,
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 60,
+    "strengthBonus": 60,
+    "stabDefenceBonus": 45,
+    "slashDefenceBonus": 45,
+    "crushDefenceBonus": 45,
+    "magicDefenceBonus": 2000,
+    "rangedDefenceBonus": 2000
+}

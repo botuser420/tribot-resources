@@ -1,0 +1,9 @@
+{
+    "itemId": 6041,
+    "itemName": "Pre-nature amulet",
+    "examine": "Strung with the root of a Magic Tree; needs enchanting.",
+    "weight": 0.007,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

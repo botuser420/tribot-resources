@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        3027
+    ],
+    "name": "King Scorpion",
+    "hitpoints": 30,
+    "combatLevel": 32,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 30.0,
+    "size": 2,
+    "attackLevel": 30,
+    "strengthLevel": 29,
+    "defenceLevel": 23,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "rangedDefenceBonus": 5
+}

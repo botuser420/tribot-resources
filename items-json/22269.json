@@ -1,0 +1,20 @@
+{
+    "itemId": 22269,
+    "itemName": "Hard leather shield",
+    "examine": "A solid oaken shield covered in hard leather.",
+    "weight": 7.0,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -15,
+        "slashAttackBonus": -15,
+        "crushAttackBonus": -11,
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 2,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 9
+    }
+}

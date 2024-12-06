@@ -1,0 +1,17 @@
+{
+    "itemId": 6809,
+    "itemName": "Granite legs",
+    "examine": "These look pretty heavy.",
+    "weight": 15.875,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -31,
+        "rangeAttackBonus": -18,
+        "stabDefenceBonus": 43,
+        "slashDefenceBonus": 45,
+        "crushDefenceBonus": 41,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 68
+    }
+}

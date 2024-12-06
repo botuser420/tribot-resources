@@ -1,0 +1,18 @@
+{
+    "itemId": 1373,
+    "itemName": "Rune battleaxe",
+    "examine": "A vicious looking axe.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 48,
+        "crushAttackBonus": 43,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 64,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

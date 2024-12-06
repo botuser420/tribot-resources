@@ -1,0 +1,17 @@
+{
+    "itemId": 21742,
+    "itemName": "Granite hammer",
+    "examine": "Hammer time.",
+    "weight": 5.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 57,
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "strengthBonus": 56,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 1915,
+    "itemName": "Grog",
+    "examine": "A murky glass of some sort of drink.",
+    "weight": 0.55,
+    "buyLimit": 2000
+}

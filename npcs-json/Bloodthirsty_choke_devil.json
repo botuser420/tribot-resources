@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        12575
+    ],
+    "name": "Bloodthirsty choke devil",
+    "hitpoints": 300,
+    "combatLevel": 396,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "slayerCategory": "Dust Devils",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 2,
+    "attackLevel": 260,
+    "strengthLevel": 230,
+    "defenceLevel": 120,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

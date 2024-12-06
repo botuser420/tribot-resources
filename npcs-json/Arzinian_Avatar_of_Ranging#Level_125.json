@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        1231
+    ],
+    "name": "Arzinian Avatar of Ranging",
+    "searchName": "Arzinian Avatar of Ranging#Level 125",
+    "hitpoints": 100,
+    "combatLevel": 125,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        14
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 100,
+    "defenceLevel": 120,
+    "rangedLevel": 110,
+    "rangedStrengthBonus": 10,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 80,
+    "rangedDefenceBonus": 20
+}

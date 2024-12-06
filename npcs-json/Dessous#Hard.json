@@ -1,0 +1,40 @@
+{
+    "npcIds": [
+        1128
+    ],
+    "name": "Dessous (hard)",
+    "searchName": "Dessous#Hard",
+    "hitpoints": 255,
+    "combatLevel": 217,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        37
+    ],
+    "monsterAttribute": "vampyre1",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 300.0,
+    "size": 1,
+    "attackLevel": 198,
+    "strengthLevel": 198,
+    "defenceLevel": 99,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 50,
+    "strengthBonus": 50,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150,
+    "immuneToVenom": true
+}

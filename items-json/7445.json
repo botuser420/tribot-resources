@@ -1,0 +1,18 @@
+{
+    "itemId": 7445,
+    "itemName": "Rolling pin",
+    "examine": "That's how I roll!",
+    "weight": 1.814,
+    "buyLimit": 50,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 20,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 39,
+        "strengthBonus": 36,
+        "prayerBonus": 4,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "BLUNT"
+    }
+}

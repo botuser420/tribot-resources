@@ -1,0 +1,7 @@
+{
+    "itemId": 6667,
+    "itemName": "Empty fishbowl",
+    "examine": "An empty fishbowl.",
+    "weight": 1.36,
+    "buyLimit": 100
+}

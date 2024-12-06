@@ -1,0 +1,9 @@
+{
+    "itemId": 12887,
+    "itemName": "Santa mask",
+    "examine": "Gets your head into the holiday mood.",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

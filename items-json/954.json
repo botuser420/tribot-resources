@@ -1,0 +1,7 @@
+{
+    "itemId": 954,
+    "itemName": "Rope",
+    "examine": "A coil of rope.",
+    "weight": 1.36,
+    "buyLimit": 250
+}

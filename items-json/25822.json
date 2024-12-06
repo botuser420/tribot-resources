@@ -1,0 +1,12 @@
+{
+    "itemId": 25822,
+    "itemName": "Protest banner",
+    "examine": "Down with the Council!",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BANNER"
+    }
+}

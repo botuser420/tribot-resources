@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        6307
+    ],
+    "name": "Culinaromancer (hard)",
+    "searchName": "Culinaromancer#Hard",
+    "hitpoints": 255,
+    "combatLevel": 209,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        11,
+        41
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 400,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -10,
+    "slashDefenceBonus": -10,
+    "crushDefenceBonus": -10,
+    "magicDefenceBonus": -10,
+    "rangedDefenceBonus": -10
+}

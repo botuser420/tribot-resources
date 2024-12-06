@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        3023,
+        11999
+    ],
+    "name": "Poison spider",
+    "searchName": "Poison spider#Level 64",
+    "hitpoints": 64,
+    "combatLevel": 64,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 64.0,
+    "size": 1,
+    "attackLevel": 50,
+    "strengthLevel": 58,
+    "defenceLevel": 52,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 17,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 14,
+    "rangedDefenceBonus": 14
+}

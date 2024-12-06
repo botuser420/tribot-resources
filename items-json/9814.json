@@ -1,0 +1,9 @@
+{
+    "itemId": 9814,
+    "itemName": "Quest point hood",
+    "examine": "Quest point cape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 9342,
+    "itemName": "Onyx bolts",
+    "examine": "Onyx tipped Runite crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 120
+    }
+}

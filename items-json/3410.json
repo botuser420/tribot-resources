@@ -1,0 +1,7 @@
+{
+    "itemId": 3410,
+    "itemName": "Serum 207 (3)",
+    "examine": "3 doses serum 207 as described in Herbi Flax's diary.",
+    "weight": 0.03,
+    "buyLimit": 2000
+}

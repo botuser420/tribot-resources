@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        11291
+    ],
+    "name": "Spiritual Ranger",
+    "searchName": "Spiritual ranger#Zaros",
+    "hitpoints": 110,
+    "combatLevel": 158,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        20,
+        35
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Spiritual Creatures",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 110.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "rangedLevel": 190,
+    "stabDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 300,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 200,
+    "rangedDefenceBonus": 50
+}

@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        8346,
+        8352,
+        10795,
+        10801
+    ],
+    "name": "Nylocas Toxobolos",
+    "searchName": "Nylocas Toxobolos#Big",
+    "hitpoints": 22,
+    "combatLevel": 260,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        24
+    ],
+    "size": 2,
+    "attackLevel": 250,
+    "strengthLevel": 230,
+    "defenceLevel": 20,
+    "magicLevel": 20,
+    "rangedLevel": 250,
+    "magicAttackBonus": 500,
+    "magicDamageBonus": 500,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

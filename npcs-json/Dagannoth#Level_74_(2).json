@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        7259
+    ],
+    "name": "Dagannoth",
+    "searchName": "Dagannoth#Level 74 (2)",
+    "hitpoints": 70,
+    "combatLevel": 74,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Dagannoth",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 70.0,
+    "size": 1,
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

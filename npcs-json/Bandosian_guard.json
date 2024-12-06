@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        6588
+    ],
+    "name": "Bandosian guard",
+    "hitpoints": 130,
+    "combatLevel": 125,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        13
+    ],
+    "size": 1,
+    "attackLevel": 110,
+    "strengthLevel": 115,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 19,
+    "strengthBonus": 4,
+    "stabDefenceBonus": 12,
+    "slashDefenceBonus": 14,
+    "crushDefenceBonus": 13,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 13
+}

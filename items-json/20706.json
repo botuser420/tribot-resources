@@ -1,0 +1,9 @@
+{
+    "itemId": 20706,
+    "itemName": "Pyromancer robe",
+    "examine": "The robes of the Pyromancers.",
+    "weight": 0.18,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        8194
+    ],
+    "name": "Growthling",
+    "hitpoints": 10,
+    "combatLevel": 37,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 38,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

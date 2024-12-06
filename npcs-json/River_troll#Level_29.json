@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        6733
+    ],
+    "name": "River troll",
+    "searchName": "River troll#Level 29",
+    "hitpoints": 40,
+    "combatLevel": 29,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 1.0,
+    "size": 1,
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 22,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

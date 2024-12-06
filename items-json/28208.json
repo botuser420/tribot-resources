@@ -1,0 +1,17 @@
+{
+    "itemId": 28208,
+    "itemName": "Mithril felling axe",
+    "examine": "A powerful felling axe.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 10,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 13,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

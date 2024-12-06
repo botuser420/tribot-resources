@@ -1,0 +1,7 @@
+{
+    "itemId": 272,
+    "itemName": "Fish food",
+    "examine": "Keeps your pet fish strong and healthy.",
+    "weight": 0.028,
+    "buyLimit": 15
+}

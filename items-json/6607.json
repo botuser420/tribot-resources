@@ -1,0 +1,20 @@
+{
+    "itemId": 6607,
+    "itemName": "White longsword",
+    "examine": "A razor sharp longsword.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 13,
+        "slashAttackBonus": 18,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 16,
+        "prayerBonus": 1,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        12453
+    ],
+    "name": "Flaming pyrelord",
+    "searchName": "Flaming pyrelord (Deadman)#Apocalypse",
+    "hitpoints": 750,
+    "combatLevel": 363,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        1
+    ],
+    "monsterAttribute": "demon",
+    "size": 3,
+    "attackLevel": 150,
+    "strengthLevel": 200,
+    "defenceLevel": 250,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 18,
+    "slashDefenceBonus": 18,
+    "crushDefenceBonus": 18,
+    "magicDefenceBonus": 150,
+    "rangedDefenceBonus": 18,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

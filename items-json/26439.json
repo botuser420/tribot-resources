@@ -1,0 +1,9 @@
+{
+    "itemId": 26439,
+    "itemName": "Shattered hood (t2)",
+    "examine": "The headgear of a Shattered Relic Hunter.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

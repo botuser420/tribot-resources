@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        11697
+    ],
+    "name": "Scarab",
+    "searchName": "Scarab (Tombs of Amascut)",
+    "hitpoints": 12,
+    "combatLevel": 56,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 32,
+    "defenceLevel": 28,
+    "magicLevel": 1,
+    "rangedLevel": 50,
+    "rangeAttackBonus": 150,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

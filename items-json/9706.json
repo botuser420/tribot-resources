@@ -1,0 +1,10 @@
+{
+    "itemId": 9706,
+    "itemName": "Training arrows",
+    "examine": "Standard training arrows.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 7
+    }
+}

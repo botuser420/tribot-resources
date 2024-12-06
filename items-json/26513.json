@@ -1,0 +1,12 @@
+{
+    "itemId": 26513,
+    "itemName": "Shattered relics rune trophy",
+    "examine": "A Rune trophy for competing in Leagues III - Shattered Relics",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "itemId": 25250,
+    "itemName": "Salve amulet(i)",
+    "examine": "Increases melee, ranged and magic damage & accuracy by 15%<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The correct value for melee and ranged is 1/6th, equal to 16.67%.\">sic</span>&#93;</sup> against the undead.",
+    "weight": 0.007,
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "prayerBonus": 3
+    }
+}

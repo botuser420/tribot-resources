@@ -1,0 +1,15 @@
+{
+    "itemId": 22251,
+    "itemName": "Oak shield",
+    "examine": "A solid oaken shield.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 5
+    }
+}

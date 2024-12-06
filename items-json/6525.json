@@ -1,0 +1,16 @@
+{
+    "itemId": 6525,
+    "itemName": "Toktz-xil-ek",
+    "examine": "A large knife of obsidian.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 16,
+        "slashAttackBonus": 48,
+        "strengthBonus": 39,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

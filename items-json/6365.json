@@ -1,0 +1,10 @@
+{
+    "itemId": 6365,
+    "itemName": "Villager hat",
+    "examine": "A brightly coloured hat prized by the Tai Bwo Wannai peoples.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

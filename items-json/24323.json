@@ -1,0 +1,9 @@
+{
+    "itemId": 24323,
+    "itemName": "Spookier boots",
+    "examine": "A spooky pair of boots cut from a bedsheet!",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

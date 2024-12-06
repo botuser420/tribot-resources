@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        690
+    ],
+    "name": "Bandit",
+    "searchName": "Bandit (Bandit Camp)#Level 74",
+    "hitpoints": 65,
+    "combatLevel": 74,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 65,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,15 @@
+{
+    "itemId": 23097,
+    "itemName": "Ornate top",
+    "examine": "An ornate armoured top.",
+    "weight": 11.339,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 19,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 12
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        4483,
+        4484,
+        4485,
+        9635
+    ],
+    "name": "Gadderanks",
+    "hitpoints": 20,
+    "combatLevel": 35,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

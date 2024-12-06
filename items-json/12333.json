@@ -1,0 +1,17 @@
+{
+    "itemId": 12333,
+    "itemName": "Red d'hide chaps (t)",
+    "examine": "Made from 100% real dragonhide. With colourful trim!",
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 14,
+        "stabDefenceBonus": 15,
+        "slashDefenceBonus": 18,
+        "crushDefenceBonus": 22,
+        "magicDefenceBonus": 18,
+        "rangeDefenceBonus": 20
+    }
+}

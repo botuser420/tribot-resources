@@ -1,0 +1,20 @@
+{
+    "itemId": 9013,
+    "itemName": "Skull sceptre",
+    "examine": "A fragile magical Sceptre.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 7,
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 4,
+        "strengthBonus": 3,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

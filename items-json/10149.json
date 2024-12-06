@@ -1,0 +1,16 @@
+{
+    "itemId": 10149,
+    "itemName": "Swamp lizard",
+    "examine": "A very slimy and generally disgusting green lizard.",
+    "weight": 4.0,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 10,
+        "rangeAttackBonus": 20,
+        "strengthBonus": 22,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SALAMANDER"
+    }
+}

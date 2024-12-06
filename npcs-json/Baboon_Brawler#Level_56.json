@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        11709
+    ],
+    "name": "Baboon Brawler",
+    "searchName": "Baboon Brawler#Level 56",
+    "hitpoints": 25,
+    "combatLevel": 56,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 12,
+    "magicLevel": 40,
+    "rangedLevel": 40,
+    "attackBonus": 20,
+    "magicAttackBonus": 20,
+    "rangeAttackBonus": 20,
+    "stabDefenceBonus": 900,
+    "slashDefenceBonus": 900,
+    "crushDefenceBonus": 900,
+    "magicDefenceBonus": -60,
+    "rangedDefenceBonus": 900,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

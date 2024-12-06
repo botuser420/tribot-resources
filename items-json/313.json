@@ -1,0 +1,7 @@
+{
+    "itemId": 313,
+    "itemName": "Fishing bait",
+    "examine": "For use with a fishing rod.",
+    "weight": 0.0,
+    "buyLimit": 8000
+}

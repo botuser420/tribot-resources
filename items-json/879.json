@@ -1,0 +1,11 @@
+{
+    "itemId": 879,
+    "itemName": "Opal bolts",
+    "examine": "Opal tipped Bronze crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 14
+    }
+}

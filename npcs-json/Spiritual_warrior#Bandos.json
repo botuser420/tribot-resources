@@ -1,0 +1,41 @@
+{
+    "npcIds": [
+        2243
+    ],
+    "name": "Spiritual warrior",
+    "searchName": "Spiritual warrior#Bandos",
+    "hitpoints": 131,
+    "combatLevel": 134,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        16
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Spiritual Creatures",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 135.0,
+    "size": 1,
+    "attackLevel": 116,
+    "strengthLevel": 120,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 29,
+    "strengthBonus": 13,
+    "rangeAttackBonus": 110,
+    "stabDefenceBonus": 12,
+    "slashDefenceBonus": 14,
+    "crushDefenceBonus": 13,
+    "magicDefenceBonus": 5,
+    "elementalWeakness": "None",
+    "rangedDefenceBonus": 13
+}

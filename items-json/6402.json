@@ -1,0 +1,10 @@
+{
+    "itemId": 6402,
+    "itemName": "Menaphite red top",
+    "examine": "Colourful.",
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

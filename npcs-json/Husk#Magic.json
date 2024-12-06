@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        9454
+    ],
+    "name": "Husk",
+    "searchName": "Husk#Magic",
+    "hitpoints": 20,
+    "combatLevel": 48,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        14
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 20,
+    "magicLevel": 80,
+    "rangedLevel": 80,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 80,
+    "rangedDefenceBonus": 80,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

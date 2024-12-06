@@ -1,0 +1,17 @@
+{
+    "itemId": 28199,
+    "itemName": "Iron felling axe",
+    "examine": "A woodcutter's felling axe.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 5,
+        "crushAttackBonus": 3,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 7,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

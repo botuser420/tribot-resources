@@ -1,0 +1,7 @@
+{
+    "itemId": 10111,
+    "itemName": "Kebbit teeth dust",
+    "examine": "Previously a kebbit-sized set of dentures.",
+    "weight": 0.02,
+    "buyLimit": 10000
+}

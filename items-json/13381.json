@@ -1,0 +1,16 @@
+{
+    "itemId": 13381,
+    "itemName": "Shayzien body (5)",
+    "examine": "Dress like a tier 5 Shayzien soldier.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 10,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 24,
+        "crushDefenceBonus": 28,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 27
+    }
+}

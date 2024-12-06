@@ -1,0 +1,10 @@
+{
+    "itemId": 1635,
+    "itemName": "Gold ring",
+    "examine": "A valuable ring.",
+    "weight": 0.004,
+    "buyLimit": 18000,
+    "equipment": {
+        "slot": "RING"
+    }
+}

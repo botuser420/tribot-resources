@@ -1,0 +1,10 @@
+{
+    "itemId": 21180,
+    "itemName": "Flamtaer bracelet",
+    "examine": "Helps when building the Shades of Mort'ton temple.",
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

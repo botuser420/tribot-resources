@@ -1,0 +1,7 @@
+{
+    "itemId": 28161,
+    "itemName": "Secateurs attachment",
+    "examine": "Collects leaves when chopping trees.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        5632
+    ],
+    "name": "Asyn shadow",
+    "searchName": "Asyn shadow (Temple Trekking)",
+    "hitpoints": 94,
+    "combatLevel": 110,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Shades",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 94.0,
+    "size": 1,
+    "attackLevel": 110,
+    "strengthLevel": 96,
+    "defenceLevel": 80,
+    "magicLevel": 50,
+    "rangedLevel": 50
+}

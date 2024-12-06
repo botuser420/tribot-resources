@@ -1,0 +1,11 @@
+{
+    "itemId": 20425,
+    "itemName": "Mystic robe top",
+    "examine": "The upper half of a magical robe.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 20,
+        "magicDefenceBonus": 20
+    }
+}

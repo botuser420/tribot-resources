@@ -1,0 +1,10 @@
+{
+    "itemId": 12412,
+    "itemName": "Pirate hat & patch",
+    "examine": "All I need now is a parrot.",
+    "weight": 0.002,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

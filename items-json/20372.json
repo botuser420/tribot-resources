@@ -1,0 +1,16 @@
+{
+    "itemId": 20372,
+    "itemName": "Saradomin godsword (or)",
+    "examine": "An ornamented, gracious, heavy sword.",
+    "weight": 10.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 132,
+        "crushAttackBonus": 80,
+        "strengthBonus": 132,
+        "prayerBonus": 8,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

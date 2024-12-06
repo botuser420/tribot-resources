@@ -1,0 +1,10 @@
+{
+    "itemId": 19724,
+    "itemName": "Left eye patch",
+    "examine": "A black piece of cloth on a string.",
+    "weight": 0.006,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

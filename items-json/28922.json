@@ -1,0 +1,15 @@
+{
+    "itemId": 28922,
+    "itemName": "Tonalztics of ralos",
+    "examine": "A rebounding throwing weapon of devastating proportions.",
+    "weight": 3.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 115,
+        "rangedStrengthBonus": 55,
+        "prayerBonus": 2,
+        "weaponAttackRange": 5,
+        "weaponAttackSpeed": 7,
+        "weaponType": "THROWN"
+    }
+}

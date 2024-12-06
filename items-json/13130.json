@@ -1,0 +1,14 @@
+{
+    "itemId": 13130,
+    "itemName": "Fremennik sea boots 2",
+    "examine": "Sturdy boots for northern winters.",
+    "weight": 0.4,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 7
+    }
+}

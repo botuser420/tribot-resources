@@ -1,0 +1,42 @@
+{
+    "npcIds": [
+        8248
+    ],
+    "name": "Ranis Drakan",
+    "searchName": "Ranis Drakan#A Taste of Hope (1/4th health)",
+    "hitpoints": 400,
+    "combatLevel": 233,
+    "attackSpeed": 2,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "monsterAttribute": "vampyre3",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 400.0,
+    "size": 1,
+    "attackLevel": 120,
+    "strengthLevel": 120,
+    "defenceLevel": 120,
+    "magicLevel": 120,
+    "rangedLevel": 1,
+    "attackBonus": 160,
+    "strengthBonus": -36,
+    "magicDamageBonus": 34,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 60,
+    "rangedDefenceBonus": 60,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

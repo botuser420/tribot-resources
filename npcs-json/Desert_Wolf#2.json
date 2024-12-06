@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        4650
+    ],
+    "name": "Desert Wolf",
+    "searchName": "Desert Wolf#2",
+    "hitpoints": 34,
+    "combatLevel": 27,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Wolves",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 34.0,
+    "size": 2,
+    "attackLevel": 20,
+    "strengthLevel": 21,
+    "defenceLevel": 22
+}

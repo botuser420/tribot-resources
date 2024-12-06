@@ -1,0 +1,16 @@
+{
+    "itemId": 1143,
+    "itemName": "Mithril med helm",
+    "examine": "A medium sized helmet.",
+    "weight": 1.36,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 11,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 10
+    }
+}

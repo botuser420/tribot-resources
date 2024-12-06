@@ -1,0 +1,18 @@
+{
+    "itemId": 1420,
+    "itemName": "Iron mace",
+    "examine": "A spiky mace.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 9,
+        "strengthBonus": 7,
+        "prayerBonus": 1,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

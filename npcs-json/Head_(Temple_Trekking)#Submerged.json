@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        5645
+    ],
+    "name": "Head",
+    "searchName": "Head (Temple Trekking)#Submerged",
+    "hitpoints": 150,
+    "combatLevel": 140,
+    "attackSpeed": 10,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        20
+    ],
+    "size": 1,
+    "attackLevel": 73,
+    "strengthLevel": 186,
+    "defenceLevel": 75,
+    "magicLevel": 50,
+    "rangedLevel": 50
+}

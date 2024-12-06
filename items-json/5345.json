@@ -1,0 +1,10 @@
+{
+    "itemId": 5345,
+    "itemName": "Gardening boots",
+    "examine": "A pair of gardening boots.",
+    "weight": 0.34,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

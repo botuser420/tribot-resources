@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        5673,
+        5674,
+        5675,
+        5676,
+        5677,
+        5678,
+        5679,
+        5680
+    ],
+    "name": "Undead Lumberjack",
+    "searchName": "Undead Lumberjack#Level 45",
+    "hitpoints": 13,
+    "combatLevel": 45,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "size": 1,
+    "attackLevel": 105,
+    "strengthLevel": 16,
+    "defenceLevel": 13,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

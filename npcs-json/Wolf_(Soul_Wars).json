@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        10522,
+        10533
+    ],
+    "name": "Wolf",
+    "searchName": "Wolf (Soul Wars)",
+    "hitpoints": 80,
+    "combatLevel": 79,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 2,
+    "attackLevel": 85,
+    "strengthLevel": 75,
+    "defenceLevel": 30,
+    "magicLevel": 30,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

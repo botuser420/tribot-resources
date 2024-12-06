@@ -1,0 +1,7 @@
+{
+    "itemId": 105,
+    "itemName": "Kwuarm potion (unf)",
+    "examine": "I need another ingredient to finish this Kwuarm potion.",
+    "weight": 0.056,
+    "buyLimit": 10000
+}

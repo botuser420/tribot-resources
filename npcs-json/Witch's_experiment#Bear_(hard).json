@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        6335
+    ],
+    "name": "Witch's experiment (third form) (hard)",
+    "searchName": "Witch's experiment#Bear (hard)",
+    "hitpoints": 103,
+    "combatLevel": 90,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 2,
+    "attackLevel": 95,
+    "strengthLevel": 75,
+    "defenceLevel": 39,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

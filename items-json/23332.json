@@ -1,0 +1,17 @@
+{
+    "itemId": 23332,
+    "itemName": "Rune scimitar",
+    "examine": "A vicious, curved sword.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": 45,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 44,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

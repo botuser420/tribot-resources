@@ -1,0 +1,16 @@
+{
+    "itemId": 2577,
+    "itemName": "Ranger boots",
+    "examine": "Lightweight boots ideal for rangers.",
+    "weight": 0.283,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 8,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 2
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        4198
+    ],
+    "name": "Apparition",
+    "searchName": "Apparition#Crondis",
+    "hitpoints": 60,
+    "combatLevel": 75,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "magicLevel": 40,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 70,
+    "rangedDefenceBonus": 70,
+    "immuneToVenom": true
+}

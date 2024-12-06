@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        797,
+        798,
+        6343
+    ],
+    "name": "Giant Scarab",
+    "searchName": "Giant Scarab#Normal",
+    "hitpoints": 130,
+    "combatLevel": 191,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB",
+        "RANGED"
+    ],
+    "maxHits": [
+        20
+    ],
+    "monsterAttribute": "kalphite",
+    "slayerCategory": "Scabarites",
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "slayerExperience": 137.0,
+    "size": 3,
+    "attackLevel": 169,
+    "strengthLevel": 190,
+    "defenceLevel": 169,
+    "magicLevel": 1,
+    "rangedLevel": 190,
+    "stabDefenceBonus": 70,
+    "slashDefenceBonus": 99,
+    "crushDefenceBonus": 99,
+    "magicDefenceBonus": 159,
+    "rangedDefenceBonus": 149
+}

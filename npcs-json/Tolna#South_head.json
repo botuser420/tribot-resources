@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        1075
+    ],
+    "name": "Tolna",
+    "searchName": "Tolna#South head",
+    "hitpoints": 37,
+    "combatLevel": 46,
+    "attackStyles": [
+        "SLASH",
+        "RANGED"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 3,
+    "attackLevel": 42,
+    "strengthLevel": 41,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 50
+}

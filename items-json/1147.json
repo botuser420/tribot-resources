@@ -1,0 +1,16 @@
+{
+    "itemId": 1147,
+    "itemName": "Rune med helm",
+    "examine": "A medium sized helmet.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 22,
+        "slashDefenceBonus": 23,
+        "crushDefenceBonus": 21,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 22
+    }
+}

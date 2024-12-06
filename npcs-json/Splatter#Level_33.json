@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        1690
+    ],
+    "name": "Splatter",
+    "searchName": "Splatter#Level 33",
+    "hitpoints": 23,
+    "combatLevel": 33,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 53,
+    "magicLevel": 22
+}

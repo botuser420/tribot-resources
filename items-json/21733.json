@@ -1,0 +1,19 @@
+{
+    "itemId": 21733,
+    "itemName": "Guardian boots",
+    "examine": "Some sturdy Bandos boots, made sturdier with the blackened tourmaline core of the Grotesque Guardians.",
+    "weight": 7.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 32,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 32,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 24,
+        "strengthBonus": 3,
+        "prayerBonus": 2
+    }
+}

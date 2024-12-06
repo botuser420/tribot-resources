@@ -1,0 +1,9 @@
+{
+    "itemId": 27481,
+    "itemName": "Witch cape",
+    "examine": "A thick cape covered in feathers... and probably spiders.",
+    "weight": 0.028,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

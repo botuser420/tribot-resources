@@ -1,0 +1,11 @@
+{
+    "itemId": 10158,
+    "itemName": "Kebbit bolts",
+    "examine": "Bolts made from the spikes of a prickly kebbit.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 28
+    }
+}

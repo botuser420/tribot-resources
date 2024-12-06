@@ -1,0 +1,19 @@
+{
+    "itemId": 7437,
+    "itemName": "Spork",
+    "examine": "Use the spork.",
+    "weight": 1.814,
+    "buyLimit": 50,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 11,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 12,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

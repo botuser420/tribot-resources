@@ -1,0 +1,12 @@
+{
+    "itemId": 648,
+    "itemName": "Green robe bottoms",
+    "examine": "Made by Tree Gnomes with a thing for green.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2
+    }
+}

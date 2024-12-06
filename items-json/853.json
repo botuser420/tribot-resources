@@ -1,0 +1,14 @@
+{
+    "itemId": 853,
+    "itemName": "Maple shortbow",
+    "examine": "A shortbow made out of Maple, still effective.",
+    "weight": 1.36,
+    "buyLimit": 18000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 29,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

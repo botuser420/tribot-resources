@@ -1,0 +1,10 @@
+{
+    "itemId": 2568,
+    "itemName": "Ring of forging",
+    "examine": "An enchanted ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "RING"
+    }
+}

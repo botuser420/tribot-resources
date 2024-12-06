@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        1794
+    ],
+    "name": "Billy Goat",
+    "searchName": "Billy Goat#Brown",
+    "hitpoints": 28,
+    "combatLevel": 33,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 31,
+    "strengthLevel": 29,
+    "defenceLevel": 29,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 30,
+    "strengthBonus": 29,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "rangedDefenceBonus": 10
+}

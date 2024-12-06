@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        3062
+    ],
+    "name": "Barbarian",
+    "searchName": "Barbarian#Level 17 (Minarch)",
+    "hitpoints": 24,
+    "combatLevel": 17,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 15,
+    "strengthLevel": 14,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 15,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 2,
+    "magicDefenceBonus": -3,
+    "rangedDefenceBonus": 2
+}

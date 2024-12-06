@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        1134
+    ],
+    "name": "Damis (hard)",
+    "searchName": "Damis#First form (hard)",
+    "hitpoints": 198,
+    "combatLevel": 200,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        47
+    ],
+    "size": 1,
+    "attackLevel": 198,
+    "strengthLevel": 198,
+    "defenceLevel": 90,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 80,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 60,
+    "rangedDefenceBonus": 60
+}

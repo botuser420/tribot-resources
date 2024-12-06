@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        1377,
+        1378,
+        6383
+    ],
+    "name": "The Kendal",
+    "searchName": "The Kendal#Normal",
+    "hitpoints": 50,
+    "combatLevel": 70,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 2,
+    "attackLevel": 65,
+    "strengthLevel": 65,
+    "defenceLevel": 60,
+    "attackBonus": 5,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": -10,
+    "rangedDefenceBonus": 20
+}

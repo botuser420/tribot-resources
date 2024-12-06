@@ -1,0 +1,10 @@
+{
+    "itemId": 6349,
+    "itemName": "Villager sandals",
+    "examine": "A brightly coloured pair of local sandals.",
+    "weight": 0.68,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 2048,
+    "itemName": "Pineapple punch",
+    "examine": "A fresh healthy fruit mix.",
+    "weight": 0.5,
+    "buyLimit": 2000
+}

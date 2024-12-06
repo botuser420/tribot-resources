@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        4395
+    ],
+    "name": "Ogre shaman",
+    "searchName": "Ogre shaman#6",
+    "hitpoints": 1,
+    "combatLevel": 113,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        30
+    ],
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

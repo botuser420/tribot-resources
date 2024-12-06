@@ -1,0 +1,11 @@
+{
+    "itemId": 21955,
+    "itemName": "Opal dragon bolts",
+    "examine": "Dragon crossbow bolts, tipped with opal.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

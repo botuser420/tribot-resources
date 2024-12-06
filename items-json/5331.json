@@ -1,0 +1,7 @@
+{
+    "itemId": 5331,
+    "itemName": "Watering can",
+    "examine": "This watering can is empty.",
+    "weight": 0.1,
+    "buyLimit": 40
+}

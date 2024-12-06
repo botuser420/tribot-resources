@@ -1,0 +1,23 @@
+{
+    "itemId": 6526,
+    "itemName": "Toktz-mej-tal",
+    "examine": "A staff of obsidian.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 15,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 55,
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": 15,
+        "strengthBonus": 55,
+        "prayerBonus": 5,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "STAFF"
+    }
+}

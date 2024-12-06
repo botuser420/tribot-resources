@@ -1,0 +1,20 @@
+{
+    "itemId": 3101,
+    "itemName": "Rune claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 26,
+        "slashAttackBonus": 38,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 19,
+        "crushDefenceBonus": 5,
+        "strengthBonus": 39,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

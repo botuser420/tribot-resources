@@ -1,0 +1,10 @@
+{
+    "itemId": 10412,
+    "itemName": "Green elegant shirt",
+    "examine": "A well made elegant men's green shirt.",
+    "weight": 1.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

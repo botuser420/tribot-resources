@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        5244
+    ],
+    "name": "Snake",
+    "searchName": "Snake (Ape Atoll)",
+    "hitpoints": 36,
+    "combatLevel": 24,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 1,
+    "attackLevel": 15,
+    "strengthLevel": 25,
+    "defenceLevel": 10,
+    "magicLevel": 10,
+    "rangedLevel": 1,
+    "attackBonus": 100,
+    "strengthBonus": 100
+}

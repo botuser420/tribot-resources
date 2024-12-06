@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        12449
+    ],
+    "name": "Justiciar Zachariah",
+    "searchName": "Justiciar Zachariah (Deadman)#Apocalypse",
+    "hitpoints": 320,
+    "combatLevel": 348,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "size": 3,
+    "attackLevel": 500,
+    "strengthLevel": 250,
+    "defenceLevel": 100,
+    "magicLevel": 180,
+    "rangedLevel": 1,
+    "attackBonus": 200,
+    "magicAttackBonus": 80,
+    "magicDamageBonus": 80,
+    "stabDefenceBonus": 200,
+    "slashDefenceBonus": 200,
+    "crushDefenceBonus": 200,
+    "magicDefenceBonus": -60,
+    "rangedDefenceBonus": 200,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

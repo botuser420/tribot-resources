@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        7039
+    ],
+    "name": "Reanimated dragon",
+    "hitpoints": 35,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        50
+    ],
+    "monsterAttribute": "dragon",
+    "size": 5,
+    "attackLevel": 68,
+    "strengthLevel": 68,
+    "defenceLevel": 68,
+    "magicLevel": 68,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 30,
+    "rangedDefenceBonus": 20
+}

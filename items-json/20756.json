@@ -1,0 +1,19 @@
+{
+    "itemId": 20756,
+    "itemName": "Hill giant club",
+    "examine": "A brutal weapon popular among giants.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 50,
+        "crushAttackBonus": 65,
+        "magicAttackBonus": -4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 70,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 7,
+        "weaponType": "BLUNT"
+    }
+}

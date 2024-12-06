@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        2267
+    ],
+    "name": "Dagannoth Rex",
+    "hitpoints": 255,
+    "combatLevel": 303,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        26
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 331.4,
+    "size": 3,
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 255,
+    "rangedLevel": 255,
+    "stabDefenceBonus": 255,
+    "slashDefenceBonus": 255,
+    "crushDefenceBonus": 255,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 255
+}

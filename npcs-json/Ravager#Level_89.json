@@ -1,0 +1,20 @@
+{
+    "npcIds": [
+        1707
+    ],
+    "name": "Ravager",
+    "searchName": "Ravager#Level 89",
+    "hitpoints": 68,
+    "combatLevel": 89,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        14
+    ],
+    "size": 1,
+    "attackLevel": 57,
+    "strengthLevel": 132,
+    "defenceLevel": 43
+}

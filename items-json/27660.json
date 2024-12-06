@@ -1,0 +1,17 @@
+{
+    "itemId": 27660,
+    "itemName": "Ursine chainmace",
+    "examine": "An ancient and peculiar chainmace, corrupted by the power of Callisto.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 53,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 71,
+        "strengthBonus": 74,
+        "prayerBonus": 2,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 3420,
+    "itemName": "Limestone brick",
+    "examine": "A well carved limestone brick.",
+    "weight": 1.36,
+    "buyLimit": 10000
+}

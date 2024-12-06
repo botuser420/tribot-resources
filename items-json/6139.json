@@ -1,0 +1,16 @@
+{
+    "itemId": 6139,
+    "itemName": "Skeletal top",
+    "examine": "The bones in this armour seem to vibrate with a magical quality...",
+    "weight": 4.989,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 8,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 35,
+        "slashDefenceBonus": 25,
+        "crushDefenceBonus": 42,
+        "magicDefenceBonus": 15
+    }
+}

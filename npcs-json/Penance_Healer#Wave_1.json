@@ -1,0 +1,20 @@
+{
+    "npcIds": [
+        1670,
+        5766
+    ],
+    "name": "Penance Healer",
+    "searchName": "Penance Healer#Wave 1",
+    "hitpoints": 27,
+    "attackSpeed": -1,
+    "maxHits": [
+        0
+    ],
+    "size": 1,
+    "attackLevel": 9,
+    "strengthLevel": 8,
+    "defenceLevel": 9,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToVenom": true
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 1085,
+    "itemName": "Mithril plateskirt",
+    "examine": "Designer leg protection.",
+    "weight": 7.257,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 24,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 20,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 22
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        9758
+    ],
+    "name": "Vyrewatch Sentinel",
+    "searchName": "Vyrewatch Sentinel#7",
+    "hitpoints": 150,
+    "combatLevel": 151,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        17
+    ],
+    "monsterAttribute": "vampyre3",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 150.0,
+    "size": 1,
+    "attackLevel": 120,
+    "strengthLevel": 160,
+    "defenceLevel": 180,
+    "magicLevel": 120,
+    "rangedLevel": 120,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

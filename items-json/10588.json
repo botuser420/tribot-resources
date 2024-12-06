@@ -1,0 +1,13 @@
+{
+    "itemId": 10588,
+    "itemName": "Salve amulet (e)",
+    "examine": "Increases the wearer's Strength and accuracy by 20% when fighting the undead.",
+    "weight": 0.007,
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "prayerBonus": 3
+    }
+}

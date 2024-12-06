@@ -1,0 +1,9 @@
+{
+    "itemId": 27568,
+    "itemName": "Snow goggles & hat",
+    "examine": "Festive, functional, and fashionable!",
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

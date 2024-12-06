@@ -1,0 +1,16 @@
+{
+    "itemId": 30467,
+    "itemName": "Raging echoes rune trophy",
+    "examine": "A Rune Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

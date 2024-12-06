@@ -1,0 +1,9 @@
+{
+    "itemId": 24721,
+    "itemName": "Hallowed grapple",
+    "examine": "Removes the chance of failing a grapple shortcut within the Hallowed Sepulchre.",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "AMMO"
+    }
+}

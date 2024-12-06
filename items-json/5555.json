@@ -1,0 +1,14 @@
+{
+    "itemId": 5555,
+    "itemName": "Rogue trousers",
+    "examine": "Black banded leather armour, a rogue's dream!",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "LEGS",
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 7,
+        "rangeDefenceBonus": 7
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "itemId": 24169,
+    "itemName": "Saradomin halo (l)",
+    "examine": "Halo with the protection of Saradomin.",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 11,
+        "rangeDefenceBonus": -1,
+        "prayerBonus": 3
+    }
+}

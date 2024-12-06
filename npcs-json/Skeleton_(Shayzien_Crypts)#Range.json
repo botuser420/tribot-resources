@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        8071
+    ],
+    "name": "Skeleton",
+    "searchName": "Skeleton (Shayzien Crypts)#Range",
+    "hitpoints": 54,
+    "combatLevel": 132,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        19
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 54.0,
+    "size": 1,
+    "attackLevel": 160,
+    "strengthLevel": 1,
+    "defenceLevel": 62,
+    "magicLevel": 1,
+    "rangedLevel": 180,
+    "rangeAttackBonus": 20,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 30,
+    "rangedDefenceBonus": 20
+}

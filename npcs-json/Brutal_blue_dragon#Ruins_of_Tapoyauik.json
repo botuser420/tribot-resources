@@ -1,0 +1,42 @@
+{
+    "npcIds": [
+        13795
+    ],
+    "name": "Brutal blue dragon",
+    "searchName": "Brutal blue dragon#Ruins of Tapoyauik",
+    "hitpoints": 245,
+    "combatLevel": 271,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        21,
+        50
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Blue Dragons",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 257.0,
+    "size": 4,
+    "attackLevel": 298,
+    "strengthLevel": 198,
+    "defenceLevel": 198,
+    "magicLevel": 198,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 60,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 50,
+    "heavyRangedDefenceBonus": 15,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

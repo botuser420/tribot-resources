@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        9008
+    ],
+    "name": "Mourner",
+    "searchName": "Mourner (boss)",
+    "hitpoints": 19,
+    "combatLevel": 13,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 3,
+    "slashDefenceBonus": 2,
+    "crushDefenceBonus": 4
+}

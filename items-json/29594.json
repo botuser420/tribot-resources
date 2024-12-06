@@ -1,0 +1,21 @@
+{
+    "itemId": 29594,
+    "itemName": "Purging staff",
+    "examine": "Fire and lightning sizzle in the brazier.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": -5,
+        "crushAttackBonus": 83,
+        "magicAttackBonus": 37,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "magicDefenceBonus": 25,
+        "strengthBonus": 62,
+        "magicDamageBonus": 10.0,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 2357,
+    "itemName": "Gold bar",
+    "examine": "It's a bar of gold.",
+    "weight": 1.814,
+    "buyLimit": 10000
+}

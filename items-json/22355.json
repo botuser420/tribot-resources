@@ -1,0 +1,11 @@
+{
+    "itemId": 22355,
+    "itemName": "Holy handegg",
+    "examine": "A chocolate egg decorated in the colours of Saradomin.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4
+    }
+}

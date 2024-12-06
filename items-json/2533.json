@@ -1,0 +1,10 @@
+{
+    "itemId": 2533,
+    "itemName": "Iron fire arrow (lit)",
+    "examine": "These iron-headed arrows are ablaze with fire.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 10
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 25470,
+    "itemName": "Open steel coffin",
+    "examine": "Can store up to 8 shade remains.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 6326,
+    "itemName": "Snakeskin bandana",
+    "examine": "Lightweight head protection.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -5,
+        "rangeAttackBonus": 4,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 2
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        9434,
+        9437,
+        9440,
+        9443,
+        9435,
+        9438,
+        9441,
+        9444,
+        9436,
+        9439,
+        9442,
+        9445
+    ],
+    "name": "Totem",
+    "searchName": "Totem (The Nightmare)",
+    "hitpoints": 300,
+    "size": 3,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 70,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

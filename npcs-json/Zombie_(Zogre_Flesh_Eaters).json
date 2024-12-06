@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        880
+    ],
+    "name": "Zombie",
+    "searchName": "Zombie (Zogre Flesh Eaters)",
+    "hitpoints": 50,
+    "combatLevel": 39,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

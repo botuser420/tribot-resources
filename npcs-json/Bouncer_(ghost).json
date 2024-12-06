@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        3508,
+        3509
+    ],
+    "name": "Bouncer",
+    "searchName": "Bouncer (ghost)",
+    "hitpoints": 120,
+    "combatLevel": 160,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        15
+    ],
+    "size": 2,
+    "attackLevel": 145,
+    "strengthLevel": 145,
+    "defenceLevel": 145,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

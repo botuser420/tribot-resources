@@ -1,0 +1,9 @@
+{
+    "itemId": 10507,
+    "itemName": "Reindeer hat",
+    "examine": "A reindeer hat and a matching flashing nose.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

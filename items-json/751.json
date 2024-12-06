@@ -1,0 +1,12 @@
+{
+    "itemId": 751,
+    "itemName": "Gnomeball",
+    "examine": "A ball used in Gnomeball.",
+    "weight": 0.5,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": -1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        3125
+    ],
+    "name": "Ket-Zek",
+    "searchName": "Ket-Zek#Standard",
+    "hitpoints": 160,
+    "combatLevel": 360,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "STAB"
+    ],
+    "maxHits": [
+        54,
+        52
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 160.0,
+    "size": 5,
+    "attackLevel": 320,
+    "strengthLevel": 480,
+    "defenceLevel": 240,
+    "magicLevel": 240,
+    "rangedLevel": 480,
+    "magicAttackBonus": 60
+}

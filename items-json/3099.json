@@ -1,0 +1,20 @@
+{
+    "itemId": 3099,
+    "itemName": "Mithril claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 11,
+        "slashAttackBonus": 16,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 17,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

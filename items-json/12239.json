@@ -1,0 +1,17 @@
+{
+    "itemId": 12239,
+    "itemName": "Iron plateskirt (g)",
+    "examine": "Iron plateskirt with gold trim.",
+    "weight": 8.164,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 10
+    }
+}

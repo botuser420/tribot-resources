@@ -1,0 +1,11 @@
+{
+    "itemId": 23907,
+    "itemName": "Imbued tephra",
+    "examine": "This is refined, imbued, and ready to go.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 3
+    }
+}

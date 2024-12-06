@@ -1,0 +1,7 @@
+{
+    "itemId": 2150,
+    "itemName": "Swamp toad",
+    "examine": "A slippery little blighter.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

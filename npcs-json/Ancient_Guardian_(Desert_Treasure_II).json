@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        12336,
+        12337
+    ],
+    "name": "Ancient Guardian",
+    "searchName": "Ancient Guardian (Desert Treasure II)",
+    "hitpoints": 100,
+    "combatLevel": 153,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        12
+    ],
+    "monsterAttribute": "golem",
+    "size": 3,
+    "attackLevel": 180,
+    "strengthLevel": 110,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

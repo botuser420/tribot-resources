@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        7544
+    ],
+    "name": "Tekton (enraged)",
+    "searchName": "Tekton#Enraged (Challenge Mode)",
+    "hitpoints": 450,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        87
+    ],
+    "monsterAttribute": "xerician",
+    "size": 4,
+    "attackLevel": 585,
+    "strengthLevel": 585,
+    "defenceLevel": 246,
+    "magicLevel": 246,
+    "rangedLevel": 1,
+    "attackBonus": 64,
+    "strengthBonus": 30,
+    "stabDefenceBonus": 280,
+    "slashDefenceBonus": 290,
+    "crushDefenceBonus": 180,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

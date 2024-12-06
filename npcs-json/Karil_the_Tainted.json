@@ -1,0 +1,40 @@
+{
+    "npcIds": [
+        1675,
+        12325,
+        12319
+    ],
+    "name": "Karil the Tainted",
+    "hitpoints": 100,
+    "combatLevel": 98,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        20
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 100.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 100,
+    "magicAttackBonus": -26,
+    "rangeAttackBonus": 134,
+    "rangedStrengthBonus": 55,
+    "stabDefenceBonus": 79,
+    "slashDefenceBonus": 71,
+    "crushDefenceBonus": 90,
+    "magicDefenceBonus": 106,
+    "elementalWeakness": "Air",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 100
+}

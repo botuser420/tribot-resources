@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        13599
+    ],
+    "name": "Tormented Demon",
+    "searchName": "Tormented Demon#1",
+    "hitpoints": 600,
+    "combatLevel": 450,
+    "attackSpeed": 6,
+    "maxHits": [
+        31
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Greater demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "NIEVE"
+    ],
+    "slayerExperience": 1065.0,
+    "size": 3,
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 150,
+    "magicLevel": 255,
+    "rangedLevel": 255,
+    "attackBonus": 400,
+    "strengthBonus": 10,
+    "magicAttackBonus": 300,
+    "magicDamageBonus": 5,
+    "rangeAttackBonus": 300,
+    "rangedStrengthBonus": 5,
+    "stabDefenceBonus": 75,
+    "slashDefenceBonus": 175,
+    "crushDefenceBonus": 68,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 150,
+    "lightRangedDefenceBonus": 140,
+    "heavyRangedDefenceBonus": 90
+}

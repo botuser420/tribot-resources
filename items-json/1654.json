@@ -1,0 +1,10 @@
+{
+    "itemId": 1654,
+    "itemName": "Gold necklace",
+    "examine": "I wonder if this is valuable.",
+    "weight": 0.007,
+    "buyLimit": 18000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

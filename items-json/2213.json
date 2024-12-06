@@ -1,0 +1,7 @@
+{
+    "itemId": 2213,
+    "itemName": "Spicy crunchies",
+    "examine": "Yum... smells spicy.",
+    "weight": 0.25,
+    "buyLimit": 6000
+}

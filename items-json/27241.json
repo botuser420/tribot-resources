@@ -1,0 +1,19 @@
+{
+    "itemId": 27241,
+    "itemName": "Masori chaps (f)",
+    "examine": "Fortified armour once worn by a powerful ranger.",
+    "weight": 8.5,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -2,
+        "rangeAttackBonus": 27,
+        "stabDefenceBonus": 35,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 39,
+        "magicDefenceBonus": 46,
+        "rangeDefenceBonus": 37,
+        "rangedStrengthBonus": 2,
+        "prayerBonus": 1
+    }
+}

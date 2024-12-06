@@ -1,0 +1,18 @@
+{
+    "itemId": 2961,
+    "itemName": "Silver sickle",
+    "examine": "It's a silver sickle.",
+    "weight": 1.587,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 1,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

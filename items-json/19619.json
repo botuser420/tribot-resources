@@ -1,0 +1,7 @@
+{
+    "itemId": 19619,
+    "itemName": "Salve graveyard teleport",
+    "examine": "A teleport to the Salve graveyard.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 25733,
+    "itemName": "Holy sanguinesti staff (uncharged)",
+    "examine": "A sacred staff imbued with the might of Saradomin to smite his foes. It is currently uncharged.",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 25,
+        "rangeAttackBonus": -4,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 15,
+        "weaponAttackRange": 7,
+        "weaponAttackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

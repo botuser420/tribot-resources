@@ -1,0 +1,17 @@
+{
+    "itemId": 6130,
+    "itemName": "Rock-shell legs",
+    "examine": "Some tough leggings made from rock crab parts.",
+    "weight": 9.071,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -7,
+        "stabDefenceBonus": 51,
+        "slashDefenceBonus": 49,
+        "crushDefenceBonus": 47,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 49
+    }
+}

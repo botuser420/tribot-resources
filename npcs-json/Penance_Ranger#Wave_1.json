@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        1668,
+        5757
+    ],
+    "name": "Penance Ranger",
+    "searchName": "Penance Ranger#Wave 1",
+    "hitpoints": 20,
+    "combatLevel": 21,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        3
+    ],
+    "monsterAttribute": "penance",
+    "size": 1,
+    "attackLevel": 22,
+    "strengthLevel": 1,
+    "defenceLevel": 21,
+    "magicLevel": 1,
+    "rangedLevel": 23,
+    "immuneToVenom": true
+}

@@ -1,0 +1,22 @@
+{
+    "itemId": 24181,
+    "itemName": "Void knight mace (l)",
+    "examine": "A mace used by the order of the Void Knights.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 22,
+        "crushAttackBonus": 41,
+        "magicAttackBonus": 8,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 2,
+        "strengthBonus": 38,
+        "prayerBonus": 6,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

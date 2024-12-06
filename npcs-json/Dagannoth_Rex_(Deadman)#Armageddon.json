@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        12439
+    ],
+    "name": "Dagannoth Rex",
+    "searchName": "Dagannoth Rex (Deadman)#Armageddon",
+    "hitpoints": 1000,
+    "combatLevel": 479,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        26
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 3,
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 255,
+    "rangedLevel": 255,
+    "stabDefenceBonus": 255,
+    "slashDefenceBonus": 255,
+    "crushDefenceBonus": 255,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 255,
+    "immuneToVenom": true
+}

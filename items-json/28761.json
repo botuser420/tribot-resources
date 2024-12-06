@@ -1,0 +1,9 @@
+{
+    "itemId": 28761,
+    "itemName": "Trailblazer reloaded iron trophy",
+    "examine": "An Iron Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

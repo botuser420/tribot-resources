@@ -1,0 +1,44 @@
+{
+    "npcIds": [
+        12214
+    ],
+    "name": "The Leviathan",
+    "searchName": "The Leviathan#Post-quest",
+    "hitpoints": 900,
+    "combatLevel": 798,
+    "attackStyles": [
+        "MELEE",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        50,
+        24,
+        32,
+        59
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 1777.4,
+    "size": 7,
+    "attackLevel": 300,
+    "strengthLevel": 360,
+    "defenceLevel": 250,
+    "magicLevel": 160,
+    "rangedLevel": 160,
+    "attackBonus": 200,
+    "strengthBonus": 22,
+    "magicAttackBonus": 160,
+    "magicDamageBonus": 58,
+    "rangeAttackBonus": 300,
+    "rangedStrengthBonus": 26,
+    "stabDefenceBonus": 260,
+    "slashDefenceBonus": 190,
+    "crushDefenceBonus": 230,
+    "magicDefenceBonus": 280,
+    "rangedDefenceBonus": 50,
+    "heavyRangedDefenceBonus": 25
+}

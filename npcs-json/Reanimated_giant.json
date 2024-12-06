@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        7027
+    ],
+    "name": "Reanimated giant",
+    "hitpoints": 35,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Hill Giants",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 35.0,
+    "size": 2,
+    "attackLevel": 18,
+    "strengthLevel": 22,
+    "defenceLevel": 26,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 18,
+    "strengthBonus": 16
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 4919,
+    "itemName": "Guthan's platebody 25",
+    "examine": "Guthan the Infested's platebody armour.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 122,
+        "slashDefenceBonus": 120,
+        "crushDefenceBonus": 107,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 132
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        12539
+    ],
+    "name": "Bloodthirsty Crawler",
+    "hitpoints": 60,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "slayerCategory": "Cave Crawlers",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "SPRIA"
+    ],
+    "size": 3,
+    "attackLevel": 64,
+    "strengthLevel": 59,
+    "defenceLevel": 55,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToVenom": true
+}

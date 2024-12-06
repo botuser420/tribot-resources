@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        14117
+    ],
+    "name": "Armoured zombie",
+    "searchName": "Armoured zombie (Zemouregal's Fort)#Melee, 5",
+    "hitpoints": 110,
+    "combatLevel": 109,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 110.0,
+    "size": 1,
+    "attackLevel": 106,
+    "strengthLevel": 94,
+    "defenceLevel": 68,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "rangedDefenceBonus": 10
+}

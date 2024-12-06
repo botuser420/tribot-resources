@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        7396
+    ],
+    "name": "Malevolent Mage",
+    "hitpoints": 175,
+    "combatLevel": 162,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        20
+    ],
+    "slayerCategory": "Infernal Mages",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 1750.0,
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 135,
+    "magicLevel": 175,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 75,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

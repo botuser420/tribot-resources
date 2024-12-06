@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        8635
+    ],
+    "name": "Third Age Warrior",
+    "hitpoints": 40,
+    "combatLevel": 83,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "size": 1,
+    "attackLevel": 90,
+    "strengthLevel": 75,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 105,
+    "strengthBonus": 75,
+    "stabDefenceBonus": 96,
+    "slashDefenceBonus": 108,
+    "crushDefenceBonus": 113,
+    "magicDefenceBonus": -4,
+    "rangedDefenceBonus": 97
+}

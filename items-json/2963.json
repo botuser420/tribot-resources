@@ -1,0 +1,18 @@
+{
+    "itemId": 2963,
+    "itemName": "Silver sickle (b)",
+    "examine": "It's a blessed silver sickle.",
+    "weight": 1.587,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 1,
+        "prayerBonus": 5,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

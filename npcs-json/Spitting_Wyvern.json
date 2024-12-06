@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        7794
+    ],
+    "name": "Spitting Wyvern",
+    "hitpoints": 200,
+    "combatLevel": 139,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH",
+        "RANGED"
+    ],
+    "maxHits": [
+        9,
+        13
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Fossil Island Wyverns",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 205.0,
+    "size": 3,
+    "attackLevel": 125,
+    "strengthLevel": 80,
+    "defenceLevel": 90,
+    "magicLevel": 125,
+    "rangedLevel": 125,
+    "stabDefenceBonus": 70,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 140,
+    "rangedDefenceBonus": 120
+}

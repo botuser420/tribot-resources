@@ -1,0 +1,17 @@
+{
+    "itemId": 3477,
+    "itemName": "Rune plateskirt (t)",
+    "examine": "Rune plateskirt with trim.",
+    "weight": 9.071,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 51,
+        "slashDefenceBonus": 49,
+        "crushDefenceBonus": 47,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 49
+    }
+}

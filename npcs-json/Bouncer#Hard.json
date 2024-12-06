@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        6293
+    ],
+    "name": "Bouncer (hard)",
+    "searchName": "Bouncer#Hard",
+    "hitpoints": 232,
+    "combatLevel": 244,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        25
+    ],
+    "slayerCategory": "No",
+    "size": 2,
+    "attackLevel": 240,
+    "strengthLevel": 240,
+    "defenceLevel": 120,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

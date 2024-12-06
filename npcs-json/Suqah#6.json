@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        792
+    ],
+    "name": "Suqah",
+    "searchName": "Suqah#6",
+    "hitpoints": 105,
+    "combatLevel": 111,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "STAB",
+        "MAGIC"
+    ],
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "Suqahs",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 107.6,
+    "size": 2,
+    "attackLevel": 95,
+    "strengthLevel": 95,
+    "defenceLevel": 95,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 90,
+    "rangedDefenceBonus": 50
+}

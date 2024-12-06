@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        12571
+    ],
+    "name": "Bloodthirsty warped Jelly",
+    "hitpoints": 330,
+    "combatLevel": 361,
+    "attackSpeed": 4,
+    "maxHits": [
+        28
+    ],
+    "slayerCategory": "Jellies",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "slayerExperience": 2200.0,
+    "size": 3,
+    "attackLevel": 300,
+    "strengthLevel": 270,
+    "defenceLevel": 250,
+    "magicLevel": 270,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

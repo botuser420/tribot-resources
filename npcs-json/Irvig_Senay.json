@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        3965
+    ],
+    "name": "Irvig Senay",
+    "hitpoints": 125,
+    "combatLevel": 100,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        12
+    ],
+    "monsterAttribute": "spectral",
+    "size": 1,
+    "attackLevel": 76,
+    "strengthLevel": 74,
+    "defenceLevel": 81,
+    "attackBonus": 29,
+    "strengthBonus": 31,
+    "stabDefenceBonus": 27,
+    "slashDefenceBonus": 31,
+    "crushDefenceBonus": 29,
+    "magicDefenceBonus": -1,
+    "rangedDefenceBonus": 29
+}

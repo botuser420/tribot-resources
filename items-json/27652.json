@@ -1,0 +1,14 @@
+{
+    "itemId": 27652,
+    "itemName": "Webweaver bow (u)",
+    "examine": "A bow of a follower of Armadyl, corrupted by the power of Venenatis.",
+    "weight": 3.175,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 85,
+        "rangedStrengthBonus": 65,
+        "weaponAttackRange": 9,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        1606
+    ],
+    "name": "Kolodion",
+    "searchName": "Kolodion#Ogre",
+    "hitpoints": 65,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        20
+    ],
+    "slayerCategory": "No",
+    "size": 1,
+    "attackLevel": 55,
+    "strengthLevel": 70,
+    "defenceLevel": 72,
+    "magicLevel": 50,
+    "rangedLevel": 1
+}

@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        1268
+    ],
+    "name": "Vulture",
+    "searchName": "Vulture#Flying",
+    "hitpoints": 10,
+    "combatLevel": 31,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 10.0,
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

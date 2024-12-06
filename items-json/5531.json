@@ -1,0 +1,10 @@
+{
+    "itemId": 5531,
+    "itemName": "Water tiara",
+    "examine": "A tiara infused with the properties of water.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

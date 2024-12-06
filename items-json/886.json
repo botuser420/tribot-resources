@@ -1,0 +1,11 @@
+{
+    "itemId": 886,
+    "itemName": "Steel arrow",
+    "examine": "Arrows with steel heads.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 16
+    }
+}

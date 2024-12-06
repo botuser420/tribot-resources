@@ -1,0 +1,14 @@
+{
+    "itemId": 26465,
+    "itemName": "Void knight robe (or)",
+    "examine": "Void knight robes plucked from the shattered abyss.",
+    "weight": 8.164,
+    "equipment": {
+        "slot": "LEGS",
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": 30,
+        "rangeDefenceBonus": 30
+    }
+}

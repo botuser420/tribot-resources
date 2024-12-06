@@ -1,0 +1,9 @@
+{
+    "itemId": 25551,
+    "itemName": "Golden prospector jacket",
+    "examine": "Helps you when you're mining. Looks good too.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

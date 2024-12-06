@@ -1,0 +1,7 @@
+{
+    "itemId": 7080,
+    "itemName": "Sliced mushrooms",
+    "examine": "A bowl of sliced Bittercap mushrooms.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

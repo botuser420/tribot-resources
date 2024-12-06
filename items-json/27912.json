@@ -1,0 +1,14 @@
+{
+    "itemId": 27912,
+    "itemName": "Morrigan's throwing axe (bh)",
+    "examine": "A vicious throwing axe.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 93,
+        "rangedStrengthBonus": 117,
+        "weaponAttackRange": 4,
+        "weaponAttackSpeed": 5,
+        "weaponType": "THROWN"
+    }
+}

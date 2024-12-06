@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        10694
+    ],
+    "name": "Rubble",
+    "searchName": "Mind Golem#Rubble",
+    "hitpoints": 40,
+    "combatLevel": 30,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 2,
+    "attackLevel": 14,
+    "strengthLevel": 31,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 23,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "magicDefenceBonus": 2,
+    "rangedDefenceBonus": 10
+}

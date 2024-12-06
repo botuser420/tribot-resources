@@ -1,0 +1,7 @@
+{
+    "itemId": 12405,
+    "itemName": "Lunar isle teleport",
+    "examine": "Teleports you to Lunar isle.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 6109,
+    "itemName": "Ghostly hood",
+    "examine": "A ghostly hood, fit for a ghostly head.",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

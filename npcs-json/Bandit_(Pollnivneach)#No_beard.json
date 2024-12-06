@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        734,
+        735
+    ],
+    "name": "Bandit",
+    "searchName": "Bandit (Pollnivneach)#No beard",
+    "hitpoints": 30,
+    "combatLevel": 56,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 1,
+    "attackLevel": 59,
+    "strengthLevel": 70,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 9,
+    "slashDefenceBonus": 9,
+    "crushDefenceBonus": 8,
+    "magicDefenceBonus": 10
+}

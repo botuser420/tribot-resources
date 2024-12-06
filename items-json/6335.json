@@ -1,0 +1,10 @@
+{
+    "itemId": 6335,
+    "itemName": "Tribal mask",
+    "examine": "A ceremonial wooden mask.",
+    "weight": 2.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

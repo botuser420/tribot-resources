@@ -1,0 +1,14 @@
+{
+    "itemId": 26477,
+    "itemName": "Void melee helm (or)",
+    "examine": "A melee helm plucked from the shattered abyss.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 6
+    }
+}

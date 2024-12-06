@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        13742
+    ],
+    "name": "Emissary Chosen",
+    "searchName": "Emissary Chosen#5",
+    "hitpoints": 50,
+    "combatLevel": 76,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 60,
+    "magicLevel": 20,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 15,
+    "rangedDefenceBonus": 25
+}

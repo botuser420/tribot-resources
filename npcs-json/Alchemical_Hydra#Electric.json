@@ -1,0 +1,38 @@
+{
+    "npcIds": [
+        8619,
+        8617
+    ],
+    "name": "Alchemical Hydra",
+    "searchName": "Alchemical Hydra#Electric",
+    "hitpoints": 1100,
+    "combatLevel": 426,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        35
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Hydras",
+    "slayerExperience": 1320.0,
+    "size": 6,
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "magicLevel": 260,
+    "rangedLevel": 260,
+    "magicAttackBonus": 45,
+    "magicDamageBonus": 20,
+    "rangeAttackBonus": 45,
+    "rangedStrengthBonus": 20,
+    "stabDefenceBonus": 75,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150,
+    "magicDefenceBonus": 150,
+    "rangedDefenceBonus": 45,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 7114,
+    "itemName": "Pirate boots",
+    "examine": "Not for land lubbers.",
+    "weight": 4.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

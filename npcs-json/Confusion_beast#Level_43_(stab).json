@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        1067
+    ],
+    "name": "Confusion beast",
+    "searchName": "Confusion beast#Level 43 (stab)",
+    "hitpoints": 28,
+    "combatLevel": 43,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 2,
+    "attackLevel": 42,
+    "strengthLevel": 41,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

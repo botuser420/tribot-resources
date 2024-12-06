@@ -1,0 +1,14 @@
+{
+    "itemId": 25398,
+    "itemName": "Swampbark helm",
+    "examine": "A rather interesting smelling helmet.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 4,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 11,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": 5
+    }
+}

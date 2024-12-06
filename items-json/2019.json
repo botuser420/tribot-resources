@@ -1,0 +1,7 @@
+{
+    "itemId": 2019,
+    "itemName": "Gin",
+    "examine": "A strong spirit that tastes of Juniper.",
+    "weight": 1.0,
+    "buyLimit": 13000
+}

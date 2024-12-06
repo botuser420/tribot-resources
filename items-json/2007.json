@@ -1,0 +1,7 @@
+{
+    "itemId": 2007,
+    "itemName": "Spice",
+    "examine": "This could liven up an otherwise bland stew.",
+    "weight": 0.2,
+    "buyLimit": 11000
+}

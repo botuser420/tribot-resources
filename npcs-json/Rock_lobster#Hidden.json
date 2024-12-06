@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        5945
+    ],
+    "name": "Rock",
+    "searchName": "Rock lobster#Hidden",
+    "hitpoints": 150,
+    "combatLevel": 127,
+    "attackSpeed": 2,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 2,
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 150
+}

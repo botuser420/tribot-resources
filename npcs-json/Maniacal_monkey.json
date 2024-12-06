@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        7118
+    ],
+    "name": "Maniacal monkey",
+    "hitpoints": 65,
+    "combatLevel": 140,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "slayerCategory": "Monkeys",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 65.0,
+    "size": 1,
+    "attackLevel": 200,
+    "strengthLevel": 175,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

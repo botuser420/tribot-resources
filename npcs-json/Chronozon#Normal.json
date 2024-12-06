@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        4987,
+        6354
+    ],
+    "name": "Chronozon",
+    "searchName": "Chronozon#Normal",
+    "hitpoints": 60,
+    "combatLevel": 170,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "monsterAttribute": "demon",
+    "size": 3,
+    "attackLevel": 173,
+    "strengthLevel": 172,
+    "defenceLevel": 173,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

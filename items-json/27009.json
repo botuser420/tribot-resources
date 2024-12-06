@@ -1,0 +1,20 @@
+{
+    "itemId": 27009,
+    "itemName": "Rune defender (l)(t)",
+    "examine": "A defensive weapon trimmed with gold.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 20,
+        "slashAttackBonus": 19,
+        "crushAttackBonus": 18,
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 19,
+        "crushDefenceBonus": 18,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": -2,
+        "strengthBonus": 5
+    }
+}

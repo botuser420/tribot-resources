@@ -1,0 +1,7 @@
+{
+    "itemId": 217,
+    "itemName": "Grimy dwarf weed",
+    "examine": "It needs cleaning.",
+    "weight": 0.007,
+    "buyLimit": 11000
+}

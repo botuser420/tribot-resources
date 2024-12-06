@@ -1,0 +1,10 @@
+{
+    "itemId": 2535,
+    "itemName": "Steel fire arrow (lit)",
+    "examine": "These steel-headed arrows are ablaze with fire.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 16
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "itemId": 4127,
+    "itemName": "Mithril boots",
+    "examine": "These will protect my feet.",
+    "weight": 1.36,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 10
+    }
+}

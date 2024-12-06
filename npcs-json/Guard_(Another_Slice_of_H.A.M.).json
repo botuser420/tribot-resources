@@ -1,0 +1,15 @@
+{
+    "npcIds": [
+        5141
+    ],
+    "name": "Guard",
+    "searchName": "Guard (Another Slice of H.A.M.)",
+    "hitpoints": 30,
+    "combatLevel": 22,
+    "size": 1,
+    "attackLevel": 16,
+    "strengthLevel": 20,
+    "defenceLevel": 12,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

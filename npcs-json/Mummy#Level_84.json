@@ -1,0 +1,37 @@
+{
+    "npcIds": [
+        949,
+        950,
+        951,
+        952,
+        953,
+        7658,
+        7659,
+        7660,
+        7661,
+        7662
+    ],
+    "name": "Mummy",
+    "searchName": "Mummy#Level 84",
+    "hitpoints": 90,
+    "combatLevel": 84,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 90,
+    "strengthLevel": 30,
+    "defenceLevel": 90,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 30,
+    "stabDefenceBonus": 90,
+    "slashDefenceBonus": 90,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 90
+}

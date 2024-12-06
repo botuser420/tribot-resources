@@ -1,0 +1,10 @@
+{
+    "itemId": 7116,
+    "itemName": "Pirate leggings",
+    "examine": "A sea worthy pair of trousers.",
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

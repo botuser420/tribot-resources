@@ -1,0 +1,18 @@
+{
+    "itemId": 5575,
+    "itemName": "Initiate hauberk",
+    "examine": "An initiate Temple Knight's Armour.",
+    "weight": 8.618,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 46,
+        "slashDefenceBonus": 44,
+        "crushDefenceBonus": 38,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 44,
+        "prayerBonus": 6
+    }
+}

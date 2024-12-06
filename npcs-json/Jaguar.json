@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        12976
+    ],
+    "name": "Jaguar",
+    "hitpoints": 80,
+    "combatLevel": 67,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 2,
+    "attackLevel": 55,
+    "strengthLevel": 50,
+    "defenceLevel": 55,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

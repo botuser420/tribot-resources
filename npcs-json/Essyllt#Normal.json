@@ -1,0 +1,37 @@
+{
+    "npcIds": [
+        8847,
+        8871,
+        8872,
+        8950,
+        9016
+    ],
+    "name": "Essyllt",
+    "searchName": "Essyllt#Normal",
+    "hitpoints": 320,
+    "combatLevel": 236,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB",
+        "RANGED"
+    ],
+    "maxHits": [
+        40,
+        51
+    ],
+    "size": 1,
+    "attackLevel": 268,
+    "strengthLevel": 268,
+    "defenceLevel": 104,
+    "magicLevel": 104,
+    "rangedLevel": 342,
+    "strengthBonus": 28,
+    "rangedStrengthBonus": 28,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 30,
+    "rangedDefenceBonus": 120,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

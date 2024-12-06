@@ -1,0 +1,7 @@
+{
+    "itemId": 10973,
+    "itemName": "Light orb",
+    "examine": "A component of cave goblin Magic.",
+    "weight": 0.001,
+    "buyLimit": 10000
+}

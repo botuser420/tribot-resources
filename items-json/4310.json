@@ -1,0 +1,12 @@
+{
+    "itemId": 4310,
+    "itemName": "Ham boots",
+    "examine": "HAM boots as worn by the Humans Against Monsters group.",
+    "weight": 0.34,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "FEET",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 8482,
+    "itemName": "Rune heraldic helm",
+    "examine": "The colours represent Kandarin.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        5743
+    ],
+    "name": "Penance Fighter",
+    "searchName": "Penance Fighter#Wave 5",
+    "hitpoints": 38,
+    "combatLevel": 47,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "monsterAttribute": "penance",
+    "size": 1,
+    "attackLevel": 41,
+    "strengthLevel": 43,
+    "defenceLevel": 44,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToVenom": true
+}

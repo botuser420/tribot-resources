@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        4005,
+        7250
+    ],
+    "name": "Dark beast",
+    "hitpoints": 220,
+    "combatLevel": 182,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        17,
+        8
+    ],
+    "slayerCategory": "Dark Beasts",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 225.4,
+    "size": 3,
+    "attackLevel": 140,
+    "strengthLevel": 160,
+    "defenceLevel": 120,
+    "magicLevel": 160,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 90,
+    "rangedDefenceBonus": 100
+}

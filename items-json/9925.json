@@ -1,0 +1,9 @@
+{
+    "itemId": 9925,
+    "itemName": "Skeleton mask",
+    "examine": "A scary skeleton mask.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

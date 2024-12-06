@@ -1,0 +1,7 @@
+{
+    "itemId": 93,
+    "itemName": "Marrentill potion (unf)",
+    "examine": "I need another ingredient to finish this Marrentill potion.",
+    "weight": 0.056,
+    "buyLimit": 10000
+}

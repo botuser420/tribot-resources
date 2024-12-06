@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        11484
+    ],
+    "name": "Scarab Swarm",
+    "searchName": "Scarab Swarm (Beneath Cursed Sands)",
+    "hitpoints": 5,
+    "combatLevel": 98,
+    "attackSpeed": 1,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 255,
+    "strengthLevel": 5,
+    "defenceLevel": 2,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -100,
+    "slashDefenceBonus": -100,
+    "crushDefenceBonus": -100,
+    "magicDefenceBonus": -100,
+    "rangedDefenceBonus": -100,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

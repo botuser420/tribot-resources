@@ -1,0 +1,17 @@
+{
+    "npcIds": [
+        4382
+    ],
+    "name": "Ogre shaman",
+    "searchName": "Ogre shaman (Swan Song)",
+    "hitpoints": 99,
+    "combatLevel": 113,
+    "size": 2,
+    "attackLevel": 99,
+    "strengthLevel": 99,
+    "defenceLevel": 99,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

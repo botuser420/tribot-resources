@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        7245
+    ],
+    "name": "Greater demon",
+    "searchName": "Greater demon#Level 100",
+    "hitpoints": 115,
+    "combatLevel": 100,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Greater Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 115.0,
+    "size": 3,
+    "attackLevel": 90,
+    "strengthLevel": 70,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -10,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 40
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 97,
+    "itemName": "Harralander potion (unf)",
+    "examine": "I need another ingredient to finish this Harralander potion.",
+    "weight": 0.056,
+    "buyLimit": 10000
+}

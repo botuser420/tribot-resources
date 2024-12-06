@@ -1,0 +1,7 @@
+{
+    "itemId": 231,
+    "itemName": "Snape grass",
+    "examine": "Strange spiky grass.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 24680,
+    "itemName": "Vyre noble shoes",
+    "examine": "Lets you dress like a vampyre noble.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 24731,
+    "itemName": "Hallowed ring",
+    "examine": "A ring which prevents damage from traps in the Hallowed Sepulchre.",
+    "weight": 0.004,
+    "equipment": {
+        "slot": "RING"
+    }
+}

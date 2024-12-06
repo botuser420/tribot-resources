@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        7881
+    ],
+    "name": "Revenant imp",
+    "hitpoints": 10,
+    "combatLevel": 7,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "STAB",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        2
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Revenants",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 10.0,
+    "size": 1,
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 4,
+    "magicLevel": 9,
+    "rangedLevel": 5,
+    "magicAttackBonus": 5,
+    "magicDefenceBonus": 5
+}

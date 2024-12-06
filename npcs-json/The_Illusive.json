@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        3476,
+        3478
+    ],
+    "name": "The Illusive",
+    "hitpoints": 144,
+    "combatLevel": 108,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 72,
+    "strengthLevel": 71,
+    "defenceLevel": 105,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 6188,
+    "itemName": "Frog mask",
+    "examine": "Now that's just silly.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

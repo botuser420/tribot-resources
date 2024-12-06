@@ -1,0 +1,16 @@
+{
+    "itemId": 778,
+    "itemName": "Steel gauntlets",
+    "examine": "My reward for assisting the Fitzharmon family.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 2,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 7,
+        "strengthBonus": 2
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        8853
+    ],
+    "name": "Paladin",
+    "searchName": "Paladin#Male",
+    "hitpoints": 57,
+    "combatLevel": 62,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 54,
+    "strengthLevel": 54,
+    "defenceLevel": 54,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 20,
+    "strengthBonus": 22,
+    "stabDefenceBonus": 87,
+    "slashDefenceBonus": 84,
+    "crushDefenceBonus": 76,
+    "magicDefenceBonus": -10,
+    "rangedDefenceBonus": 79
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 11968,
+    "itemName": "Skills necklace(6)",
+    "examine": "This will help me travel.",
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 4103,
+    "itemName": "Mystic robe bottom (dark)",
+    "examine": "The lower half of a dark magical robe.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 15,
+        "magicDefenceBonus": 15
+    }
+}

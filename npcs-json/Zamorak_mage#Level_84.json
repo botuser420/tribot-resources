@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        7422
+    ],
+    "name": "Zamorak mage",
+    "searchName": "Zamorak mage#Level 84",
+    "hitpoints": 50,
+    "combatLevel": 84,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 1,
+    "attackLevel": 78,
+    "strengthLevel": 81,
+    "defenceLevel": 82,
+    "magicLevel": 85,
+    "rangedLevel": 1
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 225,
+    "itemName": "Limpwurt root",
+    "examine": "The root of a limpwurt plant.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

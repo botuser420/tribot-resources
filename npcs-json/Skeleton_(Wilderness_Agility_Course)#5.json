@@ -1,0 +1,37 @@
+{
+    "npcIds": [
+        13499
+    ],
+    "name": "Skeleton",
+    "searchName": "Skeleton (Wilderness Agility Course)#5",
+    "hitpoints": 17,
+    "combatLevel": 18,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 17.0,
+    "size": 1,
+    "attackLevel": 24,
+    "strengthLevel": 1,
+    "defenceLevel": 24,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 15,
+    "strengthBonus": 14,
+    "stabDefenceBonus": 9,
+    "slashDefenceBonus": 11,
+    "crushDefenceBonus": -2,
+    "magicDefenceBonus": 1,
+    "rangedDefenceBonus": 4
+}

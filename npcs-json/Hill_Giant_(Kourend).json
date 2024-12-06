@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        7261
+    ],
+    "name": "Hill Giant",
+    "searchName": "Hill Giant (Kourend)",
+    "hitpoints": 35,
+    "combatLevel": 28,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Hill Giants",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 35.0,
+    "size": 2,
+    "attackLevel": 18,
+    "strengthLevel": 22,
+    "defenceLevel": 26,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 18,
+    "strengthBonus": 16
+}

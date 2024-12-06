@@ -1,0 +1,15 @@
+{
+    "itemId": 9097,
+    "itemName": "Lunar torso",
+    "examine": "Provides good protection.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 10,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 34,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 40,
+        "magicDefenceBonus": 12
+    }
+}

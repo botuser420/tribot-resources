@@ -1,0 +1,18 @@
+{
+    "itemId": 22326,
+    "itemName": "Justiciar faceguard",
+    "examine": "A helm that once belonged to a Justiciar, a loyal zealot of Saradomin.",
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 60,
+        "slashDefenceBonus": 63,
+        "crushDefenceBonus": 59,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 67,
+        "prayerBonus": 2
+    }
+}

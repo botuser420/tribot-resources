@@ -1,0 +1,7 @@
+{
+    "itemId": 12406,
+    "itemName": "Mort'ton teleport",
+    "examine": "Teleports you to Mort'ton.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

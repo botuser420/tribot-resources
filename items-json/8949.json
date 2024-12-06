@@ -1,0 +1,9 @@
+{
+    "itemId": 8949,
+    "itemName": "Pirate bandana",
+    "examine": "A blue bandana.",
+    "weight": 0.003,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

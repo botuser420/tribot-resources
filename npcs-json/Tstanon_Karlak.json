@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        3130
+    ],
+    "name": "Tstanon Karlak",
+    "hitpoints": 142,
+    "combatLevel": 145,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        15
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Greater Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 142.0,
+    "size": 3,
+    "attackLevel": 124,
+    "strengthLevel": 118,
+    "defenceLevel": 125,
+    "magicLevel": 50,
+    "rangedLevel": 50,
+    "strengthBonus": 14,
+    "magicDefenceBonus": -5
+}

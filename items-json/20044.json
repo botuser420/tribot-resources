@@ -1,0 +1,15 @@
+{
+    "itemId": 20044,
+    "itemName": "Samurai greaves",
+    "examine": "Armoured greaves of the Samurai.",
+    "weight": 1.5,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "stabDefenceBonus": 42,
+        "slashDefenceBonus": 40,
+        "crushDefenceBonus": 38,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 40
+    }
+}

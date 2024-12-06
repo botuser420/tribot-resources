@@ -1,0 +1,19 @@
+{
+    "itemId": 26384,
+    "itemName": "Torva platebody",
+    "examine": "An ancient warrior's platebody.",
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -18,
+        "rangeAttackBonus": -14,
+        "stabDefenceBonus": 117,
+        "slashDefenceBonus": 111,
+        "crushDefenceBonus": 117,
+        "magicDefenceBonus": -11,
+        "rangeDefenceBonus": 142,
+        "strengthBonus": 6,
+        "prayerBonus": 1
+    }
+}

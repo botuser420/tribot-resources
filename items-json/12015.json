@@ -1,0 +1,9 @@
+{
+    "itemId": 12015,
+    "itemName": "Prospector legs",
+    "examine": "Helps you when you're mining.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

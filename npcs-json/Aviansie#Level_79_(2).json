@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        3179
+    ],
+    "name": "Aviansie",
+    "searchName": "Aviansie#Level 79 (2)",
+    "hitpoints": 77,
+    "combatLevel": 79,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        11
+    ],
+    "slayerCategory": "Aviansie",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 77.0,
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 55,
+    "magicLevel": 1,
+    "rangedLevel": 96,
+    "elementalWeakness": "Air",
+    "elementalWeaknessPercent": 45,
+    "lightRangedDefenceBonus": -20
+}

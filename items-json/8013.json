@@ -1,0 +1,7 @@
+{
+    "itemId": 8013,
+    "itemName": "Teleport to house",
+    "examine": "A teleport to one's own house.",
+    "weight": 0.0,
+    "buyLimit": 15000
+}

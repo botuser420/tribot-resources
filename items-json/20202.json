@@ -1,0 +1,11 @@
+{
+    "itemId": 20202,
+    "itemName": "Monk's robe (g)",
+    "examine": "Keeps a monk's knees nice, warm and stylish.",
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS",
+        "prayerBonus": 5
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        12289
+    ],
+    "name": "Strangled Boar",
+    "hitpoints": 40,
+    "combatLevel": 166,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "TYPELESS"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 190,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "magicLevel": 60,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

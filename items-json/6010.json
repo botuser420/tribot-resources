@@ -1,0 +1,7 @@
+{
+    "itemId": 6010,
+    "itemName": "Marigolds",
+    "examine": "A bunch of marigolds.",
+    "weight": 0.028,
+    "buyLimit": 600
+}

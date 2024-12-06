@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        470
+    ],
+    "name": "Killerwatt",
+    "searchName": "Killerwatt#Idle",
+    "hitpoints": 51,
+    "combatLevel": 55,
+    "attackSpeed": 2,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        6,
+        8
+    ],
+    "slayerCategory": "Killerwatts",
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "slayerExperience": 51.0,
+    "size": 1,
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 40,
+    "magicLevel": 67,
+    "rangedLevel": 67,
+    "attackBonus": 30,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 20,
+    "rangedDefenceBonus": -10
+}

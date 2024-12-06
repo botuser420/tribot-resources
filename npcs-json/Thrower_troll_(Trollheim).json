@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        4135,
+        4136,
+        4137,
+        4138,
+        4139
+    ],
+    "name": "Thrower troll",
+    "searchName": "Thrower troll (Trollheim)",
+    "hitpoints": 95,
+    "combatLevel": 68,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 95.0,
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 95,
+    "defenceLevel": 15,
+    "rangedLevel": 60,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 200
+}

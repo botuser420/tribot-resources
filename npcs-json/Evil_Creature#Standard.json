@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        1244,
+        1247,
+        1250,
+        1253,
+        1256
+    ],
+    "name": "Evil Creature",
+    "searchName": "Evil Creature#Standard",
+    "hitpoints": 1,
+    "combatLevel": 1,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

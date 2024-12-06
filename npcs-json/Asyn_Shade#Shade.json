@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        1284
+    ],
+    "name": "Asyn Shade",
+    "searchName": "Asyn Shade#Shade",
+    "hitpoints": 90,
+    "combatLevel": 100,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "monsterAttribute": "shade",
+    "slayerCategory": "Shades",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 90.0,
+    "size": 1,
+    "attackLevel": 102,
+    "strengthLevel": 84,
+    "defenceLevel": 70,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

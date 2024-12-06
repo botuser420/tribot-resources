@@ -1,0 +1,16 @@
+{
+    "itemId": 6619,
+    "itemName": "White boots",
+    "examine": "These will protect my feet.",
+    "weight": 1.36,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 9,
+        "prayerBonus": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 830,
+    "itemName": "Rune javelin",
+    "examine": "A rune tipped javelin.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 124
+    }
+}

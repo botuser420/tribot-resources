@@ -1,0 +1,13 @@
+{
+    "itemId": 6959,
+    "itemName": "Pink cape",
+    "examine": "It's a bit pink.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

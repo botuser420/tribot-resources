@@ -1,0 +1,38 @@
+{
+    "npcIds": [
+        5185,
+        5186,
+        5187,
+        5188,
+        5189
+    ],
+    "name": "Guard",
+    "searchName": "Guard (dwarf)",
+    "hitpoints": 16,
+    "combatLevel": 10,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        2
+    ],
+    "slayerCategory": "Dwarves",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 16.0,
+    "size": 1,
+    "attackLevel": 8,
+    "strengthLevel": 6,
+    "defenceLevel": 9,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "strengthBonus": 7,
+    "stabDefenceBonus": 3,
+    "slashDefenceBonus": 4,
+    "crushDefenceBonus": 4,
+    "magicDefenceBonus": 2,
+    "rangedDefenceBonus": 3
+}

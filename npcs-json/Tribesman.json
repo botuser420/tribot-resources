@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        6406,
+        6407
+    ],
+    "name": "Tribesman",
+    "hitpoints": 39,
+    "combatLevel": 32,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 23,
+    "strengthLevel": 27,
+    "defenceLevel": 26,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 8,
+    "strengthBonus": 5,
+    "stabDefenceBonus": 4,
+    "slashDefenceBonus": 6,
+    "crushDefenceBonus": 6
+}

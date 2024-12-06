@@ -1,0 +1,15 @@
+{
+    "itemId": 873,
+    "itemName": "Mithril knife(p)",
+    "examine": "A finely balanced throwing knife.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 11,
+        "rangedStrengthBonus": 10,
+        "weaponAttackRange": 4,
+        "weaponAttackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

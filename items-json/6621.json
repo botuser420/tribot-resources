@@ -1,0 +1,17 @@
+{
+    "itemId": 6621,
+    "itemName": "White med helm",
+    "examine": "A medium sized helmet.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9,
+        "prayerBonus": 1
+    }
+}

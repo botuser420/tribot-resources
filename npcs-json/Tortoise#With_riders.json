@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        6076
+    ],
+    "name": "Tortoise",
+    "searchName": "Tortoise#With riders",
+    "hitpoints": 120,
+    "combatLevel": 92,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 3,
+    "attackLevel": 30,
+    "strengthLevel": 100,
+    "defenceLevel": 80,
+    "magicLevel": 50,
+    "rangedLevel": 50
+}

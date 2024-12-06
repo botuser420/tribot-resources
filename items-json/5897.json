@@ -1,0 +1,7 @@
+{
+    "itemId": 5897,
+    "itemName": "Moonlight mead(m4)",
+    "examine": "This keg contains 4 pints of mature Moonlight Mead.",
+    "weight": 0.028,
+    "buyLimit": 2000
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 2283,
+    "itemName": "Pizza base",
+    "examine": "I need to add some tomato next.",
+    "weight": 0.1,
+    "buyLimit": 11000
+}

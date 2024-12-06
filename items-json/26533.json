@@ -1,0 +1,11 @@
+{
+    "itemId": 26533,
+    "itemName": "Mystic robe top (or)",
+    "examine": "The upper half of a magical robe plucked from the shattered abyss.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 20,
+        "magicDefenceBonus": 20
+    }
+}

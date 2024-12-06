@@ -1,0 +1,7 @@
+{
+    "itemId": 2110,
+    "itemName": "Orange chunks",
+    "examine": "Fresh chunks of orange.",
+    "weight": 0.09,
+    "buyLimit": 13000
+}

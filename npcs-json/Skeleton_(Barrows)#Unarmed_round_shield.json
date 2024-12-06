@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        1686
+    ],
+    "name": "Skeleton",
+    "searchName": "Skeleton (Barrows)#Unarmed round shield",
+    "hitpoints": 51,
+    "combatLevel": 77,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        10
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 51.0,
+    "size": 1,
+    "attackLevel": 72,
+    "strengthLevel": 72,
+    "defenceLevel": 72,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": -5,
+    "rangedDefenceBonus": 5
+}

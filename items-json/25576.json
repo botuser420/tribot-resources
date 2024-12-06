@@ -1,0 +1,11 @@
+{
+    "itemId": 25576,
+    "itemName": "Tome of water (empty)",
+    "examine": "An ancient tome containing the secrets of water magic.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 8,
+        "magicDefenceBonus": 8
+    }
+}

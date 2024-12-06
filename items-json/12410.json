@@ -1,0 +1,7 @@
+{
+    "itemId": 12410,
+    "itemName": "Iorwerth camp teleport",
+    "examine": "Teleports you to the Iorwerth Camp.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

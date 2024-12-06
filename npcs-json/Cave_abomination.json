@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        7401
+    ],
+    "name": "Cave abomination",
+    "hitpoints": 130,
+    "combatLevel": 206,
+    "attackSpeed": 4,
+    "maxHits": [
+        24
+    ],
+    "slayerCategory": "Cave Horrors",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 1300.0,
+    "size": 2,
+    "attackLevel": 230,
+    "strengthLevel": 195,
+    "defenceLevel": 142,
+    "magicLevel": 230,
+    "rangedLevel": 1,
+    "immuneToVenom": true
+}

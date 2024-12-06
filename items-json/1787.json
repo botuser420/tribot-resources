@@ -1,0 +1,7 @@
+{
+    "itemId": 1787,
+    "itemName": "Unfired pot",
+    "examine": "I need to put this in a pottery oven.",
+    "weight": 0.68,
+    "buyLimit": 10000
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 22545,
+    "itemName": "Viggora's chainmace",
+    "examine": "An ancient chainmace with a peculiar mechanism that allows for varying attack styles.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 53,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 67,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 66,
+        "prayerBonus": 2,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

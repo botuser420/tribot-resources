@@ -1,0 +1,7 @@
+{
+    "itemId": 13190,
+    "itemName": "Old school bond",
+    "examine": "This bond can be redeemed for membership.",
+    "weight": 0.003,
+    "buyLimit": 100
+}

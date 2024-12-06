@@ -1,0 +1,16 @@
+{
+    "itemId": 9068,
+    "itemName": "Moonclan helm",
+    "examine": "Mystical headgear.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "rangeAttackBonus": -5,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": -5
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 30367,
+    "itemName": "The dogsword",
+    "examine": "Is this the true god sword? Or simply a joke replica?",
+    "weight": 10.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 132,
+        "crushAttackBonus": 80,
+        "strengthBonus": 132,
+        "prayerBonus": 8,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

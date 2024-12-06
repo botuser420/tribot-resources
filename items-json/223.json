@@ -1,0 +1,7 @@
+{
+    "itemId": 223,
+    "itemName": "Red spiders' eggs",
+    "examine": "Ewww!",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

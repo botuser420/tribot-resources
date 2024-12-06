@@ -1,0 +1,7 @@
+{
+    "itemId": 7650,
+    "itemName": "Silver dust",
+    "examine": "It's ground up silver.",
+    "weight": 0.15,
+    "buyLimit": 13000
+}

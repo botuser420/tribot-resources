@@ -1,0 +1,7 @@
+{
+    "itemId": 13233,
+    "itemName": "Smouldering stone",
+    "examine": "A smouldering stone from the depths of Hell.",
+    "weight": 0.05,
+    "buyLimit": 5
+}

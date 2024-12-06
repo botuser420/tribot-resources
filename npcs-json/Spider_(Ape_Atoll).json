@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        5238,
+        5239
+    ],
+    "name": "Spider",
+    "searchName": "Spider (Ape Atoll)",
+    "hitpoints": 2,
+    "combatLevel": 1,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 2.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 1,
+    "strengthBonus": 1,
+    "slashDefenceBonus": 1,
+    "magicDefenceBonus": 1
+}

@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        7420
+    ],
+    "name": "Zamorak ranger",
+    "searchName": "Zamorak ranger#Level 81",
+    "hitpoints": 50,
+    "combatLevel": 81,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 1,
+    "attackLevel": 75,
+    "strengthLevel": 75,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 80
+}

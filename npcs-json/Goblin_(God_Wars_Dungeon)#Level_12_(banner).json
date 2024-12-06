@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        2247
+    ],
+    "name": "Goblin",
+    "searchName": "Goblin (God Wars Dungeon)#Level 12 (banner)",
+    "hitpoints": 3,
+    "combatLevel": 12,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "slayerCategory": "Goblins",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 3.0,
+    "size": 1,
+    "attackLevel": 15,
+    "strengthLevel": 6,
+    "defenceLevel": 19,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

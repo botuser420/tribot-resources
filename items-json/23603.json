@@ -1,0 +1,15 @@
+{
+    "itemId": 23603,
+    "itemName": "Imbued guthix cape",
+    "examine": "A cape from the almighty god Guthix, imbued with great power.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 15,
+        "magicDamageBonus": 2.0
+    }
+}

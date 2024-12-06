@@ -1,0 +1,10 @@
+{
+    "itemId": 2631,
+    "itemName": "Highwayman mask",
+    "examine": "Your money or your life!",
+    "weight": 0.02,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

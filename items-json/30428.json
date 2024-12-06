@@ -1,0 +1,12 @@
+{
+    "itemId": 30428,
+    "itemName": "Raging echoes cane",
+    "examine": "The cane of a Raging Echoes relic hunter.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SPIKED"
+    }
+}

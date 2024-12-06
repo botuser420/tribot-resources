@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        1126
+    ],
+    "name": "Barrelchest (hard)",
+    "searchName": "Barrelchest#Hard",
+    "hitpoints": 255,
+    "combatLevel": 380,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        61
+    ],
+    "size": 3,
+    "attackLevel": 306,
+    "strengthLevel": 261,
+    "defenceLevel": 140,
+    "magicLevel": 162,
+    "rangedLevel": 1,
+    "attackBonus": 80,
+    "strengthBonus": 80
+}

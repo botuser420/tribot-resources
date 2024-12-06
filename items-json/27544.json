@@ -1,0 +1,9 @@
+{
+    "itemId": 27544,
+    "itemName": "Ghommal's lucky penny",
+    "examine": "I'm sure he won't mind me borrowing this...",
+    "weight": 0.05,
+    "equipment": {
+        "slot": "AMMO"
+    }
+}

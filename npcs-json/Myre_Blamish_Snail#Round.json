@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        2634
+    ],
+    "name": "Myre Blamish Snail",
+    "searchName": "Myre Blamish Snail#Round",
+    "hitpoints": 8,
+    "combatLevel": 9,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "defenceLevel": 22,
+    "magicLevel": 1,
+    "rangedLevel": 5,
+    "attackBonus": 10,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 50
+}

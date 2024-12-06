@@ -1,0 +1,11 @@
+{
+    "itemId": 9733,
+    "itemName": "Mind helmet",
+    "examine": "A magic helmet.",
+    "weight": 0.113,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicDefenceBonus": 6
+    }
+}

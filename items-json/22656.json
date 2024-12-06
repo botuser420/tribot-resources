@@ -1,0 +1,15 @@
+{
+    "itemId": 22656,
+    "itemName": "Zuriel's robe bottom",
+    "examine": "A powerful robe bottom.",
+    "weight": 5.443,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 25,
+        "rangeAttackBonus": -7,
+        "stabDefenceBonus": 38,
+        "slashDefenceBonus": 35,
+        "crushDefenceBonus": 44,
+        "magicDefenceBonus": 25
+    }
+}

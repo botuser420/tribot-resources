@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        7286
+    ],
+    "name": "Skotizo",
+    "hitpoints": 450,
+    "combatLevel": 321,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC",
+        "STAB"
+    ],
+    "maxHits": [
+        38
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Black Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 618.5,
+    "size": 5,
+    "attackLevel": 240,
+    "strengthLevel": 250,
+    "defenceLevel": 200,
+    "magicLevel": 280,
+    "rangedLevel": 1,
+    "attackBonus": 160,
+    "strengthBonus": 31,
+    "stabDefenceBonus": 80,
+    "slashDefenceBonus": 80,
+    "crushDefenceBonus": 80,
+    "magicDefenceBonus": 130,
+    "rangedDefenceBonus": 130,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

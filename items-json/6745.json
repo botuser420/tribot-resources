@@ -1,0 +1,19 @@
+{
+    "itemId": 6745,
+    "itemName": "Silverlight",
+    "examine": "The magical sword 'Silverlight', stained black.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 9,
+        "slashAttackBonus": 14,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 12,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

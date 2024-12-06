@@ -1,0 +1,10 @@
+{
+    "itemId": 5034,
+    "itemName": "Shirt",
+    "examine": "Tiny!",
+    "weight": 0.07,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "itemId": 13376,
+    "itemName": "Shayzien platebody (4)",
+    "examine": "Dress like a tier 4 Shayzien soldier.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -9,
+        "stabDefenceBonus": 28,
+        "slashDefenceBonus": 35,
+        "crushDefenceBonus": 37,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 25
+    }
+}

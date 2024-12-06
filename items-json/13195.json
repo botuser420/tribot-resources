@@ -1,0 +1,11 @@
+{
+    "itemId": 13195,
+    "itemName": "Oddskull",
+    "examine": "Ball taken!",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": -1
+    }
+}

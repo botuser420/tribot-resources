@@ -1,0 +1,17 @@
+{
+    "itemId": 9629,
+    "itemName": "Tyras helm",
+    "examine": "As used by King Tyras' personal guard.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9
+    }
+}

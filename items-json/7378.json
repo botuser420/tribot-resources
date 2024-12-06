@@ -1,0 +1,17 @@
+{
+    "itemId": 7378,
+    "itemName": "Green d'hide chaps (g)",
+    "examine": "Made from 100% real dragonhide. With colourful trim!",
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 8,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 18,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 17
+    }
+}

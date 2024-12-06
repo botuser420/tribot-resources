@@ -1,0 +1,7 @@
+{
+    "itemId": 7070,
+    "itemName": "Minced meat",
+    "examine": "A bowl of finely minced meat.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

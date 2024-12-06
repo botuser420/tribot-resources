@@ -1,0 +1,16 @@
+{
+    "itemId": 27580,
+    "itemName": "Festive nutcracker staff",
+    "examine": "A festive nutcracker staff.",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -100,
+        "strengthBonus": -100,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "itemId": 2883,
+    "itemName": "Ogre bow",
+    "examine": "More powerful than a normal bow, useful against large game birds.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 38,
+        "weaponAttackRange": 10,
+        "weaponAttackSpeed": 8,
+        "weaponType": "BOW"
+    }
+}

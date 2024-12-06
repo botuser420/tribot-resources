@@ -1,0 +1,15 @@
+{
+    "itemId": 6420,
+    "itemName": "Maple blackjack(d)",
+    "examine": "A defensive blackjack.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushDefenceBonus": 24,
+        "strengthBonus": 20,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

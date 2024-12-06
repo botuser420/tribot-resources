@@ -1,0 +1,22 @@
+{
+    "itemId": 1387,
+    "itemName": "Staff of fire",
+    "examine": "A Magical staff.",
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 3,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 9,
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 10,
+        "strengthBonus": 6,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

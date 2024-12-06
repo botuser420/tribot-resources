@@ -1,0 +1,10 @@
+{
+    "itemId": 12339,
+    "itemName": "Pink elegant blouse",
+    "examine": "A well made elegant ladies' pink blouse.",
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

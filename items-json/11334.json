@@ -1,0 +1,7 @@
+{
+    "itemId": 11334,
+    "itemName": "Fish offcuts",
+    "examine": "Slices of inedible fish.",
+    "weight": 0.0,
+    "buyLimit": 8000
+}

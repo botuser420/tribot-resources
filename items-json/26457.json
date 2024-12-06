@@ -1,0 +1,9 @@
+{
+    "itemId": 26457,
+    "itemName": "Shattered trousers (t3)",
+    "examine": "The trousers of a Shattered Relic Hunter.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 1718,
+    "itemName": "Holy symbol",
+    "examine": "A blessed holy symbol of Saradomin.",
+    "weight": 0.007,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 2,
+        "prayerBonus": 8
+    }
+}

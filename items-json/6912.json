@@ -1,0 +1,15 @@
+{
+    "itemId": 6912,
+    "itemName": "Teacher wand",
+    "examine": "A teacher level wand.",
+    "weight": 0.226,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 15,
+        "magicDefenceBonus": 15,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

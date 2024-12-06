@@ -1,0 +1,7 @@
+{
+    "itemId": 19656,
+    "itemName": "Uncooked botanical pie",
+    "examine": "This would be much tastier cooked.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

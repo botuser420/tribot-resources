@@ -1,0 +1,14 @@
+{
+    "itemId": 23384,
+    "itemName": "Leather chaps (g)",
+    "examine": "Better than no armour! Nice trim too!",
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "rangeAttackBonus": 4,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1
+    }
+}

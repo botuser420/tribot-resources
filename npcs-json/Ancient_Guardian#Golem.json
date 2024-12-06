@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        10654,
+        10665
+    ],
+    "name": "Ancient Guardian",
+    "searchName": "Ancient Guardian#Golem",
+    "hitpoints": 40,
+    "combatLevel": 25,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 2,
+    "attackLevel": 25,
+    "strengthLevel": 33,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 20,
+    "strengthBonus": 50,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 30
+}

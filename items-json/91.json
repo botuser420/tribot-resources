@@ -1,0 +1,7 @@
+{
+    "itemId": 91,
+    "itemName": "Guam potion (unf)",
+    "examine": "I need another ingredient to finish this Guam potion.",
+    "weight": 0.056,
+    "buyLimit": 10000
+}

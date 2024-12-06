@@ -1,0 +1,7 @@
+{
+    "itemId": 1831,
+    "itemName": "Waterskin(0)",
+    "examine": "A completely empty waterskin - you'll need to fill it up.",
+    "weight": 0.1,
+    "buyLimit": 10000
+}

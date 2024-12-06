@@ -1,0 +1,13 @@
+{
+    "itemId": 19544,
+    "itemName": "Tormented bracelet",
+    "examine": "A deep sense of torment burns within this powerful bracelet.",
+    "weight": 0.25,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": 10,
+        "magicDamageBonus": 5.0,
+        "prayerBonus": 2
+    }
+}

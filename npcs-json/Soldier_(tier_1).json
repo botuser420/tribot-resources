@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        6905,
+        6904
+    ],
+    "name": "Soldier (tier 1)",
+    "hitpoints": 50,
+    "combatLevel": 39,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 12,
+    "strengthBonus": 11,
+    "rangedDefenceBonus": -1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

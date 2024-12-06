@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        3314
+    ],
+    "name": "Giant rat",
+    "searchName": "Giant rat (Tutorial Island)#Unused, 1",
+    "hitpoints": 3,
+    "combatLevel": 3,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -100,
+    "slashDefenceBonus": -100,
+    "crushDefenceBonus": -100,
+    "rangedDefenceBonus": -100
+}

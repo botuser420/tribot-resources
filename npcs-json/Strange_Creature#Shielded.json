@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        12075
+    ],
+    "name": "Strange Creature",
+    "searchName": "Strange Creature#Shielded",
+    "hitpoints": 75,
+    "combatLevel": 368,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        40,
+        38
+    ],
+    "size": 5,
+    "attackLevel": 280,
+    "strengthLevel": 280,
+    "defenceLevel": 200,
+    "magicLevel": 180,
+    "rangedLevel": 336,
+    "attackBonus": 60,
+    "strengthBonus": -10,
+    "magicAttackBonus": 90,
+    "magicDamageBonus": 66,
+    "rangedStrengthBonus": -10,
+    "stabDefenceBonus": 110,
+    "slashDefenceBonus": 90,
+    "crushDefenceBonus": 80,
+    "magicDefenceBonus": 280,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

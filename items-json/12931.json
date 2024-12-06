@@ -1,0 +1,16 @@
+{
+    "itemId": 12931,
+    "itemName": "Serpentine helm",
+    "examine": "Protects the wearer from poison and venom, and helps envenom monsters.",
+    "weight": 0.9,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -5,
+        "rangeAttackBonus": -5,
+        "stabDefenceBonus": 52,
+        "slashDefenceBonus": 55,
+        "crushDefenceBonus": 58,
+        "rangeDefenceBonus": 50,
+        "strengthBonus": 5
+    }
+}

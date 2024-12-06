@@ -1,0 +1,14 @@
+{
+    "itemId": 13367,
+    "itemName": "Shayzien gloves (3)",
+    "examine": "Dress like a tier 3 Shayzien soldier.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "crushAttackBonus": 2,
+        "magicAttackBonus": -1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": -1,
+        "strengthBonus": 2
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "npcIds": [
+        980,
+        981,
+        982,
+        983,
+        984,
+        985,
+        986,
+        987,
+        988,
+        6361,
+        6362,
+        6363,
+        6364,
+        6365,
+        6366
+    ],
+    "name": "Dagannoth mother",
+    "searchName": "Dagannoth mother#Normal",
+    "hitpoints": 120,
+    "combatLevel": 100,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "RANGED"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 3,
+    "attackLevel": 78,
+    "strengthLevel": 78,
+    "defenceLevel": 81,
+    "magicLevel": 1,
+    "rangedLevel": 50,
+    "stabDefenceBonus": 150,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

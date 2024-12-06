@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        8846
+    ],
+    "name": "Mourner",
+    "searchName": "Mourner (Song of the Elves)#Level 106",
+    "hitpoints": 100,
+    "combatLevel": 106,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 1,
+    "attackLevel": 95,
+    "strengthLevel": 95,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 40
+}

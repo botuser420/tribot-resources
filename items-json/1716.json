@@ -1,0 +1,10 @@
+{
+    "itemId": 1716,
+    "itemName": "Unblessed symbol",
+    "examine": "A symbol of Saradomin.",
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

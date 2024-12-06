@@ -1,0 +1,17 @@
+{
+    "itemId": 4749,
+    "itemName": "Torag's platebody",
+    "examine": "Torag the Corrupted's platebody armour.",
+    "weight": 9.979,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -10,
+        "stabDefenceBonus": 122,
+        "slashDefenceBonus": 120,
+        "crushDefenceBonus": 107,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 132
+    }
+}

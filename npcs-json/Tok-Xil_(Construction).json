@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        141
+    ],
+    "name": "Tok-Xil",
+    "searchName": "Tok-Xil (Construction)",
+    "hitpoints": 60,
+    "combatLevel": 135,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        19
+    ],
+    "size": 3,
+    "attackLevel": 120,
+    "strengthLevel": 180,
+    "defenceLevel": 90,
+    "magicLevel": 90,
+    "rangedLevel": 180
+}

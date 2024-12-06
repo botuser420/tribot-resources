@@ -1,0 +1,17 @@
+{
+    "itemId": 1093,
+    "itemName": "Rune plateskirt",
+    "examine": "Designer leg protection.",
+    "weight": 8.164,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 51,
+        "slashDefenceBonus": 49,
+        "crushDefenceBonus": 47,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 49
+    }
+}

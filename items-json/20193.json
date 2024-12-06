@@ -1,0 +1,17 @@
+{
+    "itemId": 20193,
+    "itemName": "Steel full helm (t)",
+    "examine": "A steel full helmet with trim.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 28753,
+    "itemName": "Trailblazer reloaded rune trophy",
+    "examine": "A Rune Trophy awarded for participating in Leagues IV: Trailblazer Reloaded (15th Nov 2023 to 10th Jan 2024).",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

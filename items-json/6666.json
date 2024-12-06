@@ -1,0 +1,14 @@
+{
+    "itemId": 6666,
+    "itemName": "Flippers",
+    "examine": "Strangely uncomfortable flippers.",
+    "weight": 0.34,
+    "equipment": {
+        "slot": "FEET",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1
+    }
+}

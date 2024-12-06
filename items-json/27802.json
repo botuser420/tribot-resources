@@ -1,0 +1,9 @@
+{
+    "itemId": 27802,
+    "itemName": "Gnome child backpack",
+    "examine": "Wait...who's wearing who in this situation?!",
+    "weight": 0.05,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

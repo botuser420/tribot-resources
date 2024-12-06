@@ -1,0 +1,7 @@
+{
+    "itemId": 1931,
+    "itemName": "Pot",
+    "examine": "This pot is empty.",
+    "weight": 0.453,
+    "buyLimit": 13000
+}

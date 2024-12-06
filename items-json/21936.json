@@ -1,0 +1,11 @@
+{
+    "itemId": 21936,
+    "itemName": "Pearl dragon bolts (e)",
+    "examine": "Enchanted Dragon crossbow bolts, tipped with pearl.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

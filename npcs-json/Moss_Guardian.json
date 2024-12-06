@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        891
+    ],
+    "name": "Moss Guardian",
+    "hitpoints": 120,
+    "combatLevel": 84,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        14
+    ],
+    "slayerExperience": 120.0,
+    "size": 2,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 66,
+    "strengthBonus": 62
+}

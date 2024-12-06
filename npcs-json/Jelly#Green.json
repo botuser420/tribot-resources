@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        442
+    ],
+    "name": "Jelly",
+    "searchName": "Jelly#Green",
+    "hitpoints": 75,
+    "combatLevel": 78,
+    "attackSpeed": 4,
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Jellies",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 75.0,
+    "size": 1,
+    "attackLevel": 45,
+    "strengthLevel": 45,
+    "defenceLevel": 120,
+    "magicLevel": 45,
+    "rangedLevel": 1
+}

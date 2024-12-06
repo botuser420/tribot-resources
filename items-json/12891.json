@@ -1,0 +1,9 @@
+{
+    "itemId": 12891,
+    "itemName": "Santa boots",
+    "examine": "Designed to minimise damage to rooftops when disembarking from a sleigh.",
+    "weight": 0.4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

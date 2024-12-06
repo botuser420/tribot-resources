@@ -1,0 +1,16 @@
+{
+    "itemId": 3122,
+    "itemName": "Granite shield",
+    "examine": "A solid stone shield.",
+    "weight": 6.803,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -12,
+        "rangeAttackBonus": -8,
+        "stabDefenceBonus": 40,
+        "slashDefenceBonus": 42,
+        "crushDefenceBonus": 38,
+        "rangeDefenceBonus": 65
+    }
+}

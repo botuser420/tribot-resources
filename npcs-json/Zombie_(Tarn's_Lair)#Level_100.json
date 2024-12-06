@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        6465
+    ],
+    "name": "Zombie",
+    "searchName": "Zombie (Tarn's Lair)#Level 100",
+    "hitpoints": 102,
+    "combatLevel": 100,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "size": 1,
+    "attackLevel": 86,
+    "strengthLevel": 83,
+    "defenceLevel": 81,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "rangedDefenceBonus": 10
+}

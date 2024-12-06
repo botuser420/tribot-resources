@@ -1,0 +1,16 @@
+{
+    "itemId": 4923,
+    "itemName": "Guthan's chainskirt 75",
+    "examine": "Guthan the Infested's chainskirt.",
+    "weight": 8.164,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -14,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 75,
+        "slashDefenceBonus": 72,
+        "crushDefenceBonus": 73,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 82
+    }
+}

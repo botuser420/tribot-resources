@@ -1,0 +1,16 @@
+{
+    "itemId": 4996,
+    "itemName": "Verac's plateskirt 50",
+    "examine": "Verac the Defiled's plate skirt.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangeAttackBonus": -11,
+        "stabDefenceBonus": 85,
+        "slashDefenceBonus": 82,
+        "crushDefenceBonus": 83,
+        "rangeDefenceBonus": 84,
+        "prayerBonus": 4
+    }
+}

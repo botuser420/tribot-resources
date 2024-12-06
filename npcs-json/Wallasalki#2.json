@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        5939
+    ],
+    "name": "Wallasalki",
+    "searchName": "Wallasalki#2",
+    "hitpoints": 120,
+    "combatLevel": 98,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        30
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 80,
+    "magicLevel": 100,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 175,
+    "magicDefenceBonus": 250,
+    "rangedDefenceBonus": 10
+}

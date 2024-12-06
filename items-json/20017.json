@@ -1,0 +1,10 @@
+{
+    "itemId": 20017,
+    "itemName": "Ring of coins",
+    "examine": "A valuable ring.",
+    "weight": 0.004,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "RING"
+    }
+}

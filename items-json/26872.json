@@ -1,0 +1,9 @@
+{
+    "itemId": 26872,
+    "itemName": "Robe top of the eye (blue)",
+    "examine": "The perfect robe top for runecrafting.",
+    "weight": 0.6,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

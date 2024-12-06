@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        1680,
+        1681,
+        1682
+    ],
+    "name": "Giant crypt rat",
+    "hitpoints": 70,
+    "combatLevel": 76,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        6
+    ],
+    "monsterAttribute": "rat",
+    "slayerCategory": "Rats",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 70.0,
+    "size": 2,
+    "attackLevel": 80,
+    "strengthLevel": 50,
+    "defenceLevel": 65,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

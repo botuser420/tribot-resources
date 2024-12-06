@@ -1,0 +1,42 @@
+{
+    "npcIds": [
+        7931
+    ],
+    "name": "Revenant goblin",
+    "hitpoints": 14,
+    "combatLevel": 15,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        3
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Revenants",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 14.0,
+    "size": 1,
+    "attackLevel": 13,
+    "strengthLevel": 14,
+    "defenceLevel": 14,
+    "magicLevel": 12,
+    "rangedLevel": 15,
+    "attackBonus": 6,
+    "strengthBonus": 8,
+    "magicAttackBonus": 37,
+    "magicDamageBonus": 12,
+    "rangeAttackBonus": 21,
+    "rangedStrengthBonus": 12,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 28,
+    "crushDefenceBonus": 31,
+    "magicDefenceBonus": 1,
+    "rangedDefenceBonus": 31
+}

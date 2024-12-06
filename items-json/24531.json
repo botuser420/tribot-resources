@@ -1,0 +1,14 @@
+{
+    "itemId": 24531,
+    "itemName": "Runner hat (broken)",
+    "examine": "A broken Penance Runner hat.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 30
+    }
+}

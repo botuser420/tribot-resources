@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        2161,
+        2162,
+        2163,
+        2164,
+        2165,
+        2166,
+        7682,
+        7683,
+        7684,
+        7685,
+        7686,
+        7687
+    ],
+    "name": "TzHaar-Hur",
+    "hitpoints": 80,
+    "combatLevel": 74,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 80.0,
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "magicLevel": 80,
+    "rangedLevel": 1
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 2017,
+    "itemName": "Whisky",
+    "examine": "A bottle of Draynor Malt.",
+    "weight": 1.0,
+    "buyLimit": 13000
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 23525,
+    "itemName": "Jar of eyes",
+    "examine": "Stop staring!",
+    "weight": 0.02,
+    "buyLimit": 4
+}

@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        6323
+    ],
+    "name": "Giant Roc (hard)",
+    "searchName": "Giant Roc#Hard",
+    "hitpoints": 255,
+    "combatLevel": 257,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        27
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 255.0,
+    "size": 5,
+    "attackLevel": 260,
+    "strengthLevel": 260,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 260,
+    "magicDefenceBonus": 150
+}

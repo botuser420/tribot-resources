@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        6824
+    ],
+    "name": "Giant bat",
+    "searchName": "Giant bat#Arceuus",
+    "hitpoints": 32,
+    "combatLevel": 27,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Bats",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 32.0,
+    "size": 2,
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 22,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 12,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 8
+}

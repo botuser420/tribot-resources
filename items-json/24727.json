@@ -1,0 +1,12 @@
+{
+    "itemId": 24727,
+    "itemName": "Hallowed hammer",
+    "examine": "Removes the chance of bending nails within the Hallowed Sepulchre.",
+    "weight": 0.02,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

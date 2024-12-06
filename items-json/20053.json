@@ -1,0 +1,10 @@
+{
+    "itemId": 20053,
+    "itemName": "Half moon spectacles",
+    "examine": "The two halfs would surely make a full moon?",
+    "weight": 0.05,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

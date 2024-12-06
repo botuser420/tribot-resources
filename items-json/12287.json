@@ -1,0 +1,17 @@
+{
+    "itemId": 12287,
+    "itemName": "Mithril platebody (t)",
+    "examine": "Mithril platebody with trim.",
+    "weight": 8.618,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 46,
+        "slashDefenceBonus": 44,
+        "crushDefenceBonus": 38,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 44
+    }
+}

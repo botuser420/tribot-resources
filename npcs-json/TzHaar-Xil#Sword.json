@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        2168,
+        2171
+    ],
+    "name": "TzHaar-Xil",
+    "searchName": "TzHaar-Xil#Sword",
+    "hitpoints": 120,
+    "combatLevel": 133,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 120.0,
+    "size": 1,
+    "attackLevel": 140,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "magicLevel": 40,
+    "rangedLevel": 120
+}

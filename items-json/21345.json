@@ -1,0 +1,9 @@
+{
+    "itemId": 21345,
+    "itemName": "Superior mining gloves",
+    "examine": "These will help me mine Mithril and Adamantite. As well as improve mining Iron, Silver, Coal and Gold.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

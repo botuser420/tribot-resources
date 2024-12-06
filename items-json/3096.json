@@ -1,0 +1,20 @@
+{
+    "itemId": 3096,
+    "itemName": "Iron claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 7,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

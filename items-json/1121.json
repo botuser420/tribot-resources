@@ -1,0 +1,17 @@
+{
+    "itemId": 1121,
+    "itemName": "Mithril platebody",
+    "examine": "Provides excellent protection.",
+    "weight": 8.618,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangeAttackBonus": -15,
+        "stabDefenceBonus": 46,
+        "slashDefenceBonus": 44,
+        "crushDefenceBonus": 38,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 44
+    }
+}

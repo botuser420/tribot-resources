@@ -1,0 +1,11 @@
+{
+    "itemId": 26507,
+    "itemName": "Shattered relics steel trophy",
+    "examine": "A Steel trophy for competing in Leagues III - Shattered Relics",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "weaponAttackRange": 1,
+        "weaponType": "BLUNT"
+    }
+}

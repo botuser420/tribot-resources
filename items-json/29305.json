@@ -1,0 +1,15 @@
+{
+    "itemId": 29305,
+    "itemName": "Hunter's spear",
+    "examine": "Throw it... Or don't.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 73,
+        "strengthBonus": 48,
+        "prayerBonus": 1,
+        "weaponAttackRange": 5,
+        "weaponAttackSpeed": 6,
+        "weaponType": "THROWN"
+    }
+}

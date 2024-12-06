@@ -1,0 +1,9 @@
+{
+    "itemId": 26858,
+    "itemName": "Hat of the eye (red)",
+    "examine": "The perfect hat for runecrafting.",
+    "weight": 0.4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

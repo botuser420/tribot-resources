@@ -1,0 +1,7 @@
+{
+    "itemId": 329,
+    "itemName": "Salmon",
+    "examine": "Some nicely cooked salmon.",
+    "weight": 0.5,
+    "buyLimit": 6000
+}

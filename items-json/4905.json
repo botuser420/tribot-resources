@@ -1,0 +1,16 @@
+{
+    "itemId": 4905,
+    "itemName": "Guthan's helm 75",
+    "examine": "Guthan the Infested's helm.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 55,
+        "slashDefenceBonus": 58,
+        "crushDefenceBonus": 54,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 62
+    }
+}

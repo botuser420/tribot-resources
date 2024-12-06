@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        6295
+    ],
+    "name": "Black demon (hard)",
+    "searchName": "Black demon (The Grand Tree)#Hard",
+    "hitpoints": 255,
+    "combatLevel": 292,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        31
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Black Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 255.0,
+    "size": 3,
+    "attackLevel": 290,
+    "strengthLevel": 296,
+    "defenceLevel": 152,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -10,
+    "elementalWeakness": "water",
+    "elementalWeaknessPercent": 40
+}

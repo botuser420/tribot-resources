@@ -1,0 +1,9 @@
+{
+    "itemId": 27434,
+    "itemName": "Gloves of ruin",
+    "examine": "A pair of magical-looking gloves.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 11451,
+    "itemName": "Restore mix(1)",
+    "examine": "One dose of fishy restore potion.",
+    "weight": 0.045,
+    "buyLimit": 2000
+}

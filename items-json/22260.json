@@ -1,0 +1,15 @@
+{
+    "itemId": 22260,
+    "itemName": "Yew shield",
+    "examine": "A solid yew shield.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 8
+    }
+}

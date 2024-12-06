@@ -1,0 +1,16 @@
+{
+    "itemId": 24668,
+    "itemName": "Twisted ancestral robe bottom",
+    "examine": "The robe bottoms of a powerful sorceress from a bygone era.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 26,
+        "rangeAttackBonus": -7,
+        "stabDefenceBonus": 27,
+        "slashDefenceBonus": 24,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": 20,
+        "magicDamageBonus": 3.0
+    }
+}

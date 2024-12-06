@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        10772
+    ],
+    "name": "Xarpus",
+    "searchName": "Xarpus#Hard mode",
+    "hitpoints": 6000,
+    "combatLevel": 1160,
+    "attackSpeed": 4,
+    "maxHits": [
+        11
+    ],
+    "size": 5,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 200,
+    "magicLevel": 220,
+    "rangedLevel": 100,
+    "rangedDefenceBonus": 160,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

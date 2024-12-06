@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        12360
+    ],
+    "name": "Scarred lesser demon",
+    "searchName": "Scarred lesser demon#Level 121 (mage)",
+    "hitpoints": 100,
+    "combatLevel": 121,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        12
+    ],
+    "monsterAttribute": "demon",
+    "size": 2,
+    "attackLevel": 110,
+    "strengthLevel": 110,
+    "defenceLevel": 110,
+    "magicLevel": 110,
+    "rangedLevel": 110,
+    "attackBonus": 100,
+    "magicAttackBonus": 100,
+    "rangeAttackBonus": 100
+}

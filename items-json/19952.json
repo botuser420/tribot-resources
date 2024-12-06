@@ -1,0 +1,10 @@
+{
+    "itemId": 19952,
+    "itemName": "Piscarilius scarf",
+    "examine": "A blue scarf adorned with a sea shell.",
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

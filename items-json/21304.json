@@ -1,0 +1,16 @@
+{
+    "itemId": 21304,
+    "itemName": "Obsidian platelegs",
+    "examine": "Provides excellent protection.",
+    "weight": 9.071,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "stabDefenceBonus": 46,
+        "slashDefenceBonus": 43,
+        "crushDefenceBonus": 41,
+        "magicDefenceBonus": -10,
+        "rangeDefenceBonus": 40,
+        "strengthBonus": 1
+    }
+}

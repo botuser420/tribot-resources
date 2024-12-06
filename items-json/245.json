@@ -1,0 +1,7 @@
+{
+    "itemId": 245,
+    "itemName": "Wine of zamorak",
+    "examine": "An evil wine for an evil god.",
+    "weight": 0.085,
+    "buyLimit": 11000
+}

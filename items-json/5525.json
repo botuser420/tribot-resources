@@ -1,0 +1,10 @@
+{
+    "itemId": 5525,
+    "itemName": "Tiara",
+    "examine": "Makes me feel like a Princess.",
+    "weight": 1.0,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

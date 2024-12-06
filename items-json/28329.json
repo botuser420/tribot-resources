@@ -1,0 +1,17 @@
+{
+    "itemId": 28329,
+    "itemName": "Ring of shadows (uncharged)",
+    "examine": "A powerful ring used to see into other realms...",
+    "weight": 0.004,
+    "equipment": {
+        "slot": "RING",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 5,
+        "rangeAttackBonus": 4,
+        "magicDefenceBonus": 5,
+        "strengthBonus": 2,
+        "prayerBonus": 2
+    }
+}

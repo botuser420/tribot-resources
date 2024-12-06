@@ -1,0 +1,7 @@
+{
+    "itemId": 10105,
+    "itemName": "Kebbit spike",
+    "examine": "These bone spikes are both very tough and very sharp.",
+    "weight": 0.02,
+    "buyLimit": 10000
+}

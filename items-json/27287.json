@@ -1,0 +1,18 @@
+{
+    "itemId": 27287,
+    "itemName": "Keris partisan of corruption",
+    "examine": "A mystical-feeling polearm imbued with destructive power.",
+    "weight": 3.218,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 58,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 57,
+        "magicAttackBonus": 2,
+        "strengthBonus": 45,
+        "prayerBonus": 3,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "PARTISAN"
+    }
+}

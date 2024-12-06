@@ -1,0 +1,7 @@
+{
+    "itemId": 197,
+    "itemName": "Poison chalice",
+    "examine": "A cup of a strange brew...",
+    "weight": 0.056,
+    "buyLimit": 2000
+}

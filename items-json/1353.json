@@ -1,0 +1,18 @@
+{
+    "itemId": 1353,
+    "itemName": "Steel axe",
+    "examine": "A woodcutter's axe.",
+    "weight": 1.36,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 6,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 9,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

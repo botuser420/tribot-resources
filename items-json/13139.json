@@ -1,0 +1,16 @@
+{
+    "itemId": 13139,
+    "itemName": "Kandarin headgear 3",
+    "examine": "A helm with a jewelled eye upon it.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "rangeAttackBonus": -1,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9
+    }
+}

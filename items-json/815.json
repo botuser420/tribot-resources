@@ -1,0 +1,14 @@
+{
+    "itemId": 815,
+    "itemName": "Mithril dart(p)",
+    "examine": "A deadly poisoned dart with a mithril tip.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedStrengthBonus": 9,
+        "weaponAttackRange": 3,
+        "weaponAttackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        1792,
+        1793
+    ],
+    "name": "Goat",
+    "searchName": "Goat#Brown",
+    "hitpoints": 21,
+    "combatLevel": 23,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 10,
+    "strengthBonus": 29,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "rangedDefenceBonus": 10
+}

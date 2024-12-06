@@ -1,0 +1,10 @@
+{
+    "itemId": 21157,
+    "itemName": "Necklace of faith",
+    "examine": "Can grant me prayer in an emergency.",
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

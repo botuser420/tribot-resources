@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        2245
+    ],
+    "name": "Goblin",
+    "searchName": "Goblin (God Wars Dungeon)#Level 17",
+    "hitpoints": 18,
+    "combatLevel": 17,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Goblins",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 18.0,
+    "size": 1,
+    "attackLevel": 14,
+    "strengthLevel": 16,
+    "defenceLevel": 14,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

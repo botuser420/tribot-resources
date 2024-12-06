@@ -1,0 +1,18 @@
+{
+    "itemId": 1365,
+    "itemName": "Steel battleaxe",
+    "examine": "A vicious looking axe.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 16,
+        "crushAttackBonus": 11,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 20,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

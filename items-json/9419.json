@@ -1,0 +1,10 @@
+{
+    "itemId": 9419,
+    "itemName": "Mith grapple",
+    "examine": "A mithril grapple tipped bolt with a rope.",
+    "weight": 0.001,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO"
+    }
+}

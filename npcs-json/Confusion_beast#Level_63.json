@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        4694
+    ],
+    "name": "Confusion beast",
+    "searchName": "Confusion beast#Level 63",
+    "hitpoints": 64,
+    "combatLevel": 63,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 2,
+    "attackLevel": 52,
+    "strengthLevel": 55,
+    "defenceLevel": 52,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

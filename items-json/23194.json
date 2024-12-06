@@ -1,0 +1,21 @@
+{
+    "itemId": 23194,
+    "itemName": "Zamorak d'hide shield",
+    "examine": "Zamorak blessed wooden shield covered in dragon leather.",
+    "weight": 8.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -15,
+        "slashAttackBonus": -15,
+        "crushAttackBonus": -11,
+        "magicAttackBonus": -10,
+        "rangeAttackBonus": 7,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 18,
+        "crushDefenceBonus": 16,
+        "magicDefenceBonus": 15,
+        "rangeDefenceBonus": 14,
+        "prayerBonus": 1
+    }
+}

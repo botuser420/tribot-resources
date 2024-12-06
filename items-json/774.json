@@ -1,0 +1,9 @@
+{
+    "itemId": 774,
+    "itemName": "'perfect' necklace",
+    "examine": "A perfect ruby necklace.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

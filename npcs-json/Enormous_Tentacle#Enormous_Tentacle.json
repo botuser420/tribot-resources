@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        5535
+    ],
+    "name": "Enormous Tentacle",
+    "searchName": "Enormous Tentacle#Enormous Tentacle",
+    "hitpoints": 120,
+    "combatLevel": 112,
+    "attackSpeed": 4,
+    "maxHits": [
+        2
+    ],
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 150,
+    "magicDamageBonus": 40,
+    "magicDefenceBonus": -15,
+    "rangedDefenceBonus": 270
+}

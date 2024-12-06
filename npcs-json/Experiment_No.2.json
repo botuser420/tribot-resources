@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        5126
+    ],
+    "name": "Experiment No.2",
+    "hitpoints": 95,
+    "combatLevel": 109,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "STAB"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 2,
+    "attackLevel": 104,
+    "strengthLevel": 92,
+    "defenceLevel": 90,
+    "magicLevel": 1,
+    "rangedLevel": 100,
+    "stabDefenceBonus": 45,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 60,
+    "rangedDefenceBonus": 55
+}

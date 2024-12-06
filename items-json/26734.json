@@ -1,0 +1,18 @@
+{
+    "itemId": 26734,
+    "itemName": "Saika's veil (l)",
+    "examine": "Saika the puppet master's veil.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": -40,
+        "slashAttackBonus": -40,
+        "crushAttackBonus": -40,
+        "magicAttackBonus": 14,
+        "rangeAttackBonus": -40,
+        "stabDefenceBonus": 15,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 15,
+        "rangeDefenceBonus": -15
+    }
+}

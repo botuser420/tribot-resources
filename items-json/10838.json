@@ -1,0 +1,11 @@
+{
+    "itemId": 10838,
+    "itemName": "Silly jester tights",
+    "examine": "Silly jester tights.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS",
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": -5
+    }
+}

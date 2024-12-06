@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        1207,
+        12048,
+        12097
+    ],
+    "name": "Hazeel Cultist",
+    "searchName": "Hazeel Cultist#Male",
+    "hitpoints": 25,
+    "combatLevel": 13,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 4,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 6,
+    "crushDefenceBonus": 8
+}

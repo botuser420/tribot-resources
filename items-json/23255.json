@@ -1,0 +1,10 @@
+{
+    "itemId": 23255,
+    "itemName": "Uri's hat",
+    "examine": "This is top secret comrade...",
+    "weight": 2.267,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

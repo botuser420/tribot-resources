@@ -1,0 +1,16 @@
+{
+    "itemId": 22641,
+    "itemName": "Morrigan's leather body",
+    "examine": "A powerful leather body.",
+    "weight": 6.803,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangeAttackBonus": 36,
+        "stabDefenceBonus": 61,
+        "slashDefenceBonus": 53,
+        "crushDefenceBonus": 66,
+        "magicDefenceBonus": 75,
+        "rangeDefenceBonus": 62
+    }
+}

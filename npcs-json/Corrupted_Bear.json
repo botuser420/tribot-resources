@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        9046
+    ],
+    "name": "Corrupted Bear",
+    "hitpoints": 100,
+    "combatLevel": 258,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        48
+    ],
+    "size": 3,
+    "attackLevel": 147,
+    "strengthLevel": 147,
+    "defenceLevel": 98,
+    "magicLevel": 98,
+    "rangedLevel": 147,
+    "attackBonus": 81,
+    "strengthBonus": 132,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

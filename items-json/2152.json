@@ -1,0 +1,7 @@
+{
+    "itemId": 2152,
+    "itemName": "Toad's legs",
+    "examine": "They're a gnome delicacy apparently.",
+    "weight": 0.15,
+    "buyLimit": 13000
+}

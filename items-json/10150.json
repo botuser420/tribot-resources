@@ -1,0 +1,13 @@
+{
+    "itemId": 10150,
+    "itemName": "Noose wand",
+    "examine": "A noose on a stick.",
+    "weight": 1.814,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "WEAPON",
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

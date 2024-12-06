@@ -1,0 +1,9 @@
+{
+    "itemId": 28655,
+    "itemName": "Petal garland",
+    "examine": "A gift from a Dryad.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

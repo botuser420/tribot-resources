@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        9040
+    ],
+    "name": "Corrupted Rat",
+    "hitpoints": 14,
+    "combatLevel": 34,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        14
+    ],
+    "size": 2,
+    "attackLevel": 42,
+    "strengthLevel": 48,
+    "defenceLevel": 6,
+    "magicLevel": 6,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

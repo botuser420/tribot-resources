@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        12562
+    ],
+    "name": "Bloodthirsty Cockathrice",
+    "hitpoints": 142,
+    "combatLevel": 133,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        13
+    ],
+    "slayerCategory": "Cockatrice",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "slayerExperience": 1420.0,
+    "size": 3,
+    "attackLevel": 94,
+    "strengthLevel": 117,
+    "defenceLevel": 78,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "magicDefenceBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 2132,
+    "itemName": "Raw beef",
+    "examine": "I need to cook this first.",
+    "weight": 0.34,
+    "buyLimit": 13000
+}

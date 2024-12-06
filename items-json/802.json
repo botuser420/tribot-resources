@@ -1,0 +1,15 @@
+{
+    "itemId": 802,
+    "itemName": "Steel thrownaxe",
+    "examine": "A finely balanced throwing axe.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangeAttackBonus": 8,
+        "rangedStrengthBonus": 11,
+        "weaponAttackRange": 4,
+        "weaponAttackSpeed": 5,
+        "weaponType": "THROWN"
+    }
+}

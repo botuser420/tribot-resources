@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        8361
+    ],
+    "name": "The Maiden of Sugadinti",
+    "searchName": "The Maiden of Sugadinti#70% Health",
+    "hitpoints": 2450,
+    "combatLevel": 940,
+    "attackSpeed": 10,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        36
+    ],
+    "size": 6,
+    "attackLevel": 350,
+    "strengthLevel": 350,
+    "defenceLevel": 200,
+    "magicLevel": 350,
+    "rangedLevel": 350,
+    "magicAttackBonus": 300,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

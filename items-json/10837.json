@@ -1,0 +1,11 @@
+{
+    "itemId": 10837,
+    "itemName": "Silly jester top",
+    "examine": "A jester's jangly top.",
+    "weight": 6.803,
+    "equipment": {
+        "slot": "BODY",
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": -5
+    }
+}

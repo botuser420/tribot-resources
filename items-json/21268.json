@@ -1,0 +1,9 @@
+{
+    "itemId": 21268,
+    "itemName": "Slayer ring (eternal)",
+    "examine": "A beautifully mounted Eternal Slayer gem.",
+    "weight": 0.013,
+    "equipment": {
+        "slot": "RING"
+    }
+}

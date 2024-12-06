@@ -1,0 +1,7 @@
+{
+    "itemId": 235,
+    "itemName": "Unicorn horn dust",
+    "examine": "Finely ground horn of Unicorn.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

@@ -1,0 +1,19 @@
+{
+    "npcIds": [
+        9041
+    ],
+    "name": "Corrupted Spider",
+    "hitpoints": 12,
+    "combatLevel": 32,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "size": 1,
+    "attackLevel": 48,
+    "strengthLevel": 39,
+    "defenceLevel": 4,
+    "magicLevel": 4,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

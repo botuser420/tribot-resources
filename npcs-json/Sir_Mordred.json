@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        3527
+    ],
+    "name": "Sir Mordred",
+    "hitpoints": 38,
+    "combatLevel": 39,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 33,
+    "strengthLevel": 33,
+    "defenceLevel": 33,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 20,
+    "strengthBonus": 16,
+    "stabDefenceBonus": 99,
+    "slashDefenceBonus": 82,
+    "crushDefenceBonus": 45
+}

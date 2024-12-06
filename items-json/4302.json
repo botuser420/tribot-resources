@@ -1,0 +1,13 @@
+{
+    "itemId": 4302,
+    "itemName": "Ham hood",
+    "examine": "Light-weight head protection and eye shield.",
+    "weight": 0.453,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 2,
+        "rangeDefenceBonus": 1
+    }
+}

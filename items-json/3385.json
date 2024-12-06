@@ -1,0 +1,16 @@
+{
+    "itemId": 3385,
+    "itemName": "Splitbark helm",
+    "examine": "A wooden helmet.",
+    "weight": 0.907,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "rangeAttackBonus": -2,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 11,
+        "magicDefenceBonus": 3
+    }
+}

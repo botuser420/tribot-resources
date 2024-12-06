@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        10690
+    ],
+    "name": "Rubble",
+    "searchName": "Chaos Golem#Rubble",
+    "hitpoints": 94,
+    "combatLevel": 70,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 2,
+    "attackLevel": 45,
+    "strengthLevel": 55,
+    "defenceLevel": 59,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 35,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "magicDefenceBonus": 2,
+    "rangedDefenceBonus": 10
+}

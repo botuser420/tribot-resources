@@ -1,0 +1,15 @@
+{
+    "itemId": 6764,
+    "itemName": "Zamorak mjolnir",
+    "examine": "A Zamorak Mjolnir.",
+    "weight": 2.267,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 11,
+        "strengthBonus": 14,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 6,
+        "weaponType": "POLESTAFF"
+    }
+}

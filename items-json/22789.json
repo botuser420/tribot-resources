@@ -1,0 +1,7 @@
+{
+    "itemId": 22789,
+    "itemName": "Uncooked dragonfruit pie",
+    "examine": "This would be much tastier cooked.",
+    "weight": 0.5,
+    "buyLimit": 10000
+}

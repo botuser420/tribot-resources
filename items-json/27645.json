@@ -1,0 +1,16 @@
+{
+    "itemId": 27645,
+    "itemName": "Mystic cards",
+    "examine": "You gotta really put your heart into throwing these things.",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -20,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 3,
+        "weaponType": "BLUNT"
+    }
+}

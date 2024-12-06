@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        7697
+    ],
+    "name": "Jal-ImKot",
+    "hitpoints": 75,
+    "combatLevel": 240,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        49
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 81.0,
+    "size": 4,
+    "attackLevel": 210,
+    "strengthLevel": 290,
+    "defenceLevel": 120,
+    "magicLevel": 120,
+    "rangedLevel": 220,
+    "strengthBonus": 40,
+    "stabDefenceBonus": 65,
+    "slashDefenceBonus": 65,
+    "crushDefenceBonus": 65,
+    "magicDefenceBonus": 30,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

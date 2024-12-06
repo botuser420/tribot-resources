@@ -1,0 +1,7 @@
+{
+    "itemId": 311,
+    "itemName": "Harpoon",
+    "examine": "Useful for catching really big fish.",
+    "weight": 1.36,
+    "buyLimit": 40
+}

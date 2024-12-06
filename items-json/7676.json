@@ -1,0 +1,9 @@
+{
+    "itemId": 7676,
+    "itemName": "Wooden shield",
+    "examine": "A less-than strong shield.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

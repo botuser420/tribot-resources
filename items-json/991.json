@@ -1,0 +1,7 @@
+{
+    "itemId": 991,
+    "itemName": "Muddy key",
+    "examine": "It looks like the key to a chest (Used to open the muddy chest in the lava maze).",
+    "weight": 0.01,
+    "buyLimit": 11000
+}

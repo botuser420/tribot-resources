@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        2452
+    ],
+    "name": "Animated Steel Armour",
+    "hitpoints": 40,
+    "combatLevel": 46,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 4,
+    "strengthBonus": 5,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 19,
+    "magicDefenceBonus": 400,
+    "rangedDefenceBonus": 400,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

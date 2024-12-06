@@ -1,0 +1,14 @@
+{
+    "itemId": 1095,
+    "itemName": "Leather chaps",
+    "examine": "Better than no armour!",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "rangeAttackBonus": 4,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1
+    }
+}

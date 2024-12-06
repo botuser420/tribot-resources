@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        7679
+    ],
+    "name": "TzHaar-Ket",
+    "searchName": "TzHaar-Ket#Level 221",
+    "hitpoints": 200,
+    "combatLevel": 221,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        19
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 200.0,
+    "size": 1,
+    "attackLevel": 200,
+    "strengthLevel": 180,
+    "defenceLevel": 190,
+    "magicLevel": 40,
+    "rangedLevel": 1
+}

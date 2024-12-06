@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        2483
+    ],
+    "name": "Minotaur",
+    "searchName": "Minotaur#Level 27",
+    "hitpoints": 22,
+    "combatLevel": 27,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Minotaurs",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 22.0,
+    "size": 1,
+    "attackLevel": 23,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -10,
+    "slashDefenceBonus": -10,
+    "crushDefenceBonus": -10,
+    "magicDefenceBonus": -21,
+    "rangedDefenceBonus": -10
+}

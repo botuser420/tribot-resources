@@ -1,0 +1,16 @@
+{
+    "itemId": 20792,
+    "itemName": "Hardcore ironman helm",
+    "examine": "For those who stand alone.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangeAttackBonus": -3,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 6
+    }
+}

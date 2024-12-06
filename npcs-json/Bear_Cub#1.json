@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        3908
+    ],
+    "name": "Bear Cub",
+    "searchName": "Bear Cub#1",
+    "hitpoints": 20,
+    "combatLevel": 15,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "slayerCategory": "Bears",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 20.0,
+    "size": 2,
+    "attackLevel": 10,
+    "strengthLevel": 15,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

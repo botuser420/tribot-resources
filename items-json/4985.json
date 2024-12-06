@@ -1,0 +1,17 @@
+{
+    "itemId": 4985,
+    "itemName": "Verac's flail 25",
+    "examine": "Verac the Defiled's flail.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 68,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 82,
+        "strengthBonus": 72,
+        "prayerBonus": 6,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 5,
+        "weaponType": "SPIKED"
+    }
+}

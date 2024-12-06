@@ -1,0 +1,13 @@
+{
+    "itemId": 19547,
+    "itemName": "Necklace of anguish",
+    "examine": "A deep sense of anguish burns within this powerful necklace.",
+    "weight": 0.01,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "NECK",
+        "rangeAttackBonus": 15,
+        "rangedStrengthBonus": 5,
+        "prayerBonus": 2
+    }
+}

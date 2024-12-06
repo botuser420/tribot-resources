@@ -1,0 +1,7 @@
+{
+    "itemId": 950,
+    "itemName": "Silk",
+    "examine": "It's a sheet of silk.",
+    "weight": 1.0,
+    "buyLimit": 18000
+}

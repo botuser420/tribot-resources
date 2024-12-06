@@ -1,0 +1,7 @@
+{
+    "itemId": 5371,
+    "itemName": "Willow sapling",
+    "examine": "This sapling is ready to be replanted in a tree patch.",
+    "weight": 0.907,
+    "buyLimit": 200
+}

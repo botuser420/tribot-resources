@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        8
+    ],
+    "name": "Nechryael",
+    "searchName": "Nechryael#Normal",
+    "hitpoints": 105,
+    "combatLevel": 115,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Nechryael",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 105.0,
+    "size": 1,
+    "attackLevel": 97,
+    "strengthLevel": 97,
+    "defenceLevel": 105,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "rangedDefenceBonus": 20
+}

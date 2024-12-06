@@ -1,0 +1,21 @@
+{
+    "itemId": 20161,
+    "itemName": "Gilded hasta",
+    "examine": "A rune-tipped, one-handed hasta, with gold plate.",
+    "weight": 2.267,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 36,
+        "slashAttackBonus": 36,
+        "crushAttackBonus": 36,
+        "stabDefenceBonus": -10,
+        "slashDefenceBonus": -10,
+        "crushDefenceBonus": -9,
+        "rangeDefenceBonus": -10,
+        "strengthBonus": 42,
+        "weaponAttackRange": 1,
+        "weaponAttackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

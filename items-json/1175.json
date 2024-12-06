@@ -1,0 +1,15 @@
+{
+    "itemId": 1175,
+    "itemName": "Iron sq shield",
+    "examine": "A medium square shield.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 7,
+        "rangeDefenceBonus": 8
+    }
+}
