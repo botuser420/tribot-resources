@@ -1,9 +1,0 @@
-{
-    "itemId": 86,
-    "itemName": "Pendant of lucien",
-    "examine": "An amulet made by Lucien.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

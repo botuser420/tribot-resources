@@ -1,9 +1,0 @@
-{
-    "itemId": 25463,
-    "itemName": "Black coffin",
-    "examine": "Can store up to 14 shade remains.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

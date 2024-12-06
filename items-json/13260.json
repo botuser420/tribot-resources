@@ -1,9 +1,0 @@
-{
-    "itemId": 13260,
-    "itemName": "Angler waders",
-    "examine": "This will help with fishing.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

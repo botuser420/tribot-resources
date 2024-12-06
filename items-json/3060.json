@@ -1,9 +1,0 @@
-{
-    "itemId": 3060,
-    "itemName": "Mime gloves",
-    "examine": "A mime would wear these.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

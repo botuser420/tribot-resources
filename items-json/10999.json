@@ -1,7 +1,0 @@
-{
-    "itemId": 10999,
-    "itemName": "Goblin book",
-    "examine": "A tattered goblin holy book.",
-    "weight": 0.1,
-    "buyLimit": 15
-}

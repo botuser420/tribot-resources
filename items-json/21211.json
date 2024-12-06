@@ -1,9 +1,0 @@
-{
-    "itemId": 21211,
-    "itemName": "4th birthday hat",
-    "examine": "A celebration of 4 great years.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

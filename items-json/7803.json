@@ -1,9 +1,0 @@
-{
-    "itemId": 7803,
-    "itemName": "Yin yang amulet",
-    "examine": "A non-magical copy of the Makeover Mage's amulet.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

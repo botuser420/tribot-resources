@@ -1,9 +1,0 @@
-{
-    "itemId": 286,
-    "itemName": "Orange goblin mail",
-    "examine": "Some orange armour designed to fit goblins.",
-    "weight": 3.628,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

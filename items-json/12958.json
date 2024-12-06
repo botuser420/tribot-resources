@@ -1,9 +1,0 @@
-{
-    "itemId": 12958,
-    "itemName": "Cow gloves",
-    "examine": "It looks like a cow's hoofs.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 29942,
-    "itemName": "Snake mask",
-    "examine": "A rather interesting mask of a snake.",
-    "weight": 0.1,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

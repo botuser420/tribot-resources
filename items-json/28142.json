@@ -1,9 +1,0 @@
-{
-    "itemId": 28142,
-    "itemName": "Open log basket",
-    "examine": "A lumberjack's favourite tool, other than an axe, of course.",
-    "weight": 1.39,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

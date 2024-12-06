@@ -1,9 +1,0 @@
-{
-    "itemId": 11863,
-    "itemName": "Rainbow partyhat",
-    "examine": "A colourful hat produced by Shanty Claws.",
-    "weight": 0.056,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

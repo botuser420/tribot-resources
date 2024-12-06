@@ -1,9 +1,0 @@
-{
-    "itemId": 24018,
-    "itemName": "Elven skirt",
-    "examine": "Clothing from the elven city of Prifddinas.",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

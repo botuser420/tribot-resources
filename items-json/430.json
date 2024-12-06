@@ -1,9 +1,0 @@
-{
-    "itemId": 430,
-    "itemName": "Medical gown",
-    "examine": "Medical looking.",
-    "weight": 1.814,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

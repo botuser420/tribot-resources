@@ -1,9 +1,0 @@
-{
-    "itemId": 13344,
-    "itemName": "Inverted santa hat",
-    "examine": "An inverted Santa hat worn by Santa's White Knight bodyguards.",
-    "weight": 0.113,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

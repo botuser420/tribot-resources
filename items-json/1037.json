@@ -1,9 +1,0 @@
-{
-    "itemId": 1037,
-    "itemName": "Bunny ears",
-    "examine": "A rabbit-like adornment.",
-    "weight": 0.226,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

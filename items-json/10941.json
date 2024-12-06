@@ -1,9 +1,0 @@
-{
-    "itemId": 10941,
-    "itemName": "Lumberjack hat",
-    "examine": "You'll certainly be alright wearing this.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

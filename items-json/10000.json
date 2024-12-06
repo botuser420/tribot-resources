@@ -1,7 +1,0 @@
-{
-    "itemId": 10000,
-    "itemName": "Hunter potion(3)",
-    "examine": "3 doses of Hunter potion.",
-    "weight": 0.03,
-    "buyLimit": 2000
-}

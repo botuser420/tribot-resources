@@ -1,9 +1,0 @@
-{
-    "itemId": 27027,
-    "itemName": "Smiths boots",
-    "examine": "They feel a size too small.",
-    "weight": 0.42,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

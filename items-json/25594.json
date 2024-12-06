@@ -1,9 +1,0 @@
-{
-    "itemId": 25594,
-    "itemName": "Spirit angler top",
-    "examine": "This will help with fishing.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

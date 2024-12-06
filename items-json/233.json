@@ -1,7 +1,0 @@
-{
-    "itemId": 233,
-    "itemName": "Pestle and mortar",
-    "examine": "I can grind things for potions in this.",
-    "weight": 0.056,
-    "buyLimit": 40
-}

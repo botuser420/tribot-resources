@@ -1,7 +1,0 @@
-{
-    "itemId": 127,
-    "itemName": "Restore potion(3)",
-    "examine": "3 doses of restore potion.",
-    "weight": 0.03,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 10881,
-    "itemName": "Gold satchel",
-    "examine": "I can keep my grub in here!",
-    "weight": 0.15,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 28109,
-    "itemName": "Colourful scarf",
-    "examine": "A scarf woven from spare rainbow strands; emblazoned with a heart.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

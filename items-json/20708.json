@@ -1,9 +1,0 @@
-{
-    "itemId": 20708,
-    "itemName": "Pyromancer hood",
-    "examine": "The hood of the Pyromancers.",
-    "weight": 0.18,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 12890,
-    "itemName": "Santa gloves",
-    "examine": "These let Santa distribute gifts without catching germs from the recipients.",
-    "weight": 0.1,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

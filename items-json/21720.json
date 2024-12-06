@@ -1,9 +1,0 @@
-{
-    "itemId": 21720,
-    "itemName": "Jonas mask",
-    "examine": "Too spoopy.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

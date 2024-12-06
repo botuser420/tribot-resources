@@ -1,9 +1,0 @@
-{
-    "itemId": 27501,
-    "itemName": "Halloween wig",
-    "examine": "A spooky wig!",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

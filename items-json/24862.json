@@ -1,9 +1,0 @@
-{
-    "itemId": 24862,
-    "itemName": "Karamjan monkey",
-    "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

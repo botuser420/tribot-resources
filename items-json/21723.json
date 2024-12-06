@@ -1,9 +1,0 @@
-{
-    "itemId": 21723,
-    "itemName": "Diving apparatus",
-    "examine": "Some basic diving apparatus.",
-    "weight": 10.0,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

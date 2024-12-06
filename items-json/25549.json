@@ -1,9 +1,0 @@
-{
-    "itemId": 25549,
-    "itemName": "Golden prospector helmet",
-    "examine": "Helps you when you're mining. Looks good too.",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

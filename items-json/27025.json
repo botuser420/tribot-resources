@@ -1,9 +1,0 @@
-{
-    "itemId": 27025,
-    "itemName": "Smiths trousers",
-    "examine": "Is that a bit of dried blood on the waist?",
-    "weight": 0.71,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

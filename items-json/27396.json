@@ -1,9 +1,0 @@
-{
-    "itemId": 27396,
-    "itemName": "Adventurer's top (t2)",
-    "examine": "The clothing of an adventurer.",
-    "weight": 0.9,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

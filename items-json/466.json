@@ -1,9 +1,0 @@
-{
-    "itemId": 466,
-    "itemName": "Pickaxe handle",
-    "examine": "Useless without the head.",
-    "weight": 0.1,
-    "equipment": {
-        "slot": "WEAPON"
-    }
-}

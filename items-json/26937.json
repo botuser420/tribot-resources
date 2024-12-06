@@ -1,9 +1,0 @@
-{
-    "itemId": 26937,
-    "itemName": "Easter hat",
-    "examine": "A nice easter hat.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

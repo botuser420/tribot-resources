@@ -1,9 +1,0 @@
-{
-    "itemId": 22713,
-    "itemName": "Star-face",
-    "examine": "Say hello to my little star.",
-    "weight": 0.113,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 12957,
-    "itemName": "Cow trousers",
-    "examine": "It looks like a cow's legs.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

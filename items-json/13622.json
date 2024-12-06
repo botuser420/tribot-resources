@@ -1,9 +1,0 @@
-{
-    "itemId": 13622,
-    "itemName": "Graceful legs",
-    "examine": "You have graceful legs. How nice.",
-    "weight": -6.0,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

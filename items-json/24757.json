@@ -1,9 +1,0 @@
-{
-    "itemId": 24757,
-    "itemName": "Graceful gloves",
-    "examine": "A sign of your grace under fire.",
-    "weight": -3.0,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 27576,
-    "itemName": "Festive nutcracker hat",
-    "examine": "A festive nutcracker hat.",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

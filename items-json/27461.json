@@ -1,9 +1,0 @@
-{
-    "itemId": 27461,
-    "itemName": "Graceful boots",
-    "examine": "For your graceful feet.",
-    "weight": -4.0,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

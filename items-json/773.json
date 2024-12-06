@@ -1,9 +1,0 @@
-{
-    "itemId": 773,
-    "itemName": "'perfect' ring",
-    "examine": "A perfect ruby ring.",
-    "weight": 0.007,
-    "equipment": {
-        "slot": "RING"
-    }
-}

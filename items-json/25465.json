@@ -1,9 +1,0 @@
-{
-    "itemId": 25465,
-    "itemName": "Silver coffin",
-    "examine": "Can store up to 20 shade remains.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

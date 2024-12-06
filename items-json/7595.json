@@ -1,9 +1,0 @@
-{
-    "itemId": 7595,
-    "itemName": "Zombie gloves",
-    "examine": "Smells pretty funky.",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

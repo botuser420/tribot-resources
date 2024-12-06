@@ -1,9 +1,0 @@
-{
-    "itemId": 24725,
-    "itemName": "Hallowed symbol",
-    "examine": "Reduces the amount of vampyre dust to sacrifice within the Hallowed Sepulchre.",
-    "weight": 0.007,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

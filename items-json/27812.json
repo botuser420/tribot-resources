@@ -1,9 +1,0 @@
-{
-    "itemId": 27812,
-    "itemName": "10th birthday cape",
-    "examine": "A cape made from a certain red and gold banner...where have I seen this before?",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 22394,
-    "itemName": "Xeric's general",
-    "examine": "Awarded for completing 1500 Chambers of Xeric in challenge mode.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

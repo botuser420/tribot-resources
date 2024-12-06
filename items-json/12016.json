@@ -1,9 +1,0 @@
-{
-    "itemId": 12016,
-    "itemName": "Prospector boots",
-    "examine": "Helps you when you're mining.",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

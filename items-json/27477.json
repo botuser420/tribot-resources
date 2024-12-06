@@ -1,9 +1,0 @@
-{
-    "itemId": 27477,
-    "itemName": "Witch robes",
-    "examine": "Protects the legs when brewing concoctions.",
-    "weight": 0.028,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

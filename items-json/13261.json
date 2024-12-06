@@ -1,9 +1,0 @@
-{
-    "itemId": 13261,
-    "itemName": "Angler boots",
-    "examine": "Where's Welly?",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

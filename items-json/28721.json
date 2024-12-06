@@ -1,9 +1,0 @@
-{
-    "itemId": 28721,
-    "itemName": "Trailblazer reloaded boots (t1)",
-    "examine": "The boots of a Trailblazer Reloaded Relic Hunter.",
-    "weight": 0.34,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

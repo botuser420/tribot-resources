@@ -1,9 +1,0 @@
-{
-    "itemId": 28765,
-    "itemName": "Globetrotter pendant",
-    "examine": "A pendant which can whisk you to all sorts of locations.",
-    "weight": 0.002,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

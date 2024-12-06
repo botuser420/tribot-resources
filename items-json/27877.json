@@ -1,9 +1,0 @@
-{
-    "itemId": 27877,
-    "itemName": "Nest hat",
-    "examine": "People won't stop chicken you out.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

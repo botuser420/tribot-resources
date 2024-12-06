@@ -1,9 +1,0 @@
-{
-    "itemId": 28121,
-    "itemName": "Colourful jumper",
-    "examine": "Colourful, warm and fashionable!",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

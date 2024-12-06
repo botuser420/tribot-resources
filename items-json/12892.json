@@ -1,9 +1,0 @@
-{
-    "itemId": 12892,
-    "itemName": "Antisanta mask",
-    "examine": "He sees you when you're sleeping.",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

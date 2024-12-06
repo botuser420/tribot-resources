@@ -1,9 +1,0 @@
-{
-    "itemId": 10863,
-    "itemName": "Builder's shirt",
-    "examine": "Very fetching.",
-    "weight": 0.9,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

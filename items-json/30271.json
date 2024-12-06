@@ -1,9 +1,0 @@
-{
-    "itemId": 30271,
-    "itemName": "Orange pumpkin (shocked)",
-    "examine": "That pumpkin is shocked, shocked I tell you.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

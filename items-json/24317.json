@@ -1,9 +1,0 @@
-{
-    "itemId": 24317,
-    "itemName": "Spookier robe",
-    "examine": "A spooky robe cut from a bedsheet!",
-    "weight": 0.9,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

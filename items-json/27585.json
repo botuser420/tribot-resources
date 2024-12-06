@@ -1,9 +1,0 @@
-{
-    "itemId": 27585,
-    "itemName": "Sweet nutcracker boots",
-    "examine": "Some sweet-themed nutcracker boots.",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

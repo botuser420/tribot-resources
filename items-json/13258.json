@@ -1,9 +1,0 @@
-{
-    "itemId": 13258,
-    "itemName": "Angler hat",
-    "examine": "This will help with fishing.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

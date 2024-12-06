@@ -1,9 +1,0 @@
-{
-    "itemId": 6065,
-    "itemName": "Mourner top",
-    "examine": "A thick heavy leather top.",
-    "weight": 2.721,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

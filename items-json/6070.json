@@ -1,9 +1,0 @@
-{
-    "itemId": 6070,
-    "itemName": "Mourner cloak",
-    "examine": "A dull brown cape.",
-    "weight": 2.267,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

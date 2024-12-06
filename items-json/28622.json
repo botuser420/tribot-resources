@@ -1,9 +1,0 @@
-{
-    "itemId": 28622,
-    "itemName": "Pheasant legs",
-    "examine": "You'll look magni-pheasant wearing these!",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 26912,
-    "itemName": "Lost bag",
-    "examine": "A bag with strange markings on it... How did it fit into that small pouch?",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

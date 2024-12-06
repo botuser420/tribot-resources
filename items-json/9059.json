@@ -1,9 +1,0 @@
-{
-    "itemId": 9059,
-    "itemName": "Pink goblin mail",
-    "examine": "Some pink armour designed to fit goblins.",
-    "weight": 3.628,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

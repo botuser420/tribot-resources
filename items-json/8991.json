@@ -1,9 +1,0 @@
-{
-    "itemId": 8991,
-    "itemName": "Blue navy slacks",
-    "examine": "Not for slackers.",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

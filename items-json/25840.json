@@ -1,9 +1,0 @@
-{
-    "itemId": 25840,
-    "itemName": "Banana hat",
-    "examine": "You'd be bananas to think this isn't cute.",
-    "weight": 0.09,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

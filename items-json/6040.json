@@ -1,9 +1,0 @@
-{
-    "itemId": 6040,
-    "itemName": "Amulet of nature",
-    "examine": "An Amulet of Nature.",
-    "weight": 0.007,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

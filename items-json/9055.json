@@ -1,9 +1,0 @@
-{
-    "itemId": 9055,
-    "itemName": "Black goblin mail",
-    "examine": "Some black armour designed to fit goblins.",
-    "weight": 3.628,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

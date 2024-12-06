@@ -1,9 +1,0 @@
-{
-    "itemId": 24527,
-    "itemName": "Hell cat ears",
-    "examine": "A hellish piece of head gear.",
-    "weight": 0.09,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

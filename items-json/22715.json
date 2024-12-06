@@ -1,9 +1,0 @@
-{
-    "itemId": 22715,
-    "itemName": "Tree top",
-    "examine": "Part of a tree costume.",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

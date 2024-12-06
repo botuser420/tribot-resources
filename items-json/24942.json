@@ -1,9 +1,0 @@
-{
-    "itemId": 24942,
-    "itemName": "Reinforced goggles",
-    "examine": "A very sturdy-feeling pair of slayer goggles.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

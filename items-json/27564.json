@@ -1,9 +1,0 @@
-{
-    "itemId": 27564,
-    "itemName": "Santa's list",
-    "examine": "Be sure to check it twice.",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

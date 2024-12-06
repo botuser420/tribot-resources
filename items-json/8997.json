@@ -1,9 +1,0 @@
-{
-    "itemId": 8997,
-    "itemName": "Grey navy slacks",
-    "examine": "Not for slackers.",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

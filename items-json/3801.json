@@ -1,7 +1,0 @@
-{
-    "itemId": 3801,
-    "itemName": "Keg of beer",
-    "examine": "A lot of beer in a barrel.",
-    "weight": 20.0,
-    "buyLimit": 2000
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 28771,
-    "itemName": "Sage's greaves",
-    "examine": "Greaves that give you blazing speed.",
-    "weight": 0.0,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

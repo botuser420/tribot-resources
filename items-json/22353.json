@@ -1,9 +1,0 @@
-{
-    "itemId": 22353,
-    "itemName": "Eggshell platelegs",
-    "examine": "A chocolate shell reinforced with a thin layer of foil.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

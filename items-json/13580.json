@@ -1,9 +1,0 @@
-{
-    "itemId": 13580,
-    "itemName": "Graceful hood",
-    "examine": "A sign of your grace and loyalty.",
-    "weight": -3.0,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

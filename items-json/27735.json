@@ -1,9 +1,0 @@
-{
-    "itemId": 27735,
-    "itemName": "Crystal body (inactive)",
-    "examine": "Sturdier than it looks.",
-    "weight": 2.0,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

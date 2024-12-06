@@ -1,9 +1,0 @@
-{
-    "itemId": 11083,
-    "itemName": "Castle wars bracelet(1)",
-    "examine": "Must be worn as you enter the game to receive the bonus for that game.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

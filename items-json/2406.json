@@ -1,9 +1,0 @@
-{
-    "itemId": 2406,
-    "itemName": "Hazeel's mark",
-    "examine": "A sign of commitment to Hazeel.",
-    "weight": 0.012,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

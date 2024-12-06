@@ -1,9 +1,0 @@
-{
-    "itemId": 9773,
-    "itemName": "Agility hood",
-    "examine": "Agility skillcape hood.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 25102,
-    "itemName": "Fairy mushroom",
-    "examine": "A squishy mushroom from a fairy ring.",
-    "weight": 0.002,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

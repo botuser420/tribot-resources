@@ -1,9 +1,0 @@
-{
-    "itemId": 13287,
-    "itemName": "Gravedigger gloves",
-    "examine": "They protect your hands from the rough handles of spades.",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

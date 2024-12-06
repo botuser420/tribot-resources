@@ -1,9 +1,0 @@
-{
-    "itemId": 9761,
-    "itemName": "Prayer hood",
-    "examine": "Prayer skillcape hood.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

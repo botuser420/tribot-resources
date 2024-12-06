@@ -1,9 +1,0 @@
-{
-    "itemId": 29263,
-    "itemName": "Guild hunter headwear",
-    "examine": "The hat of the Hunters.",
-    "weight": 1.36,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 26258,
-    "itemName": "Ugly halloween jumper (black)",
-    "examine": "A reversible jumper knitted lovingly by Iffie.",
-    "weight": 0.4,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

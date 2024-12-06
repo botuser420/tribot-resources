@@ -1,9 +1,0 @@
-{
-    "itemId": 11021,
-    "itemName": "Chicken head",
-    "examine": "Cock-a-doodle-do!",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

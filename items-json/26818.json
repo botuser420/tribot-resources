@@ -1,9 +1,0 @@
-{
-    "itemId": 26818,
-    "itemName": "Ring of the elements",
-    "examine": "A mystical ring.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "RING"
-    }
-}

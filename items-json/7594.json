@@ -1,9 +1,0 @@
-{
-    "itemId": 7594,
-    "itemName": "Zombie mask",
-    "examine": "I look 40,000 years old in this...",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

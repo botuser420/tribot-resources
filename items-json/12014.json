@@ -1,9 +1,0 @@
-{
-    "itemId": 12014,
-    "itemName": "Prospector jacket",
-    "examine": "Helps you when you're mining.",
-    "weight": 1.36,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

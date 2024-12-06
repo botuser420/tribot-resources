@@ -1,9 +1,0 @@
-{
-    "itemId": 24874,
-    "itemName": "Carpenter's shirt",
-    "examine": "The shirt of a superior builder.",
-    "weight": 0.62,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

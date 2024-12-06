@@ -1,9 +1,0 @@
-{
-    "itemId": 13676,
-    "itemName": "Graceful gloves",
-    "examine": "A sign of your grace and unity.",
-    "weight": -3.0,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

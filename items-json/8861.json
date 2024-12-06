@@ -1,9 +1,0 @@
-{
-    "itemId": 8861,
-    "itemName": "Two barrels",
-    "examine": "To put on your head.",
-    "weight": 9.071,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

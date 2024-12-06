@@ -1,9 +1,0 @@
-{
-    "itemId": 27828,
-    "itemName": "Silver partyhat",
-    "examine": "A nice silver hat commemorating 10 years of Oldschool!",
-    "weight": 0.056,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

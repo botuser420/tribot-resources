@@ -1,9 +1,0 @@
-{
-    "itemId": 23919,
-    "itemName": "Crystal crown",
-    "examine": "A crown fit for the most wealthy of elves.",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

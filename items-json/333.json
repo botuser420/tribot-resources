@@ -1,7 +1,0 @@
-{
-    "itemId": 333,
-    "itemName": "Trout",
-    "examine": "Some nicely cooked trout.",
-    "weight": 0.4,
-    "buyLimit": 6000
-}

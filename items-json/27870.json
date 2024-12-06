@@ -1,9 +1,0 @@
-{
-    "itemId": 27870,
-    "itemName": "Lightbearer",
-    "examine": "A heavy ring that glimmers with a strange power.",
-    "weight": 0.05,
-    "equipment": {
-        "slot": "RING"
-    }
-}

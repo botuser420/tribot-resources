@@ -1,9 +1,0 @@
-{
-    "itemId": 29433,
-    "itemName": "Book of egg",
-    "examine": "An eggsquisite tome.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

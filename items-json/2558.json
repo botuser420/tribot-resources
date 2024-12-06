@@ -1,9 +1,0 @@
-{
-    "itemId": 2558,
-    "itemName": "Ring of dueling(5)",
-    "examine": "An enchanted ring.",
-    "weight": 0.006,
-    "equipment": {
-        "slot": "RING"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 22517,
-    "itemName": "Escape crystal",
-    "examine": "A magical crystal that can transport you out of certain dangerous areas.",
-    "weight": 0.0,
-    "equipment": {
-        "slot": "RING"
-    }
-}

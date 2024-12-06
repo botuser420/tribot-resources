@@ -1,9 +1,0 @@
-{
-    "itemId": 27257,
-    "itemName": "Icthlarin's shroud (tier 1)",
-    "examine": "A cloak made to honour the dead.",
-    "weight": 0.305,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

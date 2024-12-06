@@ -1,9 +1,0 @@
-{
-    "itemId": 23859,
-    "itemName": "Gauntlet cape",
-    "examine": "Earned by only the most accomplished warriors of Prifddinas.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

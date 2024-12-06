@@ -1,9 +1,0 @@
-{
-    "itemId": 26822,
-    "itemName": "Abyssal lantern",
-    "examine": "A lantern containing power from the Abyss.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

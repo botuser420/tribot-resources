@@ -1,9 +1,0 @@
-{
-    "itemId": 26939,
-    "itemName": "Crate ring",
-    "examine": "This would be pretty good for a sneaking mission.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "RING"
-    }
-}

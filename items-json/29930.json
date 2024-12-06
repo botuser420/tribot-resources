@@ -1,9 +1,0 @@
-{
-    "itemId": 29936,
-    "itemName": "Wolf mask",
-    "examine": "A rather interesting mask of a wolf.",
-    "weight": 0.1,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 24723,
-    "itemName": "Hallowed focus",
-    "examine": "Removes the chance of failing to enchant portals within the Hallowed Sepulchre.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

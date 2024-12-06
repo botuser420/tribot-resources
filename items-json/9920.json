@@ -1,9 +1,0 @@
-{
-    "itemId": 9920,
-    "itemName": "Jack lantern mask",
-    "examine": "Better not light it!",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

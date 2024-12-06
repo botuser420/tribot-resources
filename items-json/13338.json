@@ -1,9 +1,0 @@
-{
-    "itemId": 13338,
-    "itemName": "Accumulator max hood",
-    "examine": "The hood worn by only the most experienced players.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

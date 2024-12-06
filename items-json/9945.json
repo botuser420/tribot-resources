@@ -1,9 +1,0 @@
-{
-    "itemId": 9945,
-    "itemName": "Bomber cap",
-    "examine": "The red baron would be jealous.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

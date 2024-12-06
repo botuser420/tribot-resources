@@ -1,9 +1,0 @@
-{
-    "itemId": 27394,
-    "itemName": "Adventurer's boots (t1)",
-    "examine": "The boots of an adventurer.",
-    "weight": 0.7,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

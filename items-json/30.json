@@ -1,7 +1,0 @@
-{
-    "itemId": 30,
-    "itemName": "Bucket of wax",
-    "examine": "It's a bucket of wax.",
-    "weight": 2.5,
-    "buyLimit": 15
-}

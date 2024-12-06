@@ -1,9 +1,0 @@
-{
-    "itemId": 12893,
-    "itemName": "Antisanta jacket",
-    "examine": "Keeps your bones warm.",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

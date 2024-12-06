@@ -1,9 +1,0 @@
-{
-    "itemId": 6547,
-    "itemName": "Doctor's hat",
-    "examine": "A mirror helps reflect light on the subject.",
-    "weight": 0.3,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

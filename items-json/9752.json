@@ -1,9 +1,0 @@
-{
-    "itemId": 9752,
-    "itemName": "Strength hood",
-    "examine": "Strength skillcape hood.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

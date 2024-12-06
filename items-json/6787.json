@@ -1,9 +1,0 @@
-{
-    "itemId": 6787,
-    "itemName": "Robe of elidinis",
-    "examine": "A patched up robe.",
-    "weight": 0.005,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

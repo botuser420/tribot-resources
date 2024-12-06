@@ -1,9 +1,0 @@
-{
-    "itemId": 26316,
-    "itemName": "Secret santa present (red)",
-    "examine": "A present. Looks like it can be delivered somewhere.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

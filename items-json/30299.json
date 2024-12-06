@@ -1,9 +1,0 @@
-{
-    "itemId": 30299,
-    "itemName": "Powder grey pumpkin (sad)",
-    "examine": "That pumpkin is somewhat distressed.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

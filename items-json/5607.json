@@ -1,9 +1,0 @@
-{
-    "itemId": 5607,
-    "itemName": "Grain",
-    "examine": "A sack full of grain.",
-    "weight": 5.0,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

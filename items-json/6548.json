@@ -1,9 +1,0 @@
-{
-    "itemId": 6548,
-    "itemName": "Nurse hat",
-    "examine": "A nurse's hat, but does it have healing powers?",
-    "weight": 0.2,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

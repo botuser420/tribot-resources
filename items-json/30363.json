@@ -1,9 +1,0 @@
-{
-    "itemId": 30363,
-    "itemName": "Clue compass",
-    "examine": "A useful compass for those in search of treasure.",
-    "weight": 0.05,
-    "equipment": {
-        "slot": "AMMO"
-    }
-}

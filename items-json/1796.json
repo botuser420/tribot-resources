@@ -1,9 +1,0 @@
-{
-    "itemId": 1796,
-    "itemName": "Silver necklace",
-    "examine": "Anna's shiny silver coated necklace.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

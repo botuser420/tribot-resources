@@ -1,9 +1,0 @@
-{
-    "itemId": 13284,
-    "itemName": "Gravedigger top",
-    "examine": "Featuring a selection of mud stains from across Gielinor.",
-    "weight": 0.9,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

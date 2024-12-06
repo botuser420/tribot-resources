@@ -1,9 +1,0 @@
-{
-    "itemId": 25473,
-    "itemName": "Open gold coffin",
-    "examine": "Can store up to 28 shade remains.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

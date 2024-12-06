@@ -1,9 +1,0 @@
-{
-    "itemId": 24844,
-    "itemName": "Ring of endurance (uncharged)",
-    "examine": "I wonder if this ring helps with...",
-    "weight": 0.006,
-    "equipment": {
-        "slot": "RING"
-    }
-}

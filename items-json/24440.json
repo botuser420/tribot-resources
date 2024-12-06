@@ -1,9 +1,0 @@
-{
-    "itemId": 24440,
-    "itemName": "Iced gingerbread shield",
-    "examine": "It looks delicious.",
-    "weight": 3.175,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

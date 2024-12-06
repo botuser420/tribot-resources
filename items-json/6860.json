@@ -1,9 +1,0 @@
-{
-    "itemId": 6860,
-    "itemName": "Tri-jester hat",
-    "examine": "A woolly triple bobble jester hat.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

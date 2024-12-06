@@ -1,9 +1,0 @@
-{
-    "itemId": 2989,
-    "itemName": "Chompy bird hat",
-    "examine": "A symbol of your chompy bird hunting prowess: Bowmaster (700 kills)",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

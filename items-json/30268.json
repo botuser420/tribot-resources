@@ -1,9 +1,0 @@
-{
-    "itemId": 30268,
-    "itemName": "Orange pumpkin (evil)",
-    "examine": "That pumpkin is absolutely monstruous.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 25137,
-    "itemName": "Beekeeper's boots",
-    "examine": "BEE careful where you step with these boots on.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

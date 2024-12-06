@@ -1,9 +1,0 @@
-{
-    "itemId": 6180,
-    "itemName": "Lederhosen top",
-    "examine": "A leather strapped top.",
-    "weight": 2.267,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

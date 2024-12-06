@@ -1,9 +1,0 @@
-{
-    "itemId": 30258,
-    "itemName": "Yellow pumpkin (silly)",
-    "examine": "That pumpkin is not very detailed at all.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

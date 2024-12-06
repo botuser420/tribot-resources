@@ -1,9 +1,0 @@
-{
-    "itemId": 30302,
-    "itemName": "Torva full helm",
-    "examine": "An ancient warrior's full helm.",
-    "weight": 2.721,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

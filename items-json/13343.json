@@ -1,9 +1,0 @@
-{
-    "itemId": 13343,
-    "itemName": "Black santa hat",
-    "examine": "A black Santa hat produced by Anti-Santa.",
-    "weight": 0.113,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

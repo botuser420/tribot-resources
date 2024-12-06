@@ -1,9 +1,0 @@
-{
-    "itemId": 29501,
-    "itemName": "Colourful cape",
-    "examine": "A colourful cape, constructed with beautiful colourful fabrics!",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

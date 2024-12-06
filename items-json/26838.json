@@ -1,9 +1,0 @@
-{
-    "itemId": 26838,
-    "itemName": "Abyssal lantern (willow logs)",
-    "examine": "A lantern containing power from the Abyss. It's been lit with some willow logs.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

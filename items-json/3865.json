@@ -1,9 +1,0 @@
-{
-    "itemId": 3865,
-    "itemName": "Games necklace(2)",
-    "examine": "An enchanted necklace.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 21173,
-    "itemName": "Burning amulet(2)",
-    "examine": "Useful teleports around the wilderness.",
-    "weight": 0.007,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

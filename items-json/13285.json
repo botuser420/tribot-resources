@@ -1,9 +1,0 @@
-{
-    "itemId": 13285,
-    "itemName": "Gravedigger leggings",
-    "examine": "Is that someone's missing phalange stuck in the hem?",
-    "weight": 0.8,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

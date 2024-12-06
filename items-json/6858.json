@@ -1,9 +1,0 @@
-{
-    "itemId": 6858,
-    "itemName": "Jester hat",
-    "examine": "A woolly jester hat.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

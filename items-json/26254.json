@@ -1,9 +1,0 @@
-{
-    "itemId": 26254,
-    "itemName": "Saucepan",
-    "examine": "To be worn on the head.",
-    "weight": 2.0,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

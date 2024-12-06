@@ -1,9 +1,0 @@
-{
-    "itemId": 26990,
-    "itemName": "Amulet of the eye",
-    "examine": "An amulet in the shape of an eye.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 30273,
-    "itemName": "Orange pumpkin (happy)",
-    "examine": "That pumpkin is pretty happy about things.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

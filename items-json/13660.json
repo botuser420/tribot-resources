@@ -1,9 +1,0 @@
-{
-    "itemId": 13660,
-    "itemName": "Chronicle",
-    "examine": "The legends of RuneScape.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

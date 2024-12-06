@@ -1,7 +1,0 @@
-{
-    "itemId": 10020,
-    "itemName": "Ruby harvest",
-    "examine": "There's a ruby harvest butterfly in here.",
-    "weight": 0.02,
-    "buyLimit": 125
-}

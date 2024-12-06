@@ -1,9 +1,0 @@
-{
-    "itemId": 9922,
-    "itemName": "Skeleton gloves",
-    "examine": "Some skeletal gloves.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

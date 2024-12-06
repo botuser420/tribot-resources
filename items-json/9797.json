@@ -1,9 +1,0 @@
-{
-    "itemId": 9797,
-    "itemName": "Smithing hood",
-    "examine": "Smithing skillcape hood.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

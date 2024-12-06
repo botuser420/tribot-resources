@@ -1,9 +1,0 @@
-{
-    "itemId": 7535,
-    "itemName": "Diving apparatus",
-    "examine": "I'll need a helmet to make this work.",
-    "weight": 10.0,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

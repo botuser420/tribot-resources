@@ -1,9 +1,0 @@
-{
-    "itemId": 27467,
-    "itemName": "Treat cauldron",
-    "examine": "Perfect for collecting treats while Trick-or-Treating!",
-    "weight": 0.1,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

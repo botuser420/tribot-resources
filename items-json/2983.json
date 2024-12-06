@@ -1,9 +1,0 @@
-{
-    "itemId": 2983,
-    "itemName": "Chompy bird hat",
-    "examine": "A symbol of your chompy bird hunting prowess: Marksman (125 kills)",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

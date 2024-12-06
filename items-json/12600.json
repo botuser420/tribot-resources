@@ -1,9 +1,0 @@
-{
-    "itemId": 12600,
-    "itemName": "Druidic wreath",
-    "examine": "This one's more common than you'd expect.",
-    "weight": 0.32,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

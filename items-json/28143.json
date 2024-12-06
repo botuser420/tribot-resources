@@ -1,9 +1,0 @@
-{
-    "itemId": 28143,
-    "itemName": "Forestry basket",
-    "examine": "The most efficient woodcutting utility out there.",
-    "weight": 2.267,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

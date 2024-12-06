@@ -1,9 +1,0 @@
-{
-    "itemId": 9764,
-    "itemName": "Magic hood",
-    "examine": "Magic skillcape hood.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

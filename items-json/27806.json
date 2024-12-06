@@ -1,9 +1,0 @@
-{
-    "itemId": 27806,
-    "itemName": "Bob the cat slippers",
-    "examine": "No cats were harmed in the making of these slippers.",
-    "weight": 0.2,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

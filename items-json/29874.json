@@ -1,9 +1,0 @@
-{
-    "itemId": 29874,
-    "itemName": "Emissary sandals",
-    "examine": "Footwear of the Twilight Emissaries.",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

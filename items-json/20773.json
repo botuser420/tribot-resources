@@ -1,9 +1,0 @@
-{
-    "itemId": 20773,
-    "itemName": "Banshee mask",
-    "examine": "Makes me want to scream.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

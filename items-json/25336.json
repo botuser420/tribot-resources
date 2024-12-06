@@ -1,9 +1,0 @@
-{
-    "itemId": 25336,
-    "itemName": "Gnome child mask",
-    "examine": "The smile of childlike innocence.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

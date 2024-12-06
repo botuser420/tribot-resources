@@ -1,9 +1,0 @@
-{
-    "itemId": 8961,
-    "itemName": "Red tricorn hat",
-    "examine": "I could never look square in this.",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

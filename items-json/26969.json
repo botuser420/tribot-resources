@@ -1,9 +1,0 @@
-{
-    "itemId": 26969,
-    "itemName": "Circlet of water",
-    "examine": "A magical circlet for keeping you hydrated in the desert.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

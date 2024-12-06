@@ -1,9 +1,0 @@
-{
-    "itemId": 29976,
-    "itemName": "Prescription goggles",
-    "examine": "Safety first!",
-    "weight": 1.02,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 30304,
-    "itemName": "Torva platelegs",
-    "examine": "An ancient warrior's platelegs.",
-    "weight": 9.071,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

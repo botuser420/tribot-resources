@@ -1,9 +1,0 @@
-{
-    "itemId": 24878,
-    "itemName": "Carpenter's boots",
-    "examine": "The boots of a superior builder.",
-    "weight": 0.42,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 3208,
-    "itemName": "Crystal pendant",
-    "examine": "Lord Iorwerth's crystal pendant.",
-    "weight": 0.005,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 12845,
-    "itemName": "Grim reaper hood",
-    "examine": "Allows me to imitate the bringer of doom, the stealer of souls, the eternal end...",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

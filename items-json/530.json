@@ -1,7 +1,0 @@
-{
-    "itemId": 530,
-    "itemName": "Bat bones",
-    "examine": "Ew it's a pile of bones.",
-    "weight": 0.3,
-    "buyLimit": 3000
-}

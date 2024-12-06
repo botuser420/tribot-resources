@@ -1,9 +1,0 @@
-{
-    "itemId": 27804,
-    "itemName": "Cake hat",
-    "examine": "Fashionable and delicious.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

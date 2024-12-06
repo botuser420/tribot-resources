@@ -1,9 +1,0 @@
-{
-    "itemId": 20775,
-    "itemName": "Banshee top",
-    "examine": "Looks like it's been slashed by a claw.",
-    "weight": 0.9,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

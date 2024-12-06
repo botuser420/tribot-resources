@@ -1,9 +1,0 @@
-{
-    "itemId": 6465,
-    "itemName": "Ring of charos(a)",
-    "examine": "The power within this ring has been activated.",
-    "weight": 0.005,
-    "equipment": {
-        "slot": "RING"
-    }
-}

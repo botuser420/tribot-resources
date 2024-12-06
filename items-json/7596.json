@@ -1,9 +1,0 @@
-{
-    "itemId": 7596,
-    "itemName": "Zombie boots",
-    "examine": "Thrilling.",
-    "weight": 0.003,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

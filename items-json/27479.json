@@ -1,9 +1,0 @@
-{
-    "itemId": 27479,
-    "itemName": "Witch boots",
-    "examine": "Wickedly pointy!",
-    "weight": 0.028,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 28426,
-    "itemName": "Magic lantern",
-    "examine": "Strange magic is keeping it lit.",
-    "weight": 1.36,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

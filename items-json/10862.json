@@ -1,9 +1,0 @@
-{
-    "itemId": 10862,
-    "itemName": "Hard hat",
-    "examine": "Can't get any safer than this.",
-    "weight": 2.0,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

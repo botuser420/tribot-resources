@@ -1,9 +1,0 @@
-{
-    "itemId": 6181,
-    "itemName": "Lederhosen shorts",
-    "examine": "Brown leather shorts with bright white socks?",
-    "weight": 2.267,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

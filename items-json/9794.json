@@ -1,9 +1,0 @@
-{
-    "itemId": 9794,
-    "itemName": "Mining hood",
-    "examine": "Mining skillcape hood.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

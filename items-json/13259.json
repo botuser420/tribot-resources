@@ -1,9 +1,0 @@
-{
-    "itemId": 13259,
-    "itemName": "Angler top",
-    "examine": "This will help with fishing.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 10865,
-    "itemName": "Builder's boots",
-    "examine": "They'll offer good protection for my toes.",
-    "weight": 0.45,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

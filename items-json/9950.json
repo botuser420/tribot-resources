@@ -1,9 +1,0 @@
-{
-    "itemId": 9950,
-    "itemName": "Hunter hood",
-    "examine": "Hunter skillcape hood.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

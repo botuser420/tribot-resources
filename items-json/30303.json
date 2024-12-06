@@ -1,9 +1,0 @@
-{
-    "itemId": 30303,
-    "itemName": "Torva platebody",
-    "examine": "An ancient warrior's platebody.",
-    "weight": 9.979,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

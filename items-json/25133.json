@@ -1,9 +1,0 @@
-{
-    "itemId": 25133,
-    "itemName": "Beekeeper's legs",
-    "examine": "Truly these pants are the bee's knees.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 29774,
-    "itemName": "Amy's saw (off-hand)",
-    "examine": "She saw scope for improvement.",
-    "weight": 0.8,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

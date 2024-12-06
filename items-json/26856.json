@@ -1,9 +1,0 @@
-{
-    "itemId": 26856,
-    "itemName": "Boots of the eye",
-    "examine": "The perfect boots for runecrafting.",
-    "weight": 0.6,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

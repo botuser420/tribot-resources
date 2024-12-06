@@ -1,9 +1,0 @@
-{
-    "itemId": 30256,
-    "itemName": "White pumpkin (laughing)",
-    "examine": "That pumpkin might be making fun of something.",
-    "weight": 0.5,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

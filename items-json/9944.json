@@ -1,9 +1,0 @@
-{
-    "itemId": 9944,
-    "itemName": "Bomber jacket",
-    "examine": "For all your flying needs.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

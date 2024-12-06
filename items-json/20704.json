@@ -1,9 +1,0 @@
-{
-    "itemId": 20704,
-    "itemName": "Pyromancer garb",
-    "examine": "The garb of the Pyromancers.",
-    "weight": 0.2,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

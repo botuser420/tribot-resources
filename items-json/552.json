@@ -1,9 +1,0 @@
-{
-    "itemId": 552,
-    "itemName": "Ghostspeak amulet",
-    "examine": "It lets me talk to ghosts.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "NECK"
-    }
-}

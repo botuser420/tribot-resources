@@ -1,9 +1,0 @@
-{
-    "itemId": 10939,
-    "itemName": "Lumberjack top",
-    "examine": "You'll certainly be alright wearing this.",
-    "weight": 1.36,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 21069,
-    "itemName": "Graceful top",
-    "examine": "A sign of your grace.",
-    "weight": -5.0,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

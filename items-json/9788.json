@@ -1,9 +1,0 @@
-{
-    "itemId": 9788,
-    "itemName": "Slayer hood",
-    "examine": "Slayer skillcape hood.",
-    "weight": 0.453,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

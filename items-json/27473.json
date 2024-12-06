@@ -1,9 +1,0 @@
-{
-    "itemId": 27473,
-    "itemName": "Witch hat",
-    "examine": "A spooky hat complete with an even spookier nose.",
-    "weight": 0.028,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

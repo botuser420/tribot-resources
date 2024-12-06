@@ -1,9 +1,0 @@
-{
-    "itemId": 10864,
-    "itemName": "Builder's trousers",
-    "examine": "Slightly tatty in my opinion.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

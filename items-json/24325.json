@@ -1,9 +1,0 @@
-{
-    "itemId": 24325,
-    "itemName": "Pumpkin lantern",
-    "examine": "They call him Jack.",
-    "weight": 0.07,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

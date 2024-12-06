@@ -1,9 +1,0 @@
-{
-    "itemId": 6067,
-    "itemName": "Mourner trousers",
-    "examine": "A pair of mourner trousers.",
-    "weight": 2.267,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

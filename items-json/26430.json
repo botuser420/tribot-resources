@@ -1,9 +1,0 @@
-{
-    "itemId": 26430,
-    "itemName": "Shattered top (t1)",
-    "examine": "The shirt of a Shattered Relic Hunter.",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

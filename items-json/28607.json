@@ -1,9 +1,0 @@
-{
-    "itemId": 28607,
-    "itemName": "Spider hat",
-    "examine": "Provider of mental cobwebs.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

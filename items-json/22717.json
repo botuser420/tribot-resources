@@ -1,9 +1,0 @@
-{
-    "itemId": 22717,
-    "itemName": "Tree skirt",
-    "examine": "The bottom of a tree costume.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

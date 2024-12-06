@@ -1,9 +1,0 @@
-{
-    "itemId": 26967,
-    "itemName": "Circlet of water (uncharged)",
-    "examine": "A magical circlet for keeping you hydrated in the desert. It needs charging.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

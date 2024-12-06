@@ -1,7 +1,0 @@
-{
-    "itemId": 1987,
-    "itemName": "Grapes",
-    "examine": "Good grapes for wine making.",
-    "weight": 0.25,
-    "buyLimit": 20000
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 11019,
-    "itemName": "Chicken feet",
-    "examine": "Perfect for crossing the road.",
-    "weight": 0.25,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

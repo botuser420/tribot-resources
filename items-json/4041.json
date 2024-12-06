@@ -1,9 +1,0 @@
-{
-    "itemId": 4041,
-    "itemName": "Hooded cloak",
-    "examine": "The colours of Saradomin.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

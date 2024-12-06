@@ -1,9 +1,0 @@
-{
-    "itemId": 21853,
-    "itemName": "Snow imp costume tail",
-    "examine": "A poorly made fake snow imp tail.",
-    "weight": 0.01,
-    "equipment": {
-        "slot": "CAPE"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "itemId": 12956,
-    "itemName": "Cow top",
-    "examine": "It looks like a cow's body.",
-    "weight": 1.0,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

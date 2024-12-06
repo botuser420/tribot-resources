@@ -1,9 +1,0 @@
-{
-    "itemId": 25934,
-    "itemName": "Ghommal's hilt 5",
-    "examine": "A sublime artifact<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "SHIELD"
-    }
-}

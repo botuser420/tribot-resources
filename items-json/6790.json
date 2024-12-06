@@ -1,9 +1,0 @@
-{
-    "itemId": 6790,
-    "itemName": "Shoes",
-    "examine": "Awusah's Shoes.",
-    "weight": 0.226,
-    "equipment": {
-        "slot": "FEET"
-    }
-}

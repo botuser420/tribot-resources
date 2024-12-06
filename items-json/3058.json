@@ -1,9 +1,0 @@
-{
-    "itemId": 3058,
-    "itemName": "Mime top",
-    "examine": "A mime would wear this.",
-    "weight": 0.001,
-    "equipment": {
-        "slot": "BODY"
-    }
-}

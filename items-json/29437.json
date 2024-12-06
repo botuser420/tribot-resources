@@ -1,9 +1,0 @@
-{
-    "itemId": 29437,
-    "itemName": "Egg priest robe",
-    "examine": "Keeps an egg priest's knees nice and warm.",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "LEGS"
-    }
-}

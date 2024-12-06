@@ -1,9 +1,0 @@
-{
-    "itemId": 21343,
-    "itemName": "Mining gloves",
-    "examine": "These will help me mine Iron, Silver, Coal and Gold.",
-    "weight": 0.226,
-    "equipment": {
-        "slot": "HANDS"
-    }
-}

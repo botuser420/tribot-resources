@@ -1,9 +1,0 @@
-{
-    "itemId": 12013,
-    "itemName": "Prospector helmet",
-    "examine": "Helps you when you're mining.",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "HEAD"
-    }
-}

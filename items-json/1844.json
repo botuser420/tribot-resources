@@ -1,9 +1,0 @@
-{
-    "itemId": 1844,
-    "itemName": "Slave shirt",
-    "examine": "A filthy, smelly, flea infested shirt.",
-    "weight": 0.907,
-    "equipment": {
-        "slot": "BODY"
-    }
-}
