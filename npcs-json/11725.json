@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        11725
+    ],
+    "name": "Spitting Scarab",
+    "hitpoints": 40,
+    "combatLevel": 89,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        10
+    ],
+    "monsterAttribute": "kalphite",
+    "size": 3,
+    "attackLevel": 1,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "magicLevel": 100,
+    "rangedLevel": 95,
+    "strengthBonus": 55,
+    "magicAttackBonus": 250,
+    "magicDamageBonus": 65,
+    "rangedAttackBonus": 350,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 250,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 250,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 125,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

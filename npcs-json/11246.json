@@ -1,0 +1,43 @@
+{
+    "npcIds": [
+        11246
+    ],
+    "name": "Revenant maledictus",
+    "hitpoints": 1250,
+    "combatLevel": 397,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        30
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Revenants",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 920.0,
+    "size": 5,
+    "attackLevel": 106,
+    "strengthLevel": 126,
+    "defenceLevel": 90,
+    "magicLevel": 130,
+    "rangedLevel": 130,
+    "attackBonus": 72,
+    "strengthBonus": 78,
+    "magicAttackBonus": 60,
+    "magicDamageBonus": 60,
+    "rangedAttackBonus": 265,
+    "rangedStrengthBonus": 60,
+    "stabDefenceBonus": 201,
+    "slashDefenceBonus": 206,
+    "crushDefenceBonus": 188,
+    "magicDefenceBonus": 101,
+    "rangedDefenceBonus": 231,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

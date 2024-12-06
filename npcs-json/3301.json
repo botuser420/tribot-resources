@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        3301
+    ],
+    "name": "Archer",
+    "hitpoints": 50,
+    "combatLevel": 37,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        6
+    ],
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 40,
+    "rangedAttackBonus": 19,
+    "rangedStrengthBonus": 8,
+    "stabDefenceBonus": 18,
+    "slashDefenceBonus": 23,
+    "crushDefenceBonus": 27,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 19
+}

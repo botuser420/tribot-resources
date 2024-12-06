@@ -20,6 +20,6 @@
     "defenceLevel": 70,
     "magicLevel": 1,
     "rangedLevel": 80,
-    "rangeAttackBonus": 50,
+    "rangedAttackBonus": 50,
     "crushDefenceBonus": 10
 }

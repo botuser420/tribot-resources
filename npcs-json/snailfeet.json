@@ -22,7 +22,7 @@
     "rangedLevel": 30,
     "attackBonus": 32,
     "strengthBonus": 36,
-    "rangeAttackBonus": 32,
+    "rangedAttackBonus": 32,
     "rangedStrengthBonus": 36,
     "stabDefenceBonus": 10,
     "slashDefenceBonus": 10,

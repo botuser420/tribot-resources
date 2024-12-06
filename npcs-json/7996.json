@@ -1,0 +1,37 @@
+{
+    "npcIds": [
+        7996
+    ],
+    "name": "Corrupt Lizardman (hard)",
+    "hitpoints": 150,
+    "combatLevel": 152,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        22
+    ],
+    "slayerCategory": "Lizardmen",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 150.0,
+    "size": 1,
+    "attackLevel": 162,
+    "strengthLevel": 162,
+    "defenceLevel": 38,
+    "magicLevel": 1,
+    "rangedLevel": 162,
+    "attackBonus": 22,
+    "strengthBonus": 20,
+    "rangedAttackBonus": 22,
+    "rangedStrengthBonus": 20,
+    "stabDefenceBonus": -10,
+    "slashDefenceBonus": 25,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

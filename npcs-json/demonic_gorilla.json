@@ -39,7 +39,7 @@
     "strengthBonus": 29,
     "magicAttackBonus": 40,
     "magicDamageBonus": 29,
-    "rangeAttackBonus": 43,
+    "rangedAttackBonus": 43,
     "rangedStrengthBonus": 29,
     "magicDefenceBonus": 50,
     "elementalWeakness": "Water",

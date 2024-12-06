@@ -22,7 +22,7 @@
     "magicLevel": 1,
     "rangedLevel": 100,
     "attackBonus": 30,
-    "rangeAttackBonus": 30,
+    "rangedAttackBonus": 30,
     "rangedStrengthBonus": 30,
     "magicDefenceBonus": -10,
     "immuneToPoison": true,

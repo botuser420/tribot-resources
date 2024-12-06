@@ -28,7 +28,7 @@
     "defenceLevel": 60,
     "magicLevel": 90,
     "rangedLevel": 250,
-    "rangeAttackBonus": 40,
+    "rangedAttackBonus": 40,
     "rangedStrengthBonus": 50,
     "immuneToVenom": true
 }

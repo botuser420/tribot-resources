@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        6618
+    ],
+    "name": "Crazy archaeologist",
+    "hitpoints": 225,
+    "combatLevel": 204,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED",
+        "CRUSH"
+    ],
+    "maxHits": [
+        14,
+        24
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 275.0,
+    "size": 1,
+    "attackLevel": 160,
+    "strengthLevel": 90,
+    "defenceLevel": 240,
+    "magicLevel": 1,
+    "rangedLevel": 180,
+    "attackBonus": 250,
+    "strengthBonus": 25,
+    "rangedAttackBonus": 75,
+    "rangedStrengthBonus": -15,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 250,
+    "rangedDefenceBonus": 250
+}

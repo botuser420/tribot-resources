@@ -31,6 +31,6 @@
     "rangedLevel": 1020,
     "magicAttackBonus": 100,
     "magicDamageBonus": 75,
-    "rangeAttackBonus": 80,
+    "rangedAttackBonus": 80,
     "immuneToVenom": true
 }

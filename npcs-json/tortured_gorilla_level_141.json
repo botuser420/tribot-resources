@@ -31,7 +31,7 @@
     "strengthBonus": 16,
     "magicAttackBonus": 20,
     "magicDamageBonus": 16,
-    "rangeAttackBonus": 22,
+    "rangedAttackBonus": 22,
     "rangedStrengthBonus": 16,
     "magicDefenceBonus": 25
 }

@@ -1,0 +1,41 @@
+{
+    "npcIds": [
+        12078
+    ],
+    "name": "Phantom Muspah",
+    "hitpoints": 850,
+    "combatLevel": 741,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        34
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 1763.7,
+    "size": 5,
+    "attackLevel": 280,
+    "strengthLevel": 280,
+    "defenceLevel": 200,
+    "magicLevel": 150,
+    "rangedLevel": 280,
+    "attackBonus": 393,
+    "strengthBonus": 11,
+    "magicAttackBonus": 280,
+    "magicDamageBonus": 180,
+    "rangedAttackBonus": 64,
+    "rangedStrengthBonus": 6,
+    "stabDefenceBonus": 185,
+    "slashDefenceBonus": 134,
+    "crushDefenceBonus": 120,
+    "magicDefenceBonus": 34,
+    "rangedDefenceBonus": 261,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

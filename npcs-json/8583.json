@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        8583
+    ],
+    "name": "Hespori",
+    "hitpoints": 300,
+    "combatLevel": 284,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        8,
+        14
+    ],
+    "size": 3,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 120,
+    "magicLevel": 126,
+    "rangedLevel": 150,
+    "magicAttackBonus": 150,
+    "rangedAttackBonus": 150,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 80,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 100,
+    "rangedDefenceBonus": 80,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

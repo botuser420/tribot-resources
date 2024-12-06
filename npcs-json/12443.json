@@ -1,0 +1,38 @@
+{
+    "npcIds": [
+        12443
+    ],
+    "name": "Kree'arra",
+    "hitpoints": 350,
+    "combatLevel": 580,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        21
+    ],
+    "slayerCategory": "Aviansie",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 5,
+    "attackLevel": 300,
+    "strengthLevel": 200,
+    "defenceLevel": 260,
+    "magicLevel": 200,
+    "rangedLevel": 380,
+    "attackBonus": 136,
+    "strengthBonus": 12,
+    "rangedAttackBonus": 120,
+    "rangedStrengthBonus": 50,
+    "stabDefenceBonus": 180,
+    "slashDefenceBonus": 180,
+    "crushDefenceBonus": 180,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 200,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

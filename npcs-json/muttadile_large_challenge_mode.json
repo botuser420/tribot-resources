@@ -1,0 +1,38 @@
+{
+    "npcIds": [
+        7561,
+        7563
+    ],
+    "name": "Muttadile",
+    "hitpoints": 375,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        71,
+        67,
+        34,
+        106
+    ],
+    "monsterAttribute": "xerician",
+    "size": 5,
+    "attackLevel": 375,
+    "strengthLevel": 375,
+    "defenceLevel": 330,
+    "magicLevel": 375,
+    "rangedLevel": 375,
+    "attackBonus": 88,
+    "strengthBonus": 55,
+    "magicDamageBonus": -8,
+    "rangedAttackBonus": 82,
+    "rangedStrengthBonus": 47,
+    "stabDefenceBonus": -5,
+    "slashDefenceBonus": 82,
+    "crushDefenceBonus": 60,
+    "magicDefenceBonus": 75,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,40 @@
+{
+    "npcIds": [
+        10400
+    ],
+    "name": "Guardian Drake",
+    "hitpoints": 630,
+    "combatLevel": 386,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "RANGED"
+    ],
+    "maxHits": [
+        35
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Drakes",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 7245.0,
+    "size": 5,
+    "attackLevel": 270,
+    "strengthLevel": 280,
+    "defenceLevel": 200,
+    "magicLevel": 300,
+    "rangedLevel": 240,
+    "strengthBonus": 12,
+    "rangedAttackBonus": 40,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 20,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 150,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

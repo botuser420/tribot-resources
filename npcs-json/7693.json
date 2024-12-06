@@ -1,0 +1,42 @@
+{
+    "npcIds": [
+        7693
+    ],
+    "name": "Jal-Ak",
+    "hitpoints": 40,
+    "combatLevel": 165,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED",
+        "MAGIC",
+        "CRUSH"
+    ],
+    "maxHits": [
+        29
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 40.0,
+    "size": 3,
+    "attackLevel": 160,
+    "strengthLevel": 160,
+    "defenceLevel": 95,
+    "magicLevel": 160,
+    "rangedLevel": 160,
+    "strengthBonus": 45,
+    "magicAttackBonus": 45,
+    "magicDamageBonus": 45,
+    "rangedAttackBonus": 45,
+    "rangedStrengthBonus": 45,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 25,
+    "magicDefenceBonus": 25,
+    "rangedDefenceBonus": 25,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

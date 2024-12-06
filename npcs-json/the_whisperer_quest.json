@@ -30,7 +30,7 @@
     "strengthBonus": 10,
     "magicAttackBonus": 180,
     "magicDamageBonus": 54,
-    "rangeAttackBonus": 140,
+    "rangedAttackBonus": 140,
     "rangedStrengthBonus": 66,
     "stabDefenceBonus": 180,
     "slashDefenceBonus": 300,

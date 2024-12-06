@@ -22,7 +22,7 @@
     "rangedLevel": 260,
     "magicAttackBonus": 45,
     "magicDamageBonus": 20,
-    "rangeAttackBonus": 45,
+    "rangedAttackBonus": 45,
     "rangedStrengthBonus": 20,
     "stabDefenceBonus": 75,
     "slashDefenceBonus": 150,

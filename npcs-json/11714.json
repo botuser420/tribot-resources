@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        11714
+    ],
+    "name": "Baboon Mage",
+    "hitpoints": 25,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 20,
+    "magicLevel": 60,
+    "rangedLevel": 40,
+    "attackBonus": 25,
+    "magicAttackBonus": 25,
+    "rangedAttackBonus": 25,
+    "stabDefenceBonus": 900,
+    "slashDefenceBonus": 900,
+    "crushDefenceBonus": 900,
+    "magicDefenceBonus": 900,
+    "rangedDefenceBonus": -50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}
