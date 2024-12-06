@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        2067
+    ],
+    "name": "Mounted terrorbird gnome",
+    "hitpoints": 36,
+    "combatLevel": 31,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 36.0,
+    "size": 2,
+    "attackLevel": 25,
+    "strengthLevel": 25,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 16,
+    "slashDefenceBonus": 16,
+    "crushDefenceBonus": 18,
+    "magicDefenceBonus": 15,
+    "rangedDefenceBonus": 10
+}

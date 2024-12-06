@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        6321
+    ],
+    "name": "Jungle Demon (hard)",
+    "hitpoints": 255,
+    "combatLevel": 327,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        62
+    ],
+    "size": 3,
+    "attackLevel": 340,
+    "strengthLevel": 340,
+    "defenceLevel": 170,
+    "magicLevel": 340,
+    "rangedLevel": 1,
+    "attackBonus": 50,
+    "strengthBonus": 50,
+    "slashDefenceBonus": 50,
+    "magicDefenceBonus": 50
+}

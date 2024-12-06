@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        8056
+    ],
+    "name": "Spawn",
+    "hitpoints": 80,
+    "combatLevel": 100,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 1,
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 60,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicAttackBonus": 1,
+    "rangeAttackBonus": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "rangedDefenceBonus": 5
+}

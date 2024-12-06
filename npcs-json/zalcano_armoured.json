@@ -1,0 +1,20 @@
+{
+    "npcIds": [
+        9049
+    ],
+    "name": "Zalcano",
+    "hitpoints": 300,
+    "combatLevel": 336,
+    "attackSpeed": 5,
+    "maxHits": [
+        53
+    ],
+    "size": 5,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

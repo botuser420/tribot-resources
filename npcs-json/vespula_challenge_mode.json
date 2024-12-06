@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        7530,
+        7531,
+        7532
+    ],
+    "name": "Vespula",
+    "hitpoints": 288,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MELEE",
+        "RANGED"
+    ],
+    "monsterAttribute": "xerician",
+    "size": 5,
+    "attackLevel": 225,
+    "strengthLevel": 225,
+    "defenceLevel": 132,
+    "magicLevel": 132,
+    "rangedLevel": 225,
+    "strengthBonus": -8,
+    "rangedStrengthBonus": -8,
+    "magicDefenceBonus": 70,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 60,
+    "lightRangedDefenceBonus": 20,
+    "immuneToPoison": true
+}

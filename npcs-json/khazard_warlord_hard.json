@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        6329
+    ],
+    "name": "Khazard warlord (hard)",
+    "hitpoints": 255,
+    "combatLevel": 192,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "size": 1,
+    "attackLevel": 165,
+    "strengthLevel": 170,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        6309
+    ],
+    "name": "Flambeed (hard)",
+    "hitpoints": 255,
+    "combatLevel": 238,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        25
+    ],
+    "size": 5,
+    "attackLevel": 240,
+    "strengthLevel": 240,
+    "defenceLevel": 75,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 100,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 50
+}

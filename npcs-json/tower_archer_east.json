@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        6066
+    ],
+    "name": "Tower Archer",
+    "hitpoints": 50,
+    "combatLevel": 34,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 40,
+    "rangedStrengthBonus": 22,
+    "magicDefenceBonus": 24,
+    "rangedDefenceBonus": 40
+}

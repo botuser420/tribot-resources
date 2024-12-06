@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        2537
+    ],
+    "name": "H.A.M. Guard",
+    "hitpoints": 20,
+    "combatLevel": 18,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 14,
+    "strengthLevel": 18,
+    "defenceLevel": 12,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 6,
+    "slashDefenceBonus": 6,
+    "rangedDefenceBonus": 6
+}

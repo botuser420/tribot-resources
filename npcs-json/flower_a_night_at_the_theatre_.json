@@ -1,0 +1,17 @@
+{
+    "npcIds": [
+        11193,
+        11194
+    ],
+    "name": "Flower",
+    "hitpoints": 10,
+    "attackSpeed": -1,
+    "maxHits": [
+        0
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

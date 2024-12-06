@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        2046
+    ],
+    "name": "Snakeling",
+    "hitpoints": 1,
+    "combatLevel": 90,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        13
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 185,
+    "rangedLevel": 1,
+    "attackBonus": 120,
+    "magicAttackBonus": 80,
+    "magicDamageBonus": -20,
+    "stabDefenceBonus": -40,
+    "slashDefenceBonus": -40,
+    "crushDefenceBonus": -40,
+    "magicDefenceBonus": -40,
+    "rangedDefenceBonus": -40,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

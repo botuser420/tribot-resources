@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        13476
+    ],
+    "name": "Skeleton",
+    "hitpoints": 54,
+    "combatLevel": 132,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        19
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 54.0,
+    "size": 1,
+    "attackLevel": 160,
+    "strengthLevel": 180,
+    "defenceLevel": 62,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 30,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 25,
+    "magicDefenceBonus": 10,
+    "elementalWeakness": "Air",
+    "elementalWeaknessPercent": 35,
+    "rangedDefenceBonus": 30
+}

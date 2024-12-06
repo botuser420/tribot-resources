@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        140
+    ],
+    "name": "Dagannoth",
+    "hitpoints": 142,
+    "combatLevel": 135,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        22
+    ],
+    "size": 3,
+    "attackLevel": 114,
+    "strengthLevel": 117,
+    "defenceLevel": 98,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 50,
+    "rangedStrengthBonus": 50,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 50
+}

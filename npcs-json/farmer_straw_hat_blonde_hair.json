@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        11918
+    ],
+    "name": "Farmer",
+    "hitpoints": 12,
+    "combatLevel": 7,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 3,
+    "strengthLevel": 4,
+    "defenceLevel": 8,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "strengthBonus": 6
+}

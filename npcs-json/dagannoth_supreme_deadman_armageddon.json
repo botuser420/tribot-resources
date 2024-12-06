@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        12441
+    ],
+    "name": "Dagannoth Supreme",
+    "hitpoints": 1000,
+    "combatLevel": 436,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 3,
+    "attackLevel": 255,
+    "strengthLevel": 255,
+    "defenceLevel": 84,
+    "magicLevel": 255,
+    "rangedLevel": 255,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 255,
+    "rangedDefenceBonus": 550,
+    "immuneToVenom": true
+}

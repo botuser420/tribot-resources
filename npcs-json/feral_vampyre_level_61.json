@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        3237
+    ],
+    "name": "Feral Vampyre",
+    "hitpoints": 40,
+    "combatLevel": 61,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        7
+    ],
+    "monsterAttribute": "vampyre1",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 40.0,
+    "size": 1,
+    "attackLevel": 55,
+    "strengthLevel": 60,
+    "defenceLevel": 55,
+    "magicLevel": 40,
+    "rangedLevel": 1
+}

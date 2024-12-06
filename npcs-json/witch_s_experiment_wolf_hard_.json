@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        6336
+    ],
+    "name": "Witch's experiment (fourth form) (hard)",
+    "hitpoints": 113,
+    "combatLevel": 103,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 2,
+    "attackLevel": 105,
+    "strengthLevel": 88,
+    "defenceLevel": 49,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

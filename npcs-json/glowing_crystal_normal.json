@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        7568
+    ],
+    "name": "Glowing crystal",
+    "hitpoints": 120,
+    "attackSpeed": 4,
+    "maxHits": [
+        0
+    ],
+    "monsterAttribute": "xerician",
+    "size": 4,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -5,
+    "slashDefenceBonus": 180,
+    "crushDefenceBonus": 180,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

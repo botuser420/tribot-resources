@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        7585
+    ],
+    "name": "Ice demon",
+    "hitpoints": 210,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED",
+        "MAGIC"
+    ],
+    "monsterAttribute": "demon",
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 240,
+    "magicLevel": 585,
+    "rangedLevel": 585,
+    "stabDefenceBonus": 70,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 110,
+    "magicDefenceBonus": 40,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 150,
+    "rangedDefenceBonus": 140,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

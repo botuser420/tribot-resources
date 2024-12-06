@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        138
+    ],
+    "name": "Kalphite Soldier",
+    "hitpoints": 90,
+    "combatLevel": 85,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 3,
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 25,
+    "slashDefenceBonus": 25,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 50
+}

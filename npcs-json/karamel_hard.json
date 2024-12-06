@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        6310
+    ],
+    "name": "Karamel (hard)",
+    "hitpoints": 255,
+    "combatLevel": 186,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        57
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 200,
+    "rangeAttackBonus": 268,
+    "rangedStrengthBonus": 110,
+    "stabDefenceBonus": 150,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150,
+    "magicDefenceBonus": 150,
+    "rangedDefenceBonus": 150,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

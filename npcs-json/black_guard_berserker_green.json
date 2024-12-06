@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        6052,
+        2232
+    ],
+    "name": "Black Guard Berserker",
+    "hitpoints": 50,
+    "combatLevel": 66,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        13
+    ],
+    "slayerCategory": "Dwarves",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 60,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 55,
+    "strengthBonus": 55,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 60,
+    "crushDefenceBonus": 60,
+    "rangedDefenceBonus": 60
+}

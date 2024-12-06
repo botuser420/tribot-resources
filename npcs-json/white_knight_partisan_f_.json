@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        11951
+    ],
+    "name": "White Knight",
+    "hitpoints": 55,
+    "combatLevel": 42,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 32,
+    "strengthLevel": 35,
+    "defenceLevel": 27,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 30,
+    "strengthBonus": 31,
+    "stabDefenceBonus": 83,
+    "slashDefenceBonus": 76,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": -11,
+    "rangedDefenceBonus": 85
+}

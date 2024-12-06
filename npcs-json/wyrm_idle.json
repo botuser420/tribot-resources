@@ -1,0 +1,43 @@
+{
+    "npcIds": [
+        8610
+    ],
+    "name": "Wyrm",
+    "hitpoints": 130,
+    "combatLevel": 99,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "SLASH"
+    ],
+    "maxHits": [
+        13,
+        10
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Wyrms",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 133.2,
+    "size": 3,
+    "attackLevel": 85,
+    "strengthLevel": 60,
+    "defenceLevel": 80,
+    "magicLevel": 80,
+    "rangedLevel": 80,
+    "strengthBonus": 30,
+    "magicDamageBonus": 30,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 50,
+    "elementalWeakness": "Earth",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 20,
+    "heavyRangedDefenceBonus": 10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

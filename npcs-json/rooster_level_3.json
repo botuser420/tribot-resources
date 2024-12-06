@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        1175
+    ],
+    "name": "Rooster",
+    "hitpoints": 7,
+    "combatLevel": 3,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        1
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 7.0,
+    "size": 1,
+    "attackLevel": 2,
+    "strengthLevel": 2,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": -20,
+    "strengthBonus": -20,
+    "stabDefenceBonus": -42,
+    "slashDefenceBonus": -42,
+    "crushDefenceBonus": -42,
+    "magicDefenceBonus": -42,
+    "rangedDefenceBonus": -42,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

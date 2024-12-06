@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        12393
+    ],
+    "name": "Abyssal leech",
+    "hitpoints": 50,
+    "combatLevel": 32,
+    "attackSpeed": 2,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 1,
+    "attackLevel": 50,
+    "strengthLevel": 10,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 10
+}

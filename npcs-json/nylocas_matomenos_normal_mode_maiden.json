@@ -1,0 +1,20 @@
+{
+    "npcIds": [
+        8366
+    ],
+    "name": "Nylocas Matomenos",
+    "hitpoints": 100,
+    "combatLevel": 115,
+    "attackSpeed": -1,
+    "maxHits": [
+        11
+    ],
+    "size": 2,
+    "attackLevel": 100,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "rangedLevel": 100,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        6726
+    ],
+    "name": "Rock Golem",
+    "hitpoints": 40,
+    "combatLevel": 29,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        3
+    ],
+    "monsterAttribute": "golem",
+    "size": 1,
+    "attackLevel": 22,
+    "strengthLevel": 22,
+    "defenceLevel": 22,
+    "magicLevel": 1,
+    "rangedLevel": 20
+}

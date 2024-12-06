@@ -1,0 +1,19 @@
+{
+    "npcIds": [
+        1730,
+        1731
+    ],
+    "name": "Defiler",
+    "hitpoints": 78,
+    "combatLevel": 80,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 1,
+    "defenceLevel": 53,
+    "rangedLevel": 98
+}

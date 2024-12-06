@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        8347,
+        8353,
+        10796,
+        10802
+    ],
+    "name": "Nylocas Hagios",
+    "hitpoints": 22,
+    "combatLevel": 260,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        24
+    ],
+    "size": 2,
+    "attackLevel": 250,
+    "strengthLevel": 230,
+    "defenceLevel": 20,
+    "magicLevel": 20,
+    "rangedLevel": 250,
+    "magicAttackBonus": 500,
+    "magicDamageBonus": 500,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

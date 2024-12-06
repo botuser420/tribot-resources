@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        10940,
+        10941,
+        10942
+    ],
+    "name": "Assassin",
+    "hitpoints": 120,
+    "combatLevel": 132,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "RANGED"
+    ],
+    "maxHits": [
+        12
+    ],
+    "size": 1,
+    "attackLevel": 112,
+    "strengthLevel": 112,
+    "defenceLevel": 92,
+    "magicLevel": 92,
+    "rangedLevel": 112,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 20,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

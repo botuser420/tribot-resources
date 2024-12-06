@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        4533
+    ],
+    "name": "Blessed spider",
+    "hitpoints": 32,
+    "combatLevel": 39,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 32.0,
+    "size": 1,
+    "attackLevel": 35,
+    "strengthLevel": 35,
+    "defenceLevel": 35,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 16,
+    "crushDefenceBonus": 7,
+    "magicDefenceBonus": 12,
+    "rangedDefenceBonus": 16
+}

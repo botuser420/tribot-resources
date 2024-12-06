@@ -1,0 +1,37 @@
+{
+    "npcIds": [
+        2242
+    ],
+    "name": "Spiritual ranger",
+    "hitpoints": 131,
+    "combatLevel": 115,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        13
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Spiritual Creatures",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 131.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 96,
+    "magicLevel": 1,
+    "rangedLevel": 121,
+    "stabDefenceBonus": 12,
+    "slashDefenceBonus": 14,
+    "crushDefenceBonus": 13,
+    "magicDefenceBonus": 5,
+    "elementalWeakness": "None",
+    "rangedDefenceBonus": 13
+}

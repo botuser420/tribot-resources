@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        3474,
+        6351
+    ],
+    "name": "The Everlasting",
+    "hitpoints": 230,
+    "combatLevel": 223,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        24
+    ],
+    "size": 3,
+    "attackLevel": 187,
+    "strengthLevel": 231,
+    "defenceLevel": 120,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

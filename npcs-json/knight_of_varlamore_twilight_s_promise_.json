@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        12916
+    ],
+    "name": "Knight of Varlamore",
+    "hitpoints": 100,
+    "combatLevel": 81,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 40,
+    "magicLevel": 20,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 28,
+    "slashDefenceBonus": 26,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 20
+}

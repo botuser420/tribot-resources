@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        5646
+    ],
+    "name": "Tentacle",
+    "hitpoints": 75,
+    "combatLevel": 99,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        12
+    ],
+    "size": 1,
+    "attackLevel": 115,
+    "strengthLevel": 76,
+    "defenceLevel": 75,
+    "magicLevel": 50,
+    "rangedLevel": 115
+}

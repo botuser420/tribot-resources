@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        11290
+    ],
+    "name": "Spiritual Warrior",
+    "hitpoints": 100,
+    "combatLevel": 158,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        20,
+        40
+    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "Spiritual Creatures",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE"
+    ],
+    "slayerExperience": 105.0,
+    "size": 1,
+    "attackLevel": 190,
+    "strengthLevel": 190,
+    "defenceLevel": 100,
+    "magicLevel": 50,
+    "rangedLevel": 1,
+    "rangeAttackBonus": 110,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 80,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 200,
+    "rangedDefenceBonus": 250
+}

@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        3018
+    ],
+    "name": "Giant spider",
+    "hitpoints": 32,
+    "combatLevel": 27,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 33.0,
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 24,
+    "defenceLevel": 21,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50
+}

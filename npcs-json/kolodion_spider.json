@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        1607
+    ],
+    "name": "Kolodion",
+    "hitpoints": 78,
+    "attackSpeed": 7,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        20
+    ],
+    "slayerCategory": "No",
+    "size": 3,
+    "attackLevel": 69,
+    "strengthLevel": 78,
+    "defenceLevel": 47,
+    "magicLevel": 70,
+    "rangedLevel": 1
+}

@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        3428
+    ],
+    "name": "Iorwerth Archer",
+    "hitpoints": 105,
+    "combatLevel": 90,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        11
+    ],
+    "slayerCategory": "Elves",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 105.0,
+    "size": 1,
+    "attackLevel": 10,
+    "strengthLevel": 10,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 90,
+    "rangedStrengthBonus": 8,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 60,
+    "rangedDefenceBonus": 70
+}

@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        7989
+    ],
+    "name": "Ogress Warrior",
+    "hitpoints": 82,
+    "combatLevel": 82,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Ogres",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 82.0,
+    "size": 2,
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 82,
+    "magicLevel": 60,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 12,
+    "crushDefenceBonus": 12,
+    "magicDefenceBonus": 14,
+    "rangedDefenceBonus": 16
+}

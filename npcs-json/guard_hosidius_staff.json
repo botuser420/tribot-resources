@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        399,
+        400
+    ],
+    "name": "Guard",
+    "hitpoints": 22,
+    "combatLevel": 19,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 15,
+    "strengthLevel": 15,
+    "defenceLevel": 16,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 6,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": -4,
+    "rangedDefenceBonus": 5
+}

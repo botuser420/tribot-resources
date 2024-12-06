@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        6402
+    ],
+    "name": "Mosquito swarm",
+    "hitpoints": 15,
+    "combatLevel": 20,
+    "attackSpeed": 2,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 15,
+    "strengthLevel": 1,
+    "defenceLevel": 45,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 2,
+    "slashDefenceBonus": 2,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 2
+}

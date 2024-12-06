@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        7916
+    ],
+    "name": "Thief",
+    "hitpoints": 22,
+    "combatLevel": 21,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 19,
+    "strengthLevel": 18,
+    "defenceLevel": 14,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 7,
+    "stabDefenceBonus": 24,
+    "slashDefenceBonus": 14,
+    "crushDefenceBonus": 19,
+    "magicDefenceBonus": 4,
+    "rangedDefenceBonus": 16
+}

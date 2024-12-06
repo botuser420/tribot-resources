@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        6082
+    ],
+    "name": "Gnome guard",
+    "hitpoints": 31,
+    "combatLevel": 23,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 18,
+    "strengthLevel": 18,
+    "defenceLevel": 18,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 6,
+    "strengthBonus": 7,
+    "stabDefenceBonus": 8,
+    "slashDefenceBonus": 9,
+    "crushDefenceBonus": 7,
+    "rangedDefenceBonus": 8
+}

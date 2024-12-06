@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        7573,
+        7574
+    ],
+    "name": "Lizardman shaman",
+    "hitpoints": 285,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "RANGED"
+    ],
+    "monsterAttribute": "xerician",
+    "slayerCategory": "Lizardmen",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "size": 3,
+    "attackLevel": 195,
+    "strengthLevel": 195,
+    "defenceLevel": 315,
+    "magicLevel": 195,
+    "rangedLevel": 195,
+    "attackBonus": 58,
+    "strengthBonus": 52,
+    "rangeAttackBonus": 56,
+    "rangedStrengthBonus": 49,
+    "stabDefenceBonus": 102,
+    "slashDefenceBonus": 160,
+    "crushDefenceBonus": 150,
+    "magicDefenceBonus": 160,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

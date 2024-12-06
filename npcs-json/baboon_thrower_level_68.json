@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        11713
+    ],
+    "name": "Baboon Thrower",
+    "hitpoints": 35,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 60,
+    "defenceLevel": 20,
+    "magicLevel": 60,
+    "rangedLevel": 40,
+    "attackBonus": 25,
+    "magicAttackBonus": 25,
+    "rangeAttackBonus": 25,
+    "stabDefenceBonus": -50,
+    "slashDefenceBonus": -50,
+    "crushDefenceBonus": -50,
+    "magicDefenceBonus": 900,
+    "rangedDefenceBonus": 900,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

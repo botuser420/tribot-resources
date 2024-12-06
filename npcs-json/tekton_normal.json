@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        7540,
+        7541,
+        7542
+    ],
+    "name": "Tekton",
+    "hitpoints": 300,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        52
+    ],
+    "monsterAttribute": "xerician",
+    "size": 4,
+    "attackLevel": 390,
+    "strengthLevel": 390,
+    "defenceLevel": 205,
+    "magicLevel": 205,
+    "rangedLevel": 1,
+    "attackBonus": 64,
+    "strengthBonus": 20,
+    "stabDefenceBonus": 155,
+    "slashDefenceBonus": 165,
+    "crushDefenceBonus": 105,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

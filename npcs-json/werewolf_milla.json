@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        2604
+    ],
+    "name": "Werewolf",
+    "hitpoints": 100,
+    "combatLevel": 88,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Werewolves",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 100.0,
+    "size": 1,
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 60
+}

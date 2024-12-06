@@ -1,0 +1,38 @@
+{
+    "npcIds": [
+        6046,
+        6047,
+        6048,
+        6049,
+        8474,
+        8475,
+        8476
+    ],
+    "name": "Black Guard",
+    "hitpoints": 40,
+    "combatLevel": 48,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Dwarves",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 40.0,
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 45,
+    "defenceLevel": 45,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 30,
+    "strengthBonus": 30,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "rangedDefenceBonus": 40
+}

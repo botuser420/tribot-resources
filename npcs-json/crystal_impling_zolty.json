@@ -1,0 +1,18 @@
+{
+    "npcIds": [
+        8747
+    ],
+    "name": "Crystal impling",
+    "hitpoints": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": -10,
+    "strengthBonus": -10,
+    "stabDefenceBonus": -10,
+    "slashDefenceBonus": -10,
+    "crushDefenceBonus": -10,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": -10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

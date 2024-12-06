@@ -1,0 +1,41 @@
+{
+    "npcIds": [
+        3459,
+        3460,
+        6344
+    ],
+    "name": "Dessous",
+    "hitpoints": 200,
+    "combatLevel": 139,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        19
+    ],
+    "monsterAttribute": "vampyre1",
+    "slayerCategory": "Vampyres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 220.0,
+    "size": 1,
+    "attackLevel": 99,
+    "strengthLevel": 99,
+    "defenceLevel": 99,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 50,
+    "strengthBonus": 50,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150,
+    "immuneToVenom": true
+}

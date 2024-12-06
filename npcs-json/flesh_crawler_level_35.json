@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        2499
+    ],
+    "name": "Flesh Crawler",
+    "hitpoints": 25,
+    "combatLevel": 35,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "slayerCategory": "Flesh Crawlers",
+    "assignedBy": [
+        "MAZCHNA"
+    ],
+    "slayerExperience": 25.0,
+    "size": 2,
+    "attackLevel": 80,
+    "strengthLevel": 2,
+    "defenceLevel": 10,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 15,
+    "rangedDefenceBonus": 15
+}

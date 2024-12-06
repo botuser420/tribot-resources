@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        82,
+        83
+    ],
+    "name": "Skeleton",
+    "hitpoints": 59,
+    "combatLevel": 45,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 59.0,
+    "size": 1,
+    "attackLevel": 32,
+    "strengthLevel": 35,
+    "defenceLevel": 36,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 15,
+    "strengthBonus": 14,
+    "stabDefenceBonus": 9,
+    "slashDefenceBonus": 11,
+    "crushDefenceBonus": -2,
+    "magicDefenceBonus": 1,
+    "elementalWeakness": "Air",
+    "elementalWeaknessPercent": 35,
+    "rangedDefenceBonus": 4
+}

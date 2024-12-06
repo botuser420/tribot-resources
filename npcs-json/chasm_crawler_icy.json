@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        14031
+    ],
+    "name": "Chasm Crawler",
+    "hitpoints": 60,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "Cave Crawlers",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 600.0,
+    "size": 3,
+    "attackLevel": 64,
+    "strengthLevel": 59,
+    "defenceLevel": 55,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 41,
+    "slashDefenceBonus": 43,
+    "crushDefenceBonus": 23,
+    "magicDefenceBonus": 24,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 40,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

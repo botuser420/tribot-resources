@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        4695
+    ],
+    "name": "Hopeless creature",
+    "hitpoints": 71,
+    "combatLevel": 71,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 2,
+    "attackLevel": 59,
+    "strengthLevel": 62,
+    "defenceLevel": 59,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        7552
+    ],
+    "name": "Great Olm (Left claw)",
+    "hitpoints": 600,
+    "combatLevel": 750,
+    "attackSpeed": 4,
+    "maxHits": [
+        0
+    ],
+    "monsterAttribute": "dragon",
+    "size": 5,
+    "attackLevel": 250,
+    "strengthLevel": 250,
+    "defenceLevel": 175,
+    "magicLevel": 175,
+    "rangedLevel": 250,
+    "magicAttackBonus": 60,
+    "rangeAttackBonus": 60,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 200,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}
