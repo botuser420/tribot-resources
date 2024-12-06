@@ -1,0 +1,24 @@
+{
+    "itemId": 6468,
+    "itemName": "Plant cure",
+    "examine": "This plant cure emits potency.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Plant cure",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rune dust",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Plant cure (Garden of Tranquillity)"
+            }
+        }
+    ]
+}

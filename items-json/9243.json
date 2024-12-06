@@ -1,0 +1,46 @@
+{
+    "itemId": 9243,
+    "itemName": "Diamond bolts (e)",
+    "examine": "Enchanted Diamond tipped Adamantite Crossbow Bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Diamond bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 10
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 67.0,
+                    "level": 57,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Diamond bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 105
+    }
+}

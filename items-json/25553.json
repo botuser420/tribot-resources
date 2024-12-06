@@ -1,0 +1,28 @@
+{
+    "itemId": 25553,
+    "itemName": "Golden prospector legs",
+    "examine": "Helps you when you're mining. Looks good too.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Prospector legs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Star fragment",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Golden prospector legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 567,
+    "itemName": "Unpowered orb",
+    "examine": "I'd prefer it if it was powered.",
+    "weight": 0.453,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Molten glass",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Glassblowing pipe",
+            "skills": [
+                {
+                    "experience": 52.5,
+                    "level": 46,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unpowered orb"
+            }
+        }
+    ]
+}

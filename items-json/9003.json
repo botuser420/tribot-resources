@@ -1,0 +1,7 @@
+{
+    "itemId": 9003,
+    "itemName": "Security book",
+    "examine": "WARNING: Contains information which could make your account secure!",
+    "weight": 0.01,
+    "buyLimit": 15
+}

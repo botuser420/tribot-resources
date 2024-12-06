@@ -1,0 +1,21 @@
+{
+    "itemId": 7575,
+    "itemName": "Tchiki nut paste",
+    "examine": "Mixing this with jam would just be wrong.",
+    "weight": 0.008,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Tchiki monkey nuts",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Tchiki nut paste"
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "itemId": 5533,
+    "itemName": "Body tiara",
+    "examine": "A tiara infused with the properties of the body.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Body talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Body Altar",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Body tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

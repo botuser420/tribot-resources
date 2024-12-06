@@ -1,0 +1,31 @@
+{
+    "itemId": 29531,
+    "itemName": "Super truth serum",
+    "examine": "Fluid sloshes innocently in this vial.",
+    "weight": 0.05,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Truth serum (While Guthix Sleeps)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Enriched snapdragon",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 65,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Super truth serum"
+            }
+        }
+    ]
+}

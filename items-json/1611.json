@@ -1,0 +1,31 @@
+{
+    "itemId": 1611,
+    "itemName": "Jade",
+    "examine": "A semi precious stone.",
+    "weight": 0.002,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Uncut jade",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 13,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Jade"
+            }
+        }
+    ]
+}

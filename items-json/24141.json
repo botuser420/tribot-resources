@@ -1,0 +1,20 @@
+{
+    "itemId": 24141,
+    "itemName": "Adamant defender (l)",
+    "examine": "A defensive weapon.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 13,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 11,
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 11,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": -2,
+        "strengthBonus": 4
+    }
+}

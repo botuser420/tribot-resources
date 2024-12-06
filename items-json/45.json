@@ -1,0 +1,31 @@
+{
+    "itemId": 45,
+    "itemName": "Opal bolt tips",
+    "examine": "Opal bolt tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Opal",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 1.5,
+                    "level": 11,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Opal bolt tips"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 1849,
+    "itemName": "Prototype dart",
+    "examine": "A prototype throwing dart.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Prototype dart tip",
+                    "quantity": 1
+                },
+                {
+                    "name": "Feather",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 10,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Prototype dart"
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "itemId": 4608,
+    "itemName": "Super kebab",
+    "examine": "A meaty and very hot kebab.",
+    "weight": 0.25,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Kebab",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red hot sauce",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Super kebab"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Ugthanki kebab",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red hot sauce",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Super kebab"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Ugthanki kebab (smelling)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red hot sauce",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Super kebab"
+            }
+        }
+    ]
+}

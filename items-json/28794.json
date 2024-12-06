@@ -1,0 +1,61 @@
+{
+    "itemId": 28794,
+    "itemName": "Bone shortbow",
+    "examine": "A shortbow made out of yew and Scurrius' spine, but still effective.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Yew shortbow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scurrius' spine",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 300.0,
+                    "level": 35,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bone shortbow"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Yew shortbow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scurrius' spine",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 50000
+                }
+            ],
+            "facilities": "Historian Aldo",
+            "output": {
+                "quantity": 1,
+                "name": "Bone shortbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 69,
+        "attackDistance": 7,
+        "attackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

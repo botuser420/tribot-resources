@@ -1,0 +1,39 @@
+{
+    "itemId": 571,
+    "itemName": "Water orb",
+    "examine": "A magic glowing orb.",
+    "weight": 0.453,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Unpowered orb",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 30
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Obelisk of Water",
+            "skills": [
+                {
+                    "experience": 66.0,
+                    "level": 56,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Water orb"
+            }
+        }
+    ]
+}

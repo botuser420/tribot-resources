@@ -1,0 +1,7 @@
+{
+    "itemId": 19665,
+    "itemName": "Damaged monkey tail",
+    "examine": "Smells like the north end of a southbound monkey, because it is.",
+    "weight": 0.25,
+    "buyLimit": 13000
+}

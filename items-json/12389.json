@@ -1,0 +1,18 @@
+{
+    "itemId": 12389,
+    "itemName": "Gilded scimitar",
+    "examine": "Rune scimitar with gold plate.",
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": 45,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 44,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 9924,
+    "itemName": "Skeleton shirt",
+    "examine": "The shirt of a full body skeleton costume.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

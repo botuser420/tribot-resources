@@ -1,0 +1,17 @@
+{
+    "itemId": 11838,
+    "itemName": "Saradomin sword",
+    "examine": "The incredible blade of an Icyene.",
+    "weight": 3.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 82,
+        "crushAttackBonus": 60,
+        "strengthBonus": 82,
+        "prayerBonus": 2,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

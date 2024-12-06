@@ -1,0 +1,16 @@
+{
+    "itemId": 26720,
+    "itemName": "Bandos boots (or)",
+    "examine": "Some sturdy boots.",
+    "weight": 6.0,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 18,
+        "crushDefenceBonus": 19,
+        "rangeDefenceBonus": 15,
+        "prayerBonus": 1
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "itemId": 9733,
+    "itemName": "Mind helmet",
+    "examine": "A magic helmet.",
+    "weight": 0.113,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Primed mind bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Workbench (Elemental Workshop)",
+            "tools": "Hammer, Beaten book",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 30,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mind helmet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicDefenceBonus": 6
+    }
+}

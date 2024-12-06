@@ -1,0 +1,32 @@
+{
+    "itemId": 13406,
+    "itemName": "Servery incomplete pizza",
+    "examine": "I need to add some cheese next.",
+    "weight": 0.6,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery pizza base",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servery tomato",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 65,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery incomplete pizza"
+            }
+        }
+    ]
+}

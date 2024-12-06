@@ -1,0 +1,9 @@
+{
+    "itemId": 27588,
+    "itemName": "Festive games crown",
+    "examine": "Awarded to those with the most Christmas spirit.",
+    "weight": 0.05,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

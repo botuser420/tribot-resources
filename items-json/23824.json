@@ -1,0 +1,44 @@
+{
+    "itemId": 23824,
+    "itemName": "Corrupted shards",
+    "examine": "Shards of corrupted crystal, used to craft items within the Gauntlet.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Corrupted spike",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 80,
+                "name": "Corrupted shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Corrupted bowstring",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 80,
+                "name": "Corrupted shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Corrupted orb",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 80,
+                "name": "Corrupted shards"
+            }
+        }
+    ]
+}

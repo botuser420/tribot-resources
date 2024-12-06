@@ -1,0 +1,38 @@
+{
+    "itemId": 24319,
+    "itemName": "Spookier skirt",
+    "examine": "A spooky skirt cut from a bedsheet!",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Spooky skirt",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Ectofuntus",
+            "output": {
+                "quantity": 1,
+                "name": "Spookier skirt"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Spooky skirt",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Swampy sink",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Spookier skirt"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

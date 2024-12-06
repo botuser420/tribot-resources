@@ -1,0 +1,28 @@
+{
+    "itemId": 29407,
+    "itemName": "Token",
+    "examine": "A small token.",
+    "weight": 0.123,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Blessed bat bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Token (Varlamore)"
+            }
+        }
+    ]
+}

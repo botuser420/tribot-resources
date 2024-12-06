@@ -1,0 +1,9 @@
+{
+    "itemId": 27023,
+    "itemName": "Smiths tunic",
+    "examine": "Is that a dwarven name stitched into the collar?",
+    "weight": 0.62,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

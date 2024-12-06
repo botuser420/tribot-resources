@@ -1,0 +1,11 @@
+{
+    "itemId": 13184,
+    "itemName": "Incomplete blaster",
+    "examine": "It's loaded with explosive rounds only.",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1,
+        "weaponType": "GUN"
+    }
+}

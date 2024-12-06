@@ -1,0 +1,35 @@
+{
+    "itemId": 9465,
+    "itemName": "Runite crossbow (u)",
+    "examine": "An unstrung runite crossbow.",
+    "weight": 8.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Yew stock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Runite limbs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 69,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Runite crossbow (u)"
+            }
+        }
+    ]
+}

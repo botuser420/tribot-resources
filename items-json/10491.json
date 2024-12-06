@@ -1,0 +1,37 @@
+{
+    "itemId": 10491,
+    "itemName": "Blessed axe",
+    "examine": "It radiates purity but can still lop off heads.",
+    "weight": 1.162,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mithril axe",
+                    "quantity": 1
+                },
+                {
+                    "name": "Holy symbol",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Turael",
+            "output": {
+                "quantity": 1,
+                "name": "Blessed axe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 10,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 13,
+        "prayerBonus": 2,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "itemId": 10851,
+    "itemName": "Winter sq'irkjuice",
+    "examine": "Made from 5 winter sq'irks.",
+    "weight": 0.05,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Winter sq'irk",
+                    "quantity": 5
+                },
+                {
+                    "name": "Beer glass",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Winter sq'irkjuice"
+            }
+        }
+    ]
+}

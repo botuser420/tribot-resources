@@ -1,0 +1,13 @@
+{
+    "itemId": 7159,
+    "itemName": "Insulated boots",
+    "examine": "They're heavily insulated wellies.",
+    "weight": 1.36,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "FEET",
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "rangeDefenceBonus": 1
+    }
+}

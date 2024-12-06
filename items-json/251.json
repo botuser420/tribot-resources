@@ -1,0 +1,29 @@
+{
+    "itemId": 251,
+    "itemName": "Marrentill",
+    "examine": "A herb used in poison cures.",
+    "weight": 0.007,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy marrentill",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 3.8,
+                    "level": 5,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Marrentill"
+            }
+        }
+    ]
+}

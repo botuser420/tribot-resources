@@ -1,0 +1,49 @@
+{
+    "itemId": 1991,
+    "itemName": "Jug of bad wine",
+    "examine": "Oh dear, this wine is terrible!",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "ticks": 20,
+            "materials": [
+                {
+                    "name": "Unfermented wine",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Jug of bad wine"
+            }
+        },
+        {
+            "ticks": 20,
+            "materials": [
+                {
+                    "name": "Zamorak's unfermented wine",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 65,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Jug of bad wine"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 6299,
+    "itemName": "Spider on shaft",
+    "examine": "A nicely roasted spider threaded onto an arrow shaft.",
+    "weight": 0.9,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Spider on shaft (raw)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 80.0,
+                    "level": 16,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spider on shaft"
+            }
+        }
+    ]
+}

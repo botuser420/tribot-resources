@@ -1,0 +1,26 @@
+{
+    "itemId": 21909,
+    "itemName": "Vorkath's stuffed head",
+    "examine": "I could mount this on my wall!",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vorkath's head",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 50000
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Vorkath's stuffed head"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 10006,
+    "itemName": "Bird snare",
+    "examine": "A simple bird catcher.",
+    "weight": 0.453,
+    "buyLimit": 250
+}

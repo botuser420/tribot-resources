@@ -1,0 +1,26 @@
+{
+    "itemId": 29382,
+    "itemName": "Jug of sunfire wine",
+    "examine": "A jug of sunfire wine. Not for drinking.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Sunfire splinters",
+                    "quantity": 2
+                },
+                {
+                    "name": "Jug of wine",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Jug of sunfire wine"
+            }
+        }
+    ]
+}

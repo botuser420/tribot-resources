@@ -1,0 +1,68 @@
+{
+    "itemId": 1129,
+    "itemName": "Leather body",
+    "examine": "Better than no armour!",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 14,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Leather body"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 14,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Leather body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -2,
+        "rangedAttackBonus": 2,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 9
+    }
+}

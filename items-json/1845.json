@@ -1,0 +1,9 @@
+{
+    "itemId": 1845,
+    "itemName": "Slave robe",
+    "examine": "A filthy, smelly, flea infested robe.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 6625,
+    "itemName": "White platelegs",
+    "examine": "Big, White and heavy looking.",
+    "weight": 9.071,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 19,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 20,
+        "prayerBonus": 1
+    }
+}

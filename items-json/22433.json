@@ -1,0 +1,38 @@
+{
+    "itemId": 22433,
+    "itemName": "Emerald sickle (b)",
+    "examine": "It's a blessed silver sickle with an emerald recessed into it.",
+    "weight": 1.587,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Silver sickle (b)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "output": {
+                "quantity": 1,
+                "name": "Emerald sickle (b)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 2,
+        "prayerBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

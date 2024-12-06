@@ -1,0 +1,42 @@
+{
+    "itemId": 9098,
+    "itemName": "Lunar legs",
+    "examine": "These should protect my legs.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Suqah leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 61,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 7,
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 19,
+        "crushDefenceBonus": 23,
+        "magicDefenceBonus": 9
+    }
+}

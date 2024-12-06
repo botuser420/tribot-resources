@@ -1,0 +1,45 @@
+{
+    "itemId": 6322,
+    "itemName": "Snakeskin body",
+    "examine": "Made from 100% real snakeskin.",
+    "weight": 6.803,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Snakeskin",
+                    "quantity": 15
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 55.0,
+                    "level": 53,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Snakeskin body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": 12,
+        "stabDefenceBonus": 25,
+        "slashDefenceBonus": 28,
+        "crushDefenceBonus": 32,
+        "magicDefenceBonus": 15,
+        "rangeDefenceBonus": 35
+    }
+}

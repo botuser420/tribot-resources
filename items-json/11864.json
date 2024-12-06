@@ -1,0 +1,61 @@
+{
+    "itemId": 11864,
+    "itemName": "Slayer helmet",
+    "examine": "You don't want to wear it inside-out.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Black mask",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earmuffs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Facemask",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nose peg",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spiny helmet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Enchanted gem",
+                    "quantity": 1
+                },
+                {
+                    "name": "Reinforced goggles",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 55,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Slayer helmet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30
+    }
+}

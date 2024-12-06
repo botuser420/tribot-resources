@@ -1,0 +1,29 @@
+{
+    "itemId": 9578,
+    "itemName": "Unfinished crunchy",
+    "examine": "This choc chip crunchy needs garnishing with chocolate dust.",
+    "weight": 0.35,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made crunchy (chocchip)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 16,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished crunchy (chocchip)"
+            }
+        }
+    ]
+}

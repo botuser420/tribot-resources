@@ -1,0 +1,31 @@
+{
+    "itemId": 315,
+    "itemName": "Shrimps",
+    "examine": "Some nicely cooked shrimp.",
+    "weight": 0.1,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw shrimps",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Shrimps"
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "itemId": 30073,
+    "itemName": "Hueycoatl hide coif",
+    "examine": "Made from real Huey hide!",
+    "weight": 0.9,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Hueycoatl hide",
+                    "quantity": 2
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 190.0,
+                    "level": 86,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Hueycoatl hide coif"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -1,
+        "rangedAttackBonus": 7,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 8,
+        "prayerBonus": 2
+    }
+}

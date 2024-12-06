@@ -1,0 +1,66 @@
+{
+    "itemId": 11334,
+    "itemName": "Fish offcuts",
+    "examine": "Slices of inedible fish.",
+    "weight": 0.0,
+    "buyLimit": 8000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Leaping trout",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fish offcuts"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Leaping salmon",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fish offcuts"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Leaping sturgeon",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fish offcuts"
+            }
+        }
+    ]
+}

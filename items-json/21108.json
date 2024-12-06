@@ -1,0 +1,36 @@
+{
+    "itemId": 21108,
+    "itemName": "Opal amulet",
+    "examine": "I wonder if I can get this enchanted.",
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Opal amulet (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ball of wool",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 4.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Opal amulet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

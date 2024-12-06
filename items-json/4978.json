@@ -1,0 +1,16 @@
+{
+    "itemId": 4978,
+    "itemName": "Verac's helm 50",
+    "examine": "Verac the Defiled's helm.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 55,
+        "slashDefenceBonus": 58,
+        "crushDefenceBonus": 54,
+        "rangeDefenceBonus": 56,
+        "prayerBonus": 3
+    }
+}

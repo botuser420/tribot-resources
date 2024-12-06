@@ -1,0 +1,30 @@
+{
+    "itemId": 7078,
+    "itemName": "Scrambled egg",
+    "examine": "A bowl of scrambled egg.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Uncooked egg",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 13,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Scrambled egg"
+            }
+        }
+    ]
+}

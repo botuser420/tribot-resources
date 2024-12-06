@@ -1,0 +1,41 @@
+{
+    "itemId": 6133,
+    "itemName": "Spined body",
+    "examine": "A constant reminder that I'm above a Dagannoth in the food chain.",
+    "weight": 6.803,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dagannoth hide",
+                    "quantity": 3
+                },
+                {
+                    "name": "Flattened hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 10000
+                }
+            ],
+            "facilities": "Sigli the Huntsman",
+            "output": {
+                "quantity": 1,
+                "name": "Spined body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 15,
+        "stabDefenceBonus": 40,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 45,
+        "magicDefenceBonus": 20,
+        "rangeDefenceBonus": 40
+    }
+}

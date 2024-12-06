@@ -1,0 +1,30 @@
+{
+    "itemId": 3224,
+    "itemName": "Strip of cloth",
+    "examine": "A strip of cloth.",
+    "weight": 0.34,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ball of wool",
+                    "quantity": 4
+                }
+            ],
+            "facilities": "Loom",
+            "skills": [
+                {
+                    "experience": 12.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Strip of cloth"
+            }
+        }
+    ]
+}

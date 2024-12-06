@@ -1,0 +1,15 @@
+{
+    "itemId": 21739,
+    "itemName": "Granite ring",
+    "examine": "A solid ring.",
+    "weight": 3.0,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "RING",
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": -2,
+        "rangeDefenceBonus": 8
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 3107,
+    "itemName": "Spiked boots",
+    "examine": "Climbing boots with spikes.",
+    "weight": 0.34,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Climbing boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dunstan",
+            "output": {
+                "quantity": 1,
+                "name": "Spiked boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 2
+    }
+}

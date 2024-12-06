@@ -1,0 +1,38 @@
+{
+    "itemId": 9559,
+    "itemName": "Half made bowl",
+    "examine": "This unfinished worm hole needs baking and garnishing with equa leaves.",
+    "weight": 0.275,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half baked bowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "King worm",
+                    "quantity": 4
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Gnome spice",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half made bowl (worm hole)"
+            }
+        }
+    ]
+}

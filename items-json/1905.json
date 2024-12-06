@@ -1,0 +1,47 @@
+{
+    "itemId": 1905,
+    "itemName": "Asgarnian ale",
+    "examine": "Probably the finest ale in Asgarnia.",
+    "weight": 0.55,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bucket of water",
+                    "quantity": 2
+                },
+                {
+                    "name": "Barley malt",
+                    "quantity": 2
+                },
+                {
+                    "name": "Asgarnian hops",
+                    "quantity": 4
+                },
+                {
+                    "name": "Ale yeast",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beer glass",
+                    "quantity": 8
+                }
+            ],
+            "facilities": "Brewery",
+            "skills": [
+                {
+                    "experience": 248.0,
+                    "level": 24,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 8,
+                "name": "Asgarnian ale"
+            }
+        }
+    ]
+}

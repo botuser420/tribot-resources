@@ -1,0 +1,31 @@
+{
+    "itemId": 5418,
+    "itemName": "Empty sack",
+    "examine": "An empty vegetable sack.",
+    "weight": 0.453,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Jute fibre",
+                    "quantity": 4
+                }
+            ],
+            "facilities": "Loom",
+            "skills": [
+                {
+                    "experience": 38.0,
+                    "level": 21,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Empty sack"
+            }
+        }
+    ]
+}

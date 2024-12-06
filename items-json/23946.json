@@ -1,0 +1,40 @@
+{
+    "itemId": 23946,
+    "itemName": "Eternal teleport crystal",
+    "examine": "A powerful teleportation crystal.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Enhanced crystal teleport seed",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal shard",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Singing bowl",
+            "skills": [
+                {
+                    "experience": 5000.0,
+                    "level": 80,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 5000.0,
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Eternal teleport crystal"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 2629,
+    "itemName": "Rune kiteshield (t)",
+    "examine": "Rune kiteshield with trim.",
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 44,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 46,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 46
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 9422,
+    "itemName": "Blurite limbs",
+    "examine": "A pair of blurite crossbow limbs.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Blurite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 13,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blurite limbs"
+            }
+        }
+    ]
+}

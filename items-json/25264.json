@@ -1,0 +1,11 @@
+{
+    "itemId": 25264,
+    "itemName": "Berserker ring (i)",
+    "examine": "A ring reputed to bring out a berserk fury in its wearer.",
+    "weight": 0.004,
+    "equipment": {
+        "slot": "RING",
+        "crushDefenceBonus": 8,
+        "strengthBonus": 8
+    }
+}

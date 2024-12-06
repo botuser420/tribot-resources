@@ -1,0 +1,10 @@
+{
+    "itemId": 20008,
+    "itemName": "Fancy tiara",
+    "examine": "Call me princess.",
+    "weight": 0.05,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

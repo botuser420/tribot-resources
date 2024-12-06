@@ -1,0 +1,12 @@
+{
+    "itemId": 2940,
+    "itemName": "Purple hat",
+    "examine": "A silly pointed hat.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

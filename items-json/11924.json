@@ -1,0 +1,43 @@
+{
+    "itemId": 11924,
+    "itemName": "Malediction ward",
+    "examine": "An ancient, evil shield forged by Volcanic heat.",
+    "weight": 3.628,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Malediction shard 1",
+                    "quantity": 1
+                },
+                {
+                    "name": "Malediction shard 2",
+                    "quantity": 1
+                },
+                {
+                    "name": "Malediction shard 3",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Volcanic Forge",
+            "output": {
+                "quantity": 1,
+                "name": "Malediction ward"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -8,
+        "slashAttackBonus": -8,
+        "crushAttackBonus": -8,
+        "magicAttackBonus": 12,
+        "rangedAttackBonus": -12,
+        "stabDefenceBonus": 50,
+        "slashDefenceBonus": 52,
+        "crushDefenceBonus": 48,
+        "magicDefenceBonus": 15,
+        "magicDamageBonus": 2.0
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 24176,
+    "itemName": "Penance skirt (l)",
+    "examine": "A skirt made from the skin of a Penance Ranger.",
+    "weight": 3.0,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 15,
+        "stabDefenceBonus": 26,
+        "slashDefenceBonus": 21,
+        "crushDefenceBonus": 28,
+        "magicDefenceBonus": 19,
+        "rangeDefenceBonus": 26
+    }
+}

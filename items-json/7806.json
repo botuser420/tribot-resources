@@ -1,0 +1,17 @@
+{
+    "itemId": 7806,
+    "itemName": "Anger sword",
+    "examine": "A heavy duty sword.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "itemId": 1095,
+    "itemName": "Leather chaps",
+    "examine": "Better than no armour!",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 27.0,
+                    "level": 18,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Leather chaps"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 27.0,
+                    "level": 18,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Leather chaps"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "rangedAttackBonus": 4,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1
+    }
+}

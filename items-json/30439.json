@@ -1,0 +1,35 @@
+{
+    "itemId": 30439,
+    "itemName": "Echo virtus robe top",
+    "examine": "Virtus robes in the style of Leagues V: Raging Echoes.",
+    "weight": 2.895,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Virtus robe top",
+                    "quantity": 1
+                },
+                {
+                    "name": "Echo virtus ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Echo virtus robe top"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 35,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 47,
+        "slashDefenceBonus": 38,
+        "crushDefenceBonus": 56,
+        "magicDefenceBonus": 31,
+        "magicDamageBonus": 2.0,
+        "prayerBonus": 2
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 20577,
+    "itemName": "3rd age robe",
+    "examine": "Fabulously ancient mage protection enchanted in the 3rd Age.",
+    "weight": 1.8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 19,
+        "magicDefenceBonus": 19,
+        "magicDamageBonus": 1.0
+    }
+}

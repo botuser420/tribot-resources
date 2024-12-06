@@ -1,0 +1,37 @@
+{
+    "itemId": 21268,
+    "itemName": "Slayer ring (eternal)",
+    "examine": "A beautifully mounted Eternal Slayer gem.",
+    "weight": 0.013,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Eternal gem",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 75,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Slayer ring (eternal)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

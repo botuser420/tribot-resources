@@ -1,0 +1,9 @@
+{
+    "itemId": 27406,
+    "itemName": "Adventurer's trousers (t3)",
+    "examine": "The clothing of an adventurer.",
+    "weight": 0.9,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

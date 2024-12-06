@@ -1,0 +1,13 @@
+{
+    "itemId": 12195,
+    "itemName": "Ancient robe legs",
+    "examine": "Leggings from the Ancient Vestments.",
+    "weight": 0.005,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4,
+        "prayerBonus": 5
+    }
+}

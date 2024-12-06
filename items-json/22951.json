@@ -1,0 +1,36 @@
+{
+    "itemId": 22951,
+    "itemName": "Boots of brimstone",
+    "examine": "A pair of heat resistant boots charged with the claw of the ferocious Drake.",
+    "weight": 3.175,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Boots of stone",
+                    "quantity": 1
+                },
+                {
+                    "name": "Drake's claw",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Boots of brimstone"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "stabAttackBonus": 3,
+        "magicAttackBonus": 3,
+        "rangedAttackBonus": 5,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 5
+    }
+}

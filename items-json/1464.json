@@ -1,0 +1,7 @@
+{
+    "itemId": 1464,
+    "itemName": "Archery ticket",
+    "examine": "I can exchange this for equipment.",
+    "weight": 0.0,
+    "buyLimit": 18000
+}

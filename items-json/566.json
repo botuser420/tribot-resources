@@ -1,0 +1,31 @@
+{
+    "itemId": 566,
+    "itemName": "Soul rune",
+    "examine": "Used for high level curse spells.",
+    "weight": 0.0,
+    "buyLimit": 25000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dark essence fragments",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Soul Altar",
+            "skills": [
+                {
+                    "experience": 29.7,
+                    "level": 90,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Soul rune"
+            }
+        }
+    ]
+}

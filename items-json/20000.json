@@ -1,0 +1,35 @@
+{
+    "itemId": 20000,
+    "itemName": "Dragon scimitar (or)",
+    "examine": "A vicious, curved and stylish sword.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon scimitar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon scimitar ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon scimitar (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 67,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 66,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "itemId": 1869,
+    "itemName": "Chopped tomato",
+    "examine": "A mixture of tomatoes in a bowl.",
+    "weight": 0.2,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Chopped tomato"
+            }
+        }
+    ]
+}

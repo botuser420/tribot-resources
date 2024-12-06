@@ -1,0 +1,27 @@
+{
+    "itemId": 1534,
+    "itemName": "Rogue's purse",
+    "examine": "This herb is Rogue's Purse.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy rogue's purse",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rogue's purse"
+            }
+        }
+    ]
+}

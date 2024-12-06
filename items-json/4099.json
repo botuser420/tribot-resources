@@ -1,0 +1,12 @@
+{
+    "itemId": 4099,
+    "itemName": "Mystic hat (dark)",
+    "examine": "A dark magical hat.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4
+    }
+}

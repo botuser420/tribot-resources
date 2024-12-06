@@ -1,0 +1,31 @@
+{
+    "itemId": 9720,
+    "itemName": "Crane claw",
+    "examine": "A crane claw.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Elemental metal",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Workbench (Elemental Workshop)",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 20,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crane claw"
+            }
+        }
+    ]
+}

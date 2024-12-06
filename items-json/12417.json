@@ -1,0 +1,34 @@
+{
+    "itemId": 12417,
+    "itemName": "Dragon full helm (g)",
+    "examine": "Protects your head and looks impressive too.",
+    "weight": 2.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon full helm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon full helm ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon full helm (g)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 45,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 41,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 46
+    }
+}

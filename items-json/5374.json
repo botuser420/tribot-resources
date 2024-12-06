@@ -1,0 +1,29 @@
+{
+    "itemId": 5374,
+    "itemName": "Magic sapling",
+    "examine": "This sapling is ready to be replanted in a tree patch.",
+    "weight": 0.907,
+    "buyLimit": 200,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Magic seedling (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 75,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magic sapling"
+            }
+        }
+    ]
+}

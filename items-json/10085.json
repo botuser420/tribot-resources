@@ -1,0 +1,44 @@
+{
+    "itemId": 10085,
+    "itemName": "Black spiky vambraces",
+    "examine": "Vambraces made from 100% real dragonhide. Now with added spikiness.",
+    "weight": 0.283,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Kebbit claws",
+                    "quantity": 1
+                },
+                {
+                    "name": "Black d'hide vambraces",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 32,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black spiky vambraces"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 11,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 8,
+        "strengthBonus": 2
+    }
+}

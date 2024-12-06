@@ -1,0 +1,22 @@
+{
+    "itemId": 29849,
+    "itemName": "Blue moon spear",
+    "examine": "The helm of the Blue Moon.",
+    "weight": 3.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 70,
+        "slashAttackBonus": 62,
+        "crushAttackBonus": 62,
+        "magicAttackBonus": 30,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 15,
+        "strengthBonus": 71,
+        "magicDamageBonus": 5.0,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "BLADED_STAFF"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 26517,
+    "itemName": "Shattered cane",
+    "examine": "The cane of a Shattered relic hunter.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 2995,
+    "itemName": "Chompy bird hat",
+    "examine": "A symbol of your chompy bird hunting prowess: Expert Dragon Archer (4,000 kills)",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

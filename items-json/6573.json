@@ -1,0 +1,31 @@
+{
+    "itemId": 6573,
+    "itemName": "Onyx",
+    "examine": "This looks valuable.",
+    "weight": 0.002,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Uncut onyx",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 167.5,
+                    "level": 67,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Onyx"
+            }
+        }
+    ]
+}

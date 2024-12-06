@@ -1,0 +1,34 @@
+{
+    "itemId": 9567,
+    "itemName": "Mixed sgg",
+    "examine": "This Short Green Guy cocktail needs pouring, a lime slice and equa leaves..",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vodka",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lime",
+                    "quantity": 3
+                }
+            ],
+            "tools": "Cocktail shaker",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed sgg"
+            }
+        }
+    ]
+}

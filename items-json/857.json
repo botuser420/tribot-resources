@@ -1,0 +1,41 @@
+{
+    "itemId": 857,
+    "itemName": "Yew shortbow",
+    "examine": "A shortbow made out of yew, still effective.",
+    "weight": 1.36,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Yew shortbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 67.5,
+                    "level": 65,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yew shortbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 47,
+        "attackDistance": 7,
+        "attackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "itemId": 27291,
+    "itemName": "Keris partisan of the sun",
+    "examine": "A mystical-feeling polearm imbued with radiating power.",
+    "weight": 3.218,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Keris partisan",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jewel of the sun",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Keris partisan of the sun"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 58,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 57,
+        "magicAttackBonus": 2,
+        "strengthBonus": 45,
+        "prayerBonus": 3,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "PARTISAN"
+    }
+}

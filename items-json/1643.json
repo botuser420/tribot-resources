@@ -1,0 +1,40 @@
+{
+    "itemId": 1643,
+    "itemName": "Diamond ring",
+    "examine": "A valuable ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Diamond",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 85.0,
+                    "level": 43,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Diamond ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

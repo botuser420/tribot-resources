@@ -1,0 +1,9 @@
+{
+    "itemId": 28727,
+    "itemName": "Trailblazer reloaded top (t2)",
+    "examine": "The shirt of a Trailblazer Reloaded Relic Hunter.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

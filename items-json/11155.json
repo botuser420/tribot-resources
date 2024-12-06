@@ -1,0 +1,22 @@
+{
+    "itemId": 11155,
+    "itemName": "Ground astral rune",
+    "examine": "A ground astral rune.",
+    "weight": 0.004,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Astral rune shards",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground astral rune"
+            }
+        }
+    ]
+}

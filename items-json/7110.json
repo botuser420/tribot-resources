@@ -1,0 +1,10 @@
+{
+    "itemId": 7110,
+    "itemName": "Stripy pirate shirt",
+    "examine": "A sea worthy shirt.",
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

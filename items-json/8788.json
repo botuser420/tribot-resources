@@ -1,0 +1,7 @@
+{
+    "itemId": 8788,
+    "itemName": "Magic stone",
+    "examine": "A magic stone to make high-level furniture.",
+    "weight": 1.0,
+    "buyLimit": 11000
+}

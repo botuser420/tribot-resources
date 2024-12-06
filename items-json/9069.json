@@ -1,0 +1,16 @@
+{
+    "itemId": 9069,
+    "itemName": "Moonclan hat",
+    "examine": "A mystical hat.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "rangedAttackBonus": -5,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": -5
+    }
+}

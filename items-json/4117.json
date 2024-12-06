@@ -1,0 +1,12 @@
+{
+    "itemId": 4117,
+    "itemName": "Mystic boots (light)",
+    "examine": "Bright magical boots.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

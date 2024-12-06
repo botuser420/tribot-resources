@@ -1,0 +1,23 @@
+{
+    "itemId": 24436,
+    "itemName": "Festive flour",
+    "examine": "Used to make Gingerbread Gnomes.",
+    "weight": 0.002,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Festive pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sack of Flour",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Festive flour"
+            }
+        }
+    ]
+}

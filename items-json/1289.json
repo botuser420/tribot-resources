@@ -1,0 +1,45 @@
+{
+    "itemId": 1289,
+    "itemName": "Rune sword",
+    "examine": "A razor sharp sword.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 89,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune sword"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 38,
+        "slashAttackBonus": 26,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 39,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

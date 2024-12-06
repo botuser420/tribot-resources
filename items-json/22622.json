@@ -1,0 +1,16 @@
+{
+    "itemId": 22622,
+    "itemName": "Statius's warhammer",
+    "examine": "A powerful warhammer.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 123,
+        "strengthBonus": 114,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "BLUNT"
+    }
+}

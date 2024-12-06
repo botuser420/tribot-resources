@@ -1,0 +1,34 @@
+{
+    "itemId": 9456,
+    "itemName": "Blurite crossbow (u)",
+    "examine": "An unstrung blurite crossbow.",
+    "weight": 8.0,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Oak stock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blurite limbs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 32.0,
+                    "level": 24,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blurite crossbow (u)"
+            }
+        }
+    ]
+}

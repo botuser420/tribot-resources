@@ -1,0 +1,17 @@
+{
+    "itemId": 30340,
+    "itemName": "Crystal dagger (perfected)",
+    "examine": "A crystalline dagger.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 20,
+        "slashAttackBonus": 140,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 40,
+        "prayerBonus": 3,
+        "weaponType": "STAB_SWORD"
+    }
+}

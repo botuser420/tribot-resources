@@ -1,0 +1,59 @@
+{
+    "itemId": 6703,
+    "itemName": "Potato with butter",
+    "examine": "A baked potato with butter.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Baked potato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pat of butter",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 39,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Potato with butter"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Baked potato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pat of not garlic butter",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 39,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Potato with butter"
+            }
+        }
+    ]
+}

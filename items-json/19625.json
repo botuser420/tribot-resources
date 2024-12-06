@@ -1,0 +1,43 @@
+{
+    "itemId": 19625,
+    "itemName": "Harmony island teleport",
+    "examine": "A teleport to Harmony Island.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 74.0,
+                    "level": 65,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Harmony island teleport (tablet)"
+            }
+        }
+    ]
+}

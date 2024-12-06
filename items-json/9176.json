@@ -1,0 +1,40 @@
+{
+    "itemId": 9176,
+    "itemName": "Blurite crossbow",
+    "examine": "A blurite crossbow.",
+    "weight": 4.0,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blurite crossbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crossbow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 16.0,
+                    "level": 24,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blurite crossbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 30,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

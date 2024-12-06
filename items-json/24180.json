@@ -1,0 +1,15 @@
+{
+    "itemId": 24180,
+    "itemName": "Elite void robe (l)",
+    "examine": "Superior leg armour from the order of the Void Knights.",
+    "weight": 8.164,
+    "equipment": {
+        "slot": "LEGS",
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": 30,
+        "rangeDefenceBonus": 30,
+        "prayerBonus": 3
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "itemId": 20866,
+    "itemName": "Roqed fish (5)",
+    "examine": "I should try eating this.",
+    "weight": 0.4,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw roqed fish (5)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 75,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Roqed fish (5)"
+            }
+        }
+    ]
+}

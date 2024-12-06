@@ -1,0 +1,43 @@
+{
+    "itemId": 1081,
+    "itemName": "Iron plateskirt",
+    "examine": "Designer leg protection.",
+    "weight": 8.164,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 31,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Iron plateskirt"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 10
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 10812,
+    "itemName": "Split log",
+    "examine": "Used to repair bridges.",
+    "weight": 1.814,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Arctic pine logs",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Woodcutting stump",
+            "tools": "Axe",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 56,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Split log"
+            }
+        }
+    ]
+}

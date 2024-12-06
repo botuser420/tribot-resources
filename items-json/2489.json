@@ -1,0 +1,66 @@
+{
+    "itemId": 2489,
+    "itemName": "Red d'hide vambraces",
+    "examine": "Vambraces made from 100% real dragonhide.",
+    "weight": 0.283,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Red dragon leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 78.0,
+                    "level": 73,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red d'hide vambraces"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Red dragon leather",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 78.0,
+                    "level": 73,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red d'hide vambraces"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 6
+    }
+}

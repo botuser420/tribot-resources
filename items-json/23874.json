@@ -1,0 +1,29 @@
+{
+    "itemId": 23874,
+    "itemName": "Paddlefish",
+    "examine": "I could eat this.",
+    "weight": 0.45,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw paddlefish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Paddlefish"
+            }
+        }
+    ]
+}

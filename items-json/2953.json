@@ -1,0 +1,22 @@
+{
+    "itemId": 2953,
+    "itemName": "Murky water",
+    "examine": "It's a bucket of murky water.",
+    "weight": 3.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bucket",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Well (Paterdomus)",
+            "output": {
+                "quantity": 1,
+                "name": "Murky water"
+            }
+        }
+    ]
+}

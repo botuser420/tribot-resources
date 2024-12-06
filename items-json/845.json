@@ -1,0 +1,41 @@
+{
+    "itemId": 845,
+    "itemName": "Oak longbow",
+    "examine": "A nice sturdy bow made out of oak.",
+    "weight": 2.267,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Oak longbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 25,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Oak longbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 14,
+        "attackDistance": 10,
+        "attackSpeed": 6,
+        "weaponType": "BOW"
+    }
+}

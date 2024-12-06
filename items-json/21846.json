@@ -1,0 +1,9 @@
+{
+    "itemId": 21846,
+    "itemName": "Snow imp costume feet",
+    "examine": "Poorly made fake snow imp feet.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

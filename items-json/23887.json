@@ -1,0 +1,64 @@
+{
+    "itemId": 23887,
+    "itemName": "Crystal helm (attuned)",
+    "examine": "A shinier helmet that provides some protection from crystalline creatures.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 60
+                },
+                {
+                    "name": "Crystal helm (basic)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Phren bark",
+                    "quantity": 1
+                },
+                {
+                    "name": "Linum tirinum",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal helm (attuned)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 2,
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": 6,
+        "stabDefenceBonus": 48,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 48,
+        "magicDefenceBonus": 48,
+        "rangeDefenceBonus": 48,
+        "prayerBonus": 2
+    }
+}

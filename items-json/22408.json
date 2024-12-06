@@ -1,0 +1,25 @@
+{
+    "itemId": 22408,
+    "itemName": "Unfinished potion",
+    "examine": "An unfinished potion.",
+    "weight": 0.02,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mysterious herb",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished potion (A Taste of Hope)"
+            }
+        }
+    ]
+}

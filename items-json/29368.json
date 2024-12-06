@@ -1,0 +1,21 @@
+{
+    "itemId": 29368,
+    "itemName": "Blessed hydra bones",
+    "examine": "Bones blessed at an exposed altar.",
+    "weight": 1.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Hydra bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Exposed altar",
+            "output": {
+                "quantity": 1,
+                "name": "Blessed hydra bones"
+            }
+        }
+    ]
+}

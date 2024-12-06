@@ -1,0 +1,18 @@
+{
+    "itemId": 12476,
+    "itemName": "Armadyl full helm",
+    "examine": "Rune full helmet in the colours of Armadyl.",
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30,
+        "prayerBonus": 1
+    }
+}

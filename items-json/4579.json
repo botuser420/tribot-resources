@@ -1,0 +1,30 @@
+{
+    "itemId": 4579,
+    "itemName": "Cannon ball",
+    "examine": "A heavy gold metal sphere.",
+    "weight": 20.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ammo mould",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 35,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cannon ball (Between a Rock...)"
+            }
+        }
+    ]
+}

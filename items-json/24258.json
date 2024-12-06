@@ -1,0 +1,30 @@
+{
+    "itemId": 24258,
+    "itemName": "V sigil",
+    "examine": "A sigil of V, needing to be enchanted by a powerful spirit before able to be adorned on his mighty shield.",
+    "weight": 0.005,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Lunar bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 60,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "V sigil"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 29146,
+    "itemName": "Cooked larupia",
+    "examine": "Mmm, this looks tasty.",
+    "weight": 0.283,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw larupia",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 92.0,
+                    "level": 31,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked larupia"
+            }
+        }
+    ]
+}

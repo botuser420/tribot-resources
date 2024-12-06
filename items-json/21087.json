@@ -1,0 +1,39 @@
+{
+    "itemId": 21087,
+    "itemName": "Topaz ring",
+    "examine": "A valuable ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Red topaz",
+                    "quantity": 1
+                },
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 35.0,
+                    "level": 16,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Topaz ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

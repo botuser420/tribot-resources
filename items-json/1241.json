@@ -1,0 +1,19 @@
+{
+    "itemId": 1241,
+    "itemName": "Steel spear",
+    "examine": "A steel tipped spear.",
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 12,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 12,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 12,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

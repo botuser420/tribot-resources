@@ -1,0 +1,29 @@
+{
+    "itemId": 5499,
+    "itemName": "Curry sapling",
+    "examine": "This sapling is ready to be replanted in a fruit tree patch.",
+    "weight": 0.907,
+    "buyLimit": 200,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Curry seedling (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 42,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Curry sapling"
+            }
+        }
+    ]
+}

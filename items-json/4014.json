@@ -1,0 +1,7 @@
+{
+    "itemId": 4014,
+    "itemName": "Monkey bar",
+    "examine": "It's a monkey bar. It looks highly nutritious.",
+    "weight": 0.15,
+    "buyLimit": 6000
+}

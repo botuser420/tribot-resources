@@ -1,0 +1,34 @@
+{
+    "itemId": 20370,
+    "itemName": "Bandos godsword (or)",
+    "examine": "An ornamented, brutally heavy sword.",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bandos godsword",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bandos godsword ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bandos godsword (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 132,
+        "crushAttackBonus": 80,
+        "strengthBonus": 132,
+        "prayerBonus": 8,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

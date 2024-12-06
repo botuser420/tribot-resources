@@ -1,0 +1,29 @@
+{
+    "itemId": 9564,
+    "itemName": "Unfinished bowl",
+    "examine": "This unfinished choc bomb needs two pots of cream and chocolate dust.",
+    "weight": 0.275,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made bowl (chocolate bomb)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 42,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished bowl (chocolate bomb)"
+            }
+        }
+    ]
+}

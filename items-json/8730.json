@@ -1,0 +1,44 @@
+{
+    "itemId": 8730,
+    "itemName": "Rune kiteshield",
+    "examine": "A shield with a picture of a Jogre.",
+    "weight": 5.443,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Rune kiteshield",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Shield easel",
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 43,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "level": 16,
+                    "name": "Construction"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rune kiteshield (Jogre)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 44,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 46,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 46
+    }
+}

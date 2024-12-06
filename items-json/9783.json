@@ -1,0 +1,14 @@
+{
+    "itemId": 9783,
+    "itemName": "Fletching cape",
+    "examine": "The cape worn by the best of fletchers.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9
+    }
+}

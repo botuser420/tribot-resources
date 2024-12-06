@@ -1,0 +1,32 @@
+{
+    "itemId": 3446,
+    "itemName": "Yew pyre logs",
+    "examine": "Yew logs prepared with sacred oil for a funeral pyre.",
+    "weight": 1.36,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Yew logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sacred oil(4)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Firemaking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yew pyre logs"
+            }
+        }
+    ]
+}

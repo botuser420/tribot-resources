@@ -1,0 +1,7 @@
+{
+    "itemId": 1957,
+    "itemName": "Onion",
+    "examine": "A strong smelling onion.",
+    "weight": 0.15,
+    "buyLimit": 13000
+}

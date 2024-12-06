@@ -1,0 +1,35 @@
+{
+    "itemId": 6750,
+    "itemName": "Black desert shirt",
+    "examine": "A desert shirt stained black.",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Desert shirt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Black dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black desert shirt"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

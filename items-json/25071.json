@@ -1,0 +1,9 @@
+{
+    "itemId": 25071,
+    "itemName": "Graceful hood",
+    "examine": "A sign of your grace while trailblazing.",
+    "weight": -3.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

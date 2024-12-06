@@ -1,0 +1,12 @@
+{
+    "itemId": 7399,
+    "itemName": "Enchanted top",
+    "examine": "Enchanted Wizards robes.",
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 20,
+        "magicDefenceBonus": 20
+    }
+}

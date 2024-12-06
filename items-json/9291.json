@@ -1,0 +1,11 @@
+{
+    "itemId": 9291,
+    "itemName": "Runite bolts (p)",
+    "examine": "Some poisoned runite bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 115
+    }
+}

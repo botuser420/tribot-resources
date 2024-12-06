@@ -1,0 +1,21 @@
+{
+    "itemId": 2949,
+    "itemName": "Golden hammer",
+    "examine": "A replica hammer made of solid gold.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Hammer",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Monument",
+            "output": {
+                "quantity": 1,
+                "name": "Golden hammer"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "itemId": 1538,
+    "itemName": "Crandor map",
+    "examine": "A map of the route to Crandor.",
+    "weight": 0.015,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Map part (Melzar)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Map part (Thalzar)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Map part (Lozar)",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Crandor map"
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 30420,
+    "itemName": "Raging echoes hat (t3)",
+    "examine": "The headgear of a Raging Echoes relic hunter.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

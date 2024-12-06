@@ -1,0 +1,33 @@
+{
+    "itemId": 25734,
+    "itemName": "Holy ghrazi rapier",
+    "examine": "A razor sharp rapier gifted with the light of Saradomin.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ghrazi rapier",
+                    "quantity": 1
+                },
+                {
+                    "name": "Holy ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Holy ghrazi rapier"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 94,
+        "slashAttackBonus": 55,
+        "strengthBonus": 89,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 359,
+    "itemName": "Raw tuna",
+    "examine": "I should try cooking this.",
+    "weight": 0.45,
+    "buyLimit": 15000
+}

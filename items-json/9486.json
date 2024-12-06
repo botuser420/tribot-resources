@@ -1,0 +1,29 @@
+{
+    "itemId": 9486,
+    "itemName": "Unfinished batta",
+    "examine": "This vegetable batta needs garnishing with equa leaves.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made batta (vegetable)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 28,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished batta (vegetable)"
+            }
+        }
+    ]
+}

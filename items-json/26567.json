@@ -1,0 +1,29 @@
+{
+    "itemId": 26567,
+    "itemName": "White goblin mail",
+    "examine": "Some white armour designed to fit goblins.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Goblin mail",
+                    "quantity": 1
+                },
+                {
+                    "name": "Whitefish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Aggie",
+            "output": {
+                "quantity": 1,
+                "name": "White goblin mail"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

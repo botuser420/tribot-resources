@@ -1,0 +1,11 @@
+{
+    "itemId": 877,
+    "itemName": "Bronze bolts",
+    "examine": "Bronze crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 10
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "itemId": 1157,
+    "itemName": "Steel full helm",
+    "examine": "A full face helmet.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 37,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Steel full helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9
+    }
+}

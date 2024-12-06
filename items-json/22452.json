@@ -1,0 +1,7 @@
+{
+    "itemId": 22452,
+    "itemName": "Battlemage potion(3)",
+    "examine": "3 doses of battlemage potion.",
+    "weight": 0.03,
+    "buyLimit": 2000
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 6062,
+    "itemName": "Bronze bolts (p++)",
+    "examine": "Super poisoned bronze bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 10
+    }
+}

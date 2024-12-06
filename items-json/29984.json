@@ -1,0 +1,9 @@
+{
+    "itemId": 29984,
+    "itemName": "Alchemist pants",
+    "examine": "Breezy.",
+    "weight": 0.71,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

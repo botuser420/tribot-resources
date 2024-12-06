@@ -1,0 +1,42 @@
+{
+    "itemId": 1147,
+    "itemName": "Rune med helm",
+    "examine": "A medium sized helmet.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 88,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune med helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 22,
+        "slashDefenceBonus": 23,
+        "crushDefenceBonus": 21,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 22
+    }
+}

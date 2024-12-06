@@ -1,0 +1,41 @@
+{
+    "itemId": 21160,
+    "itemName": "Amulet of bounty",
+    "examine": "Saves seeds when planting in allotments.",
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Opal amulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 7,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of bounty"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

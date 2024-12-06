@@ -1,0 +1,27 @@
+{
+    "itemId": 1530,
+    "itemName": "Sito foil",
+    "examine": "This herb is Sito Foil.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy sito foil",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Sito foil"
+            }
+        }
+    ]
+}

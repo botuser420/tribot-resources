@@ -1,0 +1,72 @@
+{
+    "itemId": 26884,
+    "itemName": "Medium cell",
+    "examine": "Contains a moderate amount of runic energy.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Medium cell"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cosmic Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Medium cell"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Chaos Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 35,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Medium cell"
+            }
+        }
+    ]
+}

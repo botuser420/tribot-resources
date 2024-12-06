@@ -1,0 +1,45 @@
+{
+    "itemId": 1279,
+    "itemName": "Iron sword",
+    "examine": "A razor sharp sword.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 19,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Iron sword"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 7,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

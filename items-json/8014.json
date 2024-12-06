@@ -1,0 +1,43 @@
+{
+    "itemId": 8014,
+    "itemName": "Bones to bananas",
+    "examine": "A tablet containing a magic spell.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Demon lectern",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 15,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bones to bananas (tablet)"
+            }
+        }
+    ]
+}

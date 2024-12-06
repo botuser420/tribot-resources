@@ -1,0 +1,25 @@
+{
+    "itemId": 5615,
+    "itemName": "Shaikahan bonemeal",
+    "examine": "A pot of crushed Shaikahan bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Shaikahan bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Shaikahan bonemeal"
+            }
+        }
+    ]
+}

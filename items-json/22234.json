@@ -1,0 +1,33 @@
+{
+    "itemId": 22234,
+    "itemName": "Dragon boots (g)",
+    "examine": "These fancy boots will protect my feet.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon boots ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon boots (g)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 16,
+        "slashDefenceBonus": 17,
+        "crushDefenceBonus": 18,
+        "strengthBonus": 4
+    }
+}

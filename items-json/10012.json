@@ -1,0 +1,22 @@
+{
+    "itemId": 10012,
+    "itemName": "Butterfly jar",
+    "examine": "It's got little holes in the top.",
+    "weight": 0.02,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Jar generator",
+                    "quantity": 0
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Butterfly jar"
+            }
+        }
+    ]
+}

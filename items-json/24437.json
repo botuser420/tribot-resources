@@ -1,0 +1,38 @@
+{
+    "itemId": 24437,
+    "itemName": "Gingerbread shield",
+    "examine": "It looks delicious.",
+    "weight": 3.175,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Festive cinnamon stick",
+                    "quantity": 3
+                },
+                {
+                    "name": "Festive ginger powder",
+                    "quantity": 3
+                },
+                {
+                    "name": "Festive egg",
+                    "quantity": 3
+                },
+                {
+                    "name": "Festive flour",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Gingerbread Gnome Machine",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Gingerbread shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

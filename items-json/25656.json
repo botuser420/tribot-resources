@@ -1,0 +1,30 @@
+{
+    "itemId": 25656,
+    "itemName": "Ruined guppy",
+    "examine": "A guppy you ruined during preparation.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw guppy",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Preparation Table",
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 7,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Ruined guppy"
+            }
+        }
+    ]
+}

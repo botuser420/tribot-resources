@@ -1,0 +1,20 @@
+{
+    "itemId": 27551,
+    "itemName": "Ghommal's avernic defender 5 (l)",
+    "examine": "A defensive weapon with sublime ornamentation.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 30,
+        "slashAttackBonus": 29,
+        "crushAttackBonus": 28,
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": -4,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 29,
+        "crushDefenceBonus": 28,
+        "magicDefenceBonus": -5,
+        "rangeDefenceBonus": -4,
+        "strengthBonus": 8
+    }
+}

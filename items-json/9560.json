@@ -1,0 +1,29 @@
+{
+    "itemId": 9560,
+    "itemName": "Unfinished bowl",
+    "examine": "This unfinished worm hole needs garnishing with equa leaves.",
+    "weight": 0.275,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made bowl (worm hole)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished bowl (worm hole)"
+            }
+        }
+    ]
+}

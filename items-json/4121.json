@@ -1,0 +1,15 @@
+{
+    "itemId": 4121,
+    "itemName": "Iron boots",
+    "examine": "These will protect my feet.",
+    "weight": 1.36,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 4
+    }
+}

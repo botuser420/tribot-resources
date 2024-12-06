@@ -1,0 +1,22 @@
+{
+    "itemId": 21975,
+    "itemName": "Crushed superior dragon bones",
+    "examine": "Ground up superior dragon bones.",
+    "weight": 0.007,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Superior dragon bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Crushed superior dragon bones"
+            }
+        }
+    ]
+}

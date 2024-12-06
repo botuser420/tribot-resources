@@ -1,0 +1,42 @@
+{
+    "itemId": 1105,
+    "itemName": "Steel chainbody",
+    "examine": "A series of connected metal rings.",
+    "weight": 6.803,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 112.5,
+                    "level": 41,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Steel chainbody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 25,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 19
+    }
+}

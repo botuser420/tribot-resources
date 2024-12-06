@@ -1,0 +1,32 @@
+{
+    "itemId": 5942,
+    "itemName": "Antidote+ (unf)",
+    "examine": "A vial of coconut milk and Toadflax.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Coconut milk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Toadflax",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 68,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Antidote+ (unf)"
+            }
+        }
+    ]
+}

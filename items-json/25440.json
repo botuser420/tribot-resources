@@ -1,0 +1,10 @@
+{
+    "itemId": 25440,
+    "itemName": "Zealot's boots",
+    "examine": "A well fashioned pair of boots with a strange aura emanating.",
+    "weight": 0.283,
+    "equipment": {
+        "slot": "FEET",
+        "prayerBonus": 1
+    }
+}

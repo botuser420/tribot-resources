@@ -1,0 +1,22 @@
+{
+    "itemId": 523,
+    "itemName": "Enchanted rat",
+    "examine": "I don't fancy eating this now.",
+    "weight": 0.2,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw rat meat",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cauldron of Thunder",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted rat"
+            }
+        }
+    ]
+}

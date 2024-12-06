@@ -1,0 +1,15 @@
+{
+    "itemId": 6414,
+    "itemName": "Willow blackjack(d)",
+    "examine": "A defensive blackjack.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushDefenceBonus": 8,
+        "strengthBonus": 8,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

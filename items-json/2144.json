@@ -1,0 +1,48 @@
+{
+    "itemId": 2144,
+    "itemName": "Burnt chicken",
+    "examine": "Oh dear, it's totally burnt!",
+    "weight": 0.113,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Cooked chicken",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Burnt chicken"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Raw chicken",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Burnt chicken"
+            }
+        }
+    ]
+}

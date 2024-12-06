@@ -1,0 +1,34 @@
+{
+    "itemId": 29615,
+    "itemName": "Imbued guthix cape (deadman)",
+    "examine": "A cape from the almighty god Guthix, imbued with great power.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Imbued guthix cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Armageddon cape fabric",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Nigel",
+            "output": {
+                "quantity": 1,
+                "name": "Imbued guthix cape (deadman)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE",
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 15,
+        "magicDamageBonus": 2.0
+    }
+}

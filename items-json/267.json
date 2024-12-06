@@ -1,0 +1,29 @@
+{
+    "itemId": 267,
+    "itemName": "Dwarf weed",
+    "examine": "A powerful herb.",
+    "weight": 0.007,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy dwarf weed",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 13.8,
+                    "level": 70,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dwarf weed"
+            }
+        }
+    ]
+}

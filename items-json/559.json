@@ -1,0 +1,125 @@
+{
+    "itemId": 559,
+    "itemName": "Body rune",
+    "examine": "Used for curse spells.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rune essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Body Altar",
+            "tools": "Body tiara, Body talisman",
+            "skills": [
+                {
+                    "experience": 7.5,
+                    "level": 20,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Body rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Body Altar",
+            "tools": "Body tiara, Body talisman",
+            "skills": [
+                {
+                    "experience": 7.5,
+                    "level": 20,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Body rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Body Altar",
+            "tools": "Body tiara, Body talisman",
+            "skills": [
+                {
+                    "experience": 11.2,
+                    "level": 20,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Body rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Body Altar",
+            "skills": [
+                {
+                    "experience": 7.5,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Body rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Body core",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Body Altar",
+            "tools": "Body tiara, Body talisman",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 20,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 11,
+                "name": "Body rune"
+            }
+        }
+    ]
+}

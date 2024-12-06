@@ -1,0 +1,14 @@
+{
+    "itemId": 6724,
+    "itemName": "Seercull",
+    "examine": "An ancient Fremennik bow that was once used to battle the Moon Clan.",
+    "weight": 1.36,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 69,
+        "attackDistance": 8,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

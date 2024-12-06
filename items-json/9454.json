@@ -1,0 +1,35 @@
+{
+    "itemId": 9454,
+    "itemName": "Bronze crossbow (u)",
+    "examine": "An unstrung bronze crossbow.",
+    "weight": 8.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Wooden stock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bronze limbs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 12.0,
+                    "level": 9,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bronze crossbow (u)"
+            }
+        }
+    ]
+}

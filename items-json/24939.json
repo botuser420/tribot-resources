@@ -1,0 +1,22 @@
+{
+    "itemId": 24939,
+    "itemName": "Waxwood plank",
+    "examine": "The wood feels very slick to the touch.",
+    "weight": 0.85,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Waxwood log",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sawmill",
+            "output": {
+                "quantity": 1,
+                "name": "Waxwood plank"
+            }
+        }
+    ]
+}

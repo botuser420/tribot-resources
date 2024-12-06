@@ -1,0 +1,41 @@
+{
+    "itemId": 849,
+    "itemName": "Willow shortbow",
+    "examine": "A shortbow made out of willow, still effective.",
+    "weight": 1.36,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Willow shortbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 33.2,
+                    "level": 35,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Willow shortbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 20,
+        "attackDistance": 7,
+        "attackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

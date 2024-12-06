@@ -1,0 +1,32 @@
+{
+    "itemId": 325,
+    "itemName": "Sardine",
+    "examine": "Some nicely cooked sardines.",
+    "weight": 0.12,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw sardine",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 1,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Sardine"
+            }
+        }
+    ]
+}

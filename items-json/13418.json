@@ -1,0 +1,30 @@
+{
+    "itemId": 13418,
+    "itemName": "Servery stew",
+    "examine": "Put it on the servery table to feed the troops.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery uncooked stew",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Clay oven",
+            "skills": [
+                {
+                    "experience": 4.0,
+                    "level": 25,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery stew"
+            }
+        }
+    ]
+}

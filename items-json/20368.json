@@ -1,0 +1,34 @@
+{
+    "itemId": 20368,
+    "itemName": "Armadyl godsword (or)",
+    "examine": "An ornamented, beautiful, heavy sword.",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Armadyl godsword",
+                    "quantity": 1
+                },
+                {
+                    "name": "Armadyl godsword ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Armadyl godsword (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 132,
+        "crushAttackBonus": 80,
+        "strengthBonus": 132,
+        "prayerBonus": 8,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

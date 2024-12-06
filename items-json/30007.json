@@ -1,0 +1,286 @@
+{
+    "itemId": 30007,
+    "itemName": "Aga paste",
+    "examine": "A sticky, green, sour-smelling substance.",
+    "weight": 0.51,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dwarf weed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 60,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 42,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dwarf weed potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 60,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 42,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Huasca",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 60,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 20,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Huasca potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 60,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 20,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Cadantine blood potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 60,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 34,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Irit leaf",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 30,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Cadantine",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 34,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lantadyme",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Torstol",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 44,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Irit potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 30,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Cadantine potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 34,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lantadyme potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Aga paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Torstol potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 44,
+                "name": "Aga paste"
+            }
+        }
+    ]
+}

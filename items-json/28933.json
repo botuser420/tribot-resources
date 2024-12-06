@@ -1,0 +1,17 @@
+{
+    "itemId": 28933,
+    "itemName": "Sunfire fanatic helm",
+    "examine": "A helmet forged from sunfire.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30,
+        "prayerBonus": 6
+    }
+}

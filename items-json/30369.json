@@ -1,0 +1,20 @@
+{
+    "itemId": 30369,
+    "itemName": "Sunlight spear",
+    "examine": "A weapon from a being that truly worships gods.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 125,
+        "slashAttackBonus": 75,
+        "stabDefenceBonus": 70,
+        "slashDefenceBonus": 70,
+        "crushDefenceBonus": 70,
+        "magicDefenceBonus": 28,
+        "rangeDefenceBonus": 70,
+        "strengthBonus": 113,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAB_SWORD"
+    }
+}

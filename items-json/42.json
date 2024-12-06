@@ -1,0 +1,32 @@
+{
+    "itemId": 42,
+    "itemName": "Mithril arrowtips",
+    "examine": "I can make some arrows with these.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 55,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Mithril arrowtips"
+            }
+        }
+    ]
+}

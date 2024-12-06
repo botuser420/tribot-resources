@@ -1,0 +1,7 @@
+{
+    "itemId": 12802,
+    "itemName": "Ward upgrade kit",
+    "examine": "Makes a malediction or odium ward more beautiful.",
+    "weight": 0.5,
+    "buyLimit": 50
+}

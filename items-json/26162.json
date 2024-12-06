@@ -1,0 +1,16 @@
+{
+    "itemId": 26162,
+    "itemName": "Group ironman platebody",
+    "examine": "A platebody representing your group of four.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 20
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "itemId": 20902,
+    "itemName": "Noxifer",
+    "examine": "Lovely, it's been cleaned.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy noxifer",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 3.0,
+                    "level": 60,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Noxifer"
+            }
+        }
+    ]
+}

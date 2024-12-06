@@ -1,0 +1,7 @@
+{
+    "itemId": 12911,
+    "itemName": "Anti-venom(1)",
+    "examine": "1 dose of antivenom potion.",
+    "weight": 0.035,
+    "buyLimit": 2000
+}

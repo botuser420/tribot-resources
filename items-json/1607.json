@@ -1,0 +1,32 @@
+{
+    "itemId": 1607,
+    "itemName": "Sapphire",
+    "examine": "This looks valuable.",
+    "weight": 0.002,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Uncut sapphire",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 20,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Sapphire"
+            }
+        }
+    ]
+}

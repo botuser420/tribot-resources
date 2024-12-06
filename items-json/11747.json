@@ -1,0 +1,31 @@
+{
+    "itemId": 11747,
+    "itemName": "Trollheim teleport",
+    "examine": "This tablet has been redirected to Trollheim.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Teleport to house (tablet)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scroll of redirection",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Construction"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Trollheim teleport (tablet)"
+            }
+        }
+    ]
+}

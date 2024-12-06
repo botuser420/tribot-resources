@@ -1,0 +1,23 @@
+{
+    "itemId": 6603,
+    "itemName": "White magic staff",
+    "examine": "A Magical staff.",
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 10,
+        "strengthBonus": 7,
+        "prayerBonus": 1,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

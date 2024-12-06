@@ -1,0 +1,7 @@
+{
+    "itemId": 2452,
+    "itemName": "Antifire potion(4)",
+    "examine": "4 doses of anti-firebreath potion.",
+    "weight": 0.035,
+    "buyLimit": 2000
+}

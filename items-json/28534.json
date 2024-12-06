@@ -1,0 +1,19 @@
+{
+    "itemId": 28534,
+    "itemName": "Corrupted dragon claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 33,
+        "slashAttackBonus": 46,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 21,
+        "crushDefenceBonus": 6,
+        "strengthBonus": 45,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

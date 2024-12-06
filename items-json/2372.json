@@ -1,0 +1,29 @@
+{
+    "itemId": 2372,
+    "itemName": "Ogre relic",
+    "examine": "An old statue of an ogre warrior.",
+    "weight": 3.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Relic part 1",
+                    "quantity": 1
+                },
+                {
+                    "name": "Relic part 2",
+                    "quantity": 1
+                },
+                {
+                    "name": "Relic part 3",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Watchtower Wizard",
+            "output": {
+                "quantity": 1,
+                "name": "Ogre relic"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "itemId": 22251,
+    "itemName": "Oak shield",
+    "examine": "A solid oaken shield.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Oak logs",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 27,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Oak shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 5
+    }
+}

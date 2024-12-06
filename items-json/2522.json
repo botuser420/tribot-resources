@@ -1,0 +1,31 @@
+{
+    "itemId": 2522,
+    "itemName": "White toy horsey",
+    "examine": "A white toy horse.",
+    "weight": 0.05,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Plank",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Crafting table 1",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "White toy horsey"
+            }
+        }
+    ]
+}

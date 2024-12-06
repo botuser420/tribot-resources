@@ -1,0 +1,43 @@
+{
+    "itemId": 8007,
+    "itemName": "Varrock teleport",
+    "examine": "A teleport to Varrock.",
+    "weight": 0.0,
+    "buyLimit": 15000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Oak lectern",
+            "skills": [
+                {
+                    "experience": 35.0,
+                    "level": 25,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Varrock teleport (tablet)"
+            }
+        }
+    ]
+}

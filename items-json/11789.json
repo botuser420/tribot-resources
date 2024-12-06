@@ -1,0 +1,75 @@
+{
+    "itemId": 11789,
+    "itemName": "Mystic steam staff",
+    "examine": "It's a slightly magical stick.",
+    "weight": 2.267,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Steam battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 40000
+                }
+            ],
+            "facilities": "Thormac",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic steam staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Steam battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 30000
+                }
+            ],
+            "facilities": "Thormac",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic steam staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Steam battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 20000
+                }
+            ],
+            "facilities": "Thormac",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic steam staff"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 40,
+        "magicAttackBonus": 14,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 14,
+        "strengthBonus": 50,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

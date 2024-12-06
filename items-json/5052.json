@@ -1,0 +1,10 @@
+{
+    "itemId": 5052,
+    "itemName": "Skirt",
+    "examine": "A blue skirt.",
+    "weight": 0.08,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

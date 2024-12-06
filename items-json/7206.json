@@ -1,0 +1,33 @@
+{
+    "itemId": 7206,
+    "itemName": "Raw wild pie",
+    "examine": "Good as it looks, I'd better cook it.",
+    "weight": 0.001,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Raw rabbit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Part wild pie (raw chompy)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 85,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw wild pie"
+            }
+        }
+    ]
+}

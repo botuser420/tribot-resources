@@ -1,0 +1,39 @@
+{
+    "itemId": 12775,
+    "itemName": "Annakarl teleport",
+    "examine": "A teleport to Annakarl, in level 46 Wilderness.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Ancient)",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 90,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Annakarl teleport (tablet)"
+            }
+        }
+    ]
+}

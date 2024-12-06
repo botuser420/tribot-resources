@@ -1,0 +1,28 @@
+{
+    "itemId": 5375,
+    "itemName": "Spirit sapling",
+    "examine": "This sapling is ready to be replanted in a Spirit patch.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Spirit seedling (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 83,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spirit sapling"
+            }
+        }
+    ]
+}

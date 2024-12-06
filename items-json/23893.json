@@ -1,0 +1,64 @@
+{
+    "itemId": 23893,
+    "itemName": "Crystal legs (attuned)",
+    "examine": "A more resilient set of leg armour with some protection from crystalline creatures.",
+    "weight": 9.071,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 60
+                },
+                {
+                    "name": "Crystal legs (basic)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Phren bark",
+                    "quantity": 1
+                },
+                {
+                    "name": "Linum tirinum",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal legs (attuned)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 3,
+        "magicAttackBonus": 10,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 74,
+        "slashDefenceBonus": 74,
+        "crushDefenceBonus": 74,
+        "magicDefenceBonus": 74,
+        "rangeDefenceBonus": 74,
+        "prayerBonus": 3
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 12827,
+    "itemName": "Arcane sigil",
+    "examine": "A sigil in the shape of an arcane symbol.",
+    "weight": 3.0,
+    "buyLimit": 5
+}

@@ -1,0 +1,30 @@
+{
+    "itemId": 3688,
+    "itemName": "Unstrung lyre",
+    "examine": "It's almost a musical instrument.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Branch",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 1.0,
+                    "level": 40,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unstrung lyre"
+            }
+        }
+    ]
+}

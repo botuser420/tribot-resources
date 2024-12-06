@@ -1,0 +1,16 @@
+{
+    "itemId": 20840,
+    "itemName": "Corrupted platebody",
+    "examine": "The platebody of a forgotten warrior, corrupted by the dark altar.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 20
+    }
+}

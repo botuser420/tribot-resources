@@ -1,0 +1,12 @@
+{
+    "itemId": 24219,
+    "itemName": "Swift blade",
+    "examine": "A dull blade that moves at incredible speed.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 3,
+        "weaponType": "STAB_SWORD"
+    }
+}

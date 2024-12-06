@@ -1,0 +1,18 @@
+{
+    "itemId": 6617,
+    "itemName": "White platebody",
+    "examine": "Provides excellent protection.",
+    "weight": 9.979,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 41,
+        "slashDefenceBonus": 40,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 40,
+        "prayerBonus": 1
+    }
+}

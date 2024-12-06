@@ -1,0 +1,31 @@
+{
+    "itemId": 9376,
+    "itemName": "Blurite bolts (unf)",
+    "examine": "Unfeathered blurite crossbow bolts.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Blurite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 8,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Blurite bolts (unf)"
+            }
+        }
+    ]
+}

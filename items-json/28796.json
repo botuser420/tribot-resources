@@ -1,0 +1,69 @@
+{
+    "itemId": 28796,
+    "itemName": "Bone staff",
+    "examine": "It's a slightly magical stick intertwined with Scurrius' spine.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chaos rune",
+                    "quantity": 1000
+                },
+                {
+                    "name": "Scurrius' spine",
+                    "quantity": 1
+                }
+            ],
+            "tools": "chisel",
+            "skills": [
+                {
+                    "experience": 300.0,
+                    "level": 35,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bone staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chaos rune",
+                    "quantity": 1000
+                },
+                {
+                    "name": "Scurrius' spine",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 50000
+                }
+            ],
+            "facilities": "Historian Aldo",
+            "output": {
+                "quantity": 1,
+                "name": "Bone staff"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 14,
+        "attackDistance": 8,
+        "attackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 4840,
+    "itemName": "Unfinished potion",
+    "examine": "I need another ingredient to finish this Rogue's Purse potion.",
+    "weight": 0.03,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rogue's purse",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 8,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished potion (Rogue's Purse)"
+            }
+        }
+    ]
+}

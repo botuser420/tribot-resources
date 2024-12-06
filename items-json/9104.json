@@ -1,0 +1,11 @@
+{
+    "itemId": 9104,
+    "itemName": "Lunar ring",
+    "examine": "A mysterious ring that can fill the wearer with magical power...",
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING",
+        "magicAttackBonus": 2,
+        "magicDefenceBonus": 2
+    }
+}

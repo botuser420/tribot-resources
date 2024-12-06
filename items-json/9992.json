@@ -1,0 +1,33 @@
+{
+    "itemId": 9992,
+    "itemName": "Skewered beast",
+    "examine": "Beast meat on a spit.",
+    "weight": 3.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw beast meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Iron spit",
+            "skills": [
+                {
+                    "level": 21,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 20,
+                    "name": "Firemaking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Skewered beast"
+            }
+        }
+    ]
+}

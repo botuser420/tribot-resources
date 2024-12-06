@@ -1,0 +1,33 @@
+{
+    "itemId": 19607,
+    "itemName": "Unstrung heavy ballista",
+    "examine": "Needs a suitably simian rope.",
+    "weight": 5.75,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Incomplete heavy ballista",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ballista spring",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 72,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unstrung heavy ballista"
+            }
+        }
+    ]
+}

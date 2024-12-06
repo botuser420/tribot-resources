@@ -1,0 +1,14 @@
+{
+    "itemId": 24182,
+    "itemName": "Void knight gloves (l)",
+    "examine": "Gloves as used by the order of the Void Knights.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HANDS",
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 6
+    }
+}

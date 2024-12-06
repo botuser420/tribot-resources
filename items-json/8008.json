@@ -1,0 +1,43 @@
+{
+    "itemId": 8008,
+    "itemName": "Lumbridge teleport",
+    "examine": "A teleport to Lumbridge.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Eagle lectern",
+            "skills": [
+                {
+                    "experience": 41.0,
+                    "level": 31,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lumbridge teleport (tablet)"
+            }
+        }
+    ]
+}

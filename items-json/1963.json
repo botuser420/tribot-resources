@@ -1,0 +1,7 @@
+{
+    "itemId": 1963,
+    "itemName": "Banana",
+    "examine": "Mmm this looks tasty.",
+    "weight": 0.028,
+    "buyLimit": 13000
+}

@@ -1,0 +1,25 @@
+{
+    "itemId": 28806,
+    "itemName": "Imbued barronite",
+    "examine": "A deposit of strange glowing ore that has been imbued with chaos magic.",
+    "weight": 0.2,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Barronite deposit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chaos core",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imbued barronite"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "itemId": 13378,
+    "itemName": "Shayzien boots (5)",
+    "examine": "Dress like a tier 5 Shayzien soldier.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Lovakite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 87,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shayzien boots (5)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -2,
+        "rangedAttackBonus": 4,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 8
+    }
+}

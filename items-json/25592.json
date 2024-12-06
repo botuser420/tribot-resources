@@ -1,0 +1,28 @@
+{
+    "itemId": 25592,
+    "itemName": "Spirit angler headband",
+    "examine": "This will help with fishing.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Angler hat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spirit flakes",
+                    "quantity": 1200
+                }
+            ],
+            "facilities": "Gita Prymes",
+            "output": {
+                "quantity": 1,
+                "name": "Spirit angler headband"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

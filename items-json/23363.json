@@ -1,0 +1,22 @@
+{
+    "itemId": 23363,
+    "itemName": "Staff of bob the cat",
+    "examine": "A staff styled after the elusive cat.",
+    "weight": 2.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 10,
+        "strengthBonus": 7,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

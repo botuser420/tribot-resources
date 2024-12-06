@@ -1,0 +1,39 @@
+{
+    "itemId": 4798,
+    "itemName": "Adamant brutal",
+    "examine": "Blunt adamantite arrow... ouch.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Flighted ogre arrow",
+                    "quantity": 6
+                },
+                {
+                    "name": "Adamantite nails",
+                    "quantity": 6
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 61.2,
+                    "level": 62,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 6,
+                "name": "Adamant brutal"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 45
+    }
+}

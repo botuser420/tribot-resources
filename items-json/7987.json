@@ -1,0 +1,26 @@
+{
+    "itemId": 7987,
+    "itemName": "Stuffed kbd heads",
+    "examine": "I could mount these on my wall!",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Kbd heads",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 50000
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed kbd heads"
+            }
+        }
+    ]
+}

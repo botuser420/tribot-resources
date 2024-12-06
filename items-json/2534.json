@@ -1,0 +1,10 @@
+{
+    "itemId": 2534,
+    "itemName": "Steel fire arrow",
+    "examine": "Arrows with steel heads wrapped in oily cloth.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 16
+    }
+}

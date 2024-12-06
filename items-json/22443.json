@@ -1,0 +1,33 @@
+{
+    "itemId": 22443,
+    "itemName": "Cadantine blood potion (unf)",
+    "examine": "I need another ingredient to finish this blood potion.",
+    "weight": 0.056,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Cadantine",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of blood",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 80,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cadantine blood potion (unf)"
+            }
+        }
+    ]
+}

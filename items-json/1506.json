@@ -1,0 +1,24 @@
+{
+    "itemId": 1506,
+    "itemName": "Gas mask",
+    "examine": "Stops me from breathing nasty stuff!",
+    "weight": 0.255,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dwellberries",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Alrena",
+            "output": {
+                "quantity": 1,
+                "name": "Gas mask"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

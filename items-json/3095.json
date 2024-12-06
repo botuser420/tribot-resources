@@ -1,0 +1,45 @@
+{
+    "itemId": 3095,
+    "itemName": "Bronze claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 13,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bronze claws"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 3,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

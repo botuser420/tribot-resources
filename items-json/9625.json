@@ -1,0 +1,21 @@
+{
+    "itemId": 9625,
+    "itemName": "Crystal saw",
+    "examine": "A magical saw.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Crystal saw seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing bowl",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal saw"
+            }
+        }
+    ]
+}

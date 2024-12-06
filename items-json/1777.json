@@ -1,0 +1,70 @@
+{
+    "itemId": 1777,
+    "itemName": "Bow string",
+    "examine": "I need a bow stave to attach this to.",
+    "weight": 0.014,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Flax",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow string"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Flax",
+                    "quantity": 5
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 76,
+                    "name": "Magic",
+                    "boostable": true
+                },
+                {
+                    "experience": 75.0,
+                    "level": 61,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Bow string"
+            }
+        }
+    ]
+}

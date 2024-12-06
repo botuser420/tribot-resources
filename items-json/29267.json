@@ -1,0 +1,9 @@
+{
+    "itemId": 29267,
+    "itemName": "Guild hunter legs",
+    "examine": "The legs of the Hunters.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

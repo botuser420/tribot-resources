@@ -1,0 +1,36 @@
+{
+    "itemId": 22717,
+    "itemName": "Tree skirt",
+    "examine": "The bottom of a tree costume.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Festive tree branch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Church decoration",
+                    "quantity": 1
+                },
+                {
+                    "name": "Waste gems",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ball of wool",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Tree skirt"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

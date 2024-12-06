@@ -1,0 +1,39 @@
+{
+    "itemId": 4793,
+    "itemName": "Mithril brutal",
+    "examine": "Blunt mithril arrow... ouch.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Flighted ogre arrow",
+                    "quantity": 6
+                },
+                {
+                    "name": "Mithril nails",
+                    "quantity": 6
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 45.0,
+                    "level": 49,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 6,
+                "name": "Mithril brutal"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 34
+    }
+}

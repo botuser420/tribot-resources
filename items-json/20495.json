@@ -1,0 +1,14 @@
+{
+    "itemId": 20495,
+    "itemName": "Decorative armour (broken)",
+    "examine": "Very decorative armour, but it's broken.",
+    "weight": 6.803,
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 20,
+        "magicDefenceBonus": 20,
+        "rangeDefenceBonus": 20
+    }
+}

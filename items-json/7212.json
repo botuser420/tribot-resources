@@ -1,0 +1,32 @@
+{
+    "itemId": 7212,
+    "itemName": "Part summer pie",
+    "examine": "Still needs two more ingredients.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Strawberry",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pie shell",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 95,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Part summer pie (strawberry)"
+            }
+        }
+    ]
+}

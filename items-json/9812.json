@@ -1,0 +1,9 @@
+{
+    "itemId": 9812,
+    "itemName": "Farming hood",
+    "examine": "Farming skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

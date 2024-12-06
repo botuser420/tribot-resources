@@ -1,0 +1,21 @@
+{
+    "itemId": 11828,
+    "itemName": "Armadyl chestplate",
+    "examine": "Armour of great craftsmanship.",
+    "weight": 4.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": -7,
+        "slashAttackBonus": -7,
+        "crushAttackBonus": -7,
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 33,
+        "stabDefenceBonus": 56,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 61,
+        "magicDefenceBonus": 70,
+        "rangeDefenceBonus": 57,
+        "prayerBonus": 1
+    }
+}

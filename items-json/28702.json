@@ -1,0 +1,12 @@
+{
+    "itemId": 28702,
+    "itemName": "Trailblazer reloaded banner",
+    "examine": "A banner showcasing the colours of Leagues IV: Trailblazer Reloaded.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BANNER"
+    }
+}

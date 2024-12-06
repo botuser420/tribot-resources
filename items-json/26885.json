@@ -1,0 +1,73 @@
+{
+    "itemId": 26885,
+    "itemName": "Strong cell",
+    "examine": "Contains a high amount of runic energy.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Strong cell"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Nature Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 44,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Strong cell"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Law Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 54,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Strong cell"
+            }
+        }
+    ]
+}

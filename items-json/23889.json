@@ -1,0 +1,60 @@
+{
+    "itemId": 23889,
+    "itemName": "Crystal body (basic)",
+    "examine": "A not so sturdy piece of armour with a little protection from crystalline creatures.",
+    "weight": 9.979,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 40
+                },
+                {
+                    "name": "Crystal ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Phren bark",
+                    "quantity": 1
+                },
+                {
+                    "name": "Linum tirinum",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal body (basic)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 3,
+        "magicAttackBonus": 8,
+        "rangedAttackBonus": 8,
+        "stabDefenceBonus": 86,
+        "slashDefenceBonus": 86,
+        "crushDefenceBonus": 86,
+        "magicDefenceBonus": 86,
+        "rangeDefenceBonus": 86,
+        "prayerBonus": 3
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 229,
+    "itemName": "Vial",
+    "examine": "An empty glass vial.",
+    "weight": 0.015,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Molten glass",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Glassblowing pipe",
+            "skills": [
+                {
+                    "experience": 35.0,
+                    "level": 33,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Vial"
+            }
+        }
+    ]
+}

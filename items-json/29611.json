@@ -1,0 +1,32 @@
+{
+    "itemId": 29611,
+    "itemName": "Dark bow (deadman)",
+    "examine": "A bow from a darker dimension.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dark bow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Armageddon weapon scroll",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Nigel",
+            "output": {
+                "quantity": 1,
+                "name": "Dark bow (deadman)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 95,
+        "attackDistance": 10,
+        "attackSpeed": 9,
+        "weaponType": "BOW"
+    }
+}

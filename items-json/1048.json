@@ -1,0 +1,10 @@
+{
+    "itemId": 1048,
+    "itemName": "White partyhat",
+    "examine": "A nice hat from a cracker.",
+    "weight": 0.056,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

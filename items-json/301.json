@@ -1,0 +1,7 @@
+{
+    "itemId": 301,
+    "itemName": "Lobster pot",
+    "examine": "Useful for catching lobsters.",
+    "weight": 0.255,
+    "buyLimit": 40
+}

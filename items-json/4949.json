@@ -1,0 +1,16 @@
+{
+    "itemId": 4949,
+    "itemName": "Karil's leatherskirt 25",
+    "examine": "Karil the Tainted's leather skirt.",
+    "weight": 5.443,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 17,
+        "stabDefenceBonus": 26,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 28,
+        "magicDefenceBonus": 35,
+        "rangeDefenceBonus": 33
+    }
+}

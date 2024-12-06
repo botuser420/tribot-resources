@@ -1,0 +1,35 @@
+{
+    "itemId": 28031,
+    "itemName": "Dragon scimitar (cr)",
+    "examine": "A vicious, curved sword.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon scimitar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon scimitar (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 67,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 66,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

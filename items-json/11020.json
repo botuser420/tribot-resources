@@ -1,0 +1,9 @@
+{
+    "itemId": 11020,
+    "itemName": "Chicken wings",
+    "examine": "I look fowl in this.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

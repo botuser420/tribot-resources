@@ -1,0 +1,33 @@
+{
+    "itemId": 13408,
+    "itemName": "Servery uncooked pizza",
+    "examine": "This needs cooking.",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery incomplete pizza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servery cheese",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Clay oven",
+            "skills": [
+                {
+                    "level": 65,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery uncooked pizza"
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "itemId": 249,
+    "itemName": "Guam leaf",
+    "examine": "A bitter green herb.",
+    "weight": 0.007,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy guam leaf",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 3,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Guam leaf"
+            }
+        }
+    ]
+}

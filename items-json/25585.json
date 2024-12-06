@@ -1,0 +1,12 @@
+{
+    "itemId": 25585,
+    "itemName": "Fish sack barrel",
+    "examine": "There's something fishy about this...",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

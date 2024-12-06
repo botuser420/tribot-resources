@@ -1,0 +1,30 @@
+{
+    "itemId": 3420,
+    "itemName": "Limestone brick",
+    "examine": "A well carved limestone brick.",
+    "weight": 1.36,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Limestone",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 12,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Limestone brick"
+            }
+        }
+    ]
+}

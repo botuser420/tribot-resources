@@ -1,0 +1,31 @@
+{
+    "itemId": 7223,
+    "itemName": "Roast rabbit",
+    "examine": "A delicious looking piece of roast rabbit.",
+    "weight": 0.3,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Skewered rabbit",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire",
+            "skills": [
+                {
+                    "experience": 72.5,
+                    "level": 16,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Roast rabbit"
+            }
+        }
+    ]
+}

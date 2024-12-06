@@ -1,0 +1,33 @@
+{
+    "itemId": 28055,
+    "itemName": "Dragon boots (cr)",
+    "examine": "These will protect my feet.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon boots (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 16,
+        "slashDefenceBonus": 17,
+        "crushDefenceBonus": 18,
+        "strengthBonus": 4
+    }
+}

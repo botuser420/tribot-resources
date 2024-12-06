@@ -1,0 +1,32 @@
+{
+    "itemId": 821,
+    "itemName": "Steel dart tip",
+    "examine": "A deadly-looking dart tip made of steel - needs feathers for flight.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 34,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Steel dart tip"
+            }
+        }
+    ]
+}

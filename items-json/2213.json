@@ -1,0 +1,31 @@
+{
+    "itemId": 2213,
+    "itemName": "Spicy crunchies",
+    "examine": "Yum... smells spicy.",
+    "weight": 0.25,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unfinished crunchy (spicy)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Gnome spice",
+            "skills": [
+                {
+                    "experience": 42.0,
+                    "level": 12,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spicy crunchies"
+            }
+        }
+    ]
+}

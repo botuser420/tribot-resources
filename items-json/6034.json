@@ -1,0 +1,158 @@
+{
+    "itemId": 6034,
+    "itemName": "Supercompost",
+    "examine": "Super-good for the smallest or largest of plants.",
+    "weight": 3.0,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 60,
+            "materials": [
+                {
+                    "name": "Watermelon",
+                    "quantity": 15
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 15
+                }
+            ],
+            "facilities": "Compost Bin",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 1,
+                    "name": "Farming"
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Supercompost"
+            }
+        },
+        {
+            "ticks": 120,
+            "materials": [
+                {
+                    "name": "Watermelon",
+                    "quantity": 30
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 30
+                }
+            ],
+            "facilities": "Big Compost Bin",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 45,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 30,
+                "name": "Supercompost"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Compost",
+                    "quantity": 1
+                },
+                {
+                    "name": "Compost potion(1)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Supercompost"
+            }
+        },
+        {
+            "ticks": 60,
+            "materials": [
+                {
+                    "name": "Weeds",
+                    "quantity": 15
+                },
+                {
+                    "name": "Compost potion(1)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 15
+                }
+            ],
+            "facilities": "Compost Bin",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 1,
+                    "name": "Farming"
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Supercompost"
+            }
+        },
+        {
+            "ticks": 120,
+            "materials": [
+                {
+                    "name": "Weeds",
+                    "quantity": 30
+                },
+                {
+                    "name": "Compost potion(1)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 30
+                }
+            ],
+            "facilities": "Big Compost Bin",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 45,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 30,
+                "name": "Supercompost"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Compost",
+                    "quantity": 1
+                },
+                {
+                    "name": "Saltpetre",
+                    "quantity": 3
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 1,
+                    "name": "Farming"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Supercompost"
+            }
+        }
+    ]
+}

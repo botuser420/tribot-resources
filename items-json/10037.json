@@ -1,0 +1,50 @@
+{
+    "itemId": 10037,
+    "itemName": "Kyatt top",
+    "examine": "This should make me harder to spot in polar areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Kyatt fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 200
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Kyatt top"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Tatty kyatt fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 200
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Kyatt top"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 19,
+        "rangeDefenceBonus": 12
+    }
+}

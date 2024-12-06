@@ -1,0 +1,9 @@
+{
+    "itemId": 9749,
+    "itemName": "Attack hood",
+    "examine": "Attack skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

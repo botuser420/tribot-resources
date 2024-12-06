@@ -1,0 +1,132 @@
+{
+    "itemId": 2361,
+    "itemName": "Adamantite bar",
+    "examine": "It's a bar of adamantite.",
+    "weight": 2.041,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Adamantite ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 6
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 70,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Adamantite bar"
+            }
+        },
+        {
+            "ticks": 11,
+            "materials": [
+                {
+                    "name": "Adamantite ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Blast Furnace",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 70,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Adamantite bar"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Adamantite ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 3
+                },
+                {
+                    "name": "Smithing catalyst",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 70,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Adamantite bar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Adamantite ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 6
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 4
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 70,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Adamantite bar"
+            }
+        }
+    ]
+}

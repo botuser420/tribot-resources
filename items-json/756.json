@@ -1,0 +1,22 @@
+{
+    "itemId": 756,
+    "itemName": "Cadava potion",
+    "examine": "I'm meant to give this to Juliet.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Cadava berries",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Apothecary",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Cadava potion"
+            }
+        }
+    ]
+}

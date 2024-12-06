@@ -1,0 +1,43 @@
+{
+    "itemId": 1161,
+    "itemName": "Adamant full helm",
+    "examine": "A full face helmet.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 125.0,
+                    "level": 77,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Adamant full helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 19,
+        "slashDefenceBonus": 21,
+        "crushDefenceBonus": 16,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 19
+    }
+}

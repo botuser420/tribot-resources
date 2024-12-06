@@ -1,0 +1,37 @@
+{
+    "itemId": 5543,
+    "itemName": "Chaos tiara",
+    "examine": "A tiara infused with the properties of chaos.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chaos talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Chaos Altar",
+            "skills": [
+                {
+                    "experience": 42.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chaos tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 12441,
+    "itemName": "Musketeer tabard",
+    "examine": "All for one!",
+    "weight": 1.814,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

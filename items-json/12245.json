@@ -1,0 +1,10 @@
+{
+    "itemId": 12245,
+    "itemName": "Beanie",
+    "examine": "Weeeeeee!",
+    "weight": 0.002,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

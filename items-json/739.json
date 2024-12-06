@@ -1,0 +1,54 @@
+{
+    "itemId": 739,
+    "itemName": "Bravery potion",
+    "examine": "A Bravery Potion made from Gujuo's recipe. Let's hope it works.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Snake weed",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ardrigal mixture",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bravery potion"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Ardrigal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Snakeweed mixture",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bravery potion"
+            }
+        }
+    ]
+}

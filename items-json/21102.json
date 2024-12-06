@@ -1,0 +1,36 @@
+{
+    "itemId": 21102,
+    "itemName": "Jade amulet (u)",
+    "examine": "It needs a string so I can wear it.",
+    "weight": 0.004,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Jade",
+                    "quantity": 1
+                },
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Amulet mould",
+            "skills": [
+                {
+                    "experience": 70.0,
+                    "level": 34,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Jade amulet (u)"
+            }
+        }
+    ]
+}

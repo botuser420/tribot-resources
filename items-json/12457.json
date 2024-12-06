@@ -1,0 +1,31 @@
+{
+    "itemId": 12457,
+    "itemName": "Dark infinity hat",
+    "examine": "A mystic hat with a dark recolour.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Infinity hat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark infinity colour kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dark infinity hat"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 6,
+        "magicDefenceBonus": 6,
+        "magicDamageBonus": 1.0
+    }
+}

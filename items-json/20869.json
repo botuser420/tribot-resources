@@ -1,0 +1,141 @@
+{
+    "itemId": 20869,
+    "itemName": "Burnt bat",
+    "examine": "Well done, you made it even less appetising.",
+    "weight": 0.35,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw guanic bat (0)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt bat"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Raw prael bat (1)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 15,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt bat"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Raw giral bat (2)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt bat"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Raw phluxia bat (3)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 45,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt bat"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Raw kryket bat (4)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 60,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt bat"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Raw murng bat (5)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 75,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt bat"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Raw psykk bat (6)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt bat"
+            }
+        }
+    ]
+}

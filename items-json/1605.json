@@ -1,0 +1,32 @@
+{
+    "itemId": 1605,
+    "itemName": "Emerald",
+    "examine": "This looks valuable.",
+    "weight": 0.002,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Uncut emerald",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 67.5,
+                    "level": 27,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Emerald"
+            }
+        }
+    ]
+}

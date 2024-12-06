@@ -1,0 +1,38 @@
+{
+    "itemId": 879,
+    "itemName": "Opal bolts",
+    "examine": "Opal tipped Bronze crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bronze bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Opal bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 16.0,
+                    "level": 11,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Opal bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 14
+    }
+}

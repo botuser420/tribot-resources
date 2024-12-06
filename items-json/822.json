@@ -1,0 +1,32 @@
+{
+    "itemId": 822,
+    "itemName": "Mithril dart tip",
+    "examine": "A deadly looking dart tip made of mithril - needs feathers for flight.",
+    "weight": 0.0,
+    "buyLimit": 20000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 54,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Mithril dart tip"
+            }
+        }
+    ]
+}

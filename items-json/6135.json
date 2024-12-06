@@ -1,0 +1,41 @@
+{
+    "itemId": 6135,
+    "itemName": "Spined chaps",
+    "examine": "Stylish leg armour for rangers with a lingering smell of raw fish...",
+    "weight": 5.443,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dagannoth hide",
+                    "quantity": 2
+                },
+                {
+                    "name": "Stretched hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 7500
+                }
+            ],
+            "facilities": "Sigli the Huntsman",
+            "output": {
+                "quantity": 1,
+                "name": "Spined chaps"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 8,
+        "stabDefenceBonus": 22,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 22
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "itemId": 1977,
+    "itemName": "Chocolatey milk",
+    "examine": "Milk with chocolate in it.",
+    "weight": 2.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Chocolate dust",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of milk",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chocolatey milk"
+            }
+        }
+    ]
+}

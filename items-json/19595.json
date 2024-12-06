@@ -1,0 +1,33 @@
+{
+    "itemId": 19595,
+    "itemName": "Incomplete light ballista",
+    "examine": "The limbs have been attached to the frame.",
+    "weight": 2.5,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Light frame",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ballista limbs",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 47,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Incomplete light ballista"
+            }
+        }
+    ]
+}

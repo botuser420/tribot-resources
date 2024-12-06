@@ -1,0 +1,7 @@
+{
+    "itemId": 23387,
+    "itemName": "Watson teleport",
+    "examine": "Teleports you to Watson's house in Great Kourend.",
+    "weight": 0.0,
+    "buyLimit": 10000
+}

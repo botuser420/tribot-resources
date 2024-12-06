@@ -1,0 +1,45 @@
+{
+    "itemId": 1293,
+    "itemName": "Iron longsword",
+    "examine": "A razor sharp longsword.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 21,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Iron longsword"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 10,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

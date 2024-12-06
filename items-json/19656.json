@@ -1,0 +1,33 @@
+{
+    "itemId": 19656,
+    "itemName": "Uncooked botanical pie",
+    "examine": "This would be much tastier cooked.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Golovanova fruit top",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pie shell",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 52,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked botanical pie"
+            }
+        }
+    ]
+}

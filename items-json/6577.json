@@ -1,0 +1,39 @@
+{
+    "itemId": 6577,
+    "itemName": "Onyx necklace",
+    "examine": "I wonder if this is valuable.",
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Onyx",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Necklace mould",
+            "skills": [
+                {
+                    "experience": 120.0,
+                    "level": 82,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Onyx necklace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "itemId": 20862,
+    "itemName": "Brawk fish (3)",
+    "examine": "I should try eating this.",
+    "weight": 0.4,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw brawk fish (3)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 19.0,
+                    "level": 45,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Brawk fish (3)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "itemId": 25870,
+    "itemName": "Blade of saeldor (c)",
+    "examine": "A magical elven sword, corrupted through the addition of too many shards.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Blade of saeldor (c)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of ithell",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blade of saeldor (c) (Ithell)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blade of saeldor (c) (Amlodd)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of ithell",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blade of saeldor (c) (Ithell)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blade of saeldor (c) (Cadarn)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of ithell",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blade of saeldor (c) (Ithell)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blade of saeldor (c) (Crwys)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of ithell",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blade of saeldor (c) (Ithell)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blade of saeldor (c) (Iorwerth)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of ithell",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blade of saeldor (c) (Ithell)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blade of saeldor (c) (Meilyr)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of ithell",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blade of saeldor (c) (Ithell)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blade of saeldor (c) (Trahaearn)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of ithell",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blade of saeldor (c) (Ithell)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 55,
+        "slashAttackBonus": 94,
+        "strengthBonus": 89,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

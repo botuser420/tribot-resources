@@ -1,0 +1,18 @@
+{
+    "itemId": 13110,
+    "itemName": "Wilderness sword 3",
+    "examine": "A razor sharp sword.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 16,
+        "slashAttackBonus": 11,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 17,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

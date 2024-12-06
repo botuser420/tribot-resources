@@ -1,0 +1,35 @@
+{
+    "itemId": 10158,
+    "itemName": "Kebbit bolts",
+    "examine": "Bolts made from the spikes of a prickly kebbit.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Kebbit spike",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.8,
+                    "level": 32,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Kebbit bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 28
+    }
+}

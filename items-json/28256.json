@@ -1,0 +1,40 @@
+{
+    "itemId": 28256,
+    "itemName": "Sanguine torva platebody",
+    "examine": "An ancient warrior's platebody.",
+    "weight": 9.979,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Torva platebody",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ancient blood ornament kit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 20000
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Sanguine torva platebody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -18,
+        "rangedAttackBonus": -14,
+        "stabDefenceBonus": 117,
+        "slashDefenceBonus": 111,
+        "crushDefenceBonus": 117,
+        "magicDefenceBonus": -11,
+        "rangeDefenceBonus": 142,
+        "strengthBonus": 6,
+        "prayerBonus": 1
+    }
+}

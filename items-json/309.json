@@ -1,0 +1,7 @@
+{
+    "itemId": 309,
+    "itemName": "Fly fishing rod",
+    "examine": "Useful for catching salmon or trout.",
+    "weight": 1.36,
+    "buyLimit": 40
+}

@@ -1,0 +1,41 @@
+{
+    "itemId": 21183,
+    "itemName": "Bracelet of slaughter",
+    "examine": "Occasionally prevents slayer kill count being decremented.",
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Topaz bracelet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 59.0,
+                    "level": 49,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bracelet of slaughter"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "itemId": 2287,
+    "itemName": "Uncooked pizza",
+    "examine": "This needs cooking.",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Incomplete pizza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cheese",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked pizza"
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "itemId": 9100,
+    "itemName": "Lunar boots",
+    "examine": "Mystical foot protection.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Suqah leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 61,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 2,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "itemId": 7216,
+    "itemName": "Raw summer pie",
+    "examine": "Fresh fruit may be good for you, but I should really cook this.",
+    "weight": 0.001,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Part summer pie (watermelon)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cooking apple",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 95,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw summer pie"
+            }
+        }
+    ]
+}

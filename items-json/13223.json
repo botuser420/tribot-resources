@@ -1,0 +1,9 @@
+{
+    "itemId": 13223,
+    "itemName": "Music hood",
+    "examine": "Music cape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

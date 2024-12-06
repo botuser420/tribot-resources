@@ -1,0 +1,35 @@
+{
+    "itemId": 23677,
+    "itemName": "Dragon pickaxe (or)",
+    "examine": "A dragon pickaxe infused with a fragment of Zalcano.",
+    "weight": 2.4,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon pickaxe",
+                    "quantity": 1
+                },
+                {
+                    "name": "Zalcano shard",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon pickaxe (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 38,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 32,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 42,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "PICKAXE"
+    }
+}

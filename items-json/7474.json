@@ -1,0 +1,24 @@
+{
+    "itemId": 7474,
+    "itemName": "Brulee",
+    "examine": "A pot of brulee mixture - needs egg.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Cornflour mixture",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vanilla pod",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Brulee (vanilla)"
+            }
+        }
+    ]
+}

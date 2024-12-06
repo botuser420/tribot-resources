@@ -1,0 +1,44 @@
+{
+    "itemId": 347,
+    "itemName": "Herring",
+    "examine": "Some nicely cooked herring.",
+    "weight": 0.5,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw herring",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 5,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Herring"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Red herring",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Herring"
+            }
+        }
+    ]
+}

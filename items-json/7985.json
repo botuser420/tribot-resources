@@ -1,0 +1,26 @@
+{
+    "itemId": 7985,
+    "itemName": "Stuffed kurask head",
+    "examine": "I could mount this on my wall!",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Kurask head",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 6000
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed kurask head"
+            }
+        }
+    ]
+}

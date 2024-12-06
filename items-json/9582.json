@@ -1,0 +1,29 @@
+{
+    "itemId": 9582,
+    "itemName": "Unfinished crunchy",
+    "examine": "This toad crunchy needs garnishing with equa leaves.",
+    "weight": 0.35,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made crunchy (toad)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 10,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished crunchy (toad)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 12929,
+    "itemName": "Serpentine helm (uncharged)",
+    "examine": "Needs to be charged with Zulrah's scales.",
+    "weight": 0.9,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": -5
+    }
+}

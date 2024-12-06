@@ -1,0 +1,36 @@
+{
+    "itemId": 28029,
+    "itemName": "Dragon sword (cr)",
+    "examine": "A razor sharp sword.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon sword",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon sword (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 65,
+        "slashAttackBonus": 55,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 63,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

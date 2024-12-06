@@ -1,0 +1,70 @@
+{
+    "itemId": 12817,
+    "itemName": "Elysian spirit shield",
+    "examine": "An ethereal shield with an elysian sigil attached to it.",
+    "weight": 2.0,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Blessed spirit shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elysian sigil",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Prayer"
+                },
+                {
+                    "experience": 1800.0,
+                    "level": 85,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Elysian spirit shield"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed spirit shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elysian sigil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1500000
+                }
+            ],
+            "facilities": "Abbot Langley",
+            "output": {
+                "quantity": 1,
+                "name": "Elysian spirit shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 63,
+        "slashDefenceBonus": 65,
+        "crushDefenceBonus": 75,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 57,
+        "prayerBonus": 3
+    }
+}

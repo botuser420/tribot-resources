@@ -1,0 +1,24 @@
+{
+    "itemId": 6771,
+    "itemName": "Pot of weeds",
+    "examine": "Contains garden weeds.",
+    "weight": 0.6,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Weeds",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pot of weeds"
+            }
+        }
+    ]
+}

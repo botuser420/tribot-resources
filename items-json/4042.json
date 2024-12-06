@@ -1,0 +1,9 @@
+{
+    "itemId": 4042,
+    "itemName": "Hooded cloak",
+    "examine": "The colours of Zamorak.",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

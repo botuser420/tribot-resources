@@ -1,0 +1,7 @@
+{
+    "itemId": 4850,
+    "itemName": "Ogre coffin key",
+    "examine": "A key which opens coffins! (Opens the locked coffins in the cave at Jiggig).",
+    "weight": 0.055,
+    "buyLimit": 3000
+}

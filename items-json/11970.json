@@ -1,0 +1,9 @@
+{
+    "itemId": 11970,
+    "itemName": "Skills necklace(5)",
+    "examine": "This will help me travel.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

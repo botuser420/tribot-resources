@@ -1,0 +1,42 @@
+{
+    "itemId": 9239,
+    "itemName": "Topaz bolts (e)",
+    "examine": "Enchanted Red Topaz tipped Steel Crossbow Bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Topaz bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 33.0,
+                    "level": 29,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Topaz bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 66
+    }
+}

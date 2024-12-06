@@ -1,0 +1,9 @@
+{
+    "itemId": 25330,
+    "itemName": "20th anniversary gloves",
+    "examine": "Celebrating the 20th Anniversary of RuneScape.",
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

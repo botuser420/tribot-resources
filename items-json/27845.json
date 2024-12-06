@@ -1,0 +1,20 @@
+{
+    "itemId": 27845,
+    "itemName": "Corrupted statius's platebody (bh)",
+    "examine": "A powerful platebody.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 14,
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 50,
+        "slashDefenceBonus": 46,
+        "crushDefenceBonus": 44,
+        "magicDefenceBonus": -12,
+        "rangeDefenceBonus": 45,
+        "strengthBonus": 4
+    }
+}

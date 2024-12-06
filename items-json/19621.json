@@ -1,0 +1,43 @@
+{
+    "itemId": 19621,
+    "itemName": "Fenkenstrain's castle teleport",
+    "examine": "A teleport to Fenkenstrain's Castle.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 48,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fenkenstrain's castle teleport (tablet)"
+            }
+        }
+    ]
+}

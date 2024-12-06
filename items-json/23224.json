@@ -1,0 +1,10 @@
+{
+    "itemId": 23224,
+    "itemName": "Thieving bag",
+    "examine": "A good place to store your stolen goods.",
+    "weight": 0.435,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

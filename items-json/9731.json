@@ -1,0 +1,36 @@
+{
+    "itemId": 9731,
+    "itemName": "Mind shield",
+    "examine": "A magic shield.",
+    "weight": 0.226,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Primed mind bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Workbench (Elemental Workshop)",
+            "tools": "Hammer, Slashed book",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 30,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mind shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicDefenceBonus": 9
+    }
+}

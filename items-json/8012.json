@@ -1,0 +1,39 @@
+{
+    "itemId": 8012,
+    "itemName": "Watchtower teleport",
+    "examine": "A teleport to the Yanille Watchtower.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mahogany eagle lectern",
+            "skills": [
+                {
+                    "experience": 68.0,
+                    "level": 58,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Watchtower teleport (tablet)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "itemId": 7537,
+    "itemName": "Crab claw",
+    "examine": "If it's good enough for crabs, it's good enough for me!",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Fresh crab claw",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 32.5,
+                    "level": 15,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crab claw"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 1
+    }
+}

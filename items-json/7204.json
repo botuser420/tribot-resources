@@ -1,0 +1,32 @@
+{
+    "itemId": 7204,
+    "itemName": "Part wild pie",
+    "examine": "Still needs one more ingredient.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Raw chompy",
+                    "quantity": 1
+                },
+                {
+                    "name": "Part wild pie (raw bear meat)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 85,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Part wild pie (raw chompy)"
+            }
+        }
+    ]
+}

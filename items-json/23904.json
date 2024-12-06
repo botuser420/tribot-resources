@@ -1,0 +1,34 @@
+{
+    "itemId": 23904,
+    "itemName": "Teleport crystal",
+    "examine": "A tiny crystal enchanted to return the user to the start of the Gauntlet.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 40
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Teleport crystal (The Gauntlet)"
+            }
+        }
+    ]
+}

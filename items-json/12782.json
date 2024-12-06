@@ -1,0 +1,39 @@
+{
+    "itemId": 12782,
+    "itemName": "Senntisten teleport",
+    "examine": "A teleport to Senntisten.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Ancient)",
+            "skills": [
+                {
+                    "experience": 70.0,
+                    "level": 60,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Senntisten teleport (tablet)"
+            }
+        }
+    ]
+}

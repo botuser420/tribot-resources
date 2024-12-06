@@ -1,0 +1,22 @@
+{
+    "itemId": 29384,
+    "itemName": "Jug of blessed sunfire wine",
+    "examine": "A jug of sunfire wine that's been blessed by Ralos. Not for drinking.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Jug of sunfire wine",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Exposed altar",
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Jug of blessed sunfire wine"
+            }
+        }
+    ]
+}

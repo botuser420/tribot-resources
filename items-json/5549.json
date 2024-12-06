@@ -1,0 +1,36 @@
+{
+    "itemId": 5549,
+    "itemName": "Blood tiara",
+    "examine": "A tiara infused with the properties of blood.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blood Altar",
+            "skills": [
+                {
+                    "experience": 52.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blood tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

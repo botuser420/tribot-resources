@@ -1,0 +1,31 @@
+{
+    "itemId": 28904,
+    "itemName": "Dizana's max hood",
+    "examine": "The hood worn by only the most experienced players.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Blessed dizana's quiver",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max cape",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dizana's max hood"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

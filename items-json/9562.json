@@ -1,0 +1,29 @@
+{
+    "itemId": 9562,
+    "itemName": "Unfinished bowl",
+    "examine": "This unfinished veg ball needs garnishing with equa leaves.",
+    "weight": 0.275,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made bowl (veg ball)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished bowl (veg ball)"
+            }
+        }
+    ]
+}

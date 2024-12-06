@@ -1,0 +1,15 @@
+{
+    "itemId": 6408,
+    "itemName": "Oak blackjack(o)",
+    "examine": "An offensive blackjack.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 4,
+        "strengthBonus": 4,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 21865,
+    "itemName": "Fine mesh net",
+    "examine": "Only the most delicious nets can catch sprites.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 5100,
+    "itemName": "Limpwurt seed",
+    "examine": "A limpwurt seed - plant in a flower patch.",
+    "weight": 0.0,
+    "buyLimit": 600
+}

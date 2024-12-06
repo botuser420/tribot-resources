@@ -1,0 +1,49 @@
+{
+    "itemId": 24695,
+    "itemName": "Enchanted ruby sickle (b)",
+    "examine": "It's a blessed and enchanted silver sickle with a ruby recessed into it.",
+    "weight": 1.587,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ruby sickle (b)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 59.0,
+                    "level": 49,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted ruby sickle (b)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 6,
+        "prayerBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

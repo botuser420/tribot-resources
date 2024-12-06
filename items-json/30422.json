@@ -1,0 +1,9 @@
+{
+    "itemId": 30422,
+    "itemName": "Raging echoes top (t3)",
+    "examine": "The coat of a Raging Echoes relic hunter.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

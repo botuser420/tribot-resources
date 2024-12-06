@@ -1,0 +1,17 @@
+{
+    "itemId": 8921,
+    "itemName": "Black mask",
+    "examine": "An inert-seeming cave horror mask.",
+    "weight": 10.0,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9
+    }
+}

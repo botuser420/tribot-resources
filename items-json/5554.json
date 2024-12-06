@@ -1,0 +1,14 @@
+{
+    "itemId": 5554,
+    "itemName": "Rogue mask",
+    "examine": "Black banded leather armour, a rogue's dream!",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 5
+    }
+}

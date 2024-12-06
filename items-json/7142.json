@@ -1,0 +1,17 @@
+{
+    "itemId": 7142,
+    "itemName": "Rapier",
+    "examine": "The very butcher of a silk button.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 45,
+        "slashAttackBonus": 7,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 44,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

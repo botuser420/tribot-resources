@@ -1,0 +1,30 @@
+{
+    "itemId": 9693,
+    "itemName": "Air rune",
+    "examine": "An air rune.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blank air rune",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Air tiara, Air talisman",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Air rune (The Slug Menace)"
+            }
+        }
+    ]
+}

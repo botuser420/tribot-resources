@@ -1,0 +1,32 @@
+{
+    "itemId": 12773,
+    "itemName": "Volcanic abyssal whip",
+    "examine": "A weapon from the volcanic abyss.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Abyssal whip",
+                    "quantity": 1
+                },
+                {
+                    "name": "Volcanic whip mix",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Volcanic abyssal whip"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 82,
+        "strengthBonus": 82,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "WHIP"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "itemId": 11128,
+    "itemName": "Berserker necklace",
+    "examine": "Makes obsidian weapons even stronger!",
+    "weight": 0.01,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Onyx necklace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 20
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 20
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 97.0,
+                    "level": 87,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Berserker necklace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": -10,
+        "slashAttackBonus": -10,
+        "crushAttackBonus": -10,
+        "stabDefenceBonus": -20,
+        "slashDefenceBonus": -20,
+        "crushDefenceBonus": -20,
+        "magicDefenceBonus": -20,
+        "rangeDefenceBonus": -20,
+        "strengthBonus": 7,
+        "prayerBonus": 3
+    }
+}

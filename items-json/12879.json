@@ -1,0 +1,7 @@
+{
+    "itemId": 12879,
+    "itemName": "Torag's armour set",
+    "examine": "A set containing a Torag's helm, platelegs, platebody and hammers.",
+    "weight": 0.05,
+    "buyLimit": 8
+}

@@ -1,0 +1,83 @@
+{
+    "itemId": 2001,
+    "itemName": "Uncooked stew",
+    "examine": "I need to cook this.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cooked meat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Incomplete stew#Potato",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 25,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked stew"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cooked chicken",
+                    "quantity": 1
+                },
+                {
+                    "name": "Incomplete stew#Potato",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 25,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked stew"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Potato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Incomplete stew#Meat",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 25,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked stew"
+            }
+        }
+    ]
+}

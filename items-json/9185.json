@@ -1,0 +1,41 @@
+{
+    "itemId": 9185,
+    "itemName": "Rune crossbow",
+    "examine": "A runite crossbow.",
+    "weight": 6.0,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Runite crossbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crossbow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 69,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rune crossbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 90,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

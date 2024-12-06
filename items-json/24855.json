@@ -1,0 +1,39 @@
+{
+    "itemId": 24855,
+    "itemName": "Mythical max cape",
+    "examine": "The cape worn by only the most experienced players.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mythical cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max cape",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mythical max cape"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE",
+        "crushAttackBonus": 6,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 8,
+        "strengthBonus": 1,
+        "prayerBonus": 1
+    }
+}

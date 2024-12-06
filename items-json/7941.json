@@ -1,0 +1,30 @@
+{
+    "itemId": 7941,
+    "itemName": "Iron sheet",
+    "examine": "A sturdy sheet of iron.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Metal Press",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 45,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Iron sheet"
+            }
+        }
+    ]
+}

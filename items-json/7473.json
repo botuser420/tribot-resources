@@ -1,0 +1,24 @@
+{
+    "itemId": 7473,
+    "itemName": "Brulee",
+    "examine": "It's just missing a sprinkling of cinnamon.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Brulee (vanilla)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Evil chicken's egg",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Brulee (egg)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "itemId": 9705,
+    "itemName": "Training bow",
+    "examine": "Light and flexible, good for a beginner.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 8,
+        "attackDistance": 7,
+        "attackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

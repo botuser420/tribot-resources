@@ -1,0 +1,30 @@
+{
+    "itemId": 11258,
+    "itemName": "Jar generator",
+    "examine": "Creates butterfly and impling jars.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Essence impling jar",
+                    "quantity": 3
+                },
+                {
+                    "name": "Eclectic impling jar",
+                    "quantity": 2
+                },
+                {
+                    "name": "Nature impling jar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Elnock Inquisitor",
+            "output": {
+                "quantity": 1,
+                "name": "Jar generator"
+            }
+        }
+    ]
+}

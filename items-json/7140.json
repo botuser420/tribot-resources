@@ -1,0 +1,19 @@
+{
+    "itemId": 7140,
+    "itemName": "Lucky cutlass",
+    "examine": "Feels quite lucky.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 5,
+        "slashAttackBonus": 20,
+        "magicAttackBonus": -5,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 6,
+        "strengthBonus": 25,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

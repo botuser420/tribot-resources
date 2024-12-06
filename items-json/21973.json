@@ -1,0 +1,38 @@
+{
+    "itemId": 21973,
+    "itemName": "Onyx dragon bolts",
+    "examine": "Dragon crossbow bolts, tipped with onyx.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Onyx bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 94.0,
+                    "level": 84,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Onyx dragon bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

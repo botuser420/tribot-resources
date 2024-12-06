@@ -1,0 +1,16 @@
+{
+    "itemId": 11902,
+    "itemName": "Leaf-bladed sword",
+    "examine": "A razor-sharp sword.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 67,
+        "slashAttackBonus": 62,
+        "strengthBonus": 50,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

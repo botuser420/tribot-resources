@@ -1,0 +1,24 @@
+{
+    "itemId": 4687,
+    "itemName": "Bucket of sap",
+    "examine": "It's a bucket of sap.",
+    "weight": 2.5,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bucket",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Tree",
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Bucket of sap"
+            }
+        }
+    ]
+}

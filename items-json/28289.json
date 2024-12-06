@@ -1,0 +1,41 @@
+{
+    "itemId": 28289,
+    "itemName": "Venator icon",
+    "examine": "Ancient energy that has been fused with the symbol of an archer.",
+    "weight": 0.006,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Venator vestige",
+                    "quantity": 1
+                },
+                {
+                    "name": "Archer icon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 500
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 400.0,
+                    "level": 90,
+                    "name": "Magic",
+                    "boostable": true
+                },
+                {
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Venator icon"
+            }
+        }
+    ]
+}

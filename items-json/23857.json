@@ -1,0 +1,35 @@
+{
+    "itemId": 23857,
+    "itemName": "Corrupted bow (perfected)",
+    "examine": "A powerful bow formed from corrupted crystal and wood.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted bow (attuned)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Corrupted bowstring",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted bow (perfected)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 172,
+        "rangedStrengthBonus": 138,
+        "prayerBonus": 3,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

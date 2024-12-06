@@ -1,0 +1,25 @@
+{
+    "itemId": 4852,
+    "itemName": "Zogre bonemeal",
+    "examine": "A pot of crushed zogre bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Zogre bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Zogre bonemeal"
+            }
+        }
+    ]
+}

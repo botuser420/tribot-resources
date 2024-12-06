@@ -1,0 +1,41 @@
+{
+    "itemId": 1181,
+    "itemName": "Mithril sq shield",
+    "examine": "A medium square shield.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 58,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mithril sq shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 19,
+        "crushDefenceBonus": 15,
+        "rangeDefenceBonus": 17
+    }
+}

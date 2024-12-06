@@ -1,0 +1,16 @@
+{
+    "itemId": 13107,
+    "itemName": "Varrock armour 4",
+    "examine": "Varrock smithing armour.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -10,
+        "stabDefenceBonus": 65,
+        "slashDefenceBonus": 63,
+        "crushDefenceBonus": 55,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 63
+    }
+}

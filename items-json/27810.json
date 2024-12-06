@@ -1,0 +1,16 @@
+{
+    "itemId": 27810,
+    "itemName": "Dragon candle dagger",
+    "examine": "A candle lit by the fire of a dragon.",
+    "weight": 1.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 27432,
+    "itemName": "Robe bottom of ruin",
+    "examine": "A magical-looking robe bottom.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

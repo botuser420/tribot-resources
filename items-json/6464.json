@@ -1,0 +1,27 @@
+{
+    "itemId": 6464,
+    "itemName": "White tree sapling",
+    "examine": "A young White Tree sapling.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "White tree shoot (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 25,
+                    "name": "Farming"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "White tree sapling"
+            }
+        }
+    ]
+}

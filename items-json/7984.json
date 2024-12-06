@@ -1,0 +1,26 @@
+{
+    "itemId": 7984,
+    "itemName": "Stuffed basilisk head",
+    "examine": "I could mount this on my wall!",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Basilisk head",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 4000
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed basilisk head"
+            }
+        }
+    ]
+}

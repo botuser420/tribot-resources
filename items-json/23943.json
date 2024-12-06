@@ -1,0 +1,10 @@
+{
+    "itemId": 23943,
+    "itemName": "Elven signet",
+    "examine": "A signet ring with some elven markings.",
+    "weight": 0.006,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "RING"
+    }
+}

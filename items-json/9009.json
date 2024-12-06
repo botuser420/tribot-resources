@@ -1,0 +1,26 @@
+{
+    "itemId": 9009,
+    "itemName": "Strange skull",
+    "examine": "Seems to be for use with a staff or sceptre of some sort.",
+    "weight": 0.08,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Left skull half",
+                    "quantity": 1
+                },
+                {
+                    "name": "Right skull half",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Strange skull"
+            }
+        }
+    ]
+}

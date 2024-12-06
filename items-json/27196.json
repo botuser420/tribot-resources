@@ -1,0 +1,20 @@
+{
+    "itemId": 27196,
+    "itemName": "Inquisitor's hauberk",
+    "examine": "The hauberk of the turncloak justiciar.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": -3,
+        "slashAttackBonus": -3,
+        "crushAttackBonus": 12,
+        "magicAttackBonus": -11,
+        "rangedAttackBonus": -10,
+        "stabDefenceBonus": 67,
+        "slashDefenceBonus": 55,
+        "crushDefenceBonus": 71,
+        "rangeDefenceBonus": 35,
+        "strengthBonus": 4,
+        "prayerBonus": 2
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 4886,
+    "itemName": "Dharok's greataxe 100",
+    "examine": "Dharok the Wretched's greataxe.",
+    "weight": 3.175,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 103,
+        "crushAttackBonus": 95,
+        "magicAttackBonus": -4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 105,
+        "attackDistance": 1,
+        "attackSpeed": 7,
+        "weaponType": "AXE"
+    }
+}

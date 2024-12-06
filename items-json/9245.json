@@ -1,0 +1,46 @@
+{
+    "itemId": 9245,
+    "itemName": "Onyx bolts (e)",
+    "examine": "Enchanted Onyx tipped Runite Crossbow Bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Onyx bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 20
+                },
+                {
+                    "name": "Death rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 97.0,
+                    "level": 87,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Onyx bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 120
+    }
+}

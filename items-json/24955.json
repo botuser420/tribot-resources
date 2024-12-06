@@ -1,0 +1,43 @@
+{
+    "itemId": 24955,
+    "itemName": "Barbarian teleport",
+    "examine": "A teleport to Barbarian Outpost.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Lunar)",
+            "skills": [
+                {
+                    "experience": 72.0,
+                    "level": 75,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Barbarian teleport (tablet)"
+            }
+        }
+    ]
+}

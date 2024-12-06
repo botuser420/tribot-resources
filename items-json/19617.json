@@ -1,0 +1,39 @@
+{
+    "itemId": 19617,
+    "itemName": "Mind altar teleport",
+    "examine": "A teleport to the Mind Altar.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mind rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 22.0,
+                    "level": 28,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mind altar teleport (tablet)"
+            }
+        }
+    ]
+}

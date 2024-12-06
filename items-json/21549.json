@@ -1,0 +1,140 @@
+{
+    "itemId": 21549,
+    "itemName": "Medium enriched bone",
+    "examine": "This once fossilised bone is now bone again.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Medium fossilised limbs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Medium enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Medium fossilised spine",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Medium enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Medium fossilised ribs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Medium enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Medium fossilised pelvis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Medium enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Medium fossilised skull",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Medium enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Unidentified medium fossil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Medium enriched bone"
+            }
+        }
+    ]
+}

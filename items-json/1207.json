@@ -1,0 +1,19 @@
+{
+    "itemId": 1207,
+    "itemName": "Steel dagger",
+    "examine": "Short but pointy.",
+    "weight": 0.453,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 7,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

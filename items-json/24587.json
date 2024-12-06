@@ -1,0 +1,7 @@
+{
+    "itemId": 24587,
+    "itemName": "Rune pouch note",
+    "examine": "A note that may be exchanged at a bank for a Rune Pouch.",
+    "weight": 0.0,
+    "buyLimit": 40
+}

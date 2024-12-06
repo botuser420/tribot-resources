@@ -1,0 +1,100 @@
+{
+    "itemId": 1399,
+    "itemName": "Earth battlestaff",
+    "examine": "It's a slightly magical stick.",
+    "weight": 2.267,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Earth orb",
+                    "quantity": 1
+                },
+                {
+                    "name": "Battlestaff",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 112.5,
+                    "level": 58,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Earth battlestaff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Air battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Crystal ball space",
+            "output": {
+                "quantity": 1,
+                "name": "Earth battlestaff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Fire battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Crystal ball space",
+            "output": {
+                "quantity": 1,
+                "name": "Earth battlestaff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Water battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Crystal ball space",
+            "output": {
+                "quantity": 1,
+                "name": "Earth battlestaff"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 28,
+        "magicAttackBonus": 12,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 12,
+        "strengthBonus": 35,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

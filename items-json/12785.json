@@ -1,0 +1,9 @@
+{
+    "itemId": 12785,
+    "itemName": "Ring of wealth (i)",
+    "examine": "A mysteriously imbued lucky ring.",
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING"
+    }
+}

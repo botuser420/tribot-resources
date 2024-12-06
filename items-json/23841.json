@@ -1,0 +1,64 @@
+{
+    "itemId": 23841,
+    "itemName": "Corrupted helm (attuned)",
+    "examine": "A shinier helmet that provides some protection from corrupted creatures.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 60
+                },
+                {
+                    "name": "Corrupted helm (basic)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Corrupted ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Phren bark (corrupted)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Linum tirinum (corrupted)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted helm (attuned)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 2,
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": 6,
+        "stabDefenceBonus": 48,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 48,
+        "magicDefenceBonus": 48,
+        "rangeDefenceBonus": 48,
+        "prayerBonus": 2
+    }
+}

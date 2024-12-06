@@ -1,0 +1,11 @@
+{
+    "itemId": 28906,
+    "itemName": "Dizana's max cape (l)",
+    "examine": "The cape worn by only the most experienced players.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "rangedAttackBonus": 18,
+        "rangedStrengthBonus": 3
+    }
+}

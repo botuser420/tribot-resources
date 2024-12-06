@@ -1,0 +1,9 @@
+{
+    "itemId": 9803,
+    "itemName": "Cooking hood",
+    "examine": "Cooking skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

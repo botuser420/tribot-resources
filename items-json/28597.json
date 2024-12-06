@@ -1,0 +1,25 @@
+{
+    "itemId": 28597,
+    "itemName": "Mangled extract",
+    "examine": "An abyssal extract amplifying the creation of nature, law, astral and death runes.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Tainted essence chunk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 12000
+                }
+            ],
+            "facilities": "Extract orifice",
+            "output": {
+                "quantity": 1,
+                "name": "Mangled extract"
+            }
+        }
+    ]
+}

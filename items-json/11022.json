@@ -1,0 +1,9 @@
+{
+    "itemId": 11022,
+    "itemName": "Chicken legs",
+    "examine": "What's the matter, are you chicken?",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

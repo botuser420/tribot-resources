@@ -1,0 +1,41 @@
+{
+    "itemId": 9174,
+    "itemName": "Bronze crossbow",
+    "examine": "A bronze crossbow.",
+    "weight": 4.0,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bronze crossbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crossbow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 9,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bronze crossbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 18,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

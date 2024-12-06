@@ -1,0 +1,37 @@
+{
+    "itemId": 9563,
+    "itemName": "Half made bowl",
+    "examine": "This unfinished choc bomb needs baking, two pots of cream and choc dust.",
+    "weight": 0.275,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half baked bowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chocolate bar",
+                    "quantity": 4
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 42,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half made bowl (chocolate bomb)"
+            }
+        }
+    ]
+}

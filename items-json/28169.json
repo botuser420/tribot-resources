@@ -1,0 +1,65 @@
+{
+    "itemId": 28169,
+    "itemName": "Forestry top",
+    "examine": "You'll certainly be alright wearing this.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lumberjack top",
+                    "quantity": 1
+                },
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 1250
+                },
+                {
+                    "name": "Oak logs",
+                    "quantity": 60
+                },
+                {
+                    "name": "Willow logs",
+                    "quantity": 60
+                },
+                {
+                    "name": "Teak logs",
+                    "quantity": 60
+                },
+                {
+                    "name": "Maple logs",
+                    "quantity": 60
+                },
+                {
+                    "name": "Mahogany logs",
+                    "quantity": 60
+                },
+                {
+                    "name": "Arctic pine logs",
+                    "quantity": 60
+                },
+                {
+                    "name": "Yew logs",
+                    "quantity": 60
+                },
+                {
+                    "name": "Magic logs",
+                    "quantity": 60
+                },
+                {
+                    "name": "Redwood logs",
+                    "quantity": 60
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Forestry top"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

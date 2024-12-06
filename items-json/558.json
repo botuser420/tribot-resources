@@ -1,0 +1,125 @@
+{
+    "itemId": 558,
+    "itemName": "Mind rune",
+    "examine": "Used for basic level missile spells.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rune essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mind Altar",
+            "tools": "Mind tiara, Mind talisman",
+            "skills": [
+                {
+                    "experience": 5.5,
+                    "level": 2,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mind rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mind Altar",
+            "tools": "Mind tiara, Mind talisman",
+            "skills": [
+                {
+                    "experience": 5.5,
+                    "level": 2,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mind rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mind Altar",
+            "tools": "Mind tiara, Mind talisman",
+            "skills": [
+                {
+                    "experience": 8.2,
+                    "level": 2,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mind rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mind Altar",
+            "skills": [
+                {
+                    "experience": 5.5,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mind rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Mind core",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mind Altar",
+            "tools": "Mind tiara, Mind talisman",
+            "skills": [
+                {
+                    "experience": 55.0,
+                    "level": 2,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 11,
+                "name": "Mind rune"
+            }
+        }
+    ]
+}

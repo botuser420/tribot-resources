@@ -1,0 +1,10 @@
+{
+    "itemId": 4974,
+    "itemName": "Torag's platelegs 0",
+    "examine": "Torag the Corrupted's plate leg armour.",
+    "weight": 9.071,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

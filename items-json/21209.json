@@ -1,0 +1,16 @@
+{
+    "itemId": 21209,
+    "itemName": "Birthday balloons",
+    "examine": "Don't let them touch the floor!",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

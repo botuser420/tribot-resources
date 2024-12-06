@@ -1,0 +1,26 @@
+{
+    "itemId": 9081,
+    "itemName": "Suqah leather",
+    "examine": "A piece of Suqah hide that has been expertly tanned into leather.",
+    "weight": 3.175,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Suqah hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Rimae Sirsalis",
+            "output": {
+                "quantity": 1,
+                "name": "Suqah leather"
+            }
+        }
+    ]
+}

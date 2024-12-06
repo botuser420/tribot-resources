@@ -1,0 +1,32 @@
+{
+    "itemId": 2394,
+    "itemName": "Potion",
+    "examine": "A strange brew.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Vial (jangerberries and guam leaf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ground bat bones",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 14,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Potion (Watchtower)"
+            }
+        }
+    ]
+}

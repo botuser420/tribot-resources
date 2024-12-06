@@ -1,0 +1,33 @@
+{
+    "itemId": 111,
+    "itemName": "Torstol potion (unf)",
+    "examine": "I need another ingredient to finish this Torstol potion.",
+    "weight": 0.056,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Torstol",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 78,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Torstol potion (unf)"
+            }
+        }
+    ]
+}

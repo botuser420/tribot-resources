@@ -1,0 +1,44 @@
+{
+    "itemId": 1422,
+    "itemName": "Bronze mace",
+    "examine": "A spiky mace.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 2,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze mace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 1,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 6,
+        "strengthBonus": 5,
+        "prayerBonus": 1,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

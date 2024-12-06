@@ -1,0 +1,17 @@
+{
+    "itemId": 23626,
+    "itemName": "Kodai wand",
+    "examine": "A wand of an ancient Kodai mage.",
+    "weight": 0.198,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 28,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 20,
+        "magicDamageBonus": 15.0,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

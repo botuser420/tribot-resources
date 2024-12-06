@@ -1,0 +1,14 @@
+{
+    "itemId": 10280,
+    "itemName": "Willow comp bow",
+    "examine": "A powerful bow made from willow wood.",
+    "weight": 1.8,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 22,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

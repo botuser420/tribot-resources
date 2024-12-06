@@ -1,0 +1,18 @@
+{
+    "itemId": 20727,
+    "itemName": "Leaf-bladed battleaxe",
+    "examine": "A razor-sharp battleaxe.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 72,
+        "crushAttackBonus": 72,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 92,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

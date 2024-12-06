@@ -1,0 +1,23 @@
+{
+    "itemId": 2124,
+    "itemName": "Lime slices",
+    "examine": "Fresh lime slices.",
+    "weight": 0.08,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Lime",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Lime slices"
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "itemId": 27287,
+    "itemName": "Keris partisan of corruption",
+    "examine": "A mystical-feeling polearm imbued with destructive power.",
+    "weight": 3.218,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Keris partisan",
+                    "quantity": 1
+                },
+                {
+                    "name": "Eye of the corruptor",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Keris partisan of corruption"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 58,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 57,
+        "magicAttackBonus": 2,
+        "strengthBonus": 45,
+        "prayerBonus": 3,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "PARTISAN"
+    }
+}

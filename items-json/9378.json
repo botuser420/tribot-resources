@@ -1,0 +1,32 @@
+{
+    "itemId": 9378,
+    "itemName": "Steel bolts (unf)",
+    "examine": "Unfeathered steel crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 33,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Steel bolts (unf)"
+            }
+        }
+    ]
+}

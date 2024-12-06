@@ -1,0 +1,55 @@
+{
+    "itemId": 245,
+    "itemName": "Wine of zamorak",
+    "examine": "An evil wine for an evil god.",
+    "weight": 0.085,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 20,
+            "materials": [
+                {
+                    "name": "Zamorak's grapes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jug of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 200.0,
+                    "level": 65,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wine of zamorak"
+            }
+        },
+        {
+            "ticks": 20,
+            "materials": [
+                {
+                    "name": "Zamorak's unfermented wine",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 200.0,
+                    "level": 65,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wine of zamorak"
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 22844,
+    "itemName": "Pearl fly fishing rod",
+    "examine": "Useful for catching salmon or trout while looking a little bit fancy.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

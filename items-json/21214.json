@@ -1,0 +1,9 @@
+{
+    "itemId": 21214,
+    "itemName": "Easter egg helm",
+    "examine": "Egg head!",
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

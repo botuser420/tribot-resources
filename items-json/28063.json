@@ -1,0 +1,34 @@
+{
+    "itemId": 28063,
+    "itemName": "Dragon plateskirt (cr)",
+    "examine": "This looks pretty heavy.",
+    "weight": 9.071,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon plateskirt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon plateskirt (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 68,
+        "slashDefenceBonus": 66,
+        "crushDefenceBonus": 63,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 65
+    }
+}

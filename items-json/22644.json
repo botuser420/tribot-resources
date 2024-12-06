@@ -1,0 +1,16 @@
+{
+    "itemId": 22644,
+    "itemName": "Morrigan's leather chaps",
+    "examine": "A powerful pair of leather chaps.",
+    "weight": 5.443,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 23,
+        "stabDefenceBonus": 35,
+        "slashDefenceBonus": 29,
+        "crushDefenceBonus": 37,
+        "magicDefenceBonus": 46,
+        "rangeDefenceBonus": 35
+    }
+}

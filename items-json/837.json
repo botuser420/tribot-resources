@@ -1,0 +1,14 @@
+{
+    "itemId": 837,
+    "itemName": "Crossbow",
+    "examine": "This fires crossbow bolts.",
+    "weight": 8.0,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 6,
+        "attackDistance": 10,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

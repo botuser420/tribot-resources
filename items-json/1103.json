@@ -1,0 +1,42 @@
+{
+    "itemId": 1103,
+    "itemName": "Bronze chainbody",
+    "examine": "A series of connected metal rings.",
+    "weight": 6.803,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 11,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze chainbody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 11,
+        "crushDefenceBonus": 13,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 9
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "itemId": 4160,
+    "itemName": "Broad arrows",
+    "examine": "Arrows with a wider than normal tip.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Headless arrow",
+                    "quantity": 15
+                },
+                {
+                    "name": "Broad arrowheads",
+                    "quantity": 15
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 52,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Broad arrows"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 28
+    }
+}

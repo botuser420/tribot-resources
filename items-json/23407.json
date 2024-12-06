@@ -1,0 +1,10 @@
+{
+    "itemId": 23407,
+    "itemName": "Wolf mask",
+    "examine": "Howwwallll!",
+    "weight": 2.267,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

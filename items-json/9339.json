@@ -1,0 +1,38 @@
+{
+    "itemId": 9339,
+    "itemName": "Ruby bolts",
+    "examine": "Ruby tipped Adamantite crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Adamant bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Ruby bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 63.0,
+                    "level": 63,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Ruby bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 103
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 13336,
+    "itemName": "Guthix max hood",
+    "examine": "The hood worn by only the most experienced players.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Guthix cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max cape",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Guthix max hood"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

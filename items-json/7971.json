@@ -1,0 +1,24 @@
+{
+    "itemId": 7971,
+    "itemName": "Longer pulley beam",
+    "examine": "A very long beam with a pulley attached.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Long pulley beam",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beam",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Longer pulley beam"
+            }
+        }
+    ]
+}

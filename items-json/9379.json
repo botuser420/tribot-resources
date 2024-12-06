@@ -1,0 +1,32 @@
+{
+    "itemId": 9379,
+    "itemName": "Mithril bolts (unf)",
+    "examine": "Unfeathered mithril crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 53,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Mithril bolts (unf)"
+            }
+        }
+    ]
+}

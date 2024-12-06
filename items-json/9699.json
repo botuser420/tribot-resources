@@ -1,0 +1,30 @@
+{
+    "itemId": 9699,
+    "itemName": "Fire rune",
+    "examine": "A fire rune.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blank fire rune",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire Altar",
+            "tools": "Fire tiara, Fire talisman",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fire rune (The Slug Menace)"
+            }
+        }
+    ]
+}

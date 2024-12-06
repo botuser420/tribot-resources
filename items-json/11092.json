@@ -1,0 +1,39 @@
+{
+    "itemId": 11092,
+    "itemName": "Diamond bracelet",
+    "examine": "I wonder if this is valuable.",
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Diamond",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Bracelet mould",
+            "skills": [
+                {
+                    "experience": 95.0,
+                    "level": 58,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Diamond bracelet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

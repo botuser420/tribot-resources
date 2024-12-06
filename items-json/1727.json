@@ -1,0 +1,43 @@
+{
+    "itemId": 1727,
+    "itemName": "Amulet of magic",
+    "examine": "An enchanted sapphire amulet of magic.",
+    "weight": 0.01,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Sapphire amulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 7,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of magic"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "magicAttackBonus": 10
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "itemId": 30386,
+    "itemName": "Sunlit bracers",
+    "examine": "Two bracers that provide a divine connection to the Sun God.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": 18,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 12,
+        "strengthBonus": 8,
+        "rangedStrengthBonus": 4
+    }
+}

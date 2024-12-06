@@ -1,0 +1,35 @@
+{
+    "itemId": 19496,
+    "itemName": "Uncut zenyte",
+    "examine": "This would be worth more cut.",
+    "weight": 0.003,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Onyx",
+                    "quantity": 1
+                },
+                {
+                    "name": "Zenyte shard",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Wall of flame",
+            "tools": "Zombie monkey greegree (small)",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 70,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Uncut zenyte"
+            }
+        }
+    ]
+}

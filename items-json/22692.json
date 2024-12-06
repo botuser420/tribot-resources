@@ -1,0 +1,9 @@
+{
+    "itemId": 22692,
+    "itemName": "Clown bow tie",
+    "examine": "Hey, hey kids!",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

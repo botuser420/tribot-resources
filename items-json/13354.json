@@ -1,0 +1,103 @@
+{
+    "itemId": 13354,
+    "itemName": "Lovakite bar",
+    "examine": "This metal is a popular material for military equipment in Great Kourend.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Lovakite ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Lovakite furnace",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 45,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lovakite bar"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Lovakite ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Smithing catalyst",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lovakite furnace",
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 45,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lovakite bar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Lovakite ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 2
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 4
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 45,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lovakite bar"
+            }
+        }
+    ]
+}

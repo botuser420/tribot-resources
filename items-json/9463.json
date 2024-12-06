@@ -1,0 +1,35 @@
+{
+    "itemId": 9463,
+    "itemName": "Adamant crossbow (u)",
+    "examine": "An unstrung adamantite crossbow.",
+    "weight": 8.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Mahogany stock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Adamantite limbs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 82.0,
+                    "level": 61,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Adamant crossbow (u)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "itemId": 7574,
+    "itemName": "Sliced red banana",
+    "examine": "Perfect for stuffing snakes.",
+    "weight": 0.008,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Red banana",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Sliced red banana"
+            }
+        }
+    ]
+}

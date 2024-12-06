@@ -1,0 +1,16 @@
+{
+    "itemId": 23528,
+    "itemName": "Sarachnis cudgel",
+    "examine": "Not to be confused with a Sarachnis cuddle.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 30,
+        "crushAttackBonus": 70,
+        "strengthBonus": 70,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

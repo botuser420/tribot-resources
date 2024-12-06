@@ -1,0 +1,52 @@
+{
+    "itemId": 1724,
+    "itemName": "Unholy symbol",
+    "examine": "An unholy symbol of Zamorak.",
+    "weight": 0.007,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Unpowered symbol",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Unholy book, Book of balance",
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Prayer"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unholy symbol"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unpowered symbol",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spirit of Scorpius",
+            "output": {
+                "quantity": 1,
+                "name": "Unholy symbol"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 2,
+        "magicAttackBonus": 2,
+        "rangedAttackBonus": 2,
+        "prayerBonus": 8
+    }
+}

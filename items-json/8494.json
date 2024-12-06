@@ -1,0 +1,48 @@
+{
+    "itemId": 8494,
+    "itemName": "Rune heraldic helm",
+    "examine": "The colours represent Zamorak.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Rune full helm",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pluming stand",
+            "skills": [
+                {
+                    "experience": 37.0,
+                    "level": 38,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "level": 16,
+                    "name": "Construction"
+                },
+                {
+                    "level": 70,
+                    "name": "Prayer"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rune heraldic helm (Zamorak)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30
+    }
+}

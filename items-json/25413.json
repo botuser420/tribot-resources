@@ -1,0 +1,43 @@
+{
+    "itemId": 25413,
+    "itemName": "Bloodbark helm",
+    "examine": "A rather interesting smelling helmet.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Splitbark helm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 250
+                }
+            ],
+            "facilities": "Blood Altar, Blood Altar (Kourend)",
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 79,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bloodbark helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 5,
+        "stabDefenceBonus": 16,
+        "slashDefenceBonus": 14,
+        "crushDefenceBonus": 17,
+        "magicDefenceBonus": 6,
+        "magicDamageBonus": 1.0
+    }
+}

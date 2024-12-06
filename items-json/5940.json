@@ -1,0 +1,34 @@
+{
+    "itemId": 5940,
+    "itemName": "Weapon poison(++)",
+    "examine": "A vial of super strong weapon poison, for spears and daggers.",
+    "weight": 0.035,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Weapon poison++ (unf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Poison ivy berries",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 190.0,
+                    "level": 82,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Weapon poison(++)"
+            }
+        }
+    ]
+}

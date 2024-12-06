@@ -1,0 +1,7 @@
+{
+    "itemId": 20065,
+    "itemName": "Occult ornament kit",
+    "examine": "Use on an occult necklace to make it look fancier!",
+    "weight": 0.5,
+    "buyLimit": 4
+}

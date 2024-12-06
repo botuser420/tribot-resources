@@ -1,0 +1,96 @@
+{
+    "itemId": 3387,
+    "itemName": "Splitbark body",
+    "examine": "Provides good protection.",
+    "weight": 4.535,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 4
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 4
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 248.0,
+                    "level": 62,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark body"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 4
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 4
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 248.0,
+                    "level": 62,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark body"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 4
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 4
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 37000
+                }
+            ],
+            "facilities": "Wizard Jalarast",
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 10,
+        "rangedAttackBonus": -10,
+        "stabDefenceBonus": 36,
+        "slashDefenceBonus": 26,
+        "crushDefenceBonus": 42,
+        "magicDefenceBonus": 15
+    }
+}

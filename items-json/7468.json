@@ -1,0 +1,27 @@
+{
+    "itemId": 7468,
+    "itemName": "Pot of cornflour",
+    "examine": "It's cornflour in a pot.",
+    "weight": 1.36,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Sweetcorn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Windmill",
+            "output": {
+                "quantity": 1,
+                "name": "Pot of cornflour"
+            }
+        }
+    ]
+}

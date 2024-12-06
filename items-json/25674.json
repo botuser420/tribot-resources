@@ -1,0 +1,29 @@
+{
+    "itemId": 25674,
+    "itemName": "Ruined catfish",
+    "examine": "A catfish you ruined during preparation.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw catfish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Preparation Table",
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 46,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ruined catfish"
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "itemId": 10973,
+    "itemName": "Light orb",
+    "examine": "A component of cave goblin Magic.",
+    "weight": 0.001,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Empty light orb",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cave goblin wire",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 104.0,
+                    "level": 87,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Light orb"
+            }
+        }
+    ]
+}

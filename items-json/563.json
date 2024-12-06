@@ -1,0 +1,77 @@
+{
+    "itemId": 563,
+    "itemName": "Law rune",
+    "examine": "Used for teleport spells.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Law Altar",
+            "tools": "Law tiara, Law talisman",
+            "skills": [
+                {
+                    "experience": 9.5,
+                    "level": 54,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Law rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Law Altar",
+            "tools": "Law tiara, Law talisman",
+            "skills": [
+                {
+                    "experience": 14.2,
+                    "level": 54,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Law rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Law Altar",
+            "skills": [
+                {
+                    "experience": 9.5,
+                    "level": 54,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Law rune"
+            }
+        }
+    ]
+}

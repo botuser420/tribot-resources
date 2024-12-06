@@ -1,0 +1,18 @@
+{
+    "itemId": 23246,
+    "itemName": "Fremennik kilt",
+    "examine": "A kilt worn by the mightiest of Fremennik warriors.",
+    "weight": 3.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 10,
+        "strengthBonus": 1
+    }
+}

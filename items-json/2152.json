@@ -1,0 +1,21 @@
+{
+    "itemId": 2152,
+    "itemName": "Toad's legs",
+    "examine": "They're a gnome delicacy apparently.",
+    "weight": 0.15,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Swamp toad (item)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Toad's legs"
+            }
+        }
+    ]
+}

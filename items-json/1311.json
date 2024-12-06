@@ -1,0 +1,45 @@
+{
+    "itemId": 1311,
+    "itemName": "Steel 2h sword",
+    "examine": "A two handed sword.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 112.5,
+                    "level": 44,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Steel 2h sword"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 21,
+        "crushAttackBonus": 16,
+        "magicAttackBonus": -4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 22,
+        "attackDistance": 1,
+        "attackSpeed": 7,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

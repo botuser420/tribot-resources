@@ -1,0 +1,35 @@
+{
+    "itemId": 9461,
+    "itemName": "Mithril crossbow (u)",
+    "examine": "An unstrung mithril crossbow.",
+    "weight": 8.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Maple stock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mithril limbs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 64.0,
+                    "level": 54,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mithril crossbow (u)"
+            }
+        }
+    ]
+}

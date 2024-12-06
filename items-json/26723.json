@@ -1,0 +1,20 @@
+{
+    "itemId": 26723,
+    "itemName": "Wristbands of the arena",
+    "examine": "A pair of wristbands to protect your hands in combat.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 12,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 12,
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": 12,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 12,
+        "strengthBonus": 12
+    }
+}

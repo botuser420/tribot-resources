@@ -1,0 +1,39 @@
+{
+    "itemId": 8011,
+    "itemName": "Ardougne teleport",
+    "examine": "A teleport to East Ardougne.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Teak eagle lectern",
+            "skills": [
+                {
+                    "experience": 61.0,
+                    "level": 51,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ardougne teleport (tablet)"
+            }
+        }
+    ]
+}

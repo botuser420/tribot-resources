@@ -1,0 +1,9 @@
+{
+    "itemId": 21722,
+    "itemName": "Diving helmet",
+    "examine": "A rudimentary diving helmet.",
+    "weight": 5.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

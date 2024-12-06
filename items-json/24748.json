@@ -1,0 +1,9 @@
+{
+    "itemId": 24748,
+    "itemName": "Graceful cape",
+    "examine": "A sign of your grace under fire.",
+    "weight": -4.0,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

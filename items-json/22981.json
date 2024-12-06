@@ -1,0 +1,32 @@
+{
+    "itemId": 22981,
+    "itemName": "Ferocious gloves",
+    "examine": "A pair of very very nice gloves.",
+    "weight": 0.226,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Hydra leather",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Machinery",
+            "tools": "hammer",
+            "output": {
+                "quantity": 1,
+                "name": "Ferocious gloves"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 16,
+        "slashAttackBonus": 16,
+        "crushAttackBonus": 16,
+        "magicAttackBonus": -16,
+        "rangedAttackBonus": -16,
+        "strengthBonus": 14
+    }
+}

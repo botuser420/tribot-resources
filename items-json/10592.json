@@ -1,0 +1,32 @@
+{
+    "itemId": 10592,
+    "itemName": "Penguin bongos",
+    "examine": "Small drums.",
+    "weight": 2.0,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Mahogany plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 30,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Penguin bongos"
+            }
+        }
+    ]
+}

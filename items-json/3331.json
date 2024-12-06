@@ -1,0 +1,41 @@
+{
+    "itemId": 3331,
+    "itemName": "Ochre snelm",
+    "examine": "A muddy yellow snail shell helmet.",
+    "weight": 2.0,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blamish ochre shell (round)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 32.5,
+                    "level": 15,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ochre snelm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 7
+    }
+}

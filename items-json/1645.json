@@ -1,0 +1,39 @@
+{
+    "itemId": 1645,
+    "itemName": "Dragonstone ring",
+    "examine": "A valuable ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragonstone",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 55,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragonstone ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

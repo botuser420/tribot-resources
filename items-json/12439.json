@@ -1,0 +1,13 @@
+{
+    "itemId": 12439,
+    "itemName": "Royal sceptre",
+    "examine": "I dub thee...",
+    "weight": 4.535,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "POLESTAFF"
+    }
+}

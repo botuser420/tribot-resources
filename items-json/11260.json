@@ -1,0 +1,54 @@
+{
+    "itemId": 11260,
+    "itemName": "Impling jar",
+    "examine": "It's got little holes in the top.",
+    "weight": 0.02,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Imp repellent",
+                    "quantity": 1
+                },
+                {
+                    "name": "Butterfly jar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lamp oil still",
+            "output": {
+                "quantity": 1,
+                "name": "Impling jar"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Baby impling jar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Elnock Inquisitor",
+            "output": {
+                "quantity": 3,
+                "name": "Impling jar"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Jar generator",
+                    "quantity": 0
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Impling jar"
+            }
+        }
+    ]
+}

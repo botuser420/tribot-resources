@@ -1,0 +1,24 @@
+{
+    "itemId": 7405,
+    "itemName": "Green logs",
+    "examine": "A number of chemical covered wooden logs.",
+    "weight": 2.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Green firelighter",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Green logs"
+            }
+        }
+    ]
+}

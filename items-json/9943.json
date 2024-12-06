@@ -1,0 +1,37 @@
+{
+    "itemId": 9943,
+    "itemName": "Sandbag",
+    "examine": "A bag full of sand.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Empty sack",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sand pit",
+            "output": {
+                "quantity": 1,
+                "name": "Sandbag"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Empty sack",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of sand",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Sandbag"
+            }
+        }
+    ]
+}

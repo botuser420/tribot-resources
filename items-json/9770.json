@@ -1,0 +1,9 @@
+{
+    "itemId": 9770,
+    "itemName": "Hitpoints hood",
+    "examine": "Hitpoints skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

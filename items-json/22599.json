@@ -1,0 +1,30 @@
+{
+    "itemId": 22599,
+    "itemName": "Icy basalt",
+    "examine": "The crushed rock seems to glow and is cold to the touch.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Basalt",
+                    "quantity": 1
+                },
+                {
+                    "name": "Efh salt",
+                    "quantity": 3
+                },
+                {
+                    "name": "Te salt",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Icy basalt"
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "itemId": 9481,
+    "itemName": "Unfinished batta",
+    "examine": "This worm batta needs garnishing with equa leaves.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made batta (worm)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 27,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished batta (worm)"
+            }
+        }
+    ]
+}

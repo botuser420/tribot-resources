@@ -1,0 +1,15 @@
+{
+    "itemId": 23351,
+    "itemName": "Cape of skulls",
+    "examine": "Lets the person behind you know that you mean business.",
+    "weight": 0.453,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "itemId": 20801,
+    "itemName": "Water-filled gourd vial",
+    "examine": "A hollowed out fruit filled with water.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Empty gourd vial",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water",
+            "output": {
+                "quantity": 1,
+                "name": "Water-filled gourd vial"
+            }
+        }
+    ]
+}

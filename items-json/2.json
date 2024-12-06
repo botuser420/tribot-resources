@@ -1,0 +1,55 @@
+{
+    "itemId": 2,
+    "itemName": "Cannonball",
+    "examine": "Ammo for the Dwarf Cannon.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 8,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ammo mould",
+            "skills": [
+                {
+                    "experience": 25.6,
+                    "level": 35,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 4,
+                "name": "Cannonball"
+            }
+        },
+        {
+            "ticks": 8,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Double ammo mould",
+            "skills": [
+                {
+                    "experience": 51.2,
+                    "level": 35,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 8,
+                "name": "Cannonball"
+            }
+        }
+    ]
+}

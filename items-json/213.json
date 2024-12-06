@@ -1,0 +1,7 @@
+{
+    "itemId": 213,
+    "itemName": "Grimy kwuarm",
+    "examine": "It needs cleaning.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

@@ -1,0 +1,218 @@
+{
+    "itemId": 30009,
+    "itemName": "Lye paste",
+    "examine": "A sticky, red, acrid-smelling substance.",
+    "weight": 0.51,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Snapdragon",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 0,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Snapdragon potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 0,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ranarr weed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 26,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Toadflax",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 32,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Avantoe",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 30,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Kwuarm",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 33,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ranarr potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 26,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Toadflax potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 32,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Avantoe potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 30,
+                "name": "Lye paste"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Kwuarm potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Refiner",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 33,
+                "name": "Lye paste"
+            }
+        }
+    ]
+}

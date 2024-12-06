@@ -1,0 +1,31 @@
+{
+    "itemId": 28053,
+    "itemName": "Dragon crossbow (cr)",
+    "examine": "A dragon crossbow.",
+    "weight": 6.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon crossbow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon crossbow (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 94,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

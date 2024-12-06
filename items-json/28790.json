@@ -1,0 +1,42 @@
+{
+    "itemId": 28790,
+    "itemName": "Kourend castle teleport",
+    "examine": "A teleport to Kourend Castle.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Teak eagle lectern",
+            "skills": [
+                {
+                    "experience": 58.0,
+                    "level": 48,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Kourend castle teleport (tablet)"
+            }
+        }
+    ]
+}

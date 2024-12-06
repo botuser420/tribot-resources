@@ -1,0 +1,35 @@
+{
+    "itemId": 9576,
+    "itemName": "Mixed dragon",
+    "examine": "This Drunk Dragon needs heating to finish.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mixed dragon (poured)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pineapple chunks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot of cream",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 32,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed dragon (garnished)"
+            }
+        }
+    ]
+}

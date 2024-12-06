@@ -1,0 +1,41 @@
+{
+    "itemId": 1889,
+    "itemName": "Uncooked cake",
+    "examine": "Now all I need to do is cook it.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cake tin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Egg",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of milk",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 40,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked cake"
+            }
+        }
+    ]
+}

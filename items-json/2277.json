@@ -1,0 +1,30 @@
+{
+    "itemId": 2277,
+    "itemName": "Fruit batta",
+    "examine": "It actually smells quite good.",
+    "weight": 0.25,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unfinished batta (fruit)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Gnome spice",
+            "skills": [
+                {
+                    "experience": 80.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fruit batta"
+            }
+        }
+    ]
+}

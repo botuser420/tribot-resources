@@ -1,0 +1,17 @@
+{
+    "itemId": 28585,
+    "itemName": "Warped sceptre",
+    "examine": "A magical warped weapon.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 12,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 12,
+        "attackDistance": 7,
+        "attackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 3371,
+    "itemName": "Lean snail meat",
+    "examine": "A succulently slimy slice of sumptuous snail.",
+    "weight": 4.0,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lean snail",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 80.0,
+                    "level": 17,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lean snail meat"
+            }
+        }
+    ]
+}

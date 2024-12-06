@@ -1,0 +1,7 @@
+{
+    "itemId": 2289,
+    "itemName": "Plain pizza",
+    "examine": "A cheese and tomato pizza.",
+    "weight": 0.8,
+    "buyLimit": 10000
+}

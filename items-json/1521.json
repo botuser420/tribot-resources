@@ -1,0 +1,7 @@
+{
+    "itemId": 1521,
+    "itemName": "Oak logs",
+    "examine": "Logs cut from an oak tree.",
+    "weight": 2.0,
+    "buyLimit": 15000
+}

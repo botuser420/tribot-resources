@@ -1,0 +1,43 @@
+{
+    "itemId": 28161,
+    "itemName": "Secateurs attachment",
+    "examine": "Collects leaves when chopping trees.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Secateurs blade",
+                    "quantity": 1
+                },
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "level": 35,
+                    "name": "Woodcutting",
+                    "boostable": true
+                },
+                {
+                    "experience": 32.0,
+                    "level": 0,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 50,
+                "name": "Secateurs attachment"
+            }
+        }
+    ]
+}

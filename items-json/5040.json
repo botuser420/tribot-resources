@@ -1,0 +1,10 @@
+{
+    "itemId": 5040,
+    "itemName": "Trousers",
+    "examine": "A pair of long dwarven trousers... long for dwarves, of course.",
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

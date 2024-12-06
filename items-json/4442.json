@@ -1,0 +1,25 @@
+{
+    "itemId": 4442,
+    "itemName": "Breathing salts",
+    "examine": "An airtight pot with something inside, most likely breathing salts.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot lid",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Apothecary",
+            "output": {
+                "quantity": 1,
+                "name": "Breathing salts"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 9190,
+    "itemName": "Emerald bolt tips",
+    "examine": "Emerald bolt tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Emerald",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.5,
+                    "level": 58,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Emerald bolt tips"
+            }
+        }
+    ]
+}

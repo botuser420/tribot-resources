@@ -1,0 +1,21 @@
+{
+    "itemId": 7472,
+    "itemName": "Cinnamon",
+    "examine": "Some cinnamon sticks.",
+    "weight": 0.003,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dramen branch",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Cinnamon"
+            }
+        }
+    ]
+}

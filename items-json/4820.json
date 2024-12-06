@@ -1,0 +1,32 @@
+{
+    "itemId": 4820,
+    "itemName": "Iron nails",
+    "examine": "Keeps things in place fairly permanently.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 19,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Iron nails"
+            }
+        }
+    ]
+}

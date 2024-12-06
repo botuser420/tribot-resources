@@ -1,0 +1,24 @@
+{
+    "itemId": 4240,
+    "itemName": "Nettle tea",
+    "examine": "It's a bowl of milky nettle tea.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Nettle tea",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of milk",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Nettle tea (milky)"
+            }
+        }
+    ]
+}

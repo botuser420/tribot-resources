@@ -1,0 +1,24 @@
+{
+    "itemId": 28931,
+    "itemName": "Searing page",
+    "examine": "It's still warm to the touch.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Burnt page",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sunfire rune",
+                    "quantity": 100
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Searing page"
+            }
+        }
+    ]
+}

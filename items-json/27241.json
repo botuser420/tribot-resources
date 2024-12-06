@@ -1,0 +1,47 @@
+{
+    "itemId": 27241,
+    "itemName": "Masori chaps (f)",
+    "examine": "Fortified armour once worn by a powerful ranger.",
+    "weight": 8.5,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Masori chaps",
+                    "quantity": 1
+                },
+                {
+                    "name": "Armadylean plate",
+                    "quantity": 3
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 2490.0,
+                    "level": 90,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Masori chaps (f)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -2,
+        "rangedAttackBonus": 27,
+        "stabDefenceBonus": 35,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 39,
+        "magicDefenceBonus": 46,
+        "rangeDefenceBonus": 37,
+        "rangedStrengthBonus": 2,
+        "prayerBonus": 1
+    }
+}

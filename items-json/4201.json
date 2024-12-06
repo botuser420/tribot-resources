@@ -1,0 +1,30 @@
+{
+    "itemId": 4201,
+    "itemName": "Conductor",
+    "examine": "A silver lightning conductor.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Conductor mould",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 20,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Conductor"
+            }
+        }
+    ]
+}

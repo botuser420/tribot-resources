@@ -1,0 +1,25 @@
+{
+    "itemId": 28599,
+    "itemName": "Scarred extract",
+    "examine": "An abyssal extract amplifying the creation of blood, soul and wrath runes.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Tainted essence chunk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 24000
+                }
+            ],
+            "facilities": "Extract orifice",
+            "output": {
+                "quantity": 1,
+                "name": "Scarred extract"
+            }
+        }
+    ]
+}

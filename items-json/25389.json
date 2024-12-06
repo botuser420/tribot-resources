@@ -1,0 +1,42 @@
+{
+    "itemId": 25389,
+    "itemName": "Swampbark body",
+    "examine": "Keeps my chest protected.",
+    "weight": 4.535,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Splitbark body",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Nature Altar",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 48,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Swampbark body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 38,
+        "slashDefenceBonus": 44,
+        "crushDefenceBonus": 48,
+        "magicDefenceBonus": 21
+    }
+}

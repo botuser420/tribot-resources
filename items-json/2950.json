@@ -1,0 +1,21 @@
+{
+    "itemId": 2950,
+    "itemName": "Golden feather",
+    "examine": "A replica feather made of solid gold.",
+    "weight": 0.002,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Feather",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Monument",
+            "output": {
+                "quantity": 1,
+                "name": "Golden feather (Priest in Peril)"
+            }
+        }
+    ]
+}

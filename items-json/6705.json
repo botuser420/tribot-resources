@@ -1,0 +1,34 @@
+{
+    "itemId": 6705,
+    "itemName": "Potato with cheese",
+    "examine": "A baked potato with butter and cheese.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Potato with butter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cheese",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 47,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Potato with cheese"
+            }
+        }
+    ]
+}

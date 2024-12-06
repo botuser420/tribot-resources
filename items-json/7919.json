@@ -1,0 +1,7 @@
+{
+    "itemId": 7919,
+    "itemName": "Bottle of wine",
+    "examine": "A very good vintage.",
+    "weight": 1.0,
+    "buyLimit": 10000
+}

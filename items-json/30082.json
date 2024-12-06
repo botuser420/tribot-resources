@@ -1,0 +1,44 @@
+{
+    "itemId": 30082,
+    "itemName": "Hueycoatl hide vambraces",
+    "examine": "Made from real Huey hide!",
+    "weight": 0.283,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Hueycoatl hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 95.0,
+                    "level": 86,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Hueycoatl hide vambraces"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 11,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 8,
+        "prayerBonus": 1
+    }
+}

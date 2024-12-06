@@ -1,0 +1,45 @@
+{
+    "itemId": 3100,
+    "itemName": "Adamant claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 125.0,
+                    "level": 83,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Adamant claws"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 18,
+        "slashAttackBonus": 23,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 3,
+        "strengthBonus": 24,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "itemId": 9690,
+    "itemName": "Blank water rune",
+    "examine": "A blank water rune.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rune essence",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Page 2, Chisel",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blank water rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Page 2, Chisel",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blank water rune"
+            }
+        }
+    ]
+}

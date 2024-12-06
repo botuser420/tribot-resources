@@ -1,0 +1,9 @@
+{
+    "itemId": 24975,
+    "itemName": "Headless head",
+    "examine": "There's a spooky spell on this helm.",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

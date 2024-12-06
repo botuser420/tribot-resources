@@ -1,0 +1,47 @@
+{
+    "itemId": 4031,
+    "itemName": "Karamjan monkey greegree",
+    "examine": "A magical talisman in the shape of a Karamjan monkey head.",
+    "weight": 0.085,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Monkey talisman",
+                    "quantity": 1
+                },
+                {
+                    "name": "Monkey corpse",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Zooknock",
+            "output": {
+                "quantity": 1,
+                "name": "Karamjan monkey greegree"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Monkey talisman",
+                    "quantity": 1
+                },
+                {
+                    "name": "Monkey bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Zooknock",
+            "output": {
+                "quantity": 1,
+                "name": "Karamjan monkey greegree"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": -1
+    }
+}

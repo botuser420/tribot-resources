@@ -1,0 +1,36 @@
+{
+    "itemId": 1975,
+    "itemName": "Chocolate dust",
+    "examine": "It's ground up chocolate.",
+    "weight": 0.15,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Chocolate bar",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Chocolate dust"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Chocolate bar",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Chocolate dust"
+            }
+        }
+    ]
+}

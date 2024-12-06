@@ -1,0 +1,24 @@
+{
+    "itemId": 1504,
+    "itemName": "Hangover cure",
+    "examine": "It doesn't look very tasty.",
+    "weight": 2.2,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Snape grass",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chocolatey milk",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Hangover cure"
+            }
+        }
+    ]
+}

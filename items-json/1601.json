@@ -1,0 +1,32 @@
+{
+    "itemId": 1601,
+    "itemName": "Diamond",
+    "examine": "This looks valuable.",
+    "weight": 0.002,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Uncut diamond",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 107.5,
+                    "level": 43,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Diamond"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 27852,
+    "itemName": "Corrupted zuriel's robe bottom (bh)",
+    "examine": "A powerful robe bottom.",
+    "weight": 5.443,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 18,
+        "rangedAttackBonus": -6,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 23,
+        "magicDefenceBonus": 14,
+        "magicDamageBonus": 2.0
+    }
+}

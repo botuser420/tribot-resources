@@ -1,0 +1,71 @@
+{
+    "itemId": 26883,
+    "itemName": "Weak cell",
+    "examine": "Contains a small amount of runic energy.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Weak cell"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mind Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Weak cell"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Body Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Weak cell"
+            }
+        }
+    ]
+}

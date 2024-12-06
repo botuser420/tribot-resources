@@ -1,0 +1,25 @@
+{
+    "itemId": 22116,
+    "itemName": "Superior dragon bonemeal",
+    "examine": "A pot of crushed superior dragon bones.",
+    "weight": 1.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Superior dragon bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Superior dragon bonemeal"
+            }
+        }
+    ]
+}

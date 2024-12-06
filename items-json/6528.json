@@ -1,0 +1,16 @@
+{
+    "itemId": 6528,
+    "itemName": "Tzhaar-ket-om",
+    "examine": "A maul of obsidian.",
+    "weight": 3.628,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 80,
+        "magicAttackBonus": -4,
+        "strengthBonus": 85,
+        "attackDistance": 1,
+        "attackSpeed": 7,
+        "weaponType": "BLUNT"
+    }
+}

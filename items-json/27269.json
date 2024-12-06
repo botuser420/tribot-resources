@@ -1,0 +1,74 @@
+{
+    "itemId": 27269,
+    "itemName": "Armadylean plate",
+    "examine": "High grade material.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Armadyl helmet",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 210.0,
+                    "level": 90,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Armadylean plate"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Armadyl chestplate",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 840.0,
+                    "level": 90,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 4,
+                "name": "Armadylean plate"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Armadyl chainskirt",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 630.0,
+                    "level": 90,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 3,
+                "name": "Armadylean plate"
+            }
+        }
+    ]
+}

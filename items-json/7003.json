@@ -1,0 +1,9 @@
+{
+    "itemId": 7003,
+    "itemName": "Camel mask",
+    "examine": "Blend in in the desert.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

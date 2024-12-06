@@ -1,0 +1,11 @@
+{
+    "itemId": 9289,
+    "itemName": "Mithril bolts (p)",
+    "examine": "Some poisoned mithril bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 82
+    }
+}

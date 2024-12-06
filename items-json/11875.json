@@ -1,0 +1,37 @@
+{
+    "itemId": 11875,
+    "itemName": "Broad bolts",
+    "examine": "Crossbow bolts with broad tips.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Unfinished broad bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Feather",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 55,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Broad bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 100
+    }
+}

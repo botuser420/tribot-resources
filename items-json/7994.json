@@ -1,0 +1,25 @@
+{
+    "itemId": 7994,
+    "itemName": "Stuffed big shark",
+    "examine": "I should mount this on my wall!",
+    "weight": 0.65,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Big shark",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 5000
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed big shark"
+            }
+        }
+    ]
+}

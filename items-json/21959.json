@@ -1,0 +1,38 @@
+{
+    "itemId": 21959,
+    "itemName": "Pearl dragon bolts",
+    "examine": "Dragon crossbow bolts, tipped with pearl.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Pearl bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 32.0,
+                    "level": 84,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Pearl dragon bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

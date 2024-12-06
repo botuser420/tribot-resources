@@ -1,0 +1,13 @@
+{
+    "itemId": 22816,
+    "itemName": "Cormorant's glove",
+    "examine": "A very large, single leather glove.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "itemId": 27235,
+    "itemName": "Masori mask (f)",
+    "examine": "A fortified mask once worn by a powerful ranger.",
+    "weight": 1.5,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Masori mask",
+                    "quantity": 1
+                },
+                {
+                    "name": "Armadylean plate",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 830.0,
+                    "level": 90,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Masori mask (f)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -1,
+        "rangedAttackBonus": 12,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 12,
+        "rangeDefenceBonus": 9,
+        "rangedStrengthBonus": 2,
+        "prayerBonus": 1
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 26340,
+    "itemName": "Ancient brew(4)",
+    "examine": "4 doses of ancient brew.",
+    "weight": 0.035,
+    "buyLimit": 2000
+}

@@ -1,0 +1,61 @@
+{
+    "itemId": 9093,
+    "itemName": "Lunar staff - pt3",
+    "examine": "A staff enchanted by air, fire and water.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Lunar staff - pt2",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "skills": [
+                {
+                    "level": 61,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar staff - pt3"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Dramen staff",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar, Fire Altar, Water Altar",
+            "skills": [
+                {
+                    "level": 61,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar staff - pt3"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -1,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 10,
+        "strengthBonus": 10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

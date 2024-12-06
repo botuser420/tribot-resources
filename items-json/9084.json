@@ -1,0 +1,63 @@
+{
+    "itemId": 9084,
+    "itemName": "Lunar staff",
+    "examine": "A Moonclan staff.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Lunar staff - pt3",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "skills": [
+                {
+                    "level": 61,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Dramen staff",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar, Fire Altar, Water Altar, Earth Altar",
+            "skills": [
+                {
+                    "level": 61,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar staff"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 3,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 16,
+        "magicAttackBonus": 13,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 13,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 15,
+        "prayerBonus": 3,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

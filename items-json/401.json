@@ -1,0 +1,7 @@
+{
+    "itemId": 401,
+    "itemName": "Seaweed",
+    "examine": "Slightly damp seaweed.",
+    "weight": 0.2,
+    "buyLimit": 13000
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 20838,
+    "itemName": "Corrupted helm",
+    "examine": "The helmet of a forgotton warrior, corrupted by the dark altar.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 6
+    }
+}

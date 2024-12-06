@@ -1,0 +1,7 @@
+{
+    "itemId": 8455,
+    "itemName": "Bagged bluebells",
+    "examine": "You can plant this in your garden.",
+    "weight": 10.0,
+    "buyLimit": 10000
+}

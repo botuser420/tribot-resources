@@ -1,0 +1,9 @@
+{
+    "itemId": 20712,
+    "itemName": "Warm gloves",
+    "examine": "Possibly fireproof. Possibly.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

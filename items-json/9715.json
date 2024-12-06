@@ -1,0 +1,21 @@
+{
+    "itemId": 9715,
+    "itemName": "Slashed book",
+    "examine": "Book of the elemental shield.",
+    "weight": 0.113,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Battered book",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Slashed book"
+            }
+        }
+    ]
+}

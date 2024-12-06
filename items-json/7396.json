@@ -1,0 +1,12 @@
+{
+    "itemId": 7396,
+    "itemName": "Blue wizard hat (t)",
+    "examine": "A silly pointed hat, with colourful trim.",
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 2,
+        "magicDefenceBonus": 2
+    }
+}

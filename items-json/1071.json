@@ -1,0 +1,43 @@
+{
+    "itemId": 1071,
+    "itemName": "Mithril platelegs",
+    "examine": "These look pretty heavy.",
+    "weight": 7.711,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 66,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mithril platelegs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 24,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 20,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 22
+    }
+}

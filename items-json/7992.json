@@ -1,0 +1,25 @@
+{
+    "itemId": 7992,
+    "itemName": "Stuffed big swordfish",
+    "examine": "I should mount this on my wall!",
+    "weight": 0.45,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Big swordfish",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 2500
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed big swordfish"
+            }
+        }
+    ]
+}

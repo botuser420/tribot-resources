@@ -1,0 +1,25 @@
+{
+    "itemId": 4270,
+    "itemName": "Skeleton bonemeal",
+    "examine": "A pot of crushed skeleton bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bones (Ape Atoll)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Skeleton bonemeal"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 26260,
+    "itemName": "Haunted wine bottle",
+    "examine": "I don't even want to know how this happened.",
+    "weight": 0.15,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

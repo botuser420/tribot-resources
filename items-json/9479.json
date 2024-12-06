@@ -1,0 +1,29 @@
+{
+    "itemId": 9479,
+    "itemName": "Unfinished batta",
+    "examine": "This fruit batta needs garnishing with spice.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made batta (fruit)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 25,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished batta (fruit)"
+            }
+        }
+    ]
+}

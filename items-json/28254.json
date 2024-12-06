@@ -1,0 +1,40 @@
+{
+    "itemId": 28254,
+    "itemName": "Sanguine torva full helm",
+    "examine": "An ancient warrior's full helm.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Torva full helm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ancient blood ornament kit",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 20000
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Sanguine torva full helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": -5,
+        "stabDefenceBonus": 59,
+        "slashDefenceBonus": 60,
+        "crushDefenceBonus": 62,
+        "magicDefenceBonus": -2,
+        "rangeDefenceBonus": 57,
+        "strengthBonus": 8,
+        "prayerBonus": 1
+    }
+}

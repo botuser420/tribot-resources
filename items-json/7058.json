@@ -1,0 +1,34 @@
+{
+    "itemId": 7058,
+    "itemName": "Mushroom potato",
+    "examine": "A baked potato with mushroom and onions.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Mushroom & onion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Potato with butter",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 55.0,
+                    "level": 64,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mushroom potato"
+            }
+        }
+    ]
+}

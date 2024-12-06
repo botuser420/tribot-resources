@@ -1,0 +1,38 @@
+{
+    "itemId": 9568,
+    "itemName": "Mixed blast",
+    "examine": "This Fruit Blast cocktail needs pouring and a lemon slice.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pineapple",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lemon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Orange",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Cocktail shaker",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 6,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed blast"
+            }
+        }
+    ]
+}

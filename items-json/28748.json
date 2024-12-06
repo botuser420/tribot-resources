@@ -1,0 +1,12 @@
+{
+    "itemId": 28748,
+    "itemName": "Trailblazer reloaded torch",
+    "examine": "The torch of a Trailblazer Reloaded Relic Hunter.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

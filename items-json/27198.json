@@ -1,0 +1,17 @@
+{
+    "itemId": 27198,
+    "itemName": "Inquisitor's mace",
+    "examine": "A powerful mace once wielded by the turncloak justiciar.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 52,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 95,
+        "strengthBonus": 89,
+        "prayerBonus": 2,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

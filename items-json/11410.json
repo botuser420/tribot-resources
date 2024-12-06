@@ -1,0 +1,21 @@
+{
+    "itemId": 11410,
+    "itemName": "Adamant hasta(p+)",
+    "examine": "A poison-tipped, one-handed adamantite hasta.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 24,
+        "slashAttackBonus": 24,
+        "crushAttackBonus": 24,
+        "stabDefenceBonus": -6,
+        "slashDefenceBonus": -7,
+        "crushDefenceBonus": -5,
+        "rangeDefenceBonus": -6,
+        "strengthBonus": 28,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

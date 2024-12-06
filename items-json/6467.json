@@ -1,0 +1,21 @@
+{
+    "itemId": 6467,
+    "itemName": "Rune dust",
+    "examine": "Crushed rune essence.",
+    "weight": 0.002,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Rune shards",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Rune dust"
+            }
+        }
+    ]
+}

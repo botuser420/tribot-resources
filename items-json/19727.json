@@ -1,0 +1,35 @@
+{
+    "itemId": 19727,
+    "itemName": "Double eye patch",
+    "examine": "A black piece of cloth on a string.",
+    "weight": 0.006,
+    "buyLimit": 4,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Left eye patch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Right eye patch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "tools": "Book o' piracy",
+            "output": {
+                "quantity": 1,
+                "name": "Double eye patch"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 4109,
+    "itemName": "Mystic hat (light)",
+    "examine": "A bright magical hat.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4
+    }
+}

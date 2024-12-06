@@ -1,0 +1,28 @@
+{
+    "itemId": 7577,
+    "itemName": "Raw stuffed snake",
+    "examine": "This snake is stuffed right up.",
+    "weight": 3.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Snake corpse",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sliced red banana",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tchiki nut paste",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw stuffed snake"
+            }
+        }
+    ]
+}

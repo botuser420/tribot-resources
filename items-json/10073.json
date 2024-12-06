@@ -1,0 +1,12 @@
+{
+    "itemId": 10073,
+    "itemName": "Spotted cape",
+    "examine": "A surprisingly aerodynamic cape.",
+    "weight": -2.267,
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

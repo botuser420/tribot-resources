@@ -1,0 +1,41 @@
+{
+    "itemId": 853,
+    "itemName": "Maple shortbow",
+    "examine": "A shortbow made out of Maple, still effective.",
+    "weight": 1.36,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Maple shortbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 50,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Maple shortbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 29,
+        "attackDistance": 7,
+        "attackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

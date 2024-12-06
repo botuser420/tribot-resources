@@ -1,0 +1,9 @@
+{
+    "itemId": 28601,
+    "itemName": "Cobweb cape",
+    "examine": "This is made of the finest spidersilk.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

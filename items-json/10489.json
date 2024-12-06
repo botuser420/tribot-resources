@@ -1,0 +1,27 @@
+{
+    "itemId": 10489,
+    "itemName": "Bar magnet",
+    "examine": "A magnet designed for undead chicken use.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Selected iron",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "level": 19,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bar magnet"
+            }
+        }
+    ]
+}

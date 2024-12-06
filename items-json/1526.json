@@ -1,0 +1,27 @@
+{
+    "itemId": 1526,
+    "itemName": "Snake weed",
+    "examine": "This herb is Snake Weed.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy snake weed",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Snake weed"
+            }
+        }
+    ]
+}

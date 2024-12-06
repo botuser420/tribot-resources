@@ -1,0 +1,29 @@
+{
+    "itemId": 13413,
+    "itemName": "Servery cooked meat",
+    "examine": "There's plenty of cattle around Hosidius. Let's assume that's what this is.",
+    "weight": 0.283,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery raw meat",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Clay oven",
+            "skills": [
+                {
+                    "experience": 1.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery cooked meat"
+            }
+        }
+    ]
+}

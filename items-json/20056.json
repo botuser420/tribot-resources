@@ -1,0 +1,12 @@
+{
+    "itemId": 20056,
+    "itemName": "Ale of the gods",
+    "examine": "Ale of the gods.",
+    "weight": 0.06,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

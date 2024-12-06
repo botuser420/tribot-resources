@@ -1,0 +1,34 @@
+{
+    "itemId": 25959,
+    "itemName": "Corrupted escape crystal",
+    "examine": "A corrupted crystal enchanted to allow the user to escape the Gauntlet.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 200
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 100.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted escape crystal"
+            }
+        }
+    ]
+}

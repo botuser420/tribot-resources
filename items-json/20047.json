@@ -1,0 +1,14 @@
+{
+    "itemId": 20047,
+    "itemName": "Samurai boots",
+    "examine": "Armoured socks of the Samurai.",
+    "weight": 0.95,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "FEET",
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 13,
+        "magicDefenceBonus": 1
+    }
+}

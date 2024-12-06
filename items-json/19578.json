@@ -1,0 +1,32 @@
+{
+    "itemId": 19578,
+    "itemName": "Adamant javelin heads",
+    "examine": "Needs a shaft.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 62.5,
+                    "level": 76,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Adamant javelin heads"
+            }
+        }
+    ]
+}

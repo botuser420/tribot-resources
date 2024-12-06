@@ -1,0 +1,7 @@
+{
+    "itemId": 8447,
+    "itemName": "Tall fancy hedge",
+    "examine": "You can plant this in your garden.",
+    "weight": 10.0,
+    "buyLimit": 10000
+}

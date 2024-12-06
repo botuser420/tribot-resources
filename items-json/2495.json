@@ -1,0 +1,67 @@
+{
+    "itemId": 2495,
+    "itemName": "Red d'hide chaps",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 5.443,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Red dragon leather",
+                    "quantity": 2
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 156.0,
+                    "level": 75,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red d'hide chaps"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Red dragon leather",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 156.0,
+                    "level": 75,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red d'hide chaps"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 14,
+        "stabDefenceBonus": 15,
+        "slashDefenceBonus": 18,
+        "crushDefenceBonus": 22,
+        "magicDefenceBonus": 18,
+        "rangeDefenceBonus": 20
+    }
+}

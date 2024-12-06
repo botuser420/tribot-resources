@@ -1,0 +1,31 @@
+{
+    "itemId": 2130,
+    "itemName": "Pot of cream",
+    "examine": "Fresh cream.",
+    "weight": 0.2,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 10,
+            "materials": [
+                {
+                    "name": "Bucket of milk",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dairy churn",
+            "skills": [
+                {
+                    "experience": 18.0,
+                    "level": 21,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pot of cream"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "itemId": 855,
+    "itemName": "Yew longbow",
+    "examine": "A nice sturdy bow made out of yew.",
+    "weight": 1.814,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Yew longbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 70,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yew longbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 47,
+        "attackDistance": 10,
+        "attackSpeed": 6,
+        "weaponType": "BOW"
+    }
+}

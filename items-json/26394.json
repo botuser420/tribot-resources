@@ -1,0 +1,38 @@
+{
+    "itemId": 26394,
+    "itemName": "Bandosian components",
+    "examine": "High grade material.",
+    "weight": 0.095,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Bandos chestplate",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Ancient Forge",
+            "tools": "Hammer",
+            "output": {
+                "quantity": 3,
+                "name": "Bandosian components"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Bandos tassets",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Ancient Forge",
+            "tools": "Hammer",
+            "output": {
+                "quantity": 2,
+                "name": "Bandosian components"
+            }
+        }
+    ]
+}

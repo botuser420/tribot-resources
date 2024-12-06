@@ -1,0 +1,37 @@
+{
+    "itemId": 23897,
+    "itemName": "Crystal halberd (perfected)",
+    "examine": "A wooden stick with a lot of crystal on the end.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal halberd (attuned)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal spike",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal halberd (perfected)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 166,
+        "slashAttackBonus": 166,
+        "crushAttackBonus": 28,
+        "strengthBonus": 138,
+        "prayerBonus": 3,
+        "attackDistance": 2,
+        "attackSpeed": 4,
+        "weaponType": "POLEARM"
+    }
+}

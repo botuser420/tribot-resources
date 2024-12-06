@@ -1,0 +1,10 @@
+{
+    "itemId": 4896,
+    "itemName": "Dharok's platebody 0",
+    "examine": "Dharok the Wretched's platebody armour.",
+    "weight": 9.979,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

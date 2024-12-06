@@ -1,0 +1,18 @@
+{
+    "itemId": 12297,
+    "itemName": "Black pickaxe",
+    "examine": "Used for mining.",
+    "weight": 0.01,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 8,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 11,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "PICKAXE"
+    }
+}

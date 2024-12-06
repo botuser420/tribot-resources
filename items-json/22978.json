@@ -1,0 +1,36 @@
+{
+    "itemId": 22978,
+    "itemName": "Dragon hunter lance",
+    "examine": "A lance that is exceptionally good at killing dragons and their ilk.",
+    "weight": 3.0,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Hydra's claw",
+                    "quantity": 1
+                },
+                {
+                    "name": "Zamorakian hasta",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon hunter lance"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 85,
+        "slashAttackBonus": 65,
+        "crushAttackBonus": 65,
+        "strengthBonus": 70,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "itemId": 21276,
+    "itemName": "Skull sceptre (i)",
+    "examine": "An imbued magical Sceptre.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Skull sceptre",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Solztun",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Skull sceptre (i)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 7,
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 4,
+        "strengthBonus": 3,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

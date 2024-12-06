@@ -1,0 +1,44 @@
+{
+    "itemId": 25404,
+    "itemName": "Bloodbark body",
+    "examine": "Keeps my chest protected.",
+    "weight": 4.535,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Splitbark body",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Blood Altar, Blood Altar (Kourend)",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 81,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bloodbark body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 21,
+        "stabDefenceBonus": 53,
+        "slashDefenceBonus": 39,
+        "crushDefenceBonus": 64,
+        "magicDefenceBonus": 24,
+        "magicDamageBonus": 1.0
+    }
+}

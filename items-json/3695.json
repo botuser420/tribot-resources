@@ -1,0 +1,11 @@
+{
+    "itemId": 3695,
+    "itemName": "Pet rock",
+    "examine": "The lowest maintenance pet you will ever have.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

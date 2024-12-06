@@ -1,0 +1,13 @@
+{
+    "itemId": 4599,
+    "itemName": "Oak blackjack",
+    "examine": "A handy little club made out of oak.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "strengthBonus": 2,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

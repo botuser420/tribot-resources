@@ -1,0 +1,11 @@
+{
+    "itemId": 7679,
+    "itemName": "Pugel",
+    "examine": "A good tool for bashing someone.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

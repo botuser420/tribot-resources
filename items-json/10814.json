@@ -1,0 +1,7 @@
+{
+    "itemId": 10814,
+    "itemName": "Hair",
+    "examine": "I can spin this into rope.",
+    "weight": 0.001,
+    "buyLimit": 13000
+}

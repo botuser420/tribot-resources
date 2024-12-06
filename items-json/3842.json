@@ -1,0 +1,15 @@
+{
+    "itemId": 3842,
+    "itemName": "Unholy book",
+    "examine": "The unholy book of Zamorak.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 8,
+        "magicAttackBonus": 8,
+        "rangedAttackBonus": 8,
+        "prayerBonus": 5
+    }
+}

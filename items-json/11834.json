@@ -1,0 +1,19 @@
+{
+    "itemId": 11834,
+    "itemName": "Bandos tassets",
+    "examine": "A sturdy pair of tassets.",
+    "weight": 8.0,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 71,
+        "slashDefenceBonus": 63,
+        "crushDefenceBonus": 66,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 93,
+        "strengthBonus": 2,
+        "prayerBonus": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "itemId": 22333,
+    "itemName": "Starter bow",
+    "examine": "A bow from a starter pack.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 20,
+        "rangedStrengthBonus": 7,
+        "attackDistance": 7,
+        "attackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

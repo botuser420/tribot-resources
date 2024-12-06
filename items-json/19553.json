@@ -1,0 +1,50 @@
+{
+    "itemId": 19553,
+    "itemName": "Amulet of torture",
+    "examine": "A deep sense of torture burns within this powerful amulet.",
+    "weight": 0.01,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Zenyte amulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 20
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 20
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 110.0,
+                    "level": 93,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of torture"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 15,
+        "slashAttackBonus": 15,
+        "crushAttackBonus": 15,
+        "strengthBonus": 10,
+        "prayerBonus": 2
+    }
+}

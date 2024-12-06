@@ -1,0 +1,21 @@
+{
+    "itemId": 6772,
+    "itemName": "Smouldering pot",
+    "examine": "Contains slowly burning garden weeds.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Pot of weeds",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Tinderbox",
+            "output": {
+                "quantity": 1,
+                "name": "Smouldering pot"
+            }
+        }
+    ]
+}

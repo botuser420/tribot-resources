@@ -1,0 +1,44 @@
+{
+    "itemId": 1349,
+    "itemName": "Iron axe",
+    "examine": "A woodcutter's axe.",
+    "weight": 1.36,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 16,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Iron axe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 5,
+        "crushAttackBonus": 3,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 7,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

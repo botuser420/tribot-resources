@@ -1,0 +1,17 @@
+{
+    "itemId": 12227,
+    "itemName": "Iron platelegs (t)",
+    "examine": "Iron platelegs with trim.",
+    "weight": 9.071,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 10
+    }
+}

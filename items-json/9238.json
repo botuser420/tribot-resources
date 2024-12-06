@@ -1,0 +1,42 @@
+{
+    "itemId": 9238,
+    "itemName": "Pearl bolts (e)",
+    "examine": "Enchanted Pearl tipped Iron Crossbow Bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Pearl bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 29.0,
+                    "level": 24,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Pearl bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 48
+    }
+}

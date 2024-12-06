@@ -1,0 +1,7 @@
+{
+    "itemId": 5280,
+    "itemName": "Cactus seed",
+    "examine": "A Cactus seed - plant in a cactus patch.",
+    "weight": 0.0,
+    "buyLimit": 200
+}

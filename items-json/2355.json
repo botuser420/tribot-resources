@@ -1,0 +1,90 @@
+{
+    "itemId": 2355,
+    "itemName": "Silver bar",
+    "examine": "It's a bar of silver.",
+    "weight": 1.814,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Silver ore",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 13.7,
+                    "level": 20,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Silver bar"
+            }
+        },
+        {
+            "ticks": 11,
+            "materials": [
+                {
+                    "name": "Silver ore",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blast Furnace",
+            "skills": [
+                {
+                    "experience": 13.7,
+                    "level": 20,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Silver bar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Silver ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 4
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 13.7,
+                    "level": 20,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Silver bar"
+            }
+        }
+    ]
+}

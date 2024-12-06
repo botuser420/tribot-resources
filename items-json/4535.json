@@ -1,0 +1,34 @@
+{
+    "itemId": 4535,
+    "itemName": "Empty oil lantern",
+    "examine": "Put oil in to complete it.",
+    "weight": 0.907,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Oil lantern frame",
+                    "quantity": 1
+                },
+                {
+                    "name": "Empty oil lamp",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 26,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Empty oil lantern"
+            }
+        }
+    ]
+}

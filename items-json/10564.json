@@ -1,0 +1,17 @@
+{
+    "itemId": 10564,
+    "itemName": "Granite body",
+    "examine": "Provides excellent protection.",
+    "weight": 22.679,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -22,
+        "rangedAttackBonus": -5,
+        "stabDefenceBonus": 87,
+        "slashDefenceBonus": 84,
+        "crushDefenceBonus": 79,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 97
+    }
+}

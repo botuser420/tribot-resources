@@ -1,0 +1,22 @@
+{
+    "itemId": 4170,
+    "itemName": "Slayer's staff",
+    "examine": "An old and magical staff.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 25,
+        "magicAttackBonus": 12,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 10,
+        "strengthBonus": 35,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 25066,
+    "itemName": "Infernal axe (or)",
+    "examine": "A very powerful, fiery axe in the colours of the Trailblazer League.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 38,
+        "crushAttackBonus": 32,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 42,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

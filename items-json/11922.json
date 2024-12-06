@@ -1,0 +1,25 @@
+{
+    "itemId": 11922,
+    "itemName": "Lava dragon bonemeal",
+    "examine": "A pot of crushed lava dragon bones.",
+    "weight": 1.6,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Lava dragon bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Lava dragon bonemeal"
+            }
+        }
+    ]
+}

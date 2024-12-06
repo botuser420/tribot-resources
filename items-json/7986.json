@@ -1,0 +1,26 @@
+{
+    "itemId": 7986,
+    "itemName": "Stuffed abyssal head",
+    "examine": "I could mount this on my wall!",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Abyssal head",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 12000
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed abyssal head"
+            }
+        }
+    ]
+}

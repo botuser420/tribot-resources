@@ -1,0 +1,28 @@
+{
+    "itemId": 25596,
+    "itemName": "Spirit angler waders",
+    "examine": "This will help with fishing.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Angler waders",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spirit flakes",
+                    "quantity": 1200
+                }
+            ],
+            "facilities": "Gita Prymes",
+            "output": {
+                "quantity": 1,
+                "name": "Spirit angler waders"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "itemId": 3256,
+    "itemName": "Lava scale shard",
+    "examine": "Ground-up lava dragon scale.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Lava scale",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 4,
+                "name": "Lava scale shard"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Lava scale",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 6,
+                "name": "Lava scale shard"
+            }
+        }
+    ]
+}

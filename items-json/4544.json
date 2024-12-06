@@ -1,0 +1,32 @@
+{
+    "itemId": 4544,
+    "itemName": "Bullseye lantern (unf)",
+    "examine": "You need to add a lens before you can use it.",
+    "weight": 1.36,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 49,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bullseye lantern (unf)"
+            }
+        }
+    ]
+}

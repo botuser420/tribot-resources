@@ -1,0 +1,26 @@
+{
+    "itemId": 23079,
+    "itemName": "Stuffed hydra heads",
+    "examine": "I could mount this on my wall!",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Alchemical hydra heads",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 50000
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed hydra heads"
+            }
+        }
+    ]
+}

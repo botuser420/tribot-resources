@@ -1,0 +1,9 @@
+{
+    "itemId": 24191,
+    "itemName": "Deadman's cape",
+    "examine": "Dark and sinister, just like a deadman.",
+    "weight": 0.09,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

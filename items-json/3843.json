@@ -1,0 +1,10 @@
+{
+    "itemId": 3843,
+    "itemName": "Damaged book",
+    "examine": "An incomplete book of Guthix.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "prayerBonus": 5
+    }
+}

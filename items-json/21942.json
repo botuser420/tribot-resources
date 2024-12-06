@@ -1,0 +1,46 @@
+{
+    "itemId": 21942,
+    "itemName": "Emerald dragon bolts (e)",
+    "examine": "Enchanted Dragon crossbow bolts, tipped with emerald.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Emerald dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 37.0,
+                    "level": 27,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Emerald dragon bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "itemId": 29801,
+    "itemName": "Amulet of rancour",
+    "examine": "A very powerful zenyte amulet, infused with araxyte venom.",
+    "weight": 0.012,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Amulet of torture",
+                    "quantity": 1
+                },
+                {
+                    "name": "Araxyte fang",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 500.0,
+                    "level": 86,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of rancour"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 25,
+        "slashAttackBonus": 25,
+        "crushAttackBonus": 25,
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -8,
+        "strengthBonus": 12,
+        "prayerBonus": 2
+    }
+}

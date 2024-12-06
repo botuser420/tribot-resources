@@ -1,0 +1,32 @@
+{
+    "itemId": 25918,
+    "itemName": "Dragon hunter crossbow (b)",
+    "examine": "A crossbow used for dragon hunting.",
+    "weight": 7.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dragon hunter crossbow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kbd heads",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon hunter crossbow (b)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 95,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

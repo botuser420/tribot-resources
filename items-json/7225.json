@@ -1,0 +1,32 @@
+{
+    "itemId": 7225,
+    "itemName": "Iron spit",
+    "examine": "An iron spit.",
+    "weight": 1.5,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 17,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Iron spit"
+            }
+        }
+    ]
+}

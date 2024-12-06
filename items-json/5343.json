@@ -1,0 +1,7 @@
+{
+    "itemId": 5343,
+    "itemName": "Seed dibber",
+    "examine": "Use this to plant seeds with.",
+    "weight": 0.002,
+    "buyLimit": 40
+}

@@ -1,0 +1,35 @@
+{
+    "itemId": 9459,
+    "itemName": "Steel crossbow (u)",
+    "examine": "An unstrung steel crossbow.",
+    "weight": 8.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Teak stock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Steel limbs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 54.0,
+                    "level": 46,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Steel crossbow (u)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 25496,
+    "itemName": "Crystal body (beta)",
+    "examine": "Sturdier than it looks.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -18,
+        "rangedAttackBonus": 30,
+        "stabDefenceBonus": 34,
+        "slashDefenceBonus": 24,
+        "crushDefenceBonus": 32,
+        "magicDefenceBonus": 44,
+        "rangeDefenceBonus": 53,
+        "prayerBonus": 3
+    }
+}

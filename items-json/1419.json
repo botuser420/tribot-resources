@@ -1,0 +1,18 @@
+{
+    "itemId": 1419,
+    "itemName": "Scythe",
+    "examine": "It's a Scythe.",
+    "weight": 3.175,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 3,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 10,
+        "attackDistance": 1,
+        "attackSpeed": 7,
+        "weaponType": "SCYTHE"
+    }
+}

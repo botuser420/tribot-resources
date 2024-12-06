@@ -1,0 +1,19 @@
+{
+    "itemId": 26755,
+    "itemName": "Calamity breeches",
+    "examine": "Breeches used by the Calamity Coven.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 2,
+        "magicAttackBonus": 5,
+        "rangedAttackBonus": 8,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 8
+    }
+}

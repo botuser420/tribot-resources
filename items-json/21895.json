@@ -1,0 +1,50 @@
+{
+    "itemId": 21895,
+    "itemName": "Dragon kiteshield",
+    "examine": "An ancient and powerful looking Dragon Kiteshield.",
+    "weight": 6.803,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dragon sq shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon metal slice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon metal shard",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dragon forge",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 1000.0,
+                    "level": 75,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon kiteshield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 56,
+        "slashDefenceBonus": 60,
+        "crushDefenceBonus": 58,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 58
+    }
+}

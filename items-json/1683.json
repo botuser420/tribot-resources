@@ -1,0 +1,36 @@
+{
+    "itemId": 1683,
+    "itemName": "Dragonstone amulet (u)",
+    "examine": "It needs a string so I can wear it.",
+    "weight": 0.004,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragonstone",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Amulet mould",
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragonstone amulet (u)"
+            }
+        }
+    ]
+}

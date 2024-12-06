@@ -1,0 +1,22 @@
+{
+    "itemId": 10111,
+    "itemName": "Kebbit teeth dust",
+    "examine": "Previously a kebbit-sized set of dentures.",
+    "weight": 0.02,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Kebbit teeth",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Kebbit teeth dust"
+            }
+        }
+    ]
+}

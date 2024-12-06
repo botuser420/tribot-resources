@@ -1,0 +1,41 @@
+{
+    "itemId": 9177,
+    "itemName": "Iron crossbow",
+    "examine": "An iron crossbow.",
+    "weight": 4.0,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Iron crossbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crossbow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 22.0,
+                    "level": 39,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Iron crossbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 42,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

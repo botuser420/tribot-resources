@@ -1,0 +1,32 @@
+{
+    "itemId": 379,
+    "itemName": "Lobster",
+    "examine": "This looks tricky to eat.",
+    "weight": 0.35,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw lobster",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 120.0,
+                    "level": 40,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Lobster"
+            }
+        }
+    ]
+}

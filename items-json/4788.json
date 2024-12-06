@@ -1,0 +1,39 @@
+{
+    "itemId": 4788,
+    "itemName": "Black brutal",
+    "examine": "Blunt black arrow... ouch.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Flighted ogre arrow",
+                    "quantity": 6
+                },
+                {
+                    "name": "Black nails",
+                    "quantity": 6
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 39.0,
+                    "level": 38,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 6,
+                "name": "Black brutal"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 22
+    }
+}

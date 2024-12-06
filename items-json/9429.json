@@ -1,0 +1,32 @@
+{
+    "itemId": 9429,
+    "itemName": "Adamantite limbs",
+    "examine": "A pair of adamantite crossbow limbs.",
+    "weight": 3.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 62.5,
+                    "level": 76,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Adamantite limbs"
+            }
+        }
+    ]
+}

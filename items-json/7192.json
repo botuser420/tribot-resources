@@ -1,0 +1,32 @@
+{
+    "itemId": 7192,
+    "itemName": "Part admiral pie",
+    "examine": "Still needs two more ingredients.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Salmon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pie shell",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 70,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Part admiral pie (salmon)"
+            }
+        }
+    ]
+}

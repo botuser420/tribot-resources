@@ -1,0 +1,13 @@
+{
+    "itemId": 25278,
+    "itemName": "Salve amulet(ei)",
+    "examine": "Increases melee, ranged and magic damage & accuracy by 20% against the undead.",
+    "weight": 0.007,
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "prayerBonus": 3
+    }
+}

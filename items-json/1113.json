@@ -1,0 +1,42 @@
+{
+    "itemId": 1113,
+    "itemName": "Rune chainbody",
+    "examine": "A series of connected metal rings.",
+    "weight": 6.803,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 225.0,
+                    "level": 96,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune chainbody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "stabDefenceBonus": 63,
+        "slashDefenceBonus": 72,
+        "crushDefenceBonus": 78,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 65
+    }
+}

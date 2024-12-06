@@ -1,0 +1,20 @@
+{
+    "itemId": 24143,
+    "itemName": "Dragon defender (l)",
+    "examine": "A defensive weapon.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 25,
+        "slashAttackBonus": 24,
+        "crushAttackBonus": 23,
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 25,
+        "slashDefenceBonus": 24,
+        "crushDefenceBonus": 23,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": -2,
+        "strengthBonus": 6
+    }
+}

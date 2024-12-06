@@ -1,0 +1,32 @@
+{
+    "itemId": 25654,
+    "itemName": "Guppy",
+    "examine": "This should be offered up at the altar.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Raw guppy",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Preparation Table",
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 12.0,
+                    "level": 7,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Guppy"
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 22361,
+    "itemName": "Chaotic handegg",
+    "examine": "A chocolate egg decorated in the colours of Zamorak.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

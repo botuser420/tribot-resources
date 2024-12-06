@@ -1,0 +1,21 @@
+{
+    "itemId": 28577,
+    "itemName": "Crystal chime",
+    "examine": "It makes a sound.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Crystal chime seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing bowl",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal chime"
+            }
+        }
+    ]
+}

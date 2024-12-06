@@ -1,0 +1,29 @@
+{
+    "itemId": 7938,
+    "itemName": "Dark essence fragments",
+    "examine": "Fragments of essence that have been infested with dark power.",
+    "weight": 0.4,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 8.0,
+                    "level": 38,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 4,
+                "name": "Dark essence fragments"
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 3061,
+    "itemName": "Mime boots",
+    "examine": "A mime would wear these.",
+    "weight": 0.34,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

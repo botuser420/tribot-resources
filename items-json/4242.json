@@ -1,0 +1,32 @@
+{
+    "itemId": 4242,
+    "itemName": "Cup of tea",
+    "examine": "A nice cup of nettle tea.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Nettle tea",
+                    "quantity": 1
+                },
+                {
+                    "name": "Empty cup",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 52.0,
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cup of tea (nettle)"
+            }
+        }
+    ]
+}

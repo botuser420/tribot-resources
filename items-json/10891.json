@@ -1,0 +1,84 @@
+{
+    "itemId": 10891,
+    "itemName": "Wooden cat",
+    "examine": "A wooden cat toy.",
+    "weight": 0.03,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fur",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Crafting table 1",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 16,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wooden cat"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bear fur",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Crafting table 1",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 16,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wooden cat"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Plank",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grey wolf fur",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Crafting table 1",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 16,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wooden cat"
+            }
+        }
+    ]
+}

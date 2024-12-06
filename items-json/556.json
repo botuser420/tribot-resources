@@ -1,0 +1,98 @@
+{
+    "itemId": 556,
+    "itemName": "Air rune",
+    "examine": "One of the 4 basic elemental Runes.",
+    "weight": 0.0,
+    "buyLimit": 50000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rune essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Air tiara, Air talisman",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Air rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Air tiara, Air talisman",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Air rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Air tiara, Air talisman",
+            "skills": [
+                {
+                    "experience": 7.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Air rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Air rune"
+            }
+        }
+    ]
+}

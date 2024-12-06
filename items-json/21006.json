@@ -1,0 +1,36 @@
+{
+    "itemId": 21006,
+    "itemName": "Kodai wand",
+    "examine": "A wand of an ancient Kodai mage.",
+    "weight": 0.198,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Master wand",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kodai insignia",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Kodai wand"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 28,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 20,
+        "magicDamageBonus": 15.0,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

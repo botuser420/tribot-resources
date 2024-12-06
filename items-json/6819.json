@@ -1,0 +1,24 @@
+{
+    "itemId": 6819,
+    "itemName": "Large pouch",
+    "examine": "A large pouch used for storing essence.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Large pouch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Orb (Devious Minds)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Large pouch (Devious Minds)"
+            }
+        }
+    ]
+}

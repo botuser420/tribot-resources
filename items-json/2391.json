@@ -1,0 +1,21 @@
+{
+    "itemId": 2391,
+    "itemName": "Ground bat bones",
+    "examine": "Let's see it fly, now!",
+    "weight": 0.1,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bat bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground bat bones"
+            }
+        }
+    ]
+}

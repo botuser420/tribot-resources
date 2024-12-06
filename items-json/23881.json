@@ -1,0 +1,42 @@
+{
+    "itemId": 23881,
+    "itemName": "Grym potion (unf)",
+    "examine": "I need another ingredient to finish this Grym potion.",
+    "weight": 0.02,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Grym leaf",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water-filled vial",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Grym potion (unf)"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Grym leaf (corrupted)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water-filled vial",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Grym potion (unf)"
+            }
+        }
+    ]
+}

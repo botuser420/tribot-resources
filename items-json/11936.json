@@ -1,0 +1,31 @@
+{
+    "itemId": 11936,
+    "itemName": "Dark crab",
+    "examine": "This looks tricky to eat.",
+    "weight": 0.35,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw dark crab",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 215.0,
+                    "level": 90,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dark crab"
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "itemId": 6914,
+    "itemName": "Master wand",
+    "examine": "A master level wand.",
+    "weight": 0.198,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 20,
+        "magicDefenceBonus": 20,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

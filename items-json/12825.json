@@ -1,0 +1,71 @@
+{
+    "itemId": 12825,
+    "itemName": "Arcane spirit shield",
+    "examine": "An ethereal shield with an arcane sigil attached to it.",
+    "weight": 2.0,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Blessed spirit shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arcane sigil",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Prayer"
+                },
+                {
+                    "experience": 1800.0,
+                    "level": 85,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Arcane spirit shield"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed spirit shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arcane sigil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1500000
+                }
+            ],
+            "facilities": "Abbot Langley",
+            "output": {
+                "quantity": 1,
+                "name": "Arcane spirit shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 20,
+        "stabDefenceBonus": 53,
+        "slashDefenceBonus": 55,
+        "crushDefenceBonus": 73,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 52,
+        "magicDamageBonus": 3.0,
+        "prayerBonus": 3
+    }
+}

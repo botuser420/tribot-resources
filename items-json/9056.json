@@ -1,0 +1,29 @@
+{
+    "itemId": 9056,
+    "itemName": "Yellow goblin mail",
+    "examine": "Some yellow armour designed to fit goblins.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Goblin mail",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Yellow goblin mail"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

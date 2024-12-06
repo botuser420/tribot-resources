@@ -1,0 +1,24 @@
+{
+    "itemId": 1585,
+    "itemName": "Oily fishing rod",
+    "examine": "Useful for catching lava eels.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Fishing rod",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blamish oil",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Oily fishing rod"
+            }
+        }
+    ]
+}

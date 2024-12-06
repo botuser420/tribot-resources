@@ -1,0 +1,24 @@
+{
+    "itemId": 28456,
+    "itemName": "Astral nerve",
+    "examine": "A very poweful nerve.<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "weight": 0.1,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Cosmic nerve",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth nerve",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Astral nerve"
+            }
+        }
+    ]
+}

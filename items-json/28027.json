@@ -1,0 +1,35 @@
+{
+    "itemId": 28027,
+    "itemName": "Dragon mace (cr)",
+    "examine": "A spiky mace.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon mace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon mace (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 40,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 60,
+        "strengthBonus": 55,
+        "prayerBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

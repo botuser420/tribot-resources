@@ -1,0 +1,13 @@
+{
+    "itemId": 12768,
+    "itemName": "Dark bow",
+    "examine": "A bow from a darker dimension, painted white.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 95,
+        "attackDistance": 10,
+        "attackSpeed": 9,
+        "weaponType": "BOW"
+    }
+}

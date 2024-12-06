@@ -1,0 +1,31 @@
+{
+    "itemId": 319,
+    "itemName": "Anchovies",
+    "examine": "Some nicely cooked anchovies.",
+    "weight": 0.1,
+    "buyLimit": 15000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw anchovies",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Anchovies"
+            }
+        }
+    ]
+}

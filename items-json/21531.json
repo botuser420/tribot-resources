@@ -1,0 +1,25 @@
+{
+    "itemId": 21531,
+    "itemName": "Potion of sealegs",
+    "examine": "Doesn't look pleasant at all.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Marrentill potion (unf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vodka",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Apothecary",
+            "output": {
+                "quantity": 1,
+                "name": "Potion of sealegs"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "itemId": 3343,
+    "itemName": "Pointed bruise blue snelm",
+    "examine": "A moody blue pointed snail shell helmet.",
+    "weight": 2.0,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blamish blue shell (pointed)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 32.5,
+                    "level": 15,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pointed bruise blue snelm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 7
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "itemId": 1921,
+    "itemName": "Bowl of water",
+    "examine": "It's a bowl of water.",
+    "weight": 0.907,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bowl",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bowl of water"
+            }
+        }
+    ]
+}

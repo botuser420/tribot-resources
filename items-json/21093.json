@@ -1,0 +1,39 @@
+{
+    "itemId": 21093,
+    "itemName": "Jade necklace",
+    "examine": "I wonder if this is valuable.",
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Jade",
+                    "quantity": 1
+                },
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Necklace mould",
+            "skills": [
+                {
+                    "experience": 54.0,
+                    "level": 25,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Jade necklace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

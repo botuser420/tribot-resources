@@ -1,0 +1,10 @@
+{
+    "itemId": 4956,
+    "itemName": "Torag's helm 0",
+    "examine": "Torag the Corrupted's helm.",
+    "weight": 2.721,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

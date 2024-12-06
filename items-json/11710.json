@@ -1,0 +1,14 @@
+{
+    "itemId": 11710,
+    "itemName": "Anti-dragon shield (nz)",
+    "examine": "For use in the Nightmare Zone.",
+    "weight": 5.443,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 8
+    }
+}

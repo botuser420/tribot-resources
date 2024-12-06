@@ -1,0 +1,17 @@
+{
+    "itemId": 7340,
+    "itemName": "Adamant shield (h2)",
+    "examine": "A shield with a heraldic design",
+    "weight": 5.896,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 27,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 29,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 29
+    }
+}

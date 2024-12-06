@@ -1,0 +1,38 @@
+{
+    "itemId": 5531,
+    "itemName": "Water tiara",
+    "examine": "A tiara infused with the properties of water.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Water tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

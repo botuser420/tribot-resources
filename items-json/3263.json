@@ -1,0 +1,21 @@
+{
+    "itemId": 3263,
+    "itemName": "Dried thistle",
+    "examine": "It'll be easier to grind now.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Troll thistle",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire",
+            "output": {
+                "quantity": 1,
+                "name": "Dried thistle"
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "itemId": 26950,
+    "itemName": "Pharaoh's sceptre",
+    "examine": "An ancient and powerful sceptre.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 25,
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 10,
+        "strengthBonus": 32,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "POLESTAFF"
+    }
+}

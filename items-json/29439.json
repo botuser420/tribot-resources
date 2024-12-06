@@ -1,0 +1,9 @@
+{
+    "itemId": 29439,
+    "itemName": "Egg priest robe top",
+    "examine": "I feel closer to the eggs when I am wearing this.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

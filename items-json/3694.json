@@ -1,0 +1,29 @@
+{
+    "itemId": 3694,
+    "itemName": "Golden wool",
+    "examine": "I can use this to make a lyre.",
+    "weight": 0.012,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Golden fleece",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Golden wool"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "itemId": 2307,
+    "itemName": "Bread dough",
+    "examine": "Some uncooked dough.",
+    "weight": 0.6,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of water",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bread dough"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bowl of water",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bread dough"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jug of water",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bread dough"
+            }
+        }
+    ]
+}

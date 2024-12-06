@@ -1,0 +1,7 @@
+{
+    "itemId": 10113,
+    "itemName": "Kebbit claws",
+    "examine": "More menacing when attached to the owner.",
+    "weight": 0.02,
+    "buyLimit": 10000
+}

@@ -1,0 +1,30 @@
+{
+    "itemId": 22249,
+    "itemName": "Necklace of anguish (or)",
+    "examine": "A deep sense of anguish burns within this powerful necklace.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Necklace of anguish",
+                    "quantity": 1
+                },
+                {
+                    "name": "Anguish ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Necklace of anguish (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "rangedAttackBonus": 15,
+        "rangedStrengthBonus": 5,
+        "prayerBonus": 2
+    }
+}

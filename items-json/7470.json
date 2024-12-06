@@ -1,0 +1,24 @@
+{
+    "itemId": 7470,
+    "itemName": "Cornflour mixture",
+    "examine": "A mixture of milk, cream and cornflour.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Milky mixture",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot of cornflour",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cornflour mixture"
+            }
+        }
+    ]
+}

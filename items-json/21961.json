@@ -1,0 +1,38 @@
+{
+    "itemId": 21961,
+    "itemName": "Topaz dragon bolts",
+    "examine": "Dragon crossbow bolts, tipped with red topaz.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Topaz bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 39.0,
+                    "level": 84,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Topaz dragon bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "itemId": 10824,
+    "itemName": "Yak-hide armour",
+    "examine": "Leg protection, made from smelly yak-hide.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Cured yak-hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 32.0,
+                    "level": 43,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yak-hide armour (legs)"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Cured yak-hide",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 32.0,
+                    "level": 43,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yak-hide armour (legs)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 25,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 15,
+        "magicDefenceBonus": -2,
+        "rangeDefenceBonus": 10
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 6151,
+    "itemName": "Rock-shell gloves",
+    "examine": "Fremennik gloves stitched together from rock crab shell shards.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "HANDS",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 2
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "itemId": 29273,
+    "itemName": "Enhanced quetzal whistle",
+    "examine": "An enhanced quetzal whistle crafted from yew logs.",
+    "weight": 0.004,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Basic quetzal whistle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Enhanced quetzal whistle blueprint",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yew logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Enhanced quetzal whistle"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Basic quetzal whistle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Torn enhanced quetzal whistle blueprint",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yew logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Enhanced quetzal whistle"
+            }
+        }
+    ]
+}

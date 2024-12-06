@@ -1,0 +1,33 @@
+{
+    "itemId": 95,
+    "itemName": "Tarromin potion (unf)",
+    "examine": "I need another ingredient to finish this Tarromin potion.",
+    "weight": 0.056,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tarromin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 12,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tarromin potion (unf)"
+            }
+        }
+    ]
+}

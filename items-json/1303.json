@@ -1,0 +1,45 @@
+{
+    "itemId": 1303,
+    "itemName": "Rune longsword",
+    "examine": "A razor sharp longsword.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 91,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune longsword"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 38,
+        "slashAttackBonus": 47,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 49,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

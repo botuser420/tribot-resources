@@ -1,0 +1,44 @@
+{
+    "itemId": 1373,
+    "itemName": "Rune battleaxe",
+    "examine": "A vicious looking axe.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 225.0,
+                    "level": 95,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune battleaxe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 48,
+        "crushAttackBonus": 43,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 64,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

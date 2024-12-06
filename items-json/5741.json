@@ -1,0 +1,47 @@
+{
+    "itemId": 5741,
+    "itemName": "Mature wmb",
+    "examine": "This looks a good deal stronger than normal Wizards Mind Bomb.",
+    "weight": 0.55,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bucket of water",
+                    "quantity": 2
+                },
+                {
+                    "name": "Barley malt",
+                    "quantity": 2
+                },
+                {
+                    "name": "Yanillian hops",
+                    "quantity": 4
+                },
+                {
+                    "name": "Ale yeast",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beer glass",
+                    "quantity": 8
+                }
+            ],
+            "facilities": "Brewery",
+            "skills": [
+                {
+                    "experience": 314.0,
+                    "level": 34,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 8,
+                "name": "Mature wmb"
+            }
+        }
+    ]
+}

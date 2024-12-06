@@ -1,0 +1,7 @@
+{
+    "itemId": 19601,
+    "itemName": "Ballista spring",
+    "examine": "A spring-loaded mechanism.",
+    "weight": 0.25,
+    "buyLimit": 8
+}

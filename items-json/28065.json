@@ -1,0 +1,33 @@
+{
+    "itemId": 28065,
+    "itemName": "Dragon chainbody (cr)",
+    "examine": "A series of connected metal rings.",
+    "weight": 6.803,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon chainbody",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon chainbody (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "stabDefenceBonus": 81,
+        "slashDefenceBonus": 93,
+        "crushDefenceBonus": 98,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 82
+    }
+}

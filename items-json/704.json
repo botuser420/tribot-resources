@@ -1,0 +1,21 @@
+{
+    "itemId": 704,
+    "itemName": "Ground charcoal",
+    "examine": "Charcoal - crushed to small pieces!",
+    "weight": 0.008,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Charcoal",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground charcoal"
+            }
+        }
+    ]
+}

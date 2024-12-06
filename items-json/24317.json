@@ -1,0 +1,38 @@
+{
+    "itemId": 24317,
+    "itemName": "Spookier robe",
+    "examine": "A spooky robe cut from a bedsheet!",
+    "weight": 0.9,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Spooky robe",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Ectofuntus",
+            "output": {
+                "quantity": 1,
+                "name": "Spookier robe"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Spooky robe",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Swampy sink",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Spookier robe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

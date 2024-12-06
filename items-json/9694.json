@@ -1,0 +1,50 @@
+{
+    "itemId": 9694,
+    "itemName": "Blank earth rune",
+    "examine": "A blank earth rune.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rune essence",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Page 1, Chisel",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blank earth rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Page 1, Chisel",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blank earth rune"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 13338,
+    "itemName": "Accumulator max hood",
+    "examine": "The hood worn by only the most experienced players.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ava's accumulator",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max cape",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Accumulator max hood"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

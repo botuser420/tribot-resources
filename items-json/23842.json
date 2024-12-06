@@ -1,0 +1,64 @@
+{
+    "itemId": 23842,
+    "itemName": "Corrupted helm (perfected)",
+    "examine": "The shiniest helmet that provides a lot of protection from corrupted creatures.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 80
+                },
+                {
+                    "name": "Corrupted helm (attuned)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Corrupted ore",
+                    "quantity": 2
+                },
+                {
+                    "name": "Phren bark (corrupted)",
+                    "quantity": 2
+                },
+                {
+                    "name": "Linum tirinum (corrupted)",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 40.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted helm (perfected)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 3,
+        "magicAttackBonus": 10,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 68,
+        "slashDefenceBonus": 68,
+        "crushDefenceBonus": 68,
+        "magicDefenceBonus": 68,
+        "rangeDefenceBonus": 68,
+        "prayerBonus": 3
+    }
+}

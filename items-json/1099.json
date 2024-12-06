@@ -1,0 +1,67 @@
+{
+    "itemId": 1099,
+    "itemName": "Green d'hide chaps",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 5.443,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Green dragon leather",
+                    "quantity": 2
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 124.0,
+                    "level": 60,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Green d'hide chaps"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Green dragon leather",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 124.0,
+                    "level": 60,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Green d'hide chaps"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 8,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 18,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 17
+    }
+}

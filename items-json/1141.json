@@ -1,0 +1,42 @@
+{
+    "itemId": 1141,
+    "itemName": "Steel med helm",
+    "examine": "A medium sized helmet.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 33,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Steel med helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 7
+    }
+}

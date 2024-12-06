@@ -1,0 +1,10 @@
+{
+    "itemId": 1050,
+    "itemName": "Santa hat",
+    "examine": "It's a Santa hat.",
+    "weight": 0.113,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

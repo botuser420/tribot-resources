@@ -1,0 +1,34 @@
+{
+    "itemId": 7056,
+    "itemName": "Egg potato",
+    "examine": "A baked potato with egg and tomato.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Egg and tomato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Potato with butter",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 45.0,
+                    "level": 51,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Egg potato"
+            }
+        }
+    ]
+}

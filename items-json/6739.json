@@ -1,0 +1,18 @@
+{
+    "itemId": 6739,
+    "itemName": "Dragon axe",
+    "examine": "A very powerful axe.",
+    "weight": 1.36,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 38,
+        "crushAttackBonus": 32,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 42,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

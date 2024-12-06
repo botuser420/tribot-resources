@@ -1,0 +1,9 @@
+{
+    "itemId": 29269,
+    "itemName": "Guild hunter boots",
+    "examine": "The boots of the Hunters.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

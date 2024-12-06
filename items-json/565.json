@@ -1,0 +1,99 @@
+{
+    "itemId": 565,
+    "itemName": "Blood rune",
+    "examine": "Used for high level missile spells.",
+    "weight": 0.0,
+    "buyLimit": 25000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blood Altar",
+            "tools": "Blood tiara, Blood talisman",
+            "skills": [
+                {
+                    "experience": 10.5,
+                    "level": 77,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blood rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blood Altar",
+            "tools": "Blood tiara, Blood talisman",
+            "skills": [
+                {
+                    "experience": 15.7,
+                    "level": 77,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blood rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blood Altar",
+            "skills": [
+                {
+                    "experience": 10.5,
+                    "level": 77,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blood rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dark essence fragments",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blood Altar (Kourend)",
+            "skills": [
+                {
+                    "experience": 23.8,
+                    "level": 77,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blood rune"
+            }
+        }
+    ]
+}

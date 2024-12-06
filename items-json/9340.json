@@ -1,0 +1,38 @@
+{
+    "itemId": 9340,
+    "itemName": "Diamond bolts",
+    "examine": "Diamond tipped Adamantite crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Adamant bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Diamond bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 70.0,
+                    "level": 65,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Diamond bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 105
+    }
+}

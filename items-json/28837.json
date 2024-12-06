@@ -1,0 +1,39 @@
+{
+    "itemId": 28837,
+    "itemName": "Irit tar",
+    "examine": "A dark, thick, foul-smelling, tar-like substance.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Swamp tar",
+                    "quantity": 15
+                },
+                {
+                    "name": "Irit leaf",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "skills": [
+                {
+                    "experience": 85.0,
+                    "level": 55,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Irit tar"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 60
+    }
+}

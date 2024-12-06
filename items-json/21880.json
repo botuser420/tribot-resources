@@ -1,0 +1,55 @@
+{
+    "itemId": 21880,
+    "itemName": "Wrath rune",
+    "examine": "Used for very high level missile spells.",
+    "weight": 0.0,
+    "buyLimit": 25000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Wrath Altar",
+            "tools": "Wrath tiara, Wrath talisman",
+            "skills": [
+                {
+                    "experience": 8.0,
+                    "level": 95,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wrath rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Wrath Altar",
+            "tools": "Wrath tiara, Wrath talisman",
+            "skills": [
+                {
+                    "experience": 12.0,
+                    "level": 95,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wrath rune"
+            }
+        }
+    ]
+}

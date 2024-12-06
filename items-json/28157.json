@@ -1,0 +1,189 @@
+{
+    "itemId": 28157,
+    "itemName": "Forester's ration",
+    "examine": "Mmm this looks tasty.",
+    "weight": 0.0,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Tuna",
+                    "quantity": 1
+                },
+                {
+                    "name": "Leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 51.1,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 35,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 4,
+                "name": "Forester's ration"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Tuna",
+                    "quantity": 1
+                },
+                {
+                    "name": "Oak leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 51.1,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 35,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 8,
+                "name": "Forester's ration"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Tuna",
+                    "quantity": 1
+                },
+                {
+                    "name": "Willow leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 51.1,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 35,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Forester's ration"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Tuna",
+                    "quantity": 1
+                },
+                {
+                    "name": "Maple leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 51.1,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 35,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 16,
+                "name": "Forester's ration"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Tuna",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yew leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 51.1,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 35,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 20,
+                "name": "Forester's ration"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Tuna",
+                    "quantity": 1
+                },
+                {
+                    "name": "Magic leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 51.1,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 35,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 24,
+                "name": "Forester's ration"
+            }
+        }
+    ]
+}

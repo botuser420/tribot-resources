@@ -1,0 +1,16 @@
+{
+    "itemId": 10487,
+    "itemName": "Undead chicken",
+    "examine": "It looks at you with beady eyes.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

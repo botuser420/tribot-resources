@@ -1,0 +1,29 @@
+{
+    "itemId": 5503,
+    "itemName": "Calquat sapling",
+    "examine": "This sapling is ready to be replanted in a Calquat tree patch.",
+    "weight": 0.907,
+    "buyLimit": 200,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Calquat seedling (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 72,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Calquat sapling"
+            }
+        }
+    ]
+}

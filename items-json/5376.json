@@ -1,0 +1,31 @@
+{
+    "itemId": 5376,
+    "itemName": "Basket",
+    "examine": "An empty fruit basket.",
+    "weight": 0.028,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Willow branch",
+                    "quantity": 6
+                }
+            ],
+            "facilities": "Loom",
+            "skills": [
+                {
+                    "experience": 56.0,
+                    "level": 36,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Basket"
+            }
+        }
+    ]
+}

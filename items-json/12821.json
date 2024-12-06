@@ -1,0 +1,70 @@
+{
+    "itemId": 12821,
+    "itemName": "Spectral spirit shield",
+    "examine": "An ethereal shield with a spectral sigil attached to it.",
+    "weight": 2.0,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Blessed spirit shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spectral sigil",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Prayer"
+                },
+                {
+                    "experience": 1800.0,
+                    "level": 85,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spectral spirit shield"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed spirit shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spectral sigil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1500000
+                }
+            ],
+            "facilities": "Abbot Langley",
+            "output": {
+                "quantity": 1,
+                "name": "Spectral spirit shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 53,
+        "slashDefenceBonus": 55,
+        "crushDefenceBonus": 73,
+        "magicDefenceBonus": 30,
+        "rangeDefenceBonus": 52,
+        "prayerBonus": 3
+    }
+}

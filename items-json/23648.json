@@ -1,0 +1,10 @@
+{
+    "itemId": 23648,
+    "itemName": "Dragon javelin",
+    "examine": "A dragon tipped javelin.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 150
+    }
+}

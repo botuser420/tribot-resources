@@ -1,0 +1,7 @@
+{
+    "itemId": 10816,
+    "itemName": "Raw yak meat",
+    "examine": "I need to cook this.",
+    "weight": 0.34,
+    "buyLimit": 11000
+}

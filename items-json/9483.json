@@ -1,0 +1,37 @@
+{
+    "itemId": 9483,
+    "itemName": "Half made batta",
+    "examine": "This cheese and tom batta needs baking and garnishing with equa leaves.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half baked batta",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cheese",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 29,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half made batta (cheese+tom)"
+            }
+        }
+    ]
+}

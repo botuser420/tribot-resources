@@ -1,0 +1,10 @@
+{
+    "itemId": 21760,
+    "itemName": "Kharedst's memoirs",
+    "examine": "The memoirs of a former ruler, written by his young heir.",
+    "weight": 0.2,
+    "equipment": {
+        "slot": "SHIELD",
+        "prayerBonus": 1
+    }
+}

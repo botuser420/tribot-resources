@@ -1,0 +1,12 @@
+{
+    "itemId": 11709,
+    "itemName": "Cursed goblin staff",
+    "examine": "A curse has been placed on this magical staff.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 23771,
+    "itemName": "Prifddinas teleport",
+    "examine": "This tablet has been redirected to the Prifddinas portal.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Teleport to house (tablet)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scroll of redirection",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 70,
+                    "name": "Construction"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Prifddinas teleport"
+            }
+        }
+    ]
+}

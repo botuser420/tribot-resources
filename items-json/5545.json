@@ -1,0 +1,36 @@
+{
+    "itemId": 5545,
+    "itemName": "Law tiara",
+    "examine": "A tiara infused with the properties of law.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Law talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Law Altar",
+            "skills": [
+                {
+                    "experience": 47.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Law tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

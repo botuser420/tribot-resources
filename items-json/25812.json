@@ -1,0 +1,42 @@
+{
+    "itemId": 25812,
+    "itemName": "Sulphur potion",
+    "examine": "A defence potion with sulphur in. It needs enchanting.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Defence potion(3)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Volcanic sulphur",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Sulphur potion"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Defence potion(4)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Volcanic sulphur",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Sulphur potion"
+            }
+        }
+    ]
+}

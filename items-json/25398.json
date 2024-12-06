@@ -1,0 +1,42 @@
+{
+    "itemId": 25398,
+    "itemName": "Swampbark helm",
+    "examine": "A rather interesting smelling helmet.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Splitbark helm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 250
+                }
+            ],
+            "facilities": "Nature Altar",
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 46,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Swampbark helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 4,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 11,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": 5
+    }
+}

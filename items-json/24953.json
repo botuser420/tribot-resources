@@ -1,0 +1,43 @@
+{
+    "itemId": 24953,
+    "itemName": "Waterbirth teleport",
+    "examine": "A teleport to Waterbirth Island.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Lunar)",
+            "skills": [
+                {
+                    "experience": 71.0,
+                    "level": 72,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Waterbirth teleport (tablet)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 4824,
+    "itemName": "Rune nails",
+    "examine": "Keeps things in place fairly permanently.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 89,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Rune nails"
+            }
+        }
+    ]
+}

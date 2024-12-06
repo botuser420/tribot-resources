@@ -1,0 +1,11 @@
+{
+    "itemId": 829,
+    "itemName": "Adamant javelin",
+    "examine": "An adamant tipped javelin.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 107
+    }
+}

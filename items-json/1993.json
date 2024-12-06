@@ -1,0 +1,49 @@
+{
+    "itemId": 1993,
+    "itemName": "Jug of wine",
+    "examine": "It's full of wine.",
+    "weight": 1.5,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 22,
+            "materials": [
+                {
+                    "name": "Grapes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jug of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 200.0,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Jug of wine"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Jug",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fountain (wine)",
+            "output": {
+                "quantity": 1,
+                "name": "Jug of wine"
+            }
+        }
+    ]
+}

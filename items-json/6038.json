@@ -1,0 +1,31 @@
+{
+    "itemId": 6038,
+    "itemName": "Magic string",
+    "examine": "I could use this to make jewellery.",
+    "weight": 0.014,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Magic roots",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 19,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magic string"
+            }
+        }
+    ]
+}

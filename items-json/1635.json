@@ -1,0 +1,36 @@
+{
+    "itemId": 1635,
+    "itemName": "Gold ring",
+    "examine": "A valuable ring.",
+    "weight": 0.004,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 5,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Gold ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

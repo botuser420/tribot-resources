@@ -1,0 +1,10 @@
+{
+    "itemId": 4168,
+    "itemName": "Nose peg",
+    "examine": "Protects me from any bad smells.",
+    "weight": 0.001,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

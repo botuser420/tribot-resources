@@ -1,0 +1,7 @@
+{
+    "itemId": 24589,
+    "itemName": "Blighted manta ray",
+    "examine": "A rare catch, now blighted so it can be eaten only in the Wilderness.",
+    "weight": 0.4,
+    "buyLimit": 10000
+}

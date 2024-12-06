@@ -1,0 +1,17 @@
+{
+    "itemId": 10298,
+    "itemName": "Adamant helm (h2)",
+    "examine": "An adamant helmet with a heraldic design.",
+    "weight": 3.175,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 19,
+        "slashDefenceBonus": 21,
+        "crushDefenceBonus": 16,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 19
+    }
+}

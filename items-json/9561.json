@@ -1,0 +1,38 @@
+{
+    "itemId": 9561,
+    "itemName": "Half made bowl",
+    "examine": "This unfinished veg ball needs baking and garnishing with equa leaves.",
+    "weight": 0.275,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half baked bowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Potato",
+                    "quantity": 2
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Gnome spice",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half made bowl (veg ball)"
+            }
+        }
+    ]
+}

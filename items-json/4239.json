@@ -1,0 +1,50 @@
+{
+    "itemId": 4239,
+    "itemName": "Nettle tea",
+    "examine": "It's a bowl of nettle tea.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Nettle-water",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 52.0,
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Nettle tea"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Nettle-water",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire",
+            "skills": [
+                {
+                    "experience": 52.0,
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Nettle tea"
+            }
+        }
+    ]
+}

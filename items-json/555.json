@@ -1,0 +1,101 @@
+{
+    "itemId": 555,
+    "itemName": "Water rune",
+    "examine": "One of the 4 basic elemental Runes.",
+    "weight": 0.0,
+    "buyLimit": 50000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rune essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "tools": "Water tiara, Water talisman",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 5,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Water rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "tools": "Water tiara, Water talisman",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 5,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Water rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "tools": "Water tiara, Water talisman",
+            "skills": [
+                {
+                    "experience": 9.0,
+                    "level": 5,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Water rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Water rune"
+            }
+        }
+    ]
+}

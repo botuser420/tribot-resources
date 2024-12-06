@@ -1,0 +1,15 @@
+{
+    "itemId": 4506,
+    "itemName": "Decorative helm",
+    "examine": "A very decorative helm.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 11,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 10
+    }
+}

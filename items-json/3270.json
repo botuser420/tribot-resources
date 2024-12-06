@@ -1,0 +1,24 @@
+{
+    "itemId": 3270,
+    "itemName": "Alco-chunks",
+    "examine": "Pineapple chunks dipped in strong liquor.",
+    "weight": 0.08,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Pineapple chunks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vodka",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Alco-chunks"
+            }
+        }
+    ]
+}

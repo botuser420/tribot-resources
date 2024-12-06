@@ -1,0 +1,15 @@
+{
+    "itemId": 10034,
+    "itemName": "Red chinchompa",
+    "examine": "Even more volatile than its vegetarian counterpart.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 70,
+        "rangedStrengthBonus": 15,
+        "attackDistance": 9,
+        "attackSpeed": 4,
+        "weaponType": "CHINCHOMPA"
+    }
+}

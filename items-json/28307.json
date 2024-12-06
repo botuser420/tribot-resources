@@ -1,0 +1,44 @@
+{
+    "itemId": 28307,
+    "itemName": "Ultor ring",
+    "examine": "An occult ring that grants immense physical power.",
+    "weight": 0.012,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ultor icon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chromium ingot",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Magic",
+                    "boostable": true
+                },
+                {
+                    "experience": 2500.0,
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ultor ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING",
+        "strengthBonus": 12
+    }
+}

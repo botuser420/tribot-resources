@@ -1,0 +1,41 @@
+{
+    "itemId": 21902,
+    "itemName": "Dragon crossbow",
+    "examine": "A dragon crossbow.",
+    "weight": 6.0,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dragon crossbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crossbow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 70.0,
+                    "level": 78,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon crossbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 94,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

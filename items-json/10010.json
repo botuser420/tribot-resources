@@ -1,0 +1,13 @@
+{
+    "itemId": 10010,
+    "itemName": "Butterfly net",
+    "examine": "For catching butterflies...",
+    "weight": 0.226,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

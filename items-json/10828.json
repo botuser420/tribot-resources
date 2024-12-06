@@ -1,0 +1,17 @@
+{
+    "itemId": 10828,
+    "itemName": "Helm of neitiznot",
+    "examine": "A gift from Neitiznot's Burgher.",
+    "weight": 2.267,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 31,
+        "slashDefenceBonus": 29,
+        "crushDefenceBonus": 34,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 30,
+        "strengthBonus": 3,
+        "prayerBonus": 3
+    }
+}

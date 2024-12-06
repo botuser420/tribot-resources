@@ -1,0 +1,33 @@
+{
+    "itemId": 27100,
+    "itemName": "Elder maul (or)",
+    "examine": "A maul crafted from the component parts of Tekton and various decorative materials.",
+    "weight": 5.443,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Elder maul",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elder maul ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Elder maul (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 135,
+        "magicAttackBonus": -4,
+        "strengthBonus": 147,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

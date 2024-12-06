@@ -1,0 +1,33 @@
+{
+    "itemId": 7497,
+    "itemName": "Dirty blast",
+    "examine": "A cool refreshing fruit mix. With ash in for some reason.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Fruit blast",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ashes",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 10,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dirty blast"
+            }
+        }
+    ]
+}

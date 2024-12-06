@@ -1,0 +1,39 @@
+{
+    "itemId": 575,
+    "itemName": "Earth orb",
+    "examine": "A magic glowing orb.",
+    "weight": 0.453,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Unpowered orb",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 30
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Obelisk of Earth",
+            "skills": [
+                {
+                    "experience": 70.0,
+                    "level": 60,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Earth orb"
+            }
+        }
+    ]
+}

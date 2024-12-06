@@ -1,0 +1,39 @@
+{
+    "itemId": 10144,
+    "itemName": "Tarromin tar",
+    "examine": "A thick, foul-smelling, tar-like substance with a red tinge.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Swamp tar",
+                    "quantity": 15
+                },
+                {
+                    "name": "Tarromin",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "skills": [
+                {
+                    "experience": 55.0,
+                    "level": 39,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Tarromin tar"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 31
+    }
+}

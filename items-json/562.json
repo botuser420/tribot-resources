@@ -1,0 +1,100 @@
+{
+    "itemId": 562,
+    "itemName": "Chaos rune",
+    "examine": "Used for low level missile spells.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Chaos Altar",
+            "tools": "Chaos tiara, Chaos talisman",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 35,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chaos rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Chaos Altar",
+            "tools": "Chaos tiara, Chaos talisman",
+            "skills": [
+                {
+                    "experience": 12.7,
+                    "level": 35,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chaos rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Chaos Altar",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 35,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chaos rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Chaos core",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Chaos Altar",
+            "tools": "Chaos tiara, Chaos talisman",
+            "skills": [
+                {
+                    "experience": 85.0,
+                    "level": 35,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 11,
+                "name": "Chaos rune"
+            }
+        }
+    ]
+}

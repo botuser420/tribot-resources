@@ -1,0 +1,9 @@
+{
+    "itemId": 6655,
+    "itemName": "Camo bottoms",
+    "examine": "Examine what?",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

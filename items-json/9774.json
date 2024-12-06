@@ -1,0 +1,14 @@
+{
+    "itemId": 9774,
+    "itemName": "Herblore cape",
+    "examine": "The cape worn by the most skilled at the art of Herblore.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9
+    }
+}

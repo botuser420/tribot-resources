@@ -1,0 +1,25 @@
+{
+    "itemId": 9593,
+    "itemName": "Weird gloop",
+    "examine": "This doesn't look like it will do anything interesting.",
+    "weight": 2.5,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bucket of sap",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rune dust",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Weird gloop"
+            }
+        }
+    ]
+}

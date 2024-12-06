@@ -1,0 +1,25 @@
+{
+    "itemId": 6956,
+    "itemName": "Rose-tinted lens",
+    "examine": "This lens has a pinkish tinge to it.",
+    "weight": 0.05,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pink dye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lantern lens",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rose-tinted lens"
+            }
+        }
+    ]
+}

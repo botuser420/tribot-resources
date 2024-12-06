@@ -1,0 +1,15 @@
+{
+    "itemId": 4153,
+    "itemName": "Granite maul",
+    "examine": "Simplicity is the best weapon.",
+    "weight": 4.535,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 81,
+        "strengthBonus": 79,
+        "attackDistance": 1,
+        "attackSpeed": 7,
+        "weaponType": "BLUNT"
+    }
+}

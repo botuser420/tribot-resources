@@ -1,0 +1,28 @@
+{
+    "itemId": 28980,
+    "itemName": "Makeshift poultice",
+    "examine": "Leaves tied with a jerboa tail... It could work.",
+    "weight": 0.325,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Jerboa tail",
+                    "quantity": 1
+                },
+                {
+                    "name": "Smooth leaf",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sticky leaf",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Makeshift poultice"
+            }
+        }
+    ]
+}

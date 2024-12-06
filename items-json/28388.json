@@ -1,0 +1,31 @@
+{
+    "itemId": 28388,
+    "itemName": "Strangler serum",
+    "examine": "It smells horrible.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unfinished serum (step 2)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Argian berries",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 62,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Strangler serum"
+            }
+        }
+    ]
+}

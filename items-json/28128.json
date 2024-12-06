@@ -1,0 +1,16 @@
+{
+    "itemId": 28128,
+    "itemName": "Love crossbow",
+    "examine": "You gotta really put your heart into firing this thing.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -20,
+        "attackDistance": 1,
+        "attackSpeed": 3,
+        "weaponType": "BLUNT"
+    }
+}

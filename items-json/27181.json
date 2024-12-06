@@ -1,0 +1,17 @@
+{
+    "itemId": 27181,
+    "itemName": "Zamorak chaps",
+    "examine": "Zamorak blessed dragonhide chaps.",
+    "weight": 5.0,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 17,
+        "stabDefenceBonus": 31,
+        "slashDefenceBonus": 25,
+        "crushDefenceBonus": 33,
+        "magicDefenceBonus": 28,
+        "rangeDefenceBonus": 31,
+        "prayerBonus": 1
+    }
+}

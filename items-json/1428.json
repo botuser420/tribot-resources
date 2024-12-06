@@ -1,0 +1,44 @@
+{
+    "itemId": 1428,
+    "itemName": "Mithril mace",
+    "examine": "A spiky mace.",
+    "weight": 1.587,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 52,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mithril mace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 11,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 18,
+        "strengthBonus": 16,
+        "prayerBonus": 3,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

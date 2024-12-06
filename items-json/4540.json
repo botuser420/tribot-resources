@@ -1,0 +1,32 @@
+{
+    "itemId": 4540,
+    "itemName": "Oil lantern frame",
+    "examine": "Add the glass to complete.",
+    "weight": 0.453,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 26,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Oil lantern frame"
+            }
+        }
+    ]
+}

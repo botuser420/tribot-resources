@@ -1,0 +1,7 @@
+{
+    "itemId": 6474,
+    "itemName": "Compost potion(2)",
+    "examine": "Pour this on compost to turn it into super-compost.",
+    "weight": 0.025,
+    "buyLimit": 50
+}

@@ -1,0 +1,42 @@
+{
+    "itemId": 30321,
+    "itemName": "Zombie helmet",
+    "examine": "A rusty yet tough helmet.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 8,
+            "materials": [
+                {
+                    "name": "Broken zombie helmet",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 500.0,
+                    "level": 70,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Zombie helmet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "crushAttackBonus": 8,
+        "magicAttackBonus": -4,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 38,
+        "rangeDefenceBonus": 30,
+        "strengthBonus": 2
+    }
+}

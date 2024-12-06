@@ -1,0 +1,35 @@
+{
+    "itemId": 2424,
+    "itemName": "Paste",
+    "examine": "A bottle of skin paste.",
+    "weight": 0.015,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ashes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Redberries",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of water",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Aggie",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Paste"
+            }
+        }
+    ]
+}

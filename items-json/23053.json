@@ -1,0 +1,12 @@
+{
+    "itemId": 23053,
+    "itemName": "Mystic robe bottom (dusk)",
+    "examine": "The lower half of a dusky magical robe.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 15,
+        "magicDefenceBonus": 15
+    }
+}

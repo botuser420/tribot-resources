@@ -1,0 +1,28 @@
+{
+    "itemId": 722,
+    "itemName": "Blessed gold bowl",
+    "examine": "A specially-made bowl constructed out of pure gold and blessed by Gujuo.",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Gold bowl",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Gujuo",
+            "skills": [
+                {
+                    "level": 42,
+                    "name": "Prayer",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blessed gold bowl"
+            }
+        }
+    ]
+}

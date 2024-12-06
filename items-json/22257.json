@@ -1,0 +1,39 @@
+{
+    "itemId": 22257,
+    "itemName": "Maple shield",
+    "examine": "A solid maple shield.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Maple logs",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 116.5,
+                    "level": 57,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Maple shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 7
+    }
+}

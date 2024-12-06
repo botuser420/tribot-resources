@@ -1,0 +1,42 @@
+{
+    "itemId": 21932,
+    "itemName": "Opal dragon bolts (e)",
+    "examine": "Enchanted Dragon crossbow bolts, tipped with opal.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Opal dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 9.0,
+                    "level": 4,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Opal dragon bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 7449,
+    "itemName": "Meat tenderiser",
+    "examine": "Often used to soften tough meat up.",
+    "weight": 1.814,
+    "buyLimit": 50,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 53,
+        "magicAttackBonus": -4,
+        "strengthBonus": 48,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

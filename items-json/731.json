@@ -1,0 +1,22 @@
+{
+    "itemId": 731,
+    "itemName": "Enchanted vial",
+    "examine": "An enchanted empty glass vial.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vial",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Binding book",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted vial"
+            }
+        }
+    ]
+}

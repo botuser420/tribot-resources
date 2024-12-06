@@ -1,0 +1,29 @@
+{
+    "itemId": 26531,
+    "itemName": "Mystic hat (or)",
+    "examine": "A magical hat plucked from the shattered abyss.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mystic hat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shattered relics mystic ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mystic hat (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4
+    }
+}

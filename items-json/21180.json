@@ -1,0 +1,41 @@
+{
+    "itemId": 21180,
+    "itemName": "Flamtaer bracelet",
+    "examine": "Helps when building the Shades of Mort'ton temple.",
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Jade bracelet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 3
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 37.0,
+                    "level": 27,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Flamtaer bracelet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "itemId": 2112,
+    "itemName": "Orange slices",
+    "examine": "Fresh orange slices.",
+    "weight": 0.09,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Orange",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Orange slices"
+            }
+        }
+    ]
+}

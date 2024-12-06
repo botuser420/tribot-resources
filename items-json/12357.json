@@ -1,0 +1,20 @@
+{
+    "itemId": 12357,
+    "itemName": "Katana",
+    "examine": "Created by Hattori Hanzo in the Eastern Lands.",
+    "weight": 0.453,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": 45,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 7,
+        "rangeDefenceBonus": -3,
+        "strengthBonus": 40,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 11204,
+    "itemName": "Shrink-me-quick",
+    "examine": "Apparently it shrinks you. Very fast.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Tarromin potion (unf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shrunk ogleroot",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 52,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shrink-me-quick"
+            }
+        }
+    ]
+}

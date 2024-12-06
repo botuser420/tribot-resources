@@ -1,0 +1,14 @@
+{
+    "itemId": 811,
+    "itemName": "Rune dart",
+    "examine": "A deadly throwing dart with a rune tip.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedStrengthBonus": 26,
+        "attackDistance": 3,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

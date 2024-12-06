@@ -1,0 +1,7 @@
+{
+    "itemId": 2327,
+    "itemName": "Meat pie",
+    "examine": "Not for vegetarians.",
+    "weight": 0.45,
+    "buyLimit": 10000
+}

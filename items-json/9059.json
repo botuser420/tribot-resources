@@ -1,0 +1,28 @@
+{
+    "itemId": 9059,
+    "itemName": "Pink goblin mail",
+    "examine": "Some pink armour designed to fit goblins.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Goblin mail",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pink dye",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pink goblin mail"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

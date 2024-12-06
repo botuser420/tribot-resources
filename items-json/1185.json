@@ -1,0 +1,41 @@
+{
+    "itemId": 1185,
+    "itemName": "Rune sq shield",
+    "examine": "A medium square shield.",
+    "weight": 3.628,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 93,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune sq shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": 38,
+        "slashDefenceBonus": 40,
+        "crushDefenceBonus": 36,
+        "rangeDefenceBonus": 38
+    }
+}

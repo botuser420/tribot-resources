@@ -1,0 +1,24 @@
+{
+    "itemId": 603,
+    "itemName": "Observatory lens",
+    "examine": "A perfectly circular disc of glass.",
+    "weight": 0.003,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Molten glass",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lens mould",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Observatory lens"
+            }
+        }
+    ]
+}

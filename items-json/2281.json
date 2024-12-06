@@ -1,0 +1,35 @@
+{
+    "itemId": 2281,
+    "itemName": "Vegetable batta",
+    "examine": "Well... it looks healthy.",
+    "weight": 0.25,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unfinished batta (vegetable)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 86.0,
+                    "level": 28,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Vegetable batta"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 2370,
+    "itemName": "Steel studs",
+    "examine": "A set of studs for leather armour.",
+    "weight": 1.36,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 36,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Steel studs"
+            }
+        }
+    ]
+}

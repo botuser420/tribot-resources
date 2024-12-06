@@ -1,0 +1,39 @@
+{
+    "itemId": 6575,
+    "itemName": "Onyx ring",
+    "examine": "A valuable ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Onyx",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 115.0,
+                    "level": 67,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Onyx ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "itemId": 1123,
+    "itemName": "Adamant platebody",
+    "examine": "Provides excellent protection.",
+    "weight": 11.339,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 5
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 312.5,
+                    "level": 88,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Adamant platebody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 65,
+        "slashDefenceBonus": 63,
+        "crushDefenceBonus": 55,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 63
+    }
+}

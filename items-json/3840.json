@@ -1,0 +1,15 @@
+{
+    "itemId": 3840,
+    "itemName": "Holy book",
+    "examine": "The holy book of Saradomin.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 8,
+        "prayerBonus": 5
+    }
+}

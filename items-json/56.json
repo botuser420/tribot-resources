@@ -1,0 +1,31 @@
+{
+    "itemId": 56,
+    "itemName": "Oak longbow (u)",
+    "examine": "An unstrung oak longbow; I need a bowstring for this.",
+    "weight": 1.332,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Oak logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 25,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Oak longbow (u)"
+            }
+        }
+    ]
+}

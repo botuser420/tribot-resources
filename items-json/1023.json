@@ -1,0 +1,182 @@
+{
+    "itemId": 1023,
+    "itemName": "Yellow cape",
+    "examine": "A thick yellow cape.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Black cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Yellow cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blue cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Yellow cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Green cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Yellow cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Orange cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Yellow cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Pink cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yellow cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Purple cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Yellow cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Red cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Yellow cape"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

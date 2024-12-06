@@ -1,0 +1,9 @@
+{
+    "itemId": 4284,
+    "itemName": "Bedsheet",
+    "examine": "It's a bedsheet.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

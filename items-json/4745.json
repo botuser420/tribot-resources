@@ -1,0 +1,17 @@
+{
+    "itemId": 4745,
+    "itemName": "Torag's helm",
+    "examine": "Torag the Corrupted's helm.",
+    "weight": 2.721,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 55,
+        "slashDefenceBonus": 58,
+        "crushDefenceBonus": 54,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 62
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "itemId": 29275,
+    "itemName": "Perfected quetzal whistle",
+    "examine": "A perfected quetzal whistle crafted from redwood logs.",
+    "weight": 0.004,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Enhanced quetzal whistle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Perfected quetzal whistle blueprint",
+                    "quantity": 1
+                },
+                {
+                    "name": "Redwood logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Perfected quetzal whistle"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Enhanced quetzal whistle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Torn perfected quetzal whistle blueprint",
+                    "quantity": 1
+                },
+                {
+                    "name": "Redwood logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Perfected quetzal whistle"
+            }
+        }
+    ]
+}

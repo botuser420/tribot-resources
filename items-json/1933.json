@@ -1,0 +1,28 @@
+{
+    "itemId": 1933,
+    "itemName": "Pot of flour",
+    "examine": "There is flour in this pot.",
+    "weight": 1.36,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Grain",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Windmill",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Pot of flour"
+            }
+        }
+    ]
+}

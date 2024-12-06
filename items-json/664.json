@@ -1,0 +1,12 @@
+{
+    "itemId": 664,
+    "itemName": "Turquoise hat",
+    "examine": "A silly turquoise pointed hat.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

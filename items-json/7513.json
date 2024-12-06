@@ -1,0 +1,40 @@
+{
+    "itemId": 7513,
+    "itemName": "Spicy maggots",
+    "examine": "They clearly taste so much better this way!",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Gnome spice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fishing bait",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spicy maggots"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Spice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fishing bait",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spicy maggots"
+            }
+        }
+    ]
+}

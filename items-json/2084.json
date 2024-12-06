@@ -1,0 +1,37 @@
+{
+    "itemId": 2084,
+    "itemName": "Fruit blast",
+    "examine": "A cool refreshing fruit mix.",
+    "weight": 0.5,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mixed blast",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lemon slices",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cocktail glass",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 6,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fruit blast"
+            }
+        }
+    ]
+}

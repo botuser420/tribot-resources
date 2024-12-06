@@ -1,0 +1,83 @@
+{
+    "itemId": 1863,
+    "itemName": "Pitta dough",
+    "examine": "I need to cook this.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 1.0,
+                    "level": 58,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pitta dough"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bowl of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 1.0,
+                    "level": 58,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pitta dough"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jug of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 1.0,
+                    "level": 58,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pitta dough"
+            }
+        }
+    ]
+}

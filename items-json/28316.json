@@ -1,0 +1,45 @@
+{
+    "itemId": 28316,
+    "itemName": "Bellator ring",
+    "examine": "An occult ring that grants immense slicing power.",
+    "weight": 0.012,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bellator icon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chromium ingot",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Magic",
+                    "boostable": true
+                },
+                {
+                    "experience": 2500.0,
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bellator ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING",
+        "slashAttackBonus": 20,
+        "strengthBonus": 6
+    }
+}

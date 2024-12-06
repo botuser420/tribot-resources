@@ -1,0 +1,32 @@
+{
+    "itemId": 1791,
+    "itemName": "Unfired bowl",
+    "examine": "I need to put this in a pottery oven.",
+    "weight": 0.68,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Potter's Wheel",
+            "skills": [
+                {
+                    "experience": 18.0,
+                    "level": 8,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Unfired bowl"
+            }
+        }
+    ]
+}

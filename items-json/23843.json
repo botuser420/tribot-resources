@@ -1,0 +1,60 @@
+{
+    "itemId": 23843,
+    "itemName": "Corrupted body (basic)",
+    "examine": "A not so sturdy piece of armour with a little protection from corrupted creatures.",
+    "weight": 9.979,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 40
+                },
+                {
+                    "name": "Corrupted ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Phren bark (corrupted)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Linum tirinum (corrupted)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted body (basic)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 3,
+        "magicAttackBonus": 8,
+        "rangedAttackBonus": 8,
+        "stabDefenceBonus": 86,
+        "slashDefenceBonus": 86,
+        "crushDefenceBonus": 86,
+        "magicDefenceBonus": 86,
+        "rangeDefenceBonus": 86,
+        "prayerBonus": 3
+    }
+}

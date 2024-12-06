@@ -1,0 +1,42 @@
+{
+    "itemId": 9571,
+    "itemName": "Mixed saturday",
+    "examine": "This Choc Saturday needs pouring, heating and cream and chocolate dust.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Whisky",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chocolate bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of milk",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Cocktail shaker",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 33,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed saturday (shaker)"
+            }
+        }
+    ]
+}

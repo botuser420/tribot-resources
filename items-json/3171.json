@@ -1,0 +1,18 @@
+{
+    "itemId": 3171,
+    "itemName": "Iron spear(kp)",
+    "examine": "A Karambwan poisoned iron tipped spear.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 8,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

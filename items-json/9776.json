@@ -1,0 +1,9 @@
+{
+    "itemId": 9776,
+    "itemName": "Herblore hood",
+    "examine": "Herblore skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

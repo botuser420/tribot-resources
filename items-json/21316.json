@@ -1,0 +1,38 @@
+{
+    "itemId": 21316,
+    "itemName": "Amethyst broad bolts",
+    "examine": "Crossbow bolts with amethyst broad tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Broad bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Amethyst bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 106.0,
+                    "level": 76,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Amethyst broad bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 115
+    }
+}

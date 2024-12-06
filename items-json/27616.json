@@ -1,0 +1,35 @@
+{
+    "itemId": 27616,
+    "itemName": "Ancient essence",
+    "examine": "Pure magical energy filled with a dark power.",
+    "weight": 0.0,
+    "buyLimit": 300000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ancient icon",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 5000,
+                "name": "Ancient essence"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Venator shard",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 50000,
+                "name": "Ancient essence"
+            }
+        }
+    ]
+}

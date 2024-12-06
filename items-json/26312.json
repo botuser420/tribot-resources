@@ -1,0 +1,9 @@
+{
+    "itemId": 26312,
+    "itemName": "Festive elf hat",
+    "examine": "A woolly festive hat.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

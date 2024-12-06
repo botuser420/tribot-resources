@@ -1,0 +1,20 @@
+{
+    "itemId": 27832,
+    "itemName": "Vesta's plateskirt (bh)",
+    "examine": "A powerful plateskirt.",
+    "weight": 8.164,
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 3,
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -12,
+        "stabDefenceBonus": 55,
+        "slashDefenceBonus": 64,
+        "crushDefenceBonus": 67,
+        "magicDefenceBonus": -15,
+        "rangeDefenceBonus": 71,
+        "strengthBonus": 3
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 8600,
+    "itemName": "Oak dresser",
+    "examine": "How does it all fit in there?",
+    "weight": 1.0,
+    "buyLimit": 500
+}

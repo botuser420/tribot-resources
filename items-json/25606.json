@@ -1,0 +1,9 @@
+{
+    "itemId": 25606,
+    "itemName": "Propeller hat",
+    "examine": "Disappointingly static.",
+    "weight": 0.056,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

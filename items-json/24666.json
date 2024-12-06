@@ -1,0 +1,34 @@
+{
+    "itemId": 24666,
+    "itemName": "Twisted ancestral robe top",
+    "examine": "The robe top of a powerful sorceress from a bygone era.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ancestral robe top",
+                    "quantity": 1
+                },
+                {
+                    "name": "Twisted ancestral colour kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Twisted ancestral robe top"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 35,
+        "rangedAttackBonus": -8,
+        "stabDefenceBonus": 42,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 51,
+        "magicDefenceBonus": 28,
+        "magicDamageBonus": 3.0
+    }
+}

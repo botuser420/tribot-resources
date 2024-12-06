@@ -1,0 +1,193 @@
+{
+    "itemId": 4698,
+    "itemName": "Mud rune",
+    "examine": "A combined Earth and Water Rune.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "tools": "Water tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 9.3,
+                    "level": 13,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mud rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "tools": "Water tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 13.9,
+                    "level": 13,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mud rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "tools": "Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 9.3,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mud rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 9.5,
+                    "level": 13,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mud rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 14.2,
+                    "level": 13,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mud rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 9.5,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mud rune"
+            }
+        }
+    ]
+}

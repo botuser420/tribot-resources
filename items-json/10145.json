@@ -1,0 +1,39 @@
+{
+    "itemId": 10145,
+    "itemName": "Harralander tar",
+    "examine": "A dark, thick, foul-smelling, tar-like substance.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Swamp tar",
+                    "quantity": 15
+                },
+                {
+                    "name": "Harralander",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "skills": [
+                {
+                    "experience": 72.5,
+                    "level": 44,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Harralander tar"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 49
+    }
+}

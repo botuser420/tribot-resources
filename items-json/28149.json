@@ -1,0 +1,44 @@
+{
+    "itemId": 28149,
+    "itemName": "Sturdy harness",
+    "examine": "I can use this to combine the forestry kit and log basket into one tool.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Log brace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Steel nails",
+                    "quantity": 45
+                },
+                {
+                    "name": "Rope",
+                    "quantity": 2
+                },
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 3
+                }
+            ],
+            "skills": [
+                {
+                    "level": 75,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "level": 75,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Sturdy harness"
+            }
+        }
+    ]
+}

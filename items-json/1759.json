@@ -1,0 +1,31 @@
+{
+    "itemId": 1759,
+    "itemName": "Ball of wool",
+    "examine": "Spun from wool.",
+    "weight": 0.012,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Wool",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Ball of wool"
+            }
+        }
+    ]
+}

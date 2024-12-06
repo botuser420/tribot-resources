@@ -1,0 +1,32 @@
+{
+    "itemId": 7164,
+    "itemName": "Part mud pie",
+    "examine": "Still needs two more ingredients.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Pie shell",
+                    "quantity": 1
+                },
+                {
+                    "name": "Compost",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 29,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Part mud pie (compost)"
+            }
+        }
+    ]
+}

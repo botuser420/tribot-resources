@@ -1,0 +1,35 @@
+{
+    "itemId": 12807,
+    "itemName": "Odium ward",
+    "examine": "An ancient, evil and beautiful shield forged by Volcanic heat.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Odium ward",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ward upgrade kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Odium ward (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -12,
+        "slashAttackBonus": -12,
+        "crushAttackBonus": -12,
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": 12,
+        "magicDefenceBonus": 24,
+        "rangeDefenceBonus": 52,
+        "rangedStrengthBonus": 4
+    }
+}

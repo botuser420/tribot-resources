@@ -1,0 +1,10 @@
+{
+    "itemId": 23297,
+    "itemName": "Jester cape",
+    "examine": "A jester cape.",
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

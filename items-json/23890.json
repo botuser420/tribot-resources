@@ -1,0 +1,64 @@
+{
+    "itemId": 23890,
+    "itemName": "Crystal body (attuned)",
+    "examine": "A sturdier piece of armour with some protection from crystalline creatures.",
+    "weight": 9.979,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 60
+                },
+                {
+                    "name": "Crystal body (basic)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal ore",
+                    "quantity": 2
+                },
+                {
+                    "name": "Phren bark",
+                    "quantity": 2
+                },
+                {
+                    "name": "Linum tirinum",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal body (attuned)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": 12,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 12,
+        "rangedAttackBonus": 12,
+        "stabDefenceBonus": 102,
+        "slashDefenceBonus": 102,
+        "crushDefenceBonus": 102,
+        "magicDefenceBonus": 102,
+        "rangeDefenceBonus": 102,
+        "prayerBonus": 4
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "itemId": 10159,
+    "itemName": "Long kebbit bolts",
+    "examine": "Bolts made from the spikes of a razor-backed kebbit.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Long kebbit spike",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 7.9,
+                    "level": 42,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Long kebbit bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 38
+    }
+}

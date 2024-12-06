@@ -1,0 +1,35 @@
+{
+    "itemId": 23785,
+    "itemName": "Ardougne knight helm",
+    "examine": "A full face helmet worn by the Knights of Ardougne.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Steel full helm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ardougne knight helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 6
+    }
+}

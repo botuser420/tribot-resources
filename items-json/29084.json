@@ -1,0 +1,16 @@
+{
+    "itemId": 29084,
+    "itemName": "Sulphur blades",
+    "examine": "Are these explosive?",
+    "weight": 1.814,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 11,
+        "slashAttackBonus": 72,
+        "strengthBonus": 64,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

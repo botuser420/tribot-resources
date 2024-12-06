@@ -1,0 +1,17 @@
+{
+    "itemId": 23381,
+    "itemName": "Leather body (g)",
+    "examine": "Better than no armour! Nice trim too!",
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -2,
+        "rangedAttackBonus": 2,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 9
+    }
+}

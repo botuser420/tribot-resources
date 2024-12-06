@@ -1,0 +1,28 @@
+{
+    "itemId": 337,
+    "itemName": "Giant carp",
+    "examine": "Some nicely cooked giant carp.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw giant carp",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 10,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Giant carp"
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "itemId": 2866,
+    "itemName": "Ogre arrow",
+    "examine": "A large ogre arrow with a bone tip.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Flighted ogre arrow",
+                    "quantity": 6
+                },
+                {
+                    "name": "Wolfbone arrowtips",
+                    "quantity": 6
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 5,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 6,
+                "name": "Ogre arrow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 22
+    }
+}

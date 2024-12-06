@@ -1,0 +1,29 @@
+{
+    "itemId": 26533,
+    "itemName": "Mystic robe top (or)",
+    "examine": "The upper half of a magical robe plucked from the shattered abyss.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mystic robe top",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shattered relics mystic ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mystic robe top (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 20,
+        "magicDefenceBonus": 20
+    }
+}

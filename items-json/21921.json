@@ -1,0 +1,35 @@
+{
+    "itemId": 21921,
+    "itemName": "Dragon crossbow (u)",
+    "examine": "An unstrung dragon crossbow.",
+    "weight": 8.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Magic stock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon limbs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 135.0,
+                    "level": 78,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon crossbow (u)"
+            }
+        }
+    ]
+}

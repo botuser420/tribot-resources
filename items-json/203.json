@@ -1,0 +1,7 @@
+{
+    "itemId": 203,
+    "itemName": "Grimy tarromin",
+    "examine": "It needs cleaning.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

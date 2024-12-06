@@ -1,0 +1,43 @@
+{
+    "itemId": 28810,
+    "itemName": "Zombie axe",
+    "examine": "A rusty yet powerful axe.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 8,
+            "materials": [
+                {
+                    "name": "Broken zombie axe",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 500.0,
+                    "level": 70,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Zombie axe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -3,
+        "slashAttackBonus": 105,
+        "crushAttackBonus": 90,
+        "stabDefenceBonus": -1,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 107,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

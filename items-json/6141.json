@@ -1,0 +1,40 @@
+{
+    "itemId": 6141,
+    "itemName": "Skeletal bottoms",
+    "examine": "A superior set of strengthened slacks for any self respecting seer.",
+    "weight": 4.082,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dagannoth hide",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fibula piece",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 7500
+                }
+            ],
+            "facilities": "Peer the Seer",
+            "output": {
+                "quantity": 1,
+                "name": "Skeletal bottoms"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 22,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": 10
+    }
+}

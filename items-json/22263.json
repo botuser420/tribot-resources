@@ -1,0 +1,39 @@
+{
+    "itemId": 22263,
+    "itemName": "Magic shield",
+    "examine": "A solid magic wood shield.",
+    "weight": 3.175,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Magic logs",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 183.0,
+                    "level": 87,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magic shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 9
+    }
+}

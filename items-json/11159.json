@@ -1,0 +1,33 @@
+{
+    "itemId": 11159,
+    "itemName": "Hunter kit",
+    "examine": "A box of Hunter goodies.",
+    "weight": 0.4,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 2
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 70.0,
+                    "level": 71,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Hunter kit"
+            }
+        }
+    ]
+}

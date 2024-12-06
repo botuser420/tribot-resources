@@ -1,0 +1,12 @@
+{
+    "itemId": 8968,
+    "itemName": "Bronze fist flag",
+    "examine": "The flag of The Bronze Fist.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BANNER"
+    }
+}

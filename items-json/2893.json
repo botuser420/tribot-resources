@@ -1,0 +1,64 @@
+{
+    "itemId": 2893,
+    "itemName": "Elemental metal",
+    "examine": "It's a bar of refined elemental ore.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Elemental ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 4
+                }
+            ],
+            "facilities": "Furnace (Elemental Workshop)",
+            "skills": [
+                {
+                    "experience": 8.0,
+                    "level": 20,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Elemental metal"
+            }
+        },
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Elemental ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 2
+                },
+                {
+                    "name": "Smithing catalyst",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace (Elemental Workshop)",
+            "skills": [
+                {
+                    "experience": 16.0,
+                    "level": 20,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Elemental metal"
+            }
+        }
+    ]
+}

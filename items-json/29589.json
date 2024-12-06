@@ -1,0 +1,47 @@
+{
+    "itemId": 29589,
+    "itemName": "Emberlight",
+    "examine": "Silver, blood and crystal smelted in tormenting flames.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Tormented synapse",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arclight",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 730.0,
+                    "level": 74,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Emberlight"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 63,
+        "slashAttackBonus": 70,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 5,
+        "strengthBonus": 13,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

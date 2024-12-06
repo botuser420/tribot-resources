@@ -1,0 +1,38 @@
+{
+    "itemId": 21965,
+    "itemName": "Emerald dragon bolts",
+    "examine": "Dragon crossbow bolts, tipped with emerald.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Emerald bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 55.0,
+                    "level": 84,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Emerald dragon bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

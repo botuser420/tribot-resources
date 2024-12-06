@@ -1,0 +1,39 @@
+{
+    "itemId": 4778,
+    "itemName": "Iron brutal",
+    "examine": "Blunt iron arrow... ouch.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Flighted ogre arrow",
+                    "quantity": 6
+                },
+                {
+                    "name": "Iron nails",
+                    "quantity": 6
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 15.6,
+                    "level": 18,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 6,
+                "name": "Iron brutal"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 13
+    }
+}

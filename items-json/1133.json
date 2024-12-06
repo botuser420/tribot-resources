@@ -1,0 +1,44 @@
+{
+    "itemId": 1133,
+    "itemName": "Studded body",
+    "examine": "Those studs should provide a bit more protection.",
+    "weight": 5.443,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Leather body",
+                    "quantity": 1
+                },
+                {
+                    "name": "Steel studs",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 41,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Studded body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -4,
+        "rangedAttackBonus": 8,
+        "stabDefenceBonus": 18,
+        "slashDefenceBonus": 25,
+        "crushDefenceBonus": 22,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 25
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "itemId": 1877,
+    "itemName": "Ugthanki & onion",
+    "examine": "A mixture of chopped onions and ugthanki meat in a bowl.",
+    "weight": 0.3,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Chopped onion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ugthanki meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Ugthanki & onion"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Chopped ugthanki",
+                    "quantity": 1
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Ugthanki & onion"
+            }
+        }
+    ]
+}

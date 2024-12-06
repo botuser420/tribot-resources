@@ -1,0 +1,38 @@
+{
+    "itemId": 9342,
+    "itemName": "Onyx bolts",
+    "examine": "Onyx tipped Runite crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Runite bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Onyx bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 94.0,
+                    "level": 73,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Onyx bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 120
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "itemId": 274,
+    "itemName": "Poisoned fish food",
+    "examine": "Doesn't seem very nice to the poor fishes.",
+    "weight": 0.03,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Fish food",
+                    "quantity": 1
+                },
+                {
+                    "name": "Poison (item)",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Poisoned fish food"
+            }
+        }
+    ]
+}

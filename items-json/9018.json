@@ -1,0 +1,21 @@
+{
+    "itemId": 9018,
+    "itemName": "Gorak claw powder",
+    "examine": "Ground-down Gorak claws.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Gorak claws",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Gorak claw powder"
+            }
+        }
+    ]
+}

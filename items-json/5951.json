@@ -1,0 +1,32 @@
+{
+    "itemId": 5951,
+    "itemName": "Antidote++ (unf)",
+    "examine": "A vial of coconut milk and Irit Leaf.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Coconut milk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Irit leaf",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 79,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Antidote++ (unf)"
+            }
+        }
+    ]
+}

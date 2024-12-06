@@ -1,0 +1,41 @@
+{
+    "itemId": 7170,
+    "itemName": "Mud pie",
+    "examine": "All the good of the earth.",
+    "weight": 0.001,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw mud pie",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 128.0,
+                    "level": 29,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mud pie"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "attackDistance": 6,
+        "attackSpeed": 4,
+        "weaponType": "THROWN"
+    }
+}

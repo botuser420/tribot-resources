@@ -1,0 +1,31 @@
+{
+    "itemId": 721,
+    "itemName": "Gold bowl",
+    "examine": "A specially-made bowl constructed out of pure gold.",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer, Sketch",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 50,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Gold bowl"
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "itemId": 10142,
+    "itemName": "Guam tar",
+    "examine": "A thick, foul-smelling, tar-like substance with a green tinge.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Swamp tar",
+                    "quantity": 15
+                },
+                {
+                    "name": "Guam leaf",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 19,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Guam tar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Swamp tar",
+                    "quantity": 15
+                },
+                {
+                    "name": "Ground guam",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 19,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Guam tar"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 16
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "itemId": 21434,
+    "itemName": "Wilderness cape",
+    "examine": "A cape worn by fighters in the Wilderness Wars.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

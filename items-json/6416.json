@@ -1,0 +1,14 @@
+{
+    "itemId": 6416,
+    "itemName": "Maple blackjack",
+    "examine": "A solid bit of maple.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "strengthBonus": 20,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

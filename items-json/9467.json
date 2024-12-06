@@ -1,0 +1,65 @@
+{
+    "itemId": 9467,
+    "itemName": "Blurite bar",
+    "examine": "It's a bar of blurite.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Blurite ore",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 8.0,
+                    "level": 13,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blurite bar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Blurite ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 4
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 8.0,
+                    "level": 13,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blurite bar"
+            }
+        }
+    ]
+}

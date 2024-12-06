@@ -1,0 +1,21 @@
+{
+    "itemId": 2954,
+    "itemName": "Blessed water",
+    "examine": "It's a bucket of blessed water.",
+    "weight": 3.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Murky water",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Drezel",
+            "output": {
+                "quantity": 1,
+                "name": "Blessed water"
+            }
+        }
+    ]
+}

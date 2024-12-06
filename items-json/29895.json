@@ -1,0 +1,20 @@
+{
+    "itemId": 29895,
+    "itemName": "Frozen tear",
+    "examine": "A strange glowing tear.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Pendant of ates (inert)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 100,
+                "name": "Frozen tear"
+            }
+        }
+    ]
+}

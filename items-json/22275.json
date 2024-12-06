@@ -1,0 +1,52 @@
+{
+    "itemId": 22275,
+    "itemName": "Green d'hide shield",
+    "examine": "A solid maple shield covered in green dragon leather.",
+    "weight": 8.0,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Green dragon leather",
+                    "quantity": 2
+                },
+                {
+                    "name": "Maple shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Steel nails",
+                    "quantity": 15
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 124.0,
+                    "level": 62,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Green d'hide shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -15,
+        "slashAttackBonus": -15,
+        "crushAttackBonus": -11,
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 4,
+        "stabDefenceBonus": 14,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 11,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 11
+    }
+}

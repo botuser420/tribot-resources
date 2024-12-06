@@ -1,0 +1,44 @@
+{
+    "itemId": 1478,
+    "itemName": "Amulet of accuracy",
+    "examine": "It increases my aim.",
+    "weight": 0.01,
+    "buyLimit": 5,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Black bead",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red bead",
+                    "quantity": 1
+                },
+                {
+                    "name": "White bead",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow bead",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Wizard Mizgog",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of accuracy"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 4,
+        "rangedAttackBonus": 4
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "itemId": 19544,
+    "itemName": "Tormented bracelet",
+    "examine": "A deep sense of torment burns within this powerful bracelet.",
+    "weight": 0.25,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Zenyte bracelet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 20
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 20
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 110.0,
+                    "level": 93,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tormented bracelet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": 10,
+        "magicDamageBonus": 5.0,
+        "prayerBonus": 2
+    }
+}

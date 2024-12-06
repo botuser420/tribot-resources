@@ -1,0 +1,52 @@
+{
+    "itemId": 22272,
+    "itemName": "Snakeskin shield",
+    "examine": "A solid willow shield covered in snakeskin leather.",
+    "weight": 8.0,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Snakeskin",
+                    "quantity": 2
+                },
+                {
+                    "name": "Willow shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Iron nails",
+                    "quantity": 15
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 56,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Snakeskin shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -15,
+        "slashAttackBonus": -15,
+        "crushAttackBonus": -11,
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 3,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": 7,
+        "rangeDefenceBonus": 10
+    }
+}

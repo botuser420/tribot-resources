@@ -1,0 +1,29 @@
+{
+    "itemId": 22859,
+    "itemName": "Redwood sapling",
+    "examine": "This sapling is ready to be replanted in a Redwood patch.",
+    "weight": 0.907,
+    "buyLimit": 100,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Redwood seedling (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Redwood sapling"
+            }
+        }
+    ]
+}

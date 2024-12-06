@@ -1,0 +1,31 @@
+{
+    "itemId": 64,
+    "itemName": "Maple shortbow (u)",
+    "examine": "An unstrung maple shortbow; I need a bowstring for this.",
+    "weight": 0.992,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Maple logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 50,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Maple shortbow (u)"
+            }
+        }
+    ]
+}

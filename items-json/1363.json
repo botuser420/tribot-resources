@@ -1,0 +1,44 @@
+{
+    "itemId": 1363,
+    "itemName": "Iron battleaxe",
+    "examine": "A vicious looking axe.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 25,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Iron battleaxe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 5,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 13,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

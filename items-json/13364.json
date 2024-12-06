@@ -1,0 +1,41 @@
+{
+    "itemId": 13364,
+    "itemName": "Shayzien helm (2)",
+    "examine": "Dress like a tier 2 Shayzien soldier.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Lovakite bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 120.0,
+                    "level": 59,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shayzien helm (2)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 7
+    }
+}

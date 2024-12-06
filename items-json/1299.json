@@ -1,0 +1,45 @@
+{
+    "itemId": 1299,
+    "itemName": "Mithril longsword",
+    "examine": "A razor sharp longsword.",
+    "weight": 1.587,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 56,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mithril longsword"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 15,
+        "slashAttackBonus": 20,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 22,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

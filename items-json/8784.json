@@ -1,0 +1,7 @@
+{
+    "itemId": 8784,
+    "itemName": "Gold leaf",
+    "examine": "A very delicate sheet of gold.",
+    "weight": 1.0,
+    "buyLimit": 11000
+}

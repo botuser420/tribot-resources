@@ -1,0 +1,17 @@
+{
+    "itemId": 2593,
+    "itemName": "Black platelegs (g)",
+    "examine": "Black platelegs with gold trim.",
+    "weight": 9.071,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 19,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 20
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "itemId": 2418,
+    "itemName": "Bronze key",
+    "examine": "A heavy key made of bronze (Used in the Prince Ali Rescue quest).",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Key print",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bronze bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Leela",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze key (Prince Ali Rescue)"
+            }
+        }
+    ]
+}

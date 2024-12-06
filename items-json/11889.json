@@ -1,0 +1,60 @@
+{
+    "itemId": 11889,
+    "itemName": "Zamorakian hasta",
+    "examine": "An evil one-handed spear.",
+    "weight": 3.0,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 14,
+            "materials": [
+                {
+                    "name": "Zamorakian spear",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 300000
+                }
+            ],
+            "facilities": "Otto Godblessed",
+            "output": {
+                "quantity": 1,
+                "name": "Zamorakian hasta"
+            }
+        },
+        {
+            "ticks": 14,
+            "materials": [
+                {
+                    "name": "Zamorakian spear",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 150000
+                }
+            ],
+            "facilities": "Otto Godblessed",
+            "output": {
+                "quantity": 1,
+                "name": "Zamorakian hasta"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 85,
+        "slashAttackBonus": 65,
+        "crushAttackBonus": 65,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 12,
+        "rangeDefenceBonus": 13,
+        "strengthBonus": 75,
+        "prayerBonus": 2,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPEAR"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "itemId": 29605,
+    "itemName": "Armadyl godsword (deadman)",
+    "examine": "A beautiful, heavy sword.",
+    "weight": 10.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Armadyl godsword",
+                    "quantity": 1
+                },
+                {
+                    "name": "Armageddon weapon scroll",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Nigel",
+            "output": {
+                "quantity": 1,
+                "name": "Armadyl godsword (deadman)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 132,
+        "crushAttackBonus": 80,
+        "strengthBonus": 132,
+        "prayerBonus": 8,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "itemId": 26813,
+    "itemName": "Abyssal needle",
+    "examine": "A needle designed for use with abyssal materials.",
+    "weight": 0.002,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Needle",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Rewards Guardian",
+            "output": {
+                "quantity": 1,
+                "name": "Abyssal needle"
+            }
+        }
+    ]
+}

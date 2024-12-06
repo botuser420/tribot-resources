@@ -1,0 +1,25 @@
+{
+    "itemId": 29271,
+    "itemName": "Basic quetzal whistle",
+    "examine": "A simple quetzal whistle crafted from willow logs.",
+    "weight": 0.004,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Basic quetzal whistle blueprint",
+                    "quantity": 1
+                },
+                {
+                    "name": "Willow logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Basic quetzal whistle"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 12808,
+    "itemName": "Sara's blessed sword (full)",
+    "examine": "The blade of an Icyene, blessed with a tear from Saradomin himself.",
+    "weight": 3.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 100,
+        "crushAttackBonus": 60,
+        "strengthBonus": 88,
+        "prayerBonus": 2,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "itemId": 28313,
+    "itemName": "Magus ring",
+    "examine": "An occult ring that grants immense magical power.",
+    "weight": 0.012,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Magus icon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chromium ingot",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Magic",
+                    "boostable": true
+                },
+                {
+                    "experience": 2500.0,
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magus ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING",
+        "magicAttackBonus": 15,
+        "magicDamageBonus": 2.0
+    }
+}

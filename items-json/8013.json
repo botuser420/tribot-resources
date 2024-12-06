@@ -1,0 +1,43 @@
+{
+    "itemId": 8013,
+    "itemName": "Teleport to house",
+    "examine": "A teleport to one's own house.",
+    "weight": 0.0,
+    "buyLimit": 15000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mahogany eagle lectern",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 40,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Teleport to house (tablet)"
+            }
+        }
+    ]
+}

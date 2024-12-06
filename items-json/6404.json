@@ -1,0 +1,10 @@
+{
+    "itemId": 6404,
+    "itemName": "Menaphite red robe",
+    "examine": "A cool light Menaphite robe.",
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

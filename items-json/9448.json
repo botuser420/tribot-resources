@@ -1,0 +1,31 @@
+{
+    "itemId": 9448,
+    "itemName": "Maple stock",
+    "examine": "A maple crossbow stock.",
+    "weight": 3.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Maple logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 32.0,
+                    "level": 54,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Maple stock"
+            }
+        }
+    ]
+}

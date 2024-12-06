@@ -1,0 +1,19 @@
+{
+    "itemId": 28545,
+    "itemName": "Corrupted scythe of vitur (uncharged)",
+    "examine": "A powerful scythe. It is currently uncharged.",
+    "weight": 3.175,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 40,
+        "slashAttackBonus": 60,
+        "crushAttackBonus": 8,
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": -2,
+        "slashDefenceBonus": 5,
+        "strengthBonus": 40,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SCYTHE"
+    }
+}

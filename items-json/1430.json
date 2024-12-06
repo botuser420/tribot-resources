@@ -1,0 +1,44 @@
+{
+    "itemId": 1430,
+    "itemName": "Adamant mace",
+    "examine": "A spiky mace.",
+    "weight": 2.041,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 62.5,
+                    "level": 72,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Adamant mace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 13,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 25,
+        "strengthBonus": 23,
+        "prayerBonus": 3,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

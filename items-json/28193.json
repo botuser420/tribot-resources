@@ -1,0 +1,30 @@
+{
+    "itemId": 28193,
+    "itemName": "Unfired cup",
+    "examine": "I need to put this in a pottery oven.",
+    "weight": 0.05,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Potter's Wheel",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 3,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 4,
+                "name": "Unfired cup"
+            }
+        }
+    ]
+}

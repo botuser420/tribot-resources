@@ -1,0 +1,44 @@
+{
+    "itemId": 28199,
+    "itemName": "Iron felling axe",
+    "examine": "A woodcutter's felling axe.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Felling axe handle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Iron axe",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Iron felling axe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 5,
+        "crushAttackBonus": 3,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 7,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

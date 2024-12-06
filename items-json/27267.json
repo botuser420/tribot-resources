@@ -1,0 +1,9 @@
+{
+    "itemId": 27267,
+    "itemName": "Icthlarin's hood (tier 5)",
+    "examine": "A hood made to honour the dead.",
+    "weight": 0.21,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

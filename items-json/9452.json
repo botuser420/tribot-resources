@@ -1,0 +1,31 @@
+{
+    "itemId": 9452,
+    "itemName": "Yew stock",
+    "examine": "A yew crossbow stock.",
+    "weight": 3.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Yew logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 69,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yew stock"
+            }
+        }
+    ]
+}

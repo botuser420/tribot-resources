@@ -1,0 +1,21 @@
+{
+    "itemId": 9594,
+    "itemName": "Ground mud runes",
+    "examine": "Mud runes ground into a powder.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mud rune",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground mud runes"
+            }
+        }
+    ]
+}

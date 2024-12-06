@@ -1,0 +1,67 @@
+{
+    "itemId": 2497,
+    "itemName": "Black d'hide chaps",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 5.443,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Black dragon leather",
+                    "quantity": 2
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 172.0,
+                    "level": 82,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black d'hide chaps"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Black dragon leather",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 172.0,
+                    "level": 82,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black d'hide chaps"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 17,
+        "stabDefenceBonus": 18,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 26,
+        "magicDefenceBonus": 23,
+        "rangeDefenceBonus": 26
+    }
+}

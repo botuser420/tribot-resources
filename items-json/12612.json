@@ -1,0 +1,11 @@
+{
+    "itemId": 12612,
+    "itemName": "Book of darkness",
+    "examine": "The dark book of a forgotten god.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 10,
+        "prayerBonus": 5
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "itemId": 9558,
+    "itemName": "Half made bowl",
+    "examine": "This unfinished tangled toads legs requires baking.",
+    "weight": 0.275,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half baked bowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Toad's legs",
+                    "quantity": 4
+                },
+                {
+                    "name": "Cheese",
+                    "quantity": 2
+                },
+                {
+                    "name": "Dwellberries",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Gnome spice",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 40,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half made bowl (tangled toad's legs)"
+            }
+        }
+    ]
+}

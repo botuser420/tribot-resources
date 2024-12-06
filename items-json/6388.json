@@ -1,0 +1,10 @@
+{
+    "itemId": 6388,
+    "itemName": "Desert top",
+    "examine": "Good for those cold desert nights.",
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "itemId": 9438,
+    "itemName": "Crossbow string",
+    "examine": "A string for a crossbow.",
+    "weight": 0.002,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Sinew",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crossbow string"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Oak roots",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crossbow string"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Willow roots",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crossbow string"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Maple roots",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crossbow string"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Yew roots",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crossbow string"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Magic roots",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 10,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crossbow string"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 9381,
+    "itemName": "Runite bolts (unf)",
+    "examine": "Unfeathered runite crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 88,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Runite bolts (unf)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 28537,
+    "itemName": "Corrupted armadyl godsword",
+    "examine": "A beautiful, heavy sword.",
+    "weight": 10.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 106,
+        "crushAttackBonus": 64,
+        "strengthBonus": 106,
+        "prayerBonus": 7,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

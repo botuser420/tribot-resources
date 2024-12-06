@@ -1,0 +1,9 @@
+{
+    "itemId": 10172,
+    "itemName": "Fake beak",
+    "examine": "A cheaply made fake beak.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

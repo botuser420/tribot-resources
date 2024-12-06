@@ -1,0 +1,32 @@
+{
+    "itemId": 9380,
+    "itemName": "Adamant bolts(unf)",
+    "examine": "Unfeathered adamantite crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 62.5,
+                    "level": 73,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Adamant bolts(unf)"
+            }
+        }
+    ]
+}

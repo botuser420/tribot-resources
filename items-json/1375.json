@@ -1,0 +1,44 @@
+{
+    "itemId": 1375,
+    "itemName": "Bronze battleaxe",
+    "examine": "A vicious looking axe.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 10,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze battleaxe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 3,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 9,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

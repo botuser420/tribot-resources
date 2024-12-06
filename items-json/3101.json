@@ -1,0 +1,45 @@
+{
+    "itemId": 3101,
+    "itemName": "Rune claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 98,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rune claws"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 26,
+        "slashAttackBonus": 38,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 19,
+        "crushDefenceBonus": 5,
+        "strengthBonus": 39,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

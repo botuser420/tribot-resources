@@ -1,0 +1,20 @@
+{
+    "itemId": 24046,
+    "itemName": "Dragonstone gauntlets",
+    "examine": "A stylish pair of rune gauntlets inlaid with dragonstones.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 8,
+        "magicAttackBonus": -4,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 4,
+        "strengthBonus": 4
+    }
+}

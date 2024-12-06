@@ -1,0 +1,24 @@
+{
+    "itemId": 30109,
+    "itemName": "Moon key",
+    "examine": "A mysterious key for a mysterious chest.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Loop half of key (moon key)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tooth half of key (moon key)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Moon key"
+            }
+        }
+    ]
+}

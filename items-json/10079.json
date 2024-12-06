@@ -1,0 +1,44 @@
+{
+    "itemId": 10079,
+    "itemName": "Green spiky vambraces",
+    "examine": "Vambraces made from 100% real dragonhide. Now with added spikiness.",
+    "weight": 0.283,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Kebbit claws",
+                    "quantity": 1
+                },
+                {
+                    "name": "Green d'hide vambraces",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 32,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Green spiky vambraces"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 8,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 2,
+        "strengthBonus": 2
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 26686,
+    "itemName": "Maoma's med helm (broken)",
+    "examine": "Maoma the Corrupt Captain's med helm, but it's broken.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 6,
+        "magicAttackBonus": -20,
+        "rangedAttackBonus": -20,
+        "magicDefenceBonus": -10,
+        "rangeDefenceBonus": 10,
+        "strengthBonus": 1
+    }
+}

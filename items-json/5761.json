@@ -1,0 +1,47 @@
+{
+    "itemId": 5761,
+    "itemName": "Slayer's respite(m)",
+    "examine": "This looks a good deal stronger than normal Slayer's Respite.",
+    "weight": 0.55,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bucket of water",
+                    "quantity": 2
+                },
+                {
+                    "name": "Barley malt",
+                    "quantity": 2
+                },
+                {
+                    "name": "Wildblood hops",
+                    "quantity": 4
+                },
+                {
+                    "name": "Ale yeast",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beer glass",
+                    "quantity": 8
+                }
+            ],
+            "facilities": "Brewery",
+            "skills": [
+                {
+                    "experience": 215.0,
+                    "level": 59,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 8,
+                "name": "Slayer's respite(m)"
+            }
+        }
+    ]
+}

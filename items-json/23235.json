@@ -1,0 +1,33 @@
+{
+    "itemId": 23235,
+    "itemName": "Tzhaar-ket-om (t)",
+    "examine": "A maul of obsidian with trim and spikes.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Tzhaar-ket-om",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tzhaar-ket-om ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tzhaar-ket-om (t)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "crushAttackBonus": 80,
+        "magicAttackBonus": -4,
+        "strengthBonus": 85,
+        "attackDistance": 1,
+        "attackSpeed": 7,
+        "weaponType": "BLUNT"
+    }
+}

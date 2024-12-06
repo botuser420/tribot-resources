@@ -1,0 +1,31 @@
+{
+    "itemId": 9187,
+    "itemName": "Jade bolt tips",
+    "examine": "Jade bolt tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Jade",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 26,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Jade bolt tips"
+            }
+        }
+    ]
+}

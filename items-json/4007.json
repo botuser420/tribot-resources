@@ -1,0 +1,26 @@
+{
+    "itemId": 4007,
+    "itemName": "Enchanted bar",
+    "examine": "A gold bar invested with a talkative monkey spirit.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Monkey dentures",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Zooknock",
+            "tools": "M'amulet mould",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted bar"
+            }
+        }
+    ]
+}

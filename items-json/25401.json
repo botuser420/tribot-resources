@@ -1,0 +1,42 @@
+{
+    "itemId": 25401,
+    "itemName": "Swampbark legs",
+    "examine": "Strong leg protection.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Splitbark legs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Nature Altar",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 48,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Swampbark legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": 15
+    }
+}

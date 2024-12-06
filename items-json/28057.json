@@ -1,0 +1,33 @@
+{
+    "itemId": 28057,
+    "itemName": "Dragon med helm (cr)",
+    "examine": "Makes the wearer pretty intimidating.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon med helm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon med helm (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 33,
+        "slashDefenceBonus": 35,
+        "crushDefenceBonus": 32,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 34
+    }
+}

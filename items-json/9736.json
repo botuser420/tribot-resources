@@ -1,0 +1,22 @@
+{
+    "itemId": 9736,
+    "itemName": "Goat horn dust",
+    "examine": "Finely ground desert goat horn.",
+    "weight": 0.453,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Desert goat horn",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Goat horn dust"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "itemId": 4827,
+    "itemName": "Comp ogre bow",
+    "examine": "A composite ogre bow.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Unstrung comp bow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 45.0,
+                    "level": 30,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Comp ogre bow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 38,
+        "attackDistance": 5,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

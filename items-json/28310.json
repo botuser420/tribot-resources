@@ -1,0 +1,45 @@
+{
+    "itemId": 28310,
+    "itemName": "Venator ring",
+    "examine": "An occult ring that grants immense dexterity.",
+    "weight": 0.012,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Venator icon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chromium ingot",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "level": 90,
+                    "name": "Magic",
+                    "boostable": true
+                },
+                {
+                    "experience": 2500.0,
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Venator ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING",
+        "rangedAttackBonus": 10,
+        "rangedStrengthBonus": 2
+    }
+}

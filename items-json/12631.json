@@ -1,0 +1,7 @@
+{
+    "itemId": 12631,
+    "itemName": "Stamina potion(1)",
+    "examine": "1 dose of stamina potion.",
+    "weight": 0.02,
+    "buyLimit": 2000
+}

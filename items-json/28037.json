@@ -1,0 +1,35 @@
+{
+    "itemId": 28037,
+    "itemName": "Dragon battleaxe (cr)",
+    "examine": "A vicious looking axe.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon battleaxe",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon battleaxe (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 70,
+        "crushAttackBonus": 65,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 85,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

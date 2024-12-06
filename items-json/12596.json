@@ -1,0 +1,17 @@
+{
+    "itemId": 12596,
+    "itemName": "Rangers' tunic",
+    "examine": "Lightweight body armour ideal for rangers.",
+    "weight": 3.0,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 15,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 6
+    }
+}

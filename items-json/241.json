@@ -1,0 +1,22 @@
+{
+    "itemId": 241,
+    "itemName": "Dragon scale dust",
+    "examine": "Finely ground scale of Dragon.",
+    "weight": 0.007,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Blue dragon scale",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Dragon scale dust"
+            }
+        }
+    ]
+}

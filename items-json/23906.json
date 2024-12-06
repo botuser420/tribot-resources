@@ -1,0 +1,29 @@
+{
+    "itemId": 23906,
+    "itemName": "Refined tephra",
+    "examine": "This needs imbuing.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tephra",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace (Zalcano)",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Refined tephra"
+            }
+        }
+    ]
+}

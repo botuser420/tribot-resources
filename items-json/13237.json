@@ -1,0 +1,48 @@
+{
+    "itemId": 13237,
+    "itemName": "Pegasian boots",
+    "examine": "A pair of upgraded ranger boots.",
+    "weight": 1.814,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ranger boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pegasian crystal",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 200.0,
+                    "level": 60,
+                    "name": "Magic"
+                },
+                {
+                    "experience": 200.0,
+                    "level": 60,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pegasian boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -12,
+        "rangedAttackBonus": 12,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 5
+    }
+}

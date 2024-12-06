@@ -1,0 +1,31 @@
+{
+    "itemId": 355,
+    "itemName": "Mackerel",
+    "examine": "Some nicely cooked mackerel.",
+    "weight": 0.3,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw mackerel",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 10,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mackerel"
+            }
+        }
+    ]
+}

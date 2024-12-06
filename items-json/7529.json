@@ -1,0 +1,39 @@
+{
+    "itemId": 7529,
+    "itemName": "Raw fishcake",
+    "examine": "Would taste nicer if I cooked it.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Breadcrumbs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ground cod",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ground kelp",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ground crab meat",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 31,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw fishcake"
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "itemId": 1357,
+    "itemName": "Adamant axe",
+    "examine": "A powerful axe.",
+    "weight": 1.587,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 62.5,
+                    "level": 71,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Adamant axe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 17,
+        "crushAttackBonus": 15,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 19,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

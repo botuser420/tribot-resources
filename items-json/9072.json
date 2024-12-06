@@ -1,0 +1,16 @@
+{
+    "itemId": 9072,
+    "itemName": "Moonclan gloves",
+    "examine": "These should keep my hands safe.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": 2,
+        "rangedAttackBonus": -5,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": -5
+    }
+}

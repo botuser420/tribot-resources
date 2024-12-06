@@ -1,0 +1,11 @@
+{
+    "itemId": 30064,
+    "itemName": "Tome of earth",
+    "examine": "An ancient tome containing the secrets of earth magic.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 8,
+        "magicDefenceBonus": 8
+    }
+}

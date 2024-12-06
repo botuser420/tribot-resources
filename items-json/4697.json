@@ -1,0 +1,193 @@
+{
+    "itemId": 4697,
+    "itemName": "Smoke rune",
+    "examine": "A combined Air and Fire Rune.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Air tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 15,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Smoke rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Air tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 12.7,
+                    "level": 15,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Smoke rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 8.5,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Smoke rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire Altar",
+            "tools": "Fire tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 9.5,
+                    "level": 15,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Smoke rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire Altar",
+            "tools": "Fire tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 14.2,
+                    "level": 15,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Smoke rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire Altar",
+            "tools": "Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 9.5,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Smoke rune"
+            }
+        }
+    ]
+}

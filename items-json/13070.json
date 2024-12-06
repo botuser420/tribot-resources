@@ -1,0 +1,9 @@
+{
+    "itemId": 13070,
+    "itemName": "Achievement diary hood",
+    "examine": "Achievement diary cape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

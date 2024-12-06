@@ -1,0 +1,43 @@
+{
+    "itemId": 24959,
+    "itemName": "Fishing guild teleport",
+    "examine": "A teleport to the Fishing Guild.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 10
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Lunar)",
+            "skills": [
+                {
+                    "experience": 80.0,
+                    "level": 85,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fishing guild teleport (tablet)"
+            }
+        }
+    ]
+}

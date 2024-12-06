@@ -1,0 +1,12 @@
+{
+    "itemId": 30371,
+    "itemName": "Devil's element",
+    "examine": "An item from a true devil that tunes into the elements of the world to let you re-conceptualise what weakness even means.",
+    "weight": 0.2,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 20,
+        "magicDamageBonus": 6.0,
+        "prayerBonus": 3
+    }
+}

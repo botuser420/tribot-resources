@@ -1,0 +1,29 @@
+{
+    "itemId": 4085,
+    "itemName": "Wax",
+    "examine": "I can use this to wax my sled.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bucket of wax",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp tar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cake tin",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wax"
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "itemId": 26374,
+    "itemName": "Zaryte crossbow",
+    "examine": "A weapon born out of conflict.",
+    "weight": 6.001,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Armadyl crossbow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nihil horn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nihil shard",
+                    "quantity": 250
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Zaryte crossbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 110,
+        "stabDefenceBonus": 14,
+        "slashDefenceBonus": 14,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 15,
+        "rangeDefenceBonus": 16,
+        "prayerBonus": 1,
+        "attackDistance": 8,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

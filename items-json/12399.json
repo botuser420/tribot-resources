@@ -1,0 +1,35 @@
+{
+    "itemId": 12399,
+    "itemName": "Partyhat & specs",
+    "examine": "I have the sudden urge to rob the bank...",
+    "weight": 0.453,
+    "buyLimit": 4,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Blue partyhat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sagacious spectacles",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "tools": "Book o' piracy",
+            "output": {
+                "quantity": 1,
+                "name": "Partyhat & specs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

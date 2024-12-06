@@ -1,0 +1,29 @@
+{
+    "itemId": 26539,
+    "itemName": "Mystic boots (or)",
+    "examine": "Magical boots plucked from the shattered abyss.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mystic boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shattered relics mystic ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mystic boots (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

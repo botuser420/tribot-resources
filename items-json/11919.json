@@ -1,0 +1,9 @@
+{
+    "itemId": 11919,
+    "itemName": "Cow mask",
+    "examine": "It looks like a cow's head.",
+    "weight": 0.09,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

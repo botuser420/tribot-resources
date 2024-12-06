@@ -1,0 +1,19 @@
+{
+    "itemId": 26759,
+    "itemName": "Elite calamity breeches",
+    "examine": "Elite breeches used by the Calamity Coven.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 11,
+        "rangedAttackBonus": 14,
+        "stabDefenceBonus": 44,
+        "slashDefenceBonus": 43,
+        "crushDefenceBonus": 44,
+        "magicDefenceBonus": 24,
+        "rangeDefenceBonus": 44
+    }
+}

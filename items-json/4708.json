@@ -1,0 +1,17 @@
+{
+    "itemId": 4708,
+    "itemName": "Ahrim's hood",
+    "examine": "Ahrim the Blighted's leather hood.",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 15,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 16,
+        "magicDefenceBonus": 6,
+        "magicDamageBonus": 1.0
+    }
+}

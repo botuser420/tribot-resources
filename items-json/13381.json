@@ -1,0 +1,41 @@
+{
+    "itemId": 13381,
+    "itemName": "Shayzien body (5)",
+    "examine": "Dress like a tier 5 Shayzien soldier.",
+    "weight": 9.979,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Lovakite bar",
+                    "quantity": 4
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 240.0,
+                    "level": 93,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shayzien body (5)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 24,
+        "crushDefenceBonus": 28,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 27
+    }
+}

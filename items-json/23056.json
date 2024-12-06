@@ -1,0 +1,12 @@
+{
+    "itemId": 23056,
+    "itemName": "Mystic gloves (dusk)",
+    "examine": "Dusky magical gloves.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

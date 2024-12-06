@@ -1,0 +1,39 @@
+{
+    "itemId": 7543,
+    "itemName": "Raw guide cake",
+    "examine": "Now all I need to do is cook it.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Cake tin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Enchanted egg",
+                    "quantity": 1
+                },
+                {
+                    "name": "Enchanted flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Enchanted milk",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 40,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw guide cake"
+            }
+        }
+    ]
+}

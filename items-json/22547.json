@@ -1,0 +1,15 @@
+{
+    "itemId": 22547,
+    "itemName": "Craw's bow (u)",
+    "examine": "This bow once belonged to a formidable follower of Armadyl.",
+    "weight": 3.175,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 75,
+        "rangedStrengthBonus": 60,
+        "attackDistance": 9,
+        "attackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

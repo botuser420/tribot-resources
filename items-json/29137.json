@@ -1,0 +1,31 @@
+{
+    "itemId": 29137,
+    "itemName": "Cooked pyre fox",
+    "examine": "Mmm, this looks tasty.",
+    "weight": 0.283,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw pyre fox",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 154.0,
+                    "level": 59,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked pyre fox"
+            }
+        }
+    ]
+}

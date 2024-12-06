@@ -1,0 +1,38 @@
+{
+    "itemId": 9336,
+    "itemName": "Topaz bolts",
+    "examine": "Topaz tipped Steel crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Steel bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Topaz bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 39.0,
+                    "level": 48,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Topaz bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 66
+    }
+}

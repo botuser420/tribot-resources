@@ -1,0 +1,29 @@
+{
+    "itemId": 10496,
+    "itemName": "Polished buttons",
+    "examine": "Shiny!",
+    "weight": 0.001,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Buttons",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Polished buttons"
+            }
+        }
+    ]
+}

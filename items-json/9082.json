@@ -1,0 +1,22 @@
+{
+    "itemId": 9082,
+    "itemName": "Ground tooth",
+    "examine": "A ground Suqah tooth.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Suqah tooth",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground tooth"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "itemId": 4854,
+    "itemName": "Raurg bonemeal",
+    "examine": "A pot of crushed raurg bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raurg bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Raurg bonemeal"
+            }
+        }
+    ]
+}

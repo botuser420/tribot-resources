@@ -1,0 +1,30 @@
+{
+    "itemId": 1919,
+    "itemName": "Beer glass",
+    "examine": "I need to fill this with beer.",
+    "weight": 0.05,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Molten glass",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Glassblowing pipe",
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Beer glass"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "itemId": 27119,
+    "itemName": "Elder chaos hood (or)",
+    "examine": "The hood worn by the dangerous elder druids, tastefully decorated.",
+    "weight": 0.18,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Elder chaos hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elder chaos robes ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Elder chaos hood (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 5,
+        "magicDefenceBonus": 4,
+        "magicDamageBonus": 1.0
+    }
+}

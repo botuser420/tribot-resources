@@ -1,0 +1,31 @@
+{
+    "itemId": 7084,
+    "itemName": "Fried onions",
+    "examine": "A bowl of sliced, fried onions.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Chopped onion",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 42,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fried onions"
+            }
+        }
+    ]
+}

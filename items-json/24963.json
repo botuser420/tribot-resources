@@ -1,0 +1,43 @@
+{
+    "itemId": 24963,
+    "itemName": "Ice plateau teleport",
+    "examine": "A teleport to the Ice Plateau in level 53 Wilderness.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 8
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Lunar)",
+            "skills": [
+                {
+                    "experience": 92.0,
+                    "level": 89,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ice plateau teleport (tablet)"
+            }
+        }
+    ]
+}

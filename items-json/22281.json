@@ -1,0 +1,52 @@
+{
+    "itemId": 22281,
+    "itemName": "Red d'hide shield",
+    "examine": "A solid magic wood shield covered in red dragon leather.",
+    "weight": 8.0,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Red dragon leather",
+                    "quantity": 2
+                },
+                {
+                    "name": "Magic shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Adamantite nails",
+                    "quantity": 15
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 156.0,
+                    "level": 76,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red d'hide shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -15,
+        "slashAttackBonus": -15,
+        "crushAttackBonus": -11,
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 6,
+        "stabDefenceBonus": 18,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": 13,
+        "rangeDefenceBonus": 13
+    }
+}

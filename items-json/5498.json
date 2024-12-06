@@ -1,0 +1,29 @@
+{
+    "itemId": 5498,
+    "itemName": "Orange sapling",
+    "examine": "This sapling is ready to be replanted in a fruit tree patch.",
+    "weight": 0.907,
+    "buyLimit": 200,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Orange seedling (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 39,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Orange sapling"
+            }
+        }
+    ]
+}

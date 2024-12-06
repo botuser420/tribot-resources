@@ -1,0 +1,126 @@
+{
+    "itemId": 1401,
+    "itemName": "Mystic fire staff",
+    "examine": "It's a slightly magical stick.",
+    "weight": 2.267,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Fire battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 40000
+                }
+            ],
+            "facilities": "Thormac",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic fire staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Fire battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 30000
+                }
+            ],
+            "facilities": "Thormac",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic fire staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Fire battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 20000
+                }
+            ],
+            "facilities": "Thormac",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic fire staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Mystic air staff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1000
+                }
+            ],
+            "facilities": "Crystal ball space",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic fire staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Mystic earth staff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1000
+                }
+            ],
+            "facilities": "Crystal ball space",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic fire staff"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Mystic water staff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1000
+                }
+            ],
+            "facilities": "Crystal ball space",
+            "output": {
+                "quantity": 1,
+                "name": "Mystic fire staff"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 40,
+        "magicAttackBonus": 14,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 14,
+        "strengthBonus": 50,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "itemId": 26935,
+    "itemName": "Churning machine",
+    "examine": "Four scimitars, placed on a wheel, placed in a vat.",
+    "weight": 20.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tanning wheel",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vat (cleaned)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Washing line",
+                    "quantity": 1
+                },
+                {
+                    "name": "Wooden pole",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blunt scimitars",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Churning machine"
+            }
+        }
+    ]
+}

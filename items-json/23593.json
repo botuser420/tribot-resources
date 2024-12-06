@@ -1,0 +1,20 @@
+{
+    "itemId": 23593,
+    "itemName": "Barrows gloves",
+    "examine": "A pair of very nice gloves.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 12,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 12,
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": 12,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 12,
+        "strengthBonus": 12
+    }
+}

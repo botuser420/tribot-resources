@@ -1,0 +1,38 @@
+{
+    "itemId": 24693,
+    "itemName": "Ruby sickle (b)",
+    "examine": "It's a blessed silver sickle with a ruby recessed into it.",
+    "weight": 1.587,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Silver sickle (b)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ruby",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "output": {
+                "quantity": 1,
+                "name": "Ruby sickle (b)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 4,
+        "prayerBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

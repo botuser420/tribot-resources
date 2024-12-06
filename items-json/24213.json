@@ -1,0 +1,9 @@
+{
+    "itemId": 24213,
+    "itemName": "Victor's cape (100)",
+    "examine": "Shows your prowess in Last Man Standing.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

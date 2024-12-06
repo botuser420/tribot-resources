@@ -1,0 +1,37 @@
+{
+    "itemId": 10132,
+    "itemName": "Strung rabbit foot",
+    "examine": "Not so lucky for the rabbit.",
+    "weight": 0.03,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Ball of wool",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rabbit foot",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 4.0,
+                    "level": 37,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Strung rabbit foot"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

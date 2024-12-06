@@ -1,0 +1,30 @@
+{
+    "itemId": 13409,
+    "itemName": "Servery plain pizza",
+    "examine": "The soldiers won't want it without pineapple.",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery uncooked pizza",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Clay oven",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 65,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery plain pizza"
+            }
+        }
+    ]
+}

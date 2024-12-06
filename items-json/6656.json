@@ -1,0 +1,9 @@
+{
+    "itemId": 6656,
+    "itemName": "Camo helmet",
+    "examine": "Examine what?",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

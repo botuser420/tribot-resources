@@ -1,0 +1,44 @@
+{
+    "itemId": 1347,
+    "itemName": "Rune warhammer",
+    "examine": "I don't think it's intended for joinery.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 225.0,
+                    "level": 94,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune warhammer"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 53,
+        "magicAttackBonus": -4,
+        "strengthBonus": 62,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "itemId": 46,
+    "itemName": "Pearl bolt tips",
+    "examine": "Pearl bolt tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Oyster pearl",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 3.2,
+                    "level": 41,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 6,
+                "name": "Pearl bolt tips"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Oyster pearls",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 3.2,
+                    "level": 41,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 24,
+                "name": "Pearl bolt tips"
+            }
+        }
+    ]
+}

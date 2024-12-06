@@ -1,0 +1,25 @@
+{
+    "itemId": 989,
+    "itemName": "Crystal key",
+    "examine": "A mysterious key for a mysterious chest.",
+    "weight": 0.01,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Loop half of key",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tooth half of key",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal key"
+            }
+        }
+    ]
+}

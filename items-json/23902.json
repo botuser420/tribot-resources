@@ -1,0 +1,47 @@
+{
+    "itemId": 23902,
+    "itemName": "Crystal bow (attuned)",
+    "examine": "A sturdy bow formed from crystal and wood.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 60
+                },
+                {
+                    "name": "Crystal bow (basic)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal bow (attuned)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 118,
+        "rangedStrengthBonus": 88,
+        "prayerBonus": 2,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

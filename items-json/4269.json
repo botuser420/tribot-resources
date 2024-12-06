@@ -1,0 +1,25 @@
+{
+    "itemId": 4269,
+    "itemName": "Large zombie monkey bonemeal",
+    "examine": "A pot of crushed large zombie monkey bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Large zombie monkey bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Large zombie monkey bonemeal"
+            }
+        }
+    ]
+}

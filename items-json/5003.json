@@ -1,0 +1,31 @@
+{
+    "itemId": 5003,
+    "itemName": "Cave eel",
+    "examine": "It's a bit slimy.",
+    "weight": 0.5,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw cave eel",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 115.0,
+                    "level": 38,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cave eel"
+            }
+        }
+    ]
+}

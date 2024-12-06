@@ -1,0 +1,36 @@
+{
+    "itemId": 6059,
+    "itemName": "Scarecrow",
+    "examine": "This should scare the birds.",
+    "weight": 0.113,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Hay sack",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bronze spear",
+                    "quantity": 1
+                },
+                {
+                    "name": "Watermelon",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 23,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Scarecrow"
+            }
+        }
+    ]
+}

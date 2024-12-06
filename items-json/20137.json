@@ -1,0 +1,12 @@
+{
+    "itemId": 20137,
+    "itemName": "Robe bottom of darkness",
+    "examine": "A dark power is woven into this robe bottom.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 15,
+        "magicDefenceBonus": 15
+    }
+}

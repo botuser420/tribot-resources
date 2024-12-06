@@ -1,0 +1,27 @@
+{
+    "itemId": 6683,
+    "itemName": "Ground seaweed",
+    "examine": "One of the ingredients for making fish food.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Seaweed",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ground seaweed"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 9442,
+    "itemName": "Oak stock",
+    "examine": "An oak crossbow stock.",
+    "weight": 3.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Oak logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 16.0,
+                    "level": 24,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Oak stock"
+            }
+        }
+    ]
+}

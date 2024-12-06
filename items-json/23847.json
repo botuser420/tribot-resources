@@ -1,0 +1,64 @@
+{
+    "itemId": 23847,
+    "itemName": "Corrupted legs (attuned)",
+    "examine": "A more resilient set of leg armour with some protection from corrupted creatures.",
+    "weight": 9.071,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 60
+                },
+                {
+                    "name": "Corrupted legs (basic)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Corrupted ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Phren bark (corrupted)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Linum tirinum (corrupted)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted legs (attuned)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 3,
+        "magicAttackBonus": 10,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 74,
+        "slashDefenceBonus": 74,
+        "crushDefenceBonus": 74,
+        "magicDefenceBonus": 74,
+        "rangeDefenceBonus": 74,
+        "prayerBonus": 3
+    }
+}

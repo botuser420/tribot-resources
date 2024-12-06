@@ -1,0 +1,16 @@
+{
+    "itemId": 10348,
+    "itemName": "3rd age platebody",
+    "examine": "Fabulously ancient armour beaten from magical silver.",
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -20,
+        "stabDefenceBonus": 96,
+        "slashDefenceBonus": 108,
+        "crushDefenceBonus": 113,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 97
+    }
+}

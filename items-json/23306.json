@@ -1,0 +1,11 @@
+{
+    "itemId": 23306,
+    "itemName": "Monk's robe (t)",
+    "examine": "I feel the gods don't enjoy my materialistic obsessions.",
+    "weight": 0.907,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "LEGS",
+        "prayerBonus": 5
+    }
+}

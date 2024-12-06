@@ -1,0 +1,15 @@
+{
+    "itemId": 20997,
+    "itemName": "Twisted bow",
+    "examine": "A mystical bow carved from the twisted remains of the Great Olm.",
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 70,
+        "rangedStrengthBonus": 20,
+        "attackDistance": 10,
+        "attackSpeed": 6,
+        "weaponType": "BOW"
+    }
+}

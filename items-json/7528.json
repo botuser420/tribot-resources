@@ -1,0 +1,21 @@
+{
+    "itemId": 7528,
+    "itemName": "Ground cod",
+    "examine": "A smelly paste.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw cod",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground cod"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "itemId": 2074,
+    "itemName": "Choc saturday",
+    "examine": "A warm creamy alcoholic beverage.",
+    "weight": 0.5,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mixed saturday (heated)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chocolate dust",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot of cream",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 140.0,
+                    "level": 33,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Choc saturday"
+            }
+        }
+    ]
+}

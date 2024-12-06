@@ -1,0 +1,21 @@
+{
+    "itemId": 26368,
+    "itemName": "Nihil dust",
+    "examine": "Dust from a crushed magical shard.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Nihil shard",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Nihil dust"
+            }
+        }
+    ]
+}

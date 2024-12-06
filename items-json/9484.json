@@ -1,0 +1,29 @@
+{
+    "itemId": 9484,
+    "itemName": "Unfinished batta",
+    "examine": "This cheese and tom batta needs garnishing with equa leaves.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made batta (cheese+tom)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 29,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished batta (cheese+tom)"
+            }
+        }
+    ]
+}

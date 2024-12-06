@@ -1,0 +1,388 @@
+{
+    "itemId": 29381,
+    "itemName": "Blessed bone shards",
+    "examine": "Blessed bones that have been broken down into smaller pieces.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Blessed bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 4,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed bat bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed big bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed zogre bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 18,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed babywyrm bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 21,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed babydragon bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 24,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed wyrm bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 42,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Sun-kissed bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 45,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed wyvern bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 58,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed dragon bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 58,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed fayrg bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 67,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed lava dragon bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 68,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed raurg bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 77,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed hydra bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 93,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Dagannoth bones (blessed)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 100,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed ourg bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 115,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed superior dragon bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 121,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed bone statuette",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 125,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed drake bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 67,
+                "name": "Blessed bone shards"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "itemId": 25139,
+    "itemName": "Bone fragments",
+    "examine": "Ground down bone fragments.",
+    "weight": 0.0,
+    "buyLimit": 100,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Skull sceptre",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "members": false,
+            "output": {
+                "quantity": 14,
+                "name": "Bone fragments"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Left skull half",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "members": false,
+            "output": {
+                "quantity": 5,
+                "name": "Bone fragments"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Bottom of sceptre",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "members": false,
+            "output": {
+                "quantity": 3,
+                "name": "Bone fragments"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Top of sceptre",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "members": false,
+            "output": {
+                "quantity": 3,
+                "name": "Bone fragments"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Right skull half",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "members": false,
+            "output": {
+                "quantity": 3,
+                "name": "Bone fragments"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Strange skull",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "members": false,
+            "output": {
+                "quantity": 8,
+                "name": "Bone fragments"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Runed sceptre",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "members": false,
+            "output": {
+                "quantity": 6,
+                "name": "Bone fragments"
+            }
+        }
+    ]
+}

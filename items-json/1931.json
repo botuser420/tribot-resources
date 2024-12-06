@@ -1,0 +1,31 @@
+{
+    "itemId": 1931,
+    "itemName": "Pot",
+    "examine": "This pot is empty.",
+    "weight": 0.453,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Unfired pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pottery Oven",
+            "skills": [
+                {
+                    "experience": 6.3,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Pot"
+            }
+        }
+    ]
+}

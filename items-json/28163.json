@@ -1,0 +1,42 @@
+{
+    "itemId": 28163,
+    "itemName": "Clothes pouch",
+    "examine": "A pouch for your dirty work clothes!",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Clothes pouch blueprint",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                },
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 47.0,
+                    "level": 50,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "level": 50,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Clothes pouch"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "itemId": 13417,
+    "itemName": "Servery uncooked stew",
+    "examine": "I need to cook this.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery incomplete stew#Potato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servery cooked meat",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 25,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery uncooked stew"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery incomplete stew#Meat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servery potato",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 25,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery uncooked stew"
+            }
+        }
+    ]
+}

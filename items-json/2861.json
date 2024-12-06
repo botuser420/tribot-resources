@@ -1,0 +1,37 @@
+{
+    "itemId": 2861,
+    "itemName": "Wolfbone arrowtips",
+    "examine": "I can make an ogre arrow with these.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Wolf bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 5,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "experience": 10.0,
+                    "level": 5,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 4,
+                "name": "Wolfbone arrowtips"
+            }
+        }
+    ]
+}

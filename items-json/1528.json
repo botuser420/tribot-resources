@@ -1,0 +1,28 @@
+{
+    "itemId": 1528,
+    "itemName": "Ardrigal",
+    "examine": "This herb is Ardrigal.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy ardrigal",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 3,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ardrigal"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "itemId": 11090,
+    "itemName": "Phoenix necklace",
+    "examine": "In case of emergency, wear necklace.",
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Diamond necklace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 67.0,
+                    "level": 57,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Phoenix necklace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "itemId": 20155,
+    "itemName": "Gilded 2h sword",
+    "examine": "A two handed sword with gold plate.",
+    "weight": 3.628,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 69,
+        "crushAttackBonus": 50,
+        "magicAttackBonus": -4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 70,
+        "attackDistance": 1,
+        "attackSpeed": 7,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

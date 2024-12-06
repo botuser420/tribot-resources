@@ -1,0 +1,31 @@
+{
+    "itemId": 30149,
+    "itemName": "Aldarin teleport",
+    "examine": "This tablet has been redirected to the Aldarin portal.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Teleport to house (tablet)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scroll of redirection",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Construction"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Aldarin teleport"
+            }
+        }
+    ]
+}

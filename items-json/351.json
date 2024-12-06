@@ -1,0 +1,32 @@
+{
+    "itemId": 351,
+    "itemName": "Pike",
+    "examine": "Some nicely cooked pike.",
+    "weight": 0.5,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw pike",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 80.0,
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Pike"
+            }
+        }
+    ]
+}

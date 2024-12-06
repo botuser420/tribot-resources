@@ -1,0 +1,34 @@
+{
+    "itemId": 10045,
+    "itemName": "Larupia hat",
+    "examine": "This should make me harder to spot in woodland and jungle areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Larupia fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Larupia hat"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "rangeDefenceBonus": 1
+    }
+}

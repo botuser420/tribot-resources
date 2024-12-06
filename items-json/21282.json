@@ -1,0 +1,31 @@
+{
+    "itemId": 21282,
+    "itemName": "Infernal max hood",
+    "examine": "The hood worn by only the most experienced players.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Infernal cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max cape",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Infernal max hood"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

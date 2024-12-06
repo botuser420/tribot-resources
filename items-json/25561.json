@@ -1,0 +1,25 @@
+{
+    "itemId": 25561,
+    "itemName": "Stuffed big harpoonfish",
+    "examine": "I should mount this on my wall!",
+    "weight": 0.9,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Big harpoonfish",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 3500
+                }
+            ],
+            "facilities": "Taxidermist",
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed big harpoonfish"
+            }
+        }
+    ]
+}

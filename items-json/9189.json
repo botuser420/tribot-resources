@@ -1,0 +1,31 @@
+{
+    "itemId": 9189,
+    "itemName": "Sapphire bolt tips",
+    "examine": "Sapphire bolt tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Sapphire",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 4.0,
+                    "level": 56,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Sapphire bolt tips"
+            }
+        }
+    ]
+}

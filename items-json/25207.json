@@ -1,0 +1,9 @@
+{
+    "itemId": 25207,
+    "itemName": "Red cape",
+    "examine": "It's a cape, and it's red.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

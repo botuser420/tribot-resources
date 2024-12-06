@@ -1,0 +1,12 @@
+{
+    "itemId": 2926,
+    "itemName": "Teal robe top",
+    "examine": "Some fine werewolf clothing.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2
+    }
+}

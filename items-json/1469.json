@@ -1,0 +1,22 @@
+{
+    "itemId": 1469,
+    "itemName": "Broken glass",
+    "examine": "Smashed glass.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Mysterious orb (Client of Kourend)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dark Altar",
+            "output": {
+                "quantity": 1,
+                "name": "Broken glass"
+            }
+        }
+    ]
+}

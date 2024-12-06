@@ -1,0 +1,29 @@
+{
+    "itemId": 4022,
+    "itemName": "M'speak amulet",
+    "examine": "It's an unstrung Amulet of Monkey Speak. It makes vague chattering noises.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Enchanted bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Wall of flame",
+            "tools": "M'amulet mould",
+            "skills": [
+                {
+                    "experience": 200.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "M'speak amulet (unstrung)"
+            }
+        }
+    ]
+}

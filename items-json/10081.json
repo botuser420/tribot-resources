@@ -1,0 +1,44 @@
+{
+    "itemId": 10081,
+    "itemName": "Blue spiky vambraces",
+    "examine": "Vambraces made from 100% real dragonhide. Now with added spikiness.",
+    "weight": 0.283,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Kebbit claws",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blue d'hide vambraces",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 32,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blue spiky vambraces"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 9,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": 4,
+        "strengthBonus": 2
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "itemId": 20511,
+    "itemName": "Healer hat (broken)",
+    "examine": "A broken Penance Healer hat.",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": -5,
+        "slashAttackBonus": -5,
+        "crushAttackBonus": -5,
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": -5,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 7
+    }
+}

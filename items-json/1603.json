@@ -1,0 +1,32 @@
+{
+    "itemId": 1603,
+    "itemName": "Ruby",
+    "examine": "This looks valuable.",
+    "weight": 0.002,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Uncut ruby",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 85.0,
+                    "level": 34,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Ruby"
+            }
+        }
+    ]
+}

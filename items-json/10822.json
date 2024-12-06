@@ -1,0 +1,66 @@
+{
+    "itemId": 10822,
+    "itemName": "Yak-hide armour",
+    "examine": "Smelly yak body armour.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Cured yak-hide",
+                    "quantity": 2
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 32.0,
+                    "level": 46,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yak-hide armour (top)"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Cured yak-hide",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 32.0,
+                    "level": 46,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yak-hide armour (top)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -5,
+        "stabDefenceBonus": 25,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 15,
+        "magicDefenceBonus": -2,
+        "rangeDefenceBonus": 25
+    }
+}

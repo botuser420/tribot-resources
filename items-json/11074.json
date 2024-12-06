@@ -1,0 +1,41 @@
+{
+    "itemId": 11074,
+    "itemName": "Bracelet of clay",
+    "examine": "Now I can become a potter.",
+    "weight": 0.25,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Sapphire bracelet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 7,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bracelet of clay"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

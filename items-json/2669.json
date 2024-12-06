@@ -1,0 +1,18 @@
+{
+    "itemId": 2669,
+    "itemName": "Guthix platebody",
+    "examine": "Rune platebody in the colours of Guthix.",
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 82,
+        "slashDefenceBonus": 80,
+        "crushDefenceBonus": 72,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 80,
+        "prayerBonus": 1
+    }
+}

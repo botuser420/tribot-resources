@@ -1,0 +1,21 @@
+{
+    "itemId": 2948,
+    "itemName": "Golden pot",
+    "examine": "A replica pot made of solid gold.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Monument",
+            "output": {
+                "quantity": 1,
+                "name": "Golden pot"
+            }
+        }
+    ]
+}

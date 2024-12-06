@@ -1,0 +1,24 @@
+{
+    "itemId": 10329,
+    "itemName": "Purple logs",
+    "examine": "A number of chemical covered wooden logs.",
+    "weight": 0.003,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Purple firelighter",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Purple logs"
+            }
+        }
+    ]
+}

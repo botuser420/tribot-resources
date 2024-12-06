@@ -1,0 +1,33 @@
+{
+    "itemId": 13572,
+    "itemName": "Dynamite pot",
+    "examine": "A pot of dynamite for blast mining. Needs a fuse.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Saltpetre",
+                    "quantity": 1
+                },
+                {
+                    "name": "Juniper charcoal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Volcanic sulphur",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dynamite pot"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 948,
+    "itemName": "Bear fur",
+    "examine": "This would make warm clothing.",
+    "weight": 3.0,
+    "buyLimit": 18000
+}

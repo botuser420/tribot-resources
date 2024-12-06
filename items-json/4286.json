@@ -1,0 +1,21 @@
+{
+    "itemId": 4286,
+    "itemName": "Bucket of slime",
+    "examine": "It's a bucket of ectoplasm.",
+    "weight": 3.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bucket",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pool of Slime",
+            "output": {
+                "quantity": 1,
+                "name": "Bucket of slime"
+            }
+        }
+    ]
+}

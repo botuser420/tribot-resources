@@ -1,0 +1,14 @@
+{
+    "itemId": 11230,
+    "itemName": "Dragon dart",
+    "examine": "A deadly throwing dart with a dragon tip.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedStrengthBonus": 35,
+        "attackDistance": 3,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

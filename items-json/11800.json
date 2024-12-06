@@ -1,0 +1,35 @@
+{
+    "itemId": 11800,
+    "itemName": "Godsword shards 2 & 3",
+    "examine": "Godsword shards 2 and 3.",
+    "weight": 5.0,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Godsword shard 2",
+                    "quantity": 1
+                },
+                {
+                    "name": "Godsword shard 3",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 80,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Godsword shards 2 & 3"
+            }
+        }
+    ]
+}

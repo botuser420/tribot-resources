@@ -1,0 +1,59 @@
+{
+    "itemId": 29594,
+    "itemName": "Purging staff",
+    "examine": "Fire and lightning sizzle in the brazier.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Tormented synapse",
+                    "quantity": 1
+                },
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Battlestaff",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 730.0,
+                    "level": 74,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "experience": 13.0,
+                    "level": 55,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Purging staff"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": -5,
+        "crushAttackBonus": 83,
+        "magicAttackBonus": 37,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "magicDefenceBonus": 25,
+        "strengthBonus": 62,
+        "magicDamageBonus": 10.0,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

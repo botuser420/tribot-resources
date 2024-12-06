@@ -1,0 +1,9 @@
+{
+    "itemId": 25135,
+    "itemName": "Beekeeper's gloves",
+    "examine": "Oww OWWW they're defending themselves somehow!",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

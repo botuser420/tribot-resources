@@ -1,0 +1,54 @@
+{
+    "itemId": 28338,
+    "itemName": "Soulreaper axe",
+    "examine": "An axe that manipulates the very lifeforce of those who touch it.",
+    "weight": 2.825,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Leviathan's lure",
+                    "quantity": 1
+                },
+                {
+                    "name": "Siren's staff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Executioner's axe head",
+                    "quantity": 1
+                },
+                {
+                    "name": "Eye of the duke",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 2000
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 400.0,
+                    "level": 75,
+                    "name": "Magic"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Soulreaper axe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 28,
+        "slashAttackBonus": 134,
+        "crushAttackBonus": 66,
+        "strengthBonus": 121,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

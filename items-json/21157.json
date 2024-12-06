@@ -1,0 +1,41 @@
+{
+    "itemId": 21157,
+    "itemName": "Necklace of faith",
+    "examine": "Can grant me prayer in an emergency.",
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Topaz necklace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 59.0,
+                    "level": 49,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Necklace of faith"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

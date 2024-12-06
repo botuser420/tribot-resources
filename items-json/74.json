@@ -1,0 +1,12 @@
+{
+    "itemId": 74,
+    "itemName": "Khazard helmet",
+    "examine": "A helmet, as worn by the minions of General Khazard.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 9420,
+    "itemName": "Bronze limbs",
+    "examine": "A pair of bronze crossbow limbs.",
+    "weight": 1.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 6,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bronze limbs"
+            }
+        }
+    ]
+}

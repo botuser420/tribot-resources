@@ -1,0 +1,16 @@
+{
+    "itemId": 24034,
+    "itemName": "Dragonstone full helm",
+    "examine": "A stylish rune full helm inlaid with dragonstones.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30
+    }
+}

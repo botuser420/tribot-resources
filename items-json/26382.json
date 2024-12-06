@@ -1,0 +1,19 @@
+{
+    "itemId": 26382,
+    "itemName": "Torva full helm",
+    "examine": "An ancient warrior's full helm.",
+    "weight": 2.721,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": -5,
+        "stabDefenceBonus": 59,
+        "slashDefenceBonus": 60,
+        "crushDefenceBonus": 62,
+        "magicDefenceBonus": -2,
+        "rangeDefenceBonus": 57,
+        "strengthBonus": 8,
+        "prayerBonus": 1
+    }
+}

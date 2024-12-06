@@ -1,0 +1,13 @@
+{
+    "itemId": 10452,
+    "itemName": "Saradomin mitre",
+    "examine": "A Saradomin mitre.",
+    "weight": 0.3,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4,
+        "prayerBonus": 5
+    }
+}

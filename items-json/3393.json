@@ -1,0 +1,96 @@
+{
+    "itemId": 3393,
+    "itemName": "Splitbark boots",
+    "examine": "Wooden foot protection.",
+    "weight": 0.907,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 62.0,
+                    "level": 60,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark boots"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 62.0,
+                    "level": 60,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark boots"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1000
+                }
+            ],
+            "facilities": "Wizard Jalarast",
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 2,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 2
+    }
+}

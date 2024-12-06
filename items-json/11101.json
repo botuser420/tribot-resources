@@ -1,0 +1,9 @@
+{
+    "itemId": 11101,
+    "itemName": "Abyssal bracelet(2)",
+    "examine": "Makes using the Abyss just slightly safer.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 20439,
+    "itemName": "Evil chicken head",
+    "examine": "Cock-a-doodle-do!",
+    "weight": 0.25,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

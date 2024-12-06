@@ -1,0 +1,35 @@
+{
+    "itemId": 11069,
+    "itemName": "Gold bracelet",
+    "examine": "I wonder if this is valuable.",
+    "weight": 0.25,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Bracelet mould",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 7,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Gold bracelet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "itemId": 2507,
+    "itemName": "Red dragon leather",
+    "examine": "It's a piece of prepared red dragonhide.",
+    "weight": 3.175,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Red dragonhide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 20
+                }
+            ],
+            "facilities": "Tannery",
+            "output": {
+                "quantity": 1,
+                "name": "Red dragon leather"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Red dragonhide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 45
+                }
+            ],
+            "facilities": "Sbott",
+            "output": {
+                "quantity": 1,
+                "name": "Red dragon leather"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Red dragonhide",
+                    "quantity": 5
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 81.0,
+                    "level": 78,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Red dragon leather"
+            }
+        }
+    ]
+}

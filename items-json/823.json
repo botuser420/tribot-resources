@@ -1,0 +1,32 @@
+{
+    "itemId": 823,
+    "itemName": "Adamant dart tip",
+    "examine": "A deadly-looking dart tip made of adamant - needs feathers for flight.",
+    "weight": 0.0,
+    "buyLimit": 20000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 62.5,
+                    "level": 74,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Adamant dart tip"
+            }
+        }
+    ]
+}

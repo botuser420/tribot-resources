@@ -1,0 +1,28 @@
+{
+    "itemId": 19685,
+    "itemName": "Dark totem",
+    "examine": "A dark power emanates from this totem.",
+    "weight": 0.009,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dark totem top",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark totem middle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark totem base",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dark totem"
+            }
+        }
+    ]
+}

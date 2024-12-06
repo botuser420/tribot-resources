@@ -1,0 +1,34 @@
+{
+    "itemId": 10051,
+    "itemName": "Graahk headdress",
+    "examine": "This should make me harder to spot in desert areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Graahk fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 750
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Graahk headdress"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "rangeDefenceBonus": 4
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "itemId": 851,
+    "itemName": "Maple longbow",
+    "examine": "A nice sturdy bow made out of Maple.",
+    "weight": 1.814,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Maple longbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 58.2,
+                    "level": 55,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Maple longbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 29,
+        "attackDistance": 10,
+        "attackSpeed": 6,
+        "weaponType": "BOW"
+    }
+}

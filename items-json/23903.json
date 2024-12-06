@@ -1,0 +1,35 @@
+{
+    "itemId": 23903,
+    "itemName": "Crystal bow (perfected)",
+    "examine": "A powerful bow formed from crystal and wood.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal bow (attuned)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystalline bowstring",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal bow (perfected)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 172,
+        "rangedStrengthBonus": 138,
+        "prayerBonus": 3,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

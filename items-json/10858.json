@@ -1,0 +1,19 @@
+{
+    "itemId": 10858,
+    "itemName": "Shadow sword",
+    "examine": "A shadow sword.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 27,
+        "crushAttackBonus": 21,
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 26,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

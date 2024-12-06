@@ -1,0 +1,21 @@
+{
+    "itemId": 29346,
+    "itemName": "Blessed bat bones",
+    "examine": "Bones blessed at an exposed altar.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bat bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Exposed altar",
+            "output": {
+                "quantity": 1,
+                "name": "Blessed bat bones"
+            }
+        }
+    ]
+}

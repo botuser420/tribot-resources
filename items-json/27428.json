@@ -1,0 +1,9 @@
+{
+    "itemId": 27428,
+    "itemName": "Hood of ruin",
+    "examine": "A magical-looking hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

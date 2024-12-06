@@ -1,0 +1,28 @@
+{
+    "itemId": 8977,
+    "itemName": "Scrapey bark",
+    "examine": "Greasy bark from the Scrapey Tree.",
+    "weight": 0.003,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Scrapey tree logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 160.0,
+                    "level": 1,
+                    "name": "Fletching"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Scrapey bark"
+            }
+        }
+    ]
+}

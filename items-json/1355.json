@@ -1,0 +1,44 @@
+{
+    "itemId": 1355,
+    "itemName": "Mithril axe",
+    "examine": "A powerful axe.",
+    "weight": 1.133,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 51,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mithril axe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 12,
+        "crushAttackBonus": 10,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 13,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

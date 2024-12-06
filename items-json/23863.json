@@ -1,0 +1,16 @@
+{
+    "itemId": 23863,
+    "itemName": "Crystal pickaxe",
+    "examine": "If rocks could feel fear, they'd fear this.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "strengthBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "PICKAXE"
+    }
+}

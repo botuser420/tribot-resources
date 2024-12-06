@@ -1,0 +1,30 @@
+{
+    "itemId": 25662,
+    "itemName": "Ruined cavefish",
+    "examine": "A cavefish you ruined during preparation.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw cavefish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Preparation Table",
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Ruined cavefish"
+            }
+        }
+    ]
+}

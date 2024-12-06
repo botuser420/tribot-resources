@@ -1,0 +1,32 @@
+{
+    "itemId": 3442,
+    "itemName": "Willow pyre logs",
+    "examine": "Willow logs prepared with sacred oil for a funeral pyre.",
+    "weight": 1.36,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Willow logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sacred oil(3)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 1,
+                    "name": "Firemaking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Willow pyre logs"
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "itemId": 2064,
+    "itemName": "Blurberry special",
+    "examine": "Looks good... smells strong.",
+    "weight": 0.5,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Mixed special",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lemon chunks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Orange chunks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lime slices",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 37,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blurberry special"
+            }
+        }
+    ]
+}

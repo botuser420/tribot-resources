@@ -1,0 +1,15 @@
+{
+    "itemId": 805,
+    "itemName": "Rune thrownaxe",
+    "examine": "A finely balanced throwing axe.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 26,
+        "rangedStrengthBonus": 36,
+        "attackDistance": 4,
+        "attackSpeed": 5,
+        "weaponType": "THROWN"
+    }
+}

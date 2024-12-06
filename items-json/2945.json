@@ -1,0 +1,21 @@
+{
+    "itemId": 2945,
+    "itemName": "Iron key",
+    "examine": "A key made of solid Iron (Used in the Priest in Peril quest).",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Golden key",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Monument",
+            "output": {
+                "quantity": 1,
+                "name": "Iron key"
+            }
+        }
+    ]
+}

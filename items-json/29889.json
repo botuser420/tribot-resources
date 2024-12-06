@@ -1,0 +1,17 @@
+{
+    "itemId": 29889,
+    "itemName": "Glacial temotli",
+    "examine": "It's clobbering time.",
+    "weight": 1.814,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 11,
+        "crushAttackBonus": 72,
+        "strengthBonus": 64,
+        "prayerBonus": 2,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

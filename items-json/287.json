@@ -1,0 +1,29 @@
+{
+    "itemId": 287,
+    "itemName": "Blue goblin mail",
+    "examine": "Some blue armour designed to fit goblins.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Goblin mail",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blue dye",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Blue goblin mail"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

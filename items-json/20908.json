@@ -1,0 +1,28 @@
+{
+    "itemId": 20908,
+    "itemName": "Buchu leaf",
+    "examine": "Lovely, it's been cleaned.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy buchu leaf",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 52,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Buchu leaf"
+            }
+        }
+    ]
+}

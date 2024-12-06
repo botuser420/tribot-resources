@@ -1,0 +1,9 @@
+{
+    "itemId": 19699,
+    "itemName": "Hornwood helm",
+    "examine": "A helm to celebrate the summer solstice.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "itemId": 21512,
+    "itemName": "Bird house",
+    "examine": "Feed and catch the birds by placing this in the right spot.",
+    "weight": 0.453,
+    "buyLimit": 250,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Clockwork",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel, Hammer",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 5,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bird house"
+            }
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 20240,
+    "itemName": "Crier coat",
+    "examine": "Don't shoot the messenger!",
+    "weight": 0.001,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "itemId": 19672,
+    "itemName": "Redwood pyre logs",
+    "examine": "Redwood logs prepared with sacred oil for a funeral pyre.",
+    "weight": 1.36,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Redwood logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sacred oil(4)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Firemaking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Redwood pyre logs"
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "itemId": 27788,
+    "itemName": "Thammaron's sceptre (a)",
+    "examine": "A mighty sceptre used in long forgotten battles.",
+    "weight": 0.198,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 15,
+        "magicDefenceBonus": 20,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

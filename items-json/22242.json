@@ -1,0 +1,34 @@
+{
+    "itemId": 22242,
+    "itemName": "Dragon platebody (g)",
+    "examine": "A Dragon platebody with a gold trim.",
+    "weight": 11.339,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon platebody",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon platebody ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon platebody (g)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 109,
+        "slashDefenceBonus": 107,
+        "crushDefenceBonus": 97,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 106
+    }
+}

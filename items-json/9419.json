@@ -1,0 +1,36 @@
+{
+    "itemId": 9419,
+    "itemName": "Mith grapple",
+    "examine": "A mithril grapple tipped bolt with a rope.",
+    "weight": 0.001,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Mith grapple (unf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rope",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 59,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mith grapple"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO"
+    }
+}

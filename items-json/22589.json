@@ -1,0 +1,21 @@
+{
+    "itemId": 22589,
+    "itemName": "Reduced cadava potion",
+    "examine": "Dosage calibrated for consumption by elderly people.",
+    "weight": 0.018,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Cadava berries",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Apothecary",
+            "output": {
+                "quantity": 1,
+                "name": "Reduced cadava potion"
+            }
+        }
+    ]
+}

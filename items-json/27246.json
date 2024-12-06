@@ -1,0 +1,33 @@
+{
+    "itemId": 27246,
+    "itemName": "Osmumten's fang (or)",
+    "examine": "A deadly sword created long ago.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Osmumten's fang",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cursed phalanx",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Osmumten's fang (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 105,
+        "slashAttackBonus": 75,
+        "strengthBonus": 103,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAB_SWORD"
+    }
+}

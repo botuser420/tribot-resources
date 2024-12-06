@@ -1,0 +1,44 @@
+{
+    "itemId": 1345,
+    "itemName": "Adamant warhammer",
+    "examine": "I don't think it's intended for joinery.",
+    "weight": 2.041,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 187.5,
+                    "level": 79,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Adamant warhammer"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 35,
+        "magicAttackBonus": -4,
+        "strengthBonus": 39,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

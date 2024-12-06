@@ -1,0 +1,31 @@
+{
+    "itemId": 27853,
+    "itemName": "Dark bow (bh)",
+    "examine": "A bow from an even darker dimension.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dark bow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark bow imbue scroll",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dark bow (bh)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 105,
+        "attackDistance": 10,
+        "attackSpeed": 9,
+        "weaponType": "BOW"
+    }
+}

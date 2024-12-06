@@ -1,0 +1,9 @@
+{
+    "itemId": 26314,
+    "itemName": "Snowman ring",
+    "examine": "A magical snowy ring.",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "RING"
+    }
+}

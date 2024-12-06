@@ -1,0 +1,24 @@
+{
+    "itemId": 7512,
+    "itemName": "Soggy bread",
+    "examine": "Previously a nice crispy loaf of bread.  Now just kind of icky.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bread",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jug of water",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Soggy bread"
+            }
+        }
+    ]
+}

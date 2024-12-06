@@ -1,0 +1,11 @@
+{
+    "itemId": 548,
+    "itemName": "Shade robe",
+    "examine": "If a shade had knees, this would keep them nice and warm.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "prayerBonus": 4
+    }
+}

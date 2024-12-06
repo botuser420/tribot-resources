@@ -1,0 +1,10 @@
+{
+    "itemId": 22947,
+    "itemName": "Rada's blessing 4",
+    "examine": "A blessing scroll from distant lands.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "AMMO",
+        "prayerBonus": 2
+    }
+}

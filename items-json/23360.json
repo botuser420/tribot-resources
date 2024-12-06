@@ -1,0 +1,13 @@
+{
+    "itemId": 23360,
+    "itemName": "Ham joint",
+    "examine": "A delicious joint of ham.",
+    "weight": 2.0,
+    "buyLimit": 100,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 3,
+        "weaponType": "BLUNT"
+    }
+}

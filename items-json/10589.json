@@ -1,0 +1,17 @@
+{
+    "itemId": 10589,
+    "itemName": "Granite helm",
+    "examine": "A stone helmet.",
+    "weight": 4.535,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -9,
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 31,
+        "slashDefenceBonus": 33,
+        "crushDefenceBonus": 29,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 39
+    }
+}

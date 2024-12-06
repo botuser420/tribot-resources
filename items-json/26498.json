@@ -1,0 +1,33 @@
+{
+    "itemId": 26498,
+    "itemName": "Unholy book (or)",
+    "examine": "The unholy book of Zamorak, plucked from the shattered abyss.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Unholy book",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shattered relics variety ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unholy book (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 8,
+        "magicAttackBonus": 8,
+        "rangedAttackBonus": 8,
+        "prayerBonus": 5
+    }
+}

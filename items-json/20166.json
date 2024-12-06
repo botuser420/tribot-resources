@@ -1,0 +1,15 @@
+{
+    "itemId": 20166,
+    "itemName": "Wooden shield (g)",
+    "examine": "An epic wooden shield with a golden trim.",
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 4
+    }
+}

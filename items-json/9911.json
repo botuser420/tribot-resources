@@ -1,0 +1,10 @@
+{
+    "itemId": 9911,
+    "itemName": "Ghost buster 500",
+    "examine": "A Ghost Buster 500 loaded with a black destabiliser.",
+    "weight": 0.003,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1
+    }
+}

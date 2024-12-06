@@ -1,0 +1,36 @@
+{
+    "itemId": 6579,
+    "itemName": "Onyx amulet (u)",
+    "examine": "It needs a string so I can wear it.",
+    "weight": 0.004,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Onyx",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Amulet mould",
+            "skills": [
+                {
+                    "experience": 165.0,
+                    "level": 90,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Onyx amulet (u)"
+            }
+        }
+    ]
+}

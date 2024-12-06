@@ -1,0 +1,30 @@
+{
+    "itemId": 9691,
+    "itemName": "Water rune",
+    "examine": "A water rune.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blank water rune",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Altar",
+            "tools": "Water tiara, Water talisman",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Water rune (The Slug Menace)"
+            }
+        }
+    ]
+}

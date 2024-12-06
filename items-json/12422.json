@@ -1,0 +1,15 @@
+{
+    "itemId": 12422,
+    "itemName": "3rd age wand",
+    "examine": "A beautifully crafted wand infused by ancient wizards.",
+    "weight": 3.175,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 20,
+        "magicDefenceBonus": 20,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAFF"
+    }
+}

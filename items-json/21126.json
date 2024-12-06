@@ -1,0 +1,41 @@
+{
+    "itemId": 21126,
+    "itemName": "Ring of pursuit",
+    "examine": "This ring can reveal a hunter creature's track.",
+    "weight": 0.006,
+    "buyLimit": 100,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Opal ring",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 7,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ring of pursuit"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

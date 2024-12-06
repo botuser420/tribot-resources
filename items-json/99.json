@@ -1,0 +1,33 @@
+{
+    "itemId": 99,
+    "itemName": "Ranarr potion (unf)",
+    "examine": "I need another ingredient to finish this Ranarr potion.",
+    "weight": 0.056,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ranarr weed",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 30,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ranarr potion (unf)"
+            }
+        }
+    ]
+}

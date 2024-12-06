@@ -1,0 +1,16 @@
+{
+    "itemId": 777,
+    "itemName": "Chaos gauntlets",
+    "examine": "These gauntlets empower spell casters.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 2,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 7,
+        "strengthBonus": 2
+    }
+}

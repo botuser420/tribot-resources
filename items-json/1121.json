@@ -1,0 +1,43 @@
+{
+    "itemId": 1121,
+    "itemName": "Mithril platebody",
+    "examine": "Provides excellent protection.",
+    "weight": 8.618,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 5
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 250.0,
+                    "level": 68,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mithril platebody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 46,
+        "slashDefenceBonus": 44,
+        "crushDefenceBonus": 38,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 44
+    }
+}

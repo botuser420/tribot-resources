@@ -1,0 +1,34 @@
+{
+    "itemId": 2217,
+    "itemName": "Toad crunchies",
+    "examine": "It actually smells quite good.",
+    "weight": 0.25,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unfinished crunchy (toad)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 10,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Toad crunchies"
+            }
+        }
+    ]
+}

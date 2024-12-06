@@ -1,0 +1,7 @@
+{
+    "itemId": 201,
+    "itemName": "Grimy marrentill",
+    "examine": "It needs cleaning.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

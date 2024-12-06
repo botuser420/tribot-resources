@@ -1,0 +1,25 @@
+{
+    "itemId": 4855,
+    "itemName": "Ourg bonemeal",
+    "examine": "A pot of crushed ourg bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ourg bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Ourg bonemeal"
+            }
+        }
+    ]
+}

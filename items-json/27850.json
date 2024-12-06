@@ -1,0 +1,16 @@
+{
+    "itemId": 27850,
+    "itemName": "Corrupted zuriel's hood (bh)",
+    "examine": "A powerful hood.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 5,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 11,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": 5,
+        "magicDamageBonus": 1.0
+    }
+}

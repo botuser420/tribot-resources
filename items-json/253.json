@@ -1,0 +1,29 @@
+{
+    "itemId": 253,
+    "itemName": "Tarromin",
+    "examine": "A useful herb.",
+    "weight": 0.007,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy tarromin",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 11,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tarromin"
+            }
+        }
+    ]
+}

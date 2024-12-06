@@ -1,0 +1,46 @@
+{
+    "itemId": 1763,
+    "itemName": "Red dye",
+    "examine": "A little bottle of red dye.",
+    "weight": 0.02,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Redberries",
+                    "quantity": 3
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 5
+                }
+            ],
+            "facilities": "Aggie",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Red dye"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Redberries",
+                    "quantity": 3
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 25
+                }
+            ],
+            "facilities": "Ali the dyer",
+            "output": {
+                "quantity": 1,
+                "name": "Red dye"
+            }
+        }
+    ]
+}

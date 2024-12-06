@@ -1,0 +1,16 @@
+{
+    "itemId": 9073,
+    "itemName": "Moonclan boots",
+    "examine": "Groovy foot protection.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 2,
+        "rangedAttackBonus": -5,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": -5
+    }
+}

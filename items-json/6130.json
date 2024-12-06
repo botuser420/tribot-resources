@@ -1,0 +1,41 @@
+{
+    "itemId": 6130,
+    "itemName": "Rock-shell legs",
+    "examine": "Some tough leggings made from rock crab parts.",
+    "weight": 9.071,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dagannoth hide",
+                    "quantity": 2
+                },
+                {
+                    "name": "Rock-shell splinter",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 7500
+                }
+            ],
+            "facilities": "Skulgrimen",
+            "output": {
+                "quantity": 1,
+                "name": "Rock-shell legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 51,
+        "slashDefenceBonus": 49,
+        "crushDefenceBonus": 47,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 49
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 1883,
+    "itemName": "Ugthanki kebab",
+    "examine": "A strange smelling kebab made from ugthanki meat.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Kebab mix",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pitta bread",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ugthanki kebab (smelling)"
+            }
+        }
+    ]
+}

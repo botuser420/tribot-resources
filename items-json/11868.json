@@ -1,0 +1,9 @@
+{
+    "itemId": 11868,
+    "itemName": "Slayer ring (6)",
+    "examine": "A beautifully mounted Slayer gem.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "RING"
+    }
+}

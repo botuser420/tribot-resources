@@ -1,0 +1,9 @@
+{
+    "itemId": 1575,
+    "itemName": "Cat training medal",
+    "examine": "For feline training expertise.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

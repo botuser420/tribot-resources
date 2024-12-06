@@ -1,0 +1,17 @@
+{
+    "itemId": 29847,
+    "itemName": "Blood moon tassets",
+    "examine": "The tassets of the Blood Moon.",
+    "weight": 4.082,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 50,
+        "crushDefenceBonus": 49,
+        "magicDefenceBonus": 32,
+        "rangeDefenceBonus": 46,
+        "strengthBonus": 2
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 10878,
+    "itemName": "Green satchel",
+    "examine": "I can keep my grub in here!",
+    "weight": 0.15,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

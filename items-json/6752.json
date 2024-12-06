@@ -1,0 +1,35 @@
+{
+    "itemId": 6752,
+    "itemName": "Black desert robe",
+    "examine": "A desert robe stained black.",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Desert robe",
+                    "quantity": 1
+                },
+                {
+                    "name": "Black dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black desert robe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

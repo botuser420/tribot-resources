@@ -1,0 +1,10 @@
+{
+    "itemId": 12319,
+    "itemName": "Crier hat",
+    "examine": "Hear ye! Hear ye!",
+    "weight": 0.3,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

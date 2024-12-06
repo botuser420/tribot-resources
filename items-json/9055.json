@@ -1,0 +1,28 @@
+{
+    "itemId": 9055,
+    "itemName": "Black goblin mail",
+    "examine": "Some black armour designed to fit goblins.",
+    "weight": 3.628,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Goblin mail",
+                    "quantity": 1
+                },
+                {
+                    "name": "Black dye",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black goblin mail"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

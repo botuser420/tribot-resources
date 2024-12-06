@@ -1,0 +1,23 @@
+{
+    "itemId": 2106,
+    "itemName": "Lemon slices",
+    "examine": "Fresh lemon slices.",
+    "weight": 0.08,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Lemon",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Lemon slices"
+            }
+        }
+    ]
+}

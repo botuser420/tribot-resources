@@ -1,0 +1,29 @@
+{
+    "itemId": 2998,
+    "itemName": "Toadflax",
+    "examine": "A useful herb.",
+    "weight": 0.007,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy toadflax",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 8.0,
+                    "level": 30,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Toadflax"
+            }
+        }
+    ]
+}

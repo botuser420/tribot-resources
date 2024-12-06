@@ -1,0 +1,30 @@
+{
+    "itemId": 19720,
+    "itemName": "Occult necklace (or)",
+    "examine": "A smokey evil embodies this beautiful amulet.",
+    "weight": 0.005,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Occult necklace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Occult ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Occult necklace (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "magicAttackBonus": 12,
+        "magicDamageBonus": 5.0,
+        "prayerBonus": 2
+    }
+}

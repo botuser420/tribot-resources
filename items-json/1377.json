@@ -1,0 +1,18 @@
+{
+    "itemId": 1377,
+    "itemName": "Dragon battleaxe",
+    "examine": "A vicious looking axe.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 70,
+        "crushAttackBonus": 65,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 85,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 24865,
+    "itemName": "Skeleton monkey",
+    "examine": "A monkey retrieved from the wreckage of Glough's airship laboratory.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

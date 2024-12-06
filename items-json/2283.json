@@ -1,0 +1,84 @@
+{
+    "itemId": 2283,
+    "itemName": "Pizza base",
+    "examine": "I need to add some tomato next.",
+    "weight": 0.1,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Pizza base"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bowl of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Pizza base"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jug of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Pizza base"
+            }
+        }
+    ]
+}

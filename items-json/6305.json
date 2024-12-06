@@ -1,0 +1,48 @@
+{
+    "itemId": 6305,
+    "itemName": "Skewer stick",
+    "examine": "A sharp pointed stick, quite resistant to fire.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Thatch spar light",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Machete",
+            "output": {
+                "quantity": 4,
+                "name": "Skewer stick"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Thatch spar med",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Machete",
+            "output": {
+                "quantity": 4,
+                "name": "Skewer stick"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Thatch spar dense",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Machete",
+            "output": {
+                "quantity": 4,
+                "name": "Skewer stick"
+            }
+        }
+    ]
+}

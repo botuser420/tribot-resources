@@ -1,0 +1,9 @@
+{
+    "itemId": 284,
+    "itemName": "Plague jacket",
+    "examine": "This should protect me from the plague, I hope!",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

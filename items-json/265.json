@@ -1,0 +1,29 @@
+{
+    "itemId": 265,
+    "itemName": "Cadantine",
+    "examine": "A powerful herb.",
+    "weight": 0.007,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy cadantine",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 65,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cadantine"
+            }
+        }
+    ]
+}

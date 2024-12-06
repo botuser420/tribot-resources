@@ -1,0 +1,34 @@
+{
+    "itemId": 2317,
+    "itemName": "Uncooked apple pie",
+    "examine": "This would be much tastier cooked.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cooking apple",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pie shell",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked apple pie"
+            }
+        }
+    ]
+}

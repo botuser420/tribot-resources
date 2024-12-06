@@ -1,0 +1,29 @@
+{
+    "itemId": 3146,
+    "itemName": "Poison karambwan",
+    "examine": "Cooked octopus. It looks poorly cooked and quite dangerous.",
+    "weight": 0.65,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw karambwan",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 80.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Poison karambwan"
+            }
+        }
+    ]
+}

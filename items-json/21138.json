@@ -1,0 +1,9 @@
+{
+    "itemId": 21138,
+    "itemName": "Ring of returning(1)",
+    "examine": "This ring returns you to your spawn point.",
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING"
+    }
+}

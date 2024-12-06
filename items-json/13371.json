@@ -1,0 +1,40 @@
+{
+    "itemId": 13371,
+    "itemName": "Shayzien platebody (3)",
+    "examine": "Dress like a tier 3 Shayzien soldier.",
+    "weight": 9.979,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Lovakite bar",
+                    "quantity": 4
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 240.0,
+                    "level": 73,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shayzien platebody (3)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -8,
+        "stabDefenceBonus": 25,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 35,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 22
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "itemId": 2483,
+    "itemName": "Lantadyme potion (unf)",
+    "examine": "I need another ingredient to finish this Lantadyme potion.",
+    "weight": 0.056,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lantadyme",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 69,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lantadyme potion (unf)"
+            }
+        }
+    ]
+}

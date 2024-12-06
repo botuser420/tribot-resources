@@ -1,0 +1,15 @@
+{
+    "itemId": 4125,
+    "itemName": "Black boots",
+    "examine": "These will protect my feet.",
+    "weight": 1.36,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 9
+    }
+}

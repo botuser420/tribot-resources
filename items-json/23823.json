@@ -1,0 +1,16 @@
+{
+    "itemId": 23823,
+    "itemName": "Corrupted harpoon",
+    "examine": "A very powerful harpoon.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "strengthBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAB_SWORD"
+    }
+}

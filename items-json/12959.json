@@ -1,0 +1,9 @@
+{
+    "itemId": 12959,
+    "itemName": "Cow shoes",
+    "examine": "It looks like a cow's hoofs.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

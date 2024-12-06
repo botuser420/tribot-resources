@@ -1,0 +1,73 @@
+{
+    "itemId": 26886,
+    "itemName": "Overcharged cell",
+    "examine": "Contains an immense amount of runic energy.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Overcharged cell"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Death Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 65,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Overcharged cell"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Uncharged cell",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blood Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 77,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Overcharged cell"
+            }
+        }
+    ]
+}

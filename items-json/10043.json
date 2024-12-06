@@ -1,0 +1,50 @@
+{
+    "itemId": 10043,
+    "itemName": "Larupia top",
+    "examine": "This should make me harder to spot in woodland and jungle areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Larupia fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Larupia top"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Tatty larupia fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Larupia top"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 19,
+        "rangeDefenceBonus": 12
+    }
+}

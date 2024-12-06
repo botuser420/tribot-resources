@@ -1,0 +1,31 @@
+{
+    "itemId": 1865,
+    "itemName": "Pitta bread",
+    "examine": "Nicely baked pitta bread. Needs more ingredients to make a kebab.",
+    "weight": 0.1,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pitta dough",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 58,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pitta bread"
+            }
+        }
+    ]
+}

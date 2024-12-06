@@ -1,0 +1,32 @@
+{
+    "itemId": 9019,
+    "itemName": "Magic essence (unf)",
+    "examine": "I need another ingredient to finish this magic essence potion.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                },
+                {
+                    "name": "Star flower",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 57,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magic essence (unf)"
+            }
+        }
+    ]
+}

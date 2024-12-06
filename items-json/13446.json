@@ -1,0 +1,29 @@
+{
+    "itemId": 13446,
+    "itemName": "Dark essence block",
+    "examine": "A dark power infests this dense essence block.",
+    "weight": 0.028,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Dense essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dark Altar",
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dark essence block"
+            }
+        }
+    ]
+}

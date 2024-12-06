@@ -1,0 +1,31 @@
+{
+    "itemId": 29134,
+    "itemName": "Cooked dashing kebbit",
+    "examine": "I should eat this quickly.",
+    "weight": 0.283,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw dashing kebbit",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 215.0,
+                    "level": 82,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked dashing kebbit"
+            }
+        }
+    ]
+}

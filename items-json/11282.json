@@ -1,0 +1,34 @@
+{
+    "itemId": 11282,
+    "itemName": "Beret mask",
+    "examine": "Essential mime wear.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Black beret",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mime mask",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "tools": "Book o' piracy",
+            "output": {
+                "quantity": 1,
+                "name": "Beret mask"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

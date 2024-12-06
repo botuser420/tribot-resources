@@ -1,0 +1,15 @@
+{
+    "itemId": 803,
+    "itemName": "Mithril thrownaxe",
+    "examine": "A finely balanced throwing axe.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 12,
+        "rangedStrengthBonus": 16,
+        "attackDistance": 4,
+        "attackSpeed": 5,
+        "weaponType": "THROWN"
+    }
+}

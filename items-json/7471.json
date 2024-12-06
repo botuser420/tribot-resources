@@ -1,0 +1,24 @@
+{
+    "itemId": 7471,
+    "itemName": "Milky mixture",
+    "examine": "It's a bucket of milk and cream.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Pot of cream",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of milk",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Milky mixture"
+            }
+        }
+    ]
+}

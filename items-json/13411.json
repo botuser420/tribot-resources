@@ -1,0 +1,21 @@
+{
+    "itemId": 13411,
+    "itemName": "Servery pineapple chunks",
+    "examine": "Fresh chunks of pineapple.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Servery pineapple",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Servery pineapple chunks"
+            }
+        }
+    ]
+}

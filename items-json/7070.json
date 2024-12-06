@@ -1,0 +1,27 @@
+{
+    "itemId": 7070,
+    "itemName": "Minced meat",
+    "examine": "A bowl of finely minced meat.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cooked meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Minced meat"
+            }
+        }
+    ]
+}

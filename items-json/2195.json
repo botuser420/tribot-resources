@@ -1,0 +1,34 @@
+{
+    "itemId": 2195,
+    "itemName": "Veg ball",
+    "examine": "This looks pretty healthy.",
+    "weight": 0.35,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unfinished bowl (veg ball)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 95.0,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Veg ball"
+            }
+        }
+    ]
+}

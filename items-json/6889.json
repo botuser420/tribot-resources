@@ -1,0 +1,13 @@
+{
+    "itemId": 6889,
+    "itemName": "Mage's book",
+    "examine": "The magical book of the Mage.",
+    "weight": 1.0,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 15,
+        "magicDefenceBonus": 15,
+        "magicDamageBonus": 2.0
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "itemId": 2104,
+    "itemName": "Lemon chunks",
+    "examine": "Fresh chunks of lemon.",
+    "weight": 0.08,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Lemon",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Lemon chunks"
+            }
+        }
+    ]
+}

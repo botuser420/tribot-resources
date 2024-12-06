@@ -1,0 +1,42 @@
+{
+    "itemId": 10077,
+    "itemName": "Spiky vambraces",
+    "examine": "Attack at your own risk.",
+    "weight": 0.226,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Kebbit claws",
+                    "quantity": 1
+                },
+                {
+                    "name": "Leather vambraces",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 32,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spiky vambraces"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "rangedAttackBonus": 4,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 1,
+        "strengthBonus": 2
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 27820,
+    "itemName": "10th birthday balloons",
+    "examine": "Double digits!",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

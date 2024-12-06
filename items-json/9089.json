@@ -1,0 +1,31 @@
+{
+    "itemId": 9089,
+    "itemName": "Marr vial",
+    "examine": "A vessel with water and Marrentill inside.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Vial of water (Lunar Diplomacy)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Marrentill",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 84.0,
+                    "level": 5,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Marr vial"
+            }
+        }
+    ]
+}

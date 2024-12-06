@@ -1,0 +1,41 @@
+{
+    "itemId": 13380,
+    "itemName": "Shayzien greaves (5)",
+    "examine": "Dress like a tier 5 Shayzien soldier.",
+    "weight": 9.071,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Lovakite bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 180.0,
+                    "level": 91,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shayzien greaves (5)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -20,
+        "rangedAttackBonus": 6,
+        "stabDefenceBonus": 23,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 21,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 23
+    }
+}

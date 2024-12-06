@@ -1,0 +1,14 @@
+{
+    "itemId": 4220,
+    "itemName": "Crystal bow 4/10",
+    "examine": "A nice sturdy magical bow.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 76,
+        "rangedStrengthBonus": 58,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

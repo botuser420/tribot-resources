@@ -1,0 +1,43 @@
+{
+    "itemId": 1193,
+    "itemName": "Steel kiteshield",
+    "examine": "A large metal shield.",
+    "weight": 5.443,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 112.5,
+                    "level": 42,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Steel kiteshield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 14
+    }
+}

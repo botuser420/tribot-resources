@@ -1,0 +1,41 @@
+{
+    "itemId": 1173,
+    "itemName": "Bronze sq shield",
+    "examine": "A medium square shield.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 8,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze sq shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 4,
+        "rangeDefenceBonus": 5
+    }
+}

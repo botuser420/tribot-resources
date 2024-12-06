@@ -1,0 +1,38 @@
+{
+    "itemId": 25557,
+    "itemName": "Dark flippers",
+    "examine": "Spooky, scary, strangely uncomfortable flippers.",
+    "weight": 0.34,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dark claw",
+                    "quantity": 1
+                },
+                {
+                    "name": "Flippers",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "output": {
+                "quantity": 1,
+                "name": "Dark flippers"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 2011,
+    "itemName": "Curry",
+    "examine": "It's a spicy hot curry.",
+    "weight": 1.5,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Uncooked curry",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 280.0,
+                    "level": 60,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Curry"
+            }
+        }
+    ]
+}

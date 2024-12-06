@@ -1,0 +1,42 @@
+{
+    "itemId": 3165,
+    "itemName": "Karamjan rum",
+    "examine": "A banana has been stuffed into the neck of this bottle.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Karamjan rum",
+                    "quantity": 1
+                },
+                {
+                    "name": "Banana",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Karamjan rum (banana)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Karamjan rum (sliced banana)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Banana",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Karamjan rum (banana)"
+            }
+        }
+    ]
+}

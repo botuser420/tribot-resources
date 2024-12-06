@@ -1,0 +1,9 @@
+{
+    "itemId": 4657,
+    "itemName": "Ring of visibility",
+    "examine": "A ring that allows you to see things that are normally invisible...",
+    "weight": 0.004,
+    "equipment": {
+        "slot": "RING"
+    }
+}

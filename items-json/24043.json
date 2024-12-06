@@ -1,0 +1,15 @@
+{
+    "itemId": 24043,
+    "itemName": "Dragonstone boots",
+    "examine": "A stylish pair of rune boots inlaid with dragonstones.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 14,
+        "strengthBonus": 2
+    }
+}

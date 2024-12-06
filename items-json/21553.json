@@ -1,0 +1,162 @@
+{
+    "itemId": 21553,
+    "itemName": "Rare enriched bone",
+    "examine": "This once fossilised bone is now bone again.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Rare fossilised limbs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Rare enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Rare fossilised spine",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Rare enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Rare fossilised ribs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Rare enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Rare fossilised pelvis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Rare enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Rare fossilised skull",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Rare enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Rare fossilised tusk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Rare enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Unidentified rare fossil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Rare enriched bone"
+            }
+        }
+    ]
+}

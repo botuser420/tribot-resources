@@ -1,0 +1,29 @@
+{
+    "itemId": 20883,
+    "itemName": "Psykk bat (6)",
+    "examine": "Probably won't kill you.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw psykk bat (6)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 28.0,
+                    "level": 90,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Psykk bat (6)"
+            }
+        }
+    ]
+}

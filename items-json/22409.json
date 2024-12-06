@@ -1,0 +1,25 @@
+{
+    "itemId": 22409,
+    "itemName": "Potion",
+    "examine": "A strange potion.",
+    "weight": 0.02,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Unfinished potion (A Taste of Hope)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mysterious crushed meat",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Potion (A Taste of Hope)"
+            }
+        }
+    ]
+}

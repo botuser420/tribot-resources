@@ -1,0 +1,29 @@
+{
+    "itemId": 1941,
+    "itemName": "Swamp paste",
+    "examine": "A tar-like substance mixed with flour and warmed.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw swamp paste",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Swamp paste"
+            }
+        }
+    ]
+}

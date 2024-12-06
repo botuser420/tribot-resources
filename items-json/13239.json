@@ -1,0 +1,50 @@
+{
+    "itemId": 13239,
+    "itemName": "Primordial boots",
+    "examine": "A pair of upgraded dragon boots.",
+    "weight": 1.814,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dragon boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Primordial crystal",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 200.0,
+                    "level": 60,
+                    "name": "Magic"
+                },
+                {
+                    "experience": 200.0,
+                    "level": 60,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Primordial boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 2,
+        "magicAttackBonus": -4,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 22,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 22,
+        "strengthBonus": 5
+    }
+}

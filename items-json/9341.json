@@ -1,0 +1,38 @@
+{
+    "itemId": 9341,
+    "itemName": "Dragonstone bolts",
+    "examine": "Dragonstone tipped Runite crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Runite bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Dragonstone bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 82.0,
+                    "level": 71,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Dragonstone bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 117
+    }
+}

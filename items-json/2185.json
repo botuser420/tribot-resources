@@ -1,0 +1,38 @@
+{
+    "itemId": 2185,
+    "itemName": "Chocolate bomb",
+    "examine": "Full of creamy, chocolately goodness.",
+    "weight": 0.35,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unfinished bowl (chocolate bomb)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chocolate dust",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot of cream",
+                    "quantity": 2
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 110.0,
+                    "level": 42,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chocolate bomb"
+            }
+        }
+    ]
+}

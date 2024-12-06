@@ -1,0 +1,17 @@
+{
+    "itemId": 11037,
+    "itemName": "Brine sabre",
+    "examine": "A salty sword.",
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": 47,
+        "crushAttackBonus": -2,
+        "strengthBonus": 46,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

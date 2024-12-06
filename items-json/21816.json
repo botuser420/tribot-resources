@@ -1,0 +1,9 @@
+{
+    "itemId": 21816,
+    "itemName": "Bracelet of ethereum",
+    "examine": "The bracelet glows with ethereal power.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

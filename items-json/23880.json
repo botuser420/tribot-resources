@@ -1,0 +1,22 @@
+{
+    "itemId": 23880,
+    "itemName": "Water-filled vial",
+    "examine": "A vial shaped by crystal deep within the Gauntlet, filled with water.",
+    "weight": 0.02,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vial (The Gauntlet)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Pump (The Gauntlet)",
+            "output": {
+                "quantity": 1,
+                "name": "Water-filled vial"
+            }
+        }
+    ]
+}

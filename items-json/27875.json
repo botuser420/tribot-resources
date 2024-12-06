@@ -1,0 +1,9 @@
+{
+    "itemId": 27875,
+    "itemName": "Nest hat",
+    "examine": "An egg-cellent look.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

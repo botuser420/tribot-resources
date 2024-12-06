@@ -1,0 +1,14 @@
+{
+    "itemId": 22636,
+    "itemName": "Morrigan's javelin",
+    "examine": "A vicious javelin.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 105,
+        "rangedStrengthBonus": 145,
+        "attackDistance": 5,
+        "attackSpeed": 6,
+        "weaponType": "THROWN"
+    }
+}

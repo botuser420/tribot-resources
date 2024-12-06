@@ -1,0 +1,13 @@
+{
+    "itemId": 6916,
+    "itemName": "Infinity top",
+    "examine": "Mystical robes.",
+    "weight": 2.267,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 22,
+        "magicDefenceBonus": 22,
+        "magicDamageBonus": 1.0
+    }
+}

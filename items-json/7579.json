@@ -1,0 +1,29 @@
+{
+    "itemId": 7579,
+    "itemName": "Stuffed snake",
+    "examine": "Fit for a Monkey King.",
+    "weight": 3.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw stuffed snake",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Rock (snake cooker)",
+            "skills": [
+                {
+                    "experience": 180.0,
+                    "level": 70,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Stuffed snake"
+            }
+        }
+    ]
+}

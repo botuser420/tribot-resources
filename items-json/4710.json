@@ -1,0 +1,23 @@
+{
+    "itemId": 4710,
+    "itemName": "Ahrim's staff",
+    "examine": "Ahrim the Blighted's quarterstaff.",
+    "weight": 2.267,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 12,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 65,
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 15,
+        "strengthBonus": 68,
+        "magicDamageBonus": 5.0,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "STAFF"
+    }
+}

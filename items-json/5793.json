@@ -1,0 +1,7 @@
+{
+    "itemId": 5793,
+    "itemName": "Greenmans ale(4)",
+    "examine": "This keg contains 4 pints of Greenmans Ale.",
+    "weight": 0.028,
+    "buyLimit": 2000
+}

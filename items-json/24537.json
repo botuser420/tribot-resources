@@ -1,0 +1,16 @@
+{
+    "itemId": 24537,
+    "itemName": "Carrot sword",
+    "examine": "Helps you see in the dark!",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -100,
+        "strengthBonus": -100,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

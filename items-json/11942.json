@@ -1,0 +1,32 @@
+{
+    "itemId": 11942,
+    "itemName": "Ecumenical key",
+    "examine": "An icy key that can be used to access a boss room in the God Wars Dungeon.",
+    "weight": 0.015,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ecumenical key shard",
+                    "quantity": 50
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Magic"
+                },
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ecumenical key"
+            }
+        }
+    ]
+}

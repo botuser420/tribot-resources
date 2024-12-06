@@ -1,0 +1,67 @@
+{
+    "itemId": 1135,
+    "itemName": "Green d'hide body",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 6.803,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Green dragon leather",
+                    "quantity": 3
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 186.0,
+                    "level": 63,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Green d'hide body"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Green dragon leather",
+                    "quantity": 3
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 186.0,
+                    "level": 63,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Green d'hide body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 15,
+        "stabDefenceBonus": 18,
+        "slashDefenceBonus": 27,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": 20,
+        "rangeDefenceBonus": 35
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 9382,
+    "itemName": "Silver bolts (unf)",
+    "examine": "Unfeathered silver crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Bolt mould",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 21,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Silver bolts (unf)"
+            }
+        }
+    ]
+}

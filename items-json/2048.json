@@ -1,0 +1,45 @@
+{
+    "itemId": 2048,
+    "itemName": "Pineapple punch",
+    "examine": "A fresh healthy fruit mix.",
+    "weight": 0.5,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mixed punch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lime chunks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pineapple chunks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Orange slices",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cocktail glass",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 8,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pineapple punch"
+            }
+        }
+    ]
+}

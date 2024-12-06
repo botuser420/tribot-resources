@@ -1,0 +1,35 @@
+{
+    "itemId": 11280,
+    "itemName": "Cavalier mask",
+    "examine": "I hope I don't meet any roundheads...",
+    "weight": 1.0,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Black cavalier",
+                    "quantity": 1
+                },
+                {
+                    "name": "Highwayman mask",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "tools": "Book o' piracy",
+            "output": {
+                "quantity": 1,
+                "name": "Cavalier mask"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

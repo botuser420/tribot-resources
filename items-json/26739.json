@@ -1,0 +1,18 @@
+{
+    "itemId": 26739,
+    "itemName": "Koriff's cowl",
+    "examine": "Koriff the Crowd Pleaser's cowl.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": -40,
+        "slashAttackBonus": -40,
+        "crushAttackBonus": -40,
+        "magicAttackBonus": -40,
+        "rangedAttackBonus": 14,
+        "stabDefenceBonus": -15,
+        "slashDefenceBonus": -15,
+        "crushDefenceBonus": -15,
+        "magicDefenceBonus": 15
+    }
+}

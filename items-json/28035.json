@@ -1,0 +1,35 @@
+{
+    "itemId": 28035,
+    "itemName": "Dragon warhammer (cr)",
+    "examine": "Spikey, close combat weapon.",
+    "weight": 2.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon warhammer",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon warhammer (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 95,
+        "magicAttackBonus": -4,
+        "strengthBonus": 85,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "BLUNT"
+    }
+}

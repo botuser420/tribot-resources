@@ -1,0 +1,30 @@
+{
+    "itemId": 9697,
+    "itemName": "Mind rune",
+    "examine": "A mind rune.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blank mind rune",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mind Altar",
+            "tools": "Mind tiara, Mind talisman",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mind rune (The Slug Menace)"
+            }
+        }
+    ]
+}

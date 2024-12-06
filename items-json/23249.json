@@ -1,0 +1,12 @@
+{
+    "itemId": 23249,
+    "itemName": "Rangers' tights",
+    "examine": "Lightweight legwear ideal for rangers.",
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 15
+    }
+}

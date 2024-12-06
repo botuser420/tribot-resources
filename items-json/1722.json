@@ -1,0 +1,37 @@
+{
+    "itemId": 1722,
+    "itemName": "Unpowered symbol",
+    "examine": "An unblessed symbol of Zamorak.",
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Unstrung emblem",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ball of wool",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 4.0,
+                    "level": 17,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unpowered symbol"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

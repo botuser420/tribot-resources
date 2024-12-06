@@ -1,0 +1,11 @@
+{
+    "itemId": 26551,
+    "itemName": "Arcane grimoire",
+    "examine": "A powerful tome filled with the knowledge of the magical arts.",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": 6,
+        "prayerBonus": 3
+    }
+}

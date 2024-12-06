@@ -1,0 +1,9 @@
+{
+    "itemId": 25131,
+    "itemName": "Beekeeper's top",
+    "examine": "According to the laws of aviation, there is no way that a bee should be able to fly.",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

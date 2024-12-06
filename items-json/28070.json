@@ -1,0 +1,34 @@
+{
+    "itemId": 28070,
+    "itemName": "Helm of neitiznot (or)",
+    "examine": "A gift from Neitiznot's Burgher.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Helm of neitiznot",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Helm of neitiznot (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 31,
+        "slashDefenceBonus": 29,
+        "crushDefenceBonus": 34,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 30,
+        "strengthBonus": 3,
+        "prayerBonus": 3
+    }
+}

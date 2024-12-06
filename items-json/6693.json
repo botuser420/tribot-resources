@@ -1,0 +1,22 @@
+{
+    "itemId": 6693,
+    "itemName": "Crushed nest",
+    "examine": "A crushed bird's nest.",
+    "weight": 0.002,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bird nest (empty)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Crushed nest"
+            }
+        }
+    ]
+}

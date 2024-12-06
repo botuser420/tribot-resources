@@ -1,0 +1,34 @@
+{
+    "itemId": 23879,
+    "itemName": "Vial",
+    "examine": "An empty vial shaped by crystals deep within the Gauntlet.",
+    "weight": 0.015,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 10
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Vial (The Gauntlet)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "itemId": 10041,
+    "itemName": "Larupia legs",
+    "examine": "These should make me harder to spot in woodland and jungle areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Larupia fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Larupia legs"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Tatty larupia fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Larupia legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "rangeDefenceBonus": 10
+    }
+}

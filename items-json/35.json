@@ -1,0 +1,19 @@
+{
+    "itemId": 35,
+    "itemName": "Excalibur",
+    "examine": "This used to belong to King Arthur.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 20,
+        "slashAttackBonus": 29,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 25,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

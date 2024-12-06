@@ -1,0 +1,42 @@
+{
+    "itemId": 25395,
+    "itemName": "Swampbark boots",
+    "examine": "Great foot protection.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Splitbark boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Nature Altar",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 42,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Swampbark boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 3,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": 4
+    }
+}

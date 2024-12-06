@@ -1,0 +1,43 @@
+{
+    "itemId": 19615,
+    "itemName": "Draynor manor teleport",
+    "examine": "A teleport to Draynor Manor.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 16.0,
+                    "level": 17,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Draynor manor teleport (tablet)"
+            }
+        }
+    ]
+}

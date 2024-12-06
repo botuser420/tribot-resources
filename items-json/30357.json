@@ -1,0 +1,9 @@
+{
+    "itemId": 30357,
+    "itemName": "Forager's pouch",
+    "examine": "A perfect pouch for foraging herbs.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

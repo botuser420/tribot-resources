@@ -1,0 +1,31 @@
+{
+    "itemId": 2313,
+    "itemName": "Pie dish",
+    "examine": "Deceptively pie shaped.",
+    "weight": 0.1,
+    "buyLimit": 500,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Unfired pie dish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pottery Oven",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Pie dish"
+            }
+        }
+    ]
+}

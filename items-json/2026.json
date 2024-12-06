@@ -1,0 +1,7 @@
+{
+    "itemId": 2026,
+    "itemName": "Cocktail glass",
+    "examine": "For sipping cocktails.",
+    "weight": 0.1,
+    "buyLimit": 13000
+}

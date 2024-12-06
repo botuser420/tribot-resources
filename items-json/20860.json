@@ -1,0 +1,29 @@
+{
+    "itemId": 20860,
+    "itemName": "Leckish fish (2)",
+    "examine": "I should try eating this.",
+    "weight": 0.4,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw leckish fish (2)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 16.0,
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Leckish fish (2)"
+            }
+        }
+    ]
+}

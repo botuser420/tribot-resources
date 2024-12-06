@@ -1,0 +1,11 @@
+{
+    "itemId": 12598,
+    "itemName": "Holy sandals",
+    "examine": "Holy footwear!",
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET",
+        "prayerBonus": 3
+    }
+}

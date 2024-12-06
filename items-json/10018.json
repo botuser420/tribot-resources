@@ -1,0 +1,7 @@
+{
+    "itemId": 10018,
+    "itemName": "Sapphire glacialis",
+    "examine": "There's a sapphire glacialis butterfly in here.",
+    "weight": 0.02,
+    "buyLimit": 125
+}

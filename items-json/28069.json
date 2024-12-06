@@ -1,0 +1,16 @@
+{
+    "itemId": 28069,
+    "itemName": "Fighter torso (l)(or)",
+    "examine": "A Penance Fighter torso armour.",
+    "weight": 4.0,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -40,
+        "stabDefenceBonus": 62,
+        "slashDefenceBonus": 85,
+        "crushDefenceBonus": 62,
+        "magicDefenceBonus": -10,
+        "rangeDefenceBonus": 67,
+        "strengthBonus": 4
+    }
+}

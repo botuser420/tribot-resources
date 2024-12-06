@@ -1,0 +1,33 @@
+{
+    "itemId": 2341,
+    "itemName": "Wrapped oomlie",
+    "examine": "Oomlie meat in a palm leaf pouch.  It just needs to be cooked.",
+    "weight": 0.325,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw oomlie",
+                    "quantity": 1
+                },
+                {
+                    "name": "Palm leaf",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 50,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wrapped oomlie"
+            }
+        }
+    ]
+}

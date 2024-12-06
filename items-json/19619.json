@@ -1,0 +1,39 @@
+{
+    "itemId": 19619,
+    "itemName": "Salve graveyard teleport",
+    "examine": "A teleport to the Salve graveyard.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 40,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Salve graveyard teleport (tablet)"
+            }
+        }
+    ]
+}

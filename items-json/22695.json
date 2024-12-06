@@ -1,0 +1,9 @@
+{
+    "itemId": 22695,
+    "itemName": "Clown gown",
+    "examine": "Why so serious?",
+    "weight": 0.9,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

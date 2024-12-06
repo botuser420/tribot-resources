@@ -1,0 +1,41 @@
+{
+    "itemId": 21143,
+    "itemName": "Dodgy necklace",
+    "examine": "Lets you get away with it - sometimes.",
+    "weight": 0.01,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Opal necklace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 7,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dodgy necklace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

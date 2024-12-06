@@ -1,0 +1,31 @@
+{
+    "itemId": 3369,
+    "itemName": "Thin snail meat",
+    "examine": "A succulently slimy slice of sumptuous snail.",
+    "weight": 3.0,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Thin snail",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 70.0,
+                    "level": 12,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Thin snail meat"
+            }
+        }
+    ]
+}

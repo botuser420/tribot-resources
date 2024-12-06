@@ -1,0 +1,32 @@
+{
+    "itemId": 25916,
+    "itemName": "Dragon hunter crossbow (t)",
+    "examine": "A crossbow used for dragon hunting.",
+    "weight": 7.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dragon hunter crossbow",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vorkath's head",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon hunter crossbow (t)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 95,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "itemId": 23458,
+    "itemName": "Enchanted lyre(i)",
+    "examine": "This will teleport me to the Fremennik province when I play it.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lyre",
+                    "quantity": 1
+                },
+                {
+                    "name": "Raw bass",
+                    "quantity": 1000
+                },
+                {
+                    "name": "Raw shark",
+                    "quantity": 1000
+                },
+                {
+                    "name": "Raw sea turtle",
+                    "quantity": 1000
+                },
+                {
+                    "name": "Raw manta ray",
+                    "quantity": 1000
+                }
+            ],
+            "facilities": "Fossegrimen",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted lyre(i)"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lyre",
+                    "quantity": 1
+                },
+                {
+                    "name": "Raw bass",
+                    "quantity": 800
+                },
+                {
+                    "name": "Raw shark",
+                    "quantity": 800
+                },
+                {
+                    "name": "Raw sea turtle",
+                    "quantity": 800
+                },
+                {
+                    "name": "Raw manta ray",
+                    "quantity": 800
+                }
+            ],
+            "facilities": "Fossegrimen",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted lyre(i)"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lyre",
+                    "quantity": 1
+                },
+                {
+                    "name": "Raw bass",
+                    "quantity": 600
+                },
+                {
+                    "name": "Raw shark",
+                    "quantity": 600
+                },
+                {
+                    "name": "Raw sea turtle",
+                    "quantity": 600
+                },
+                {
+                    "name": "Raw manta ray",
+                    "quantity": 600
+                }
+            ],
+            "facilities": "Fossegrimen",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted lyre(i)"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lyre",
+                    "quantity": 1
+                },
+                {
+                    "name": "Raw bass",
+                    "quantity": 400
+                },
+                {
+                    "name": "Raw shark",
+                    "quantity": 400
+                },
+                {
+                    "name": "Raw sea turtle",
+                    "quantity": 400
+                },
+                {
+                    "name": "Raw manta ray",
+                    "quantity": 400
+                }
+            ],
+            "facilities": "Fossegrimen",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted lyre(i)"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Lyre",
+                    "quantity": 1
+                },
+                {
+                    "name": "Raw bass",
+                    "quantity": 200
+                },
+                {
+                    "name": "Raw shark",
+                    "quantity": 200
+                },
+                {
+                    "name": "Raw sea turtle",
+                    "quantity": 200
+                },
+                {
+                    "name": "Raw manta ray",
+                    "quantity": 200
+                }
+            ],
+            "facilities": "Fossegrimen",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted lyre(i)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

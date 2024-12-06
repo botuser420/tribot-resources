@@ -1,0 +1,17 @@
+{
+    "itemId": 13242,
+    "itemName": "Infernal axe (uncharged)",
+    "examine": "A very powerful, fiery hatchet.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 38,
+        "crushAttackBonus": 32,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 42,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

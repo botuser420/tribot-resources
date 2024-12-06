@@ -1,0 +1,22 @@
+{
+    "itemId": 23867,
+    "itemName": "Crystal dust",
+    "examine": "Crystal crushed down to the finest form imaginable, useful for making potions.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 10
+                }
+            ],
+            "tools": "Pestle and mortar (The Gauntlet)",
+            "output": {
+                "quantity": 10,
+                "name": "Crystal dust (The Gauntlet)"
+            }
+        }
+    ]
+}

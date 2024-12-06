@@ -1,0 +1,32 @@
+{
+    "itemId": 30100,
+    "itemName": "Huasca potion (unf)",
+    "examine": "I need another ingredient to finish this Huasca potion.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Huasca",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 58,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Huasca potion (unf)"
+            }
+        }
+    ]
+}

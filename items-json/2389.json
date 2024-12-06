@@ -1,0 +1,32 @@
+{
+    "itemId": 2389,
+    "itemName": "Vial",
+    "examine": "An infusion of water and jangerberries.",
+    "weight": 0.015,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jangerberries",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 14,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Vial (jangerberries)"
+            }
+        }
+    ]
+}

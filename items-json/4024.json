@@ -1,0 +1,30 @@
+{
+    "itemId": 4024,
+    "itemName": "Ninja monkey greegree",
+    "examine": "A magical talisman in the shape of a small ninja monkey head.",
+    "weight": 0.085,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Monkey talisman",
+                    "quantity": 1
+                },
+                {
+                    "name": "Small ninja monkey bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Zooknock",
+            "output": {
+                "quantity": 1,
+                "name": "Ninja monkey greegree (small)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": -1
+    }
+}

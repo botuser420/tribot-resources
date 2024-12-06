@@ -1,0 +1,14 @@
+{
+    "itemId": 25855,
+    "itemName": "Amethyst dart(p+)",
+    "examine": "A deadly poisoned dart with an amethyst tip.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedStrengthBonus": 28,
+        "attackDistance": 3,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

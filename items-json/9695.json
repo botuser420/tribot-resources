@@ -1,0 +1,30 @@
+{
+    "itemId": 9695,
+    "itemName": "Earth rune",
+    "examine": "An earth rune.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blank earth rune",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Earth talisman",
+            "skills": [
+                {
+                    "experience": 2.0,
+                    "level": 30,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Earth rune (The Slug Menace)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "itemId": 20875,
+    "itemName": "Giral bat (2)",
+    "examine": "Probably won't kill you.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw giral bat (2)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 16.0,
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Giral bat (2)"
+            }
+        }
+    ]
+}

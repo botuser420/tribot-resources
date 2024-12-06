@@ -1,0 +1,15 @@
+{
+    "itemId": 9790,
+    "itemName": "Construct. cape(t)",
+    "examine": "The cape worn by master builders.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9,
+        "prayerBonus": 4
+    }
+}

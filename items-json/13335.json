@@ -1,0 +1,36 @@
+{
+    "itemId": 13335,
+    "itemName": "Guthix max cape",
+    "examine": "The cape worn by only the most experienced players.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Guthix cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max cape",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Guthix max cape"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE",
+        "magicAttackBonus": 10,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 10
+    }
+}

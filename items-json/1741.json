@@ -1,0 +1,79 @@
+{
+    "itemId": 1741,
+    "itemName": "Leather",
+    "examine": "It's a piece of leather.",
+    "weight": 2.267,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Cowhide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Tannery",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Leather"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Cowhide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Sbott",
+            "output": {
+                "quantity": 1,
+                "name": "Leather"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Cowhide",
+                    "quantity": 5
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 81.0,
+                    "level": 78,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Leather"
+            }
+        }
+    ]
+}

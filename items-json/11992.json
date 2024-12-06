@@ -1,0 +1,7 @@
+{
+    "itemId": 11992,
+    "itemName": "Lava scale",
+    "examine": "A scale from the hide of a lava dragon.",
+    "weight": 0.01,
+    "buyLimit": 11000
+}

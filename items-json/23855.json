@@ -1,0 +1,47 @@
+{
+    "itemId": 23855,
+    "itemName": "Corrupted bow (basic)",
+    "examine": "A basic bow formed from corrupted crystal and wood.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 20
+                },
+                {
+                    "name": "Weapon frame (corrupted)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted bow (basic)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 72,
+        "rangedStrengthBonus": 42,
+        "prayerBonus": 1,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

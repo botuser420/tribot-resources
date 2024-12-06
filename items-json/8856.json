@@ -1,0 +1,15 @@
+{
+    "itemId": 8856,
+    "itemName": "Defensive shield",
+    "examine": "Large, round, heavy shield.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 7,
+        "rangeDefenceBonus": 7
+    }
+}

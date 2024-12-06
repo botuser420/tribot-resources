@@ -1,0 +1,28 @@
+{
+    "itemId": 23659,
+    "itemName": "Crystal sapling",
+    "examine": "This sapling is ready to be replanted in a Crystal tree patch.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal seedling (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 74,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal sapling"
+            }
+        }
+    ]
+}

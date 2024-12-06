@@ -1,0 +1,40 @@
+{
+    "itemId": 1639,
+    "itemName": "Emerald ring",
+    "examine": "A valuable ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Emerald",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 55.0,
+                    "level": 27,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Emerald ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 7053,
+    "itemName": "Lit bug lantern",
+    "examine": "A lantern to aid attacking Harpie bugs.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

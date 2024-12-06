@@ -1,0 +1,28 @@
+{
+    "itemId": 6786,
+    "itemName": "Robe of elidinis",
+    "examine": "This looks quite old.",
+    "weight": 0.005,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Torn robe (top)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "output": {
+                "quantity": 1,
+                "name": "Robe of elidinis (top)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

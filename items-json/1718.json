@@ -1,0 +1,59 @@
+{
+    "itemId": 1718,
+    "itemName": "Holy symbol",
+    "examine": "A blessed holy symbol of Saradomin.",
+    "weight": 0.007,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Unblessed symbol",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Holy book, Book of balance",
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Prayer"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Holy symbol"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unblessed symbol",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Brother Jered",
+            "skills": [
+                {
+                    "level": 31,
+                    "name": "Prayer"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Holy symbol"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 2,
+        "prayerBonus": 8
+    }
+}

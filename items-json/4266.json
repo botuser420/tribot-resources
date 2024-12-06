@@ -1,0 +1,25 @@
+{
+    "itemId": 4266,
+    "itemName": "Bearded gorilla bonemeal",
+    "examine": "A pot of crushed bearded gorilla monkey bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bearded gorilla bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Bearded gorilla bonemeal"
+            }
+        }
+    ]
+}

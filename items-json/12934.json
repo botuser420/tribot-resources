@@ -1,0 +1,90 @@
+{
+    "itemId": 12934,
+    "itemName": "Zulrah's scales",
+    "examine": "Flakes of toxic snakeskin.",
+    "weight": 0.0,
+    "buyLimit": 30000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Sacred eel",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 109.0,
+                    "level": 72,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 7,
+                "name": "Zulrah's scales"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Tanzanite fang",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 20000,
+                "name": "Zulrah's scales"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Toxic blowpipe (empty)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 20000,
+                "name": "Zulrah's scales"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Serpentine visage",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 20000,
+                "name": "Zulrah's scales"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Serpentine helm (uncharged)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 20000,
+                "name": "Zulrah's scales"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Magic fang",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 20000,
+                "name": "Zulrah's scales"
+            }
+        }
+    ]
+}

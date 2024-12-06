@@ -1,0 +1,32 @@
+{
+    "itemId": 361,
+    "itemName": "Tuna",
+    "examine": "Wow, this is a big fish.",
+    "weight": 0.4,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw tuna",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Tuna"
+            }
+        }
+    ]
+}

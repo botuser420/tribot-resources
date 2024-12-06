@@ -1,0 +1,46 @@
+{
+    "itemId": 23852,
+    "itemName": "Corrupted staff (basic)",
+    "examine": "A basic staff of corrupted crystal.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 20
+                },
+                {
+                    "name": "Weapon frame (corrupted)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted staff (basic)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 84,
+        "prayerBonus": 1,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 29562,
+    "itemName": "Elite black platebody",
+    "examine": "Provides excellent protection for someone considered elite.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 46,
+        "slashDefenceBonus": 44,
+        "crushDefenceBonus": 38,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 44,
+        "prayerBonus": 8
+    }
+}

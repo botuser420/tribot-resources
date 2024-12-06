@@ -1,0 +1,25 @@
+{
+    "itemId": 22406,
+    "itemName": "Unfinished blood potion",
+    "examine": "An unfinished potion made using blood.",
+    "weight": 0.02,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Vial of blood (A Taste of Hope)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mysterious herb",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished blood potion"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 9191,
+    "itemName": "Ruby bolt tips",
+    "examine": "Ruby bolt tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Ruby",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 6.3,
+                    "level": 63,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Ruby bolt tips"
+            }
+        }
+    ]
+}

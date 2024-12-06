@@ -1,0 +1,23 @@
+{
+    "itemId": 7650,
+    "itemName": "Silver dust",
+    "examine": "It's ground up silver.",
+    "weight": 0.15,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Silver dust"
+            }
+        }
+    ]
+}

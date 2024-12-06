@@ -1,0 +1,31 @@
+{
+    "itemId": 9440,
+    "itemName": "Wooden stock",
+    "examine": "A wooden crossbow stock.",
+    "weight": 3.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 6.0,
+                    "level": 9,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wooden stock"
+            }
+        }
+    ]
+}

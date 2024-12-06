@@ -1,0 +1,40 @@
+{
+    "itemId": 6137,
+    "itemName": "Skeletal helm",
+    "examine": "Make your foes cower by wearing a skull as a helmet!",
+    "weight": 1.36,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dagannoth hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Skull piece",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 5000
+                }
+            ],
+            "facilities": "Peer the Seer",
+            "output": {
+                "quantity": 1,
+                "name": "Skeletal helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 2,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 11,
+        "magicDefenceBonus": 3
+    }
+}

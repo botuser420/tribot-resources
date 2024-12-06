@@ -1,0 +1,31 @@
+{
+    "itemId": 9988,
+    "itemName": "Roast beast meat",
+    "examine": "A delicious looking slab of roast beast.",
+    "weight": 2.0,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Skewered beast",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire",
+            "skills": [
+                {
+                    "experience": 62.0,
+                    "level": 21,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Roast beast meat"
+            }
+        }
+    ]
+}

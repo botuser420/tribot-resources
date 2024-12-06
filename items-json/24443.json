@@ -1,0 +1,35 @@
+{
+    "itemId": 24443,
+    "itemName": "Gingerbread gnome",
+    "examine": "It looks delicious, but it won't protect you from the Icelord.",
+    "weight": 0.1,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Festive cinnamon stick",
+                    "quantity": 1
+                },
+                {
+                    "name": "Festive ginger powder",
+                    "quantity": 1
+                },
+                {
+                    "name": "Festive egg",
+                    "quantity": 1
+                },
+                {
+                    "name": "Festive flour",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Gingerbread Gnome Machine",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Gingerbread gnome"
+            }
+        }
+    ]
+}

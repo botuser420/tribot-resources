@@ -1,0 +1,16 @@
+{
+    "itemId": 21301,
+    "itemName": "Obsidian platebody",
+    "examine": "Provides excellent protection.",
+    "weight": 9.979,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 55,
+        "slashDefenceBonus": 78,
+        "crushDefenceBonus": 56,
+        "magicDefenceBonus": -15,
+        "rangeDefenceBonus": 60,
+        "strengthBonus": 3
+    }
+}

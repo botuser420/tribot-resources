@@ -1,0 +1,25 @@
+{
+    "itemId": 6728,
+    "itemName": "Dagannoth-king bonemeal",
+    "examine": "A pot of crushed Dagannoth-king bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dagannoth bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Dagannoth-king bonemeal"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 6701,
+    "itemName": "Baked potato",
+    "examine": "It'd taste even better with some toppings.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Potato",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 7,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Baked potato"
+            }
+        }
+    ]
+}

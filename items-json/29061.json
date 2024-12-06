@@ -1,0 +1,15 @@
+{
+    "itemId": 29061,
+    "itemName": "Blue moon tassets (broken)",
+    "examine": "The tassets of the Blue Moon.",
+    "weight": 1.36,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 22,
+        "crushDefenceBonus": 23,
+        "magicDefenceBonus": 32,
+        "strengthBonus": 1,
+        "magicDamageBonus": 1.0
+    }
+}

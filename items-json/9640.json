@@ -1,0 +1,12 @@
+{
+    "itemId": 9640,
+    "itemName": "Citizen top",
+    "examine": "Ghetto disguise!",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2
+    }
+}

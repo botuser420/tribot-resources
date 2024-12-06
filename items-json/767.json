@@ -1,0 +1,13 @@
+{
+    "itemId": 767,
+    "itemName": "Phoenix crossbow",
+    "examine": "Former property of the Phoenix Gang.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 6,
+        "attackDistance": 5,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

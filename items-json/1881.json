@@ -1,0 +1,81 @@
+{
+    "itemId": 1881,
+    "itemName": "Kebab mix",
+    "examine": "A mixture of chopped tomatoes, onions and ugthanki meat in a bowl.",
+    "weight": 0.4,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Onion & tomato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ugthanki meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Kebab mix"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Ugthanki & onion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Kebab mix"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Ugthanki & tomato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Kebab mix"
+            }
+        }
+    ]
+}

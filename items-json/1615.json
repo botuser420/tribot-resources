@@ -1,0 +1,31 @@
+{
+    "itemId": 1615,
+    "itemName": "Dragonstone",
+    "examine": "This looks valuable.",
+    "weight": 0.002,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Uncut dragonstone",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 137.5,
+                    "level": 55,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragonstone"
+            }
+        }
+    ]
+}

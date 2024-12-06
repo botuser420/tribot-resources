@@ -1,0 +1,37 @@
+{
+    "itemId": 28049,
+    "itemName": "Dragon halberd (cr)",
+    "examine": "A dragon halberd.",
+    "weight": 3.175,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon halberd",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon halberd (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 70,
+        "slashAttackBonus": 95,
+        "magicAttackBonus": -4,
+        "stabDefenceBonus": -1,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 5,
+        "strengthBonus": 89,
+        "attackDistance": 2,
+        "attackSpeed": 7,
+        "weaponType": "POLEARM"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "itemId": 8015,
+    "itemName": "Bones to peaches",
+    "examine": "A tablet containing a magic spell.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Nature rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 4
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 4
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mahogany demon lectern",
+            "skills": [
+                {
+                    "experience": 35.5,
+                    "level": 60,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bones to peaches (tablet)"
+            }
+        }
+    ]
+}

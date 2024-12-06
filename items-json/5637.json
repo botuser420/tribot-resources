@@ -1,0 +1,14 @@
+{
+    "itemId": 5637,
+    "itemName": "Steel dart(p++)",
+    "examine": "A deadly poisoned dart with a steel tip.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedStrengthBonus": 3,
+        "attackDistance": 3,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

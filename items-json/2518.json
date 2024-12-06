@@ -1,0 +1,51 @@
+{
+    "itemId": 2518,
+    "itemName": "Rotten tomato",
+    "examine": "Pretty smelly.",
+    "weight": 0.08,
+    "itemCreation": [
+        {
+            "ticks": 60,
+            "materials": [
+                {
+                    "name": "Tomato",
+                    "quantity": 15
+                }
+            ],
+            "facilities": "Compost Bin",
+            "skills": [
+                {
+                    "experience": 4.5,
+                    "level": 1,
+                    "name": "Farming"
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Rotten tomato"
+            }
+        },
+        {
+            "ticks": 120,
+            "materials": [
+                {
+                    "name": "Tomato",
+                    "quantity": 30
+                }
+            ],
+            "facilities": "Big Compost Bin",
+            "skills": [
+                {
+                    "experience": 4.5,
+                    "level": 45,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 30,
+                "name": "Rotten tomato"
+            }
+        }
+    ]
+}

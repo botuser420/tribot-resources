@@ -1,0 +1,30 @@
+{
+    "itemId": 28166,
+    "itemName": "Clothes pouch blueprint",
+    "examine": "A step-by-step guide to crafting your very own clothes pouch!",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 10000
+                },
+                {
+                    "name": "Willow logs",
+                    "quantity": 300
+                },
+                {
+                    "name": "Maple logs",
+                    "quantity": 300
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Clothes pouch blueprint"
+            }
+        }
+    ]
+}

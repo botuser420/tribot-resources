@@ -1,0 +1,43 @@
+{
+    "itemId": 1073,
+    "itemName": "Adamant platelegs",
+    "examine": "These look pretty heavy.",
+    "weight": 10.432,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Adamantite bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 187.5,
+                    "level": 86,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Adamant platelegs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 33,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 29,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 31
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "itemId": 7062,
+    "itemName": "Chilli con carne",
+    "examine": "A bowl of meat in chilli-con-carne sauce.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Spicy sauce",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cooked meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 11,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chilli con carne"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Spicy sauce",
+                    "quantity": 1
+                },
+                {
+                    "name": "Minced meat",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 11,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chilli con carne"
+            }
+        }
+    ]
+}

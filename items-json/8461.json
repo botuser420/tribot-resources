@@ -1,0 +1,7 @@
+{
+    "itemId": 8461,
+    "itemName": "Bagged roses",
+    "examine": "You can plant this in your garden.",
+    "weight": 10.0,
+    "buyLimit": 10000
+}

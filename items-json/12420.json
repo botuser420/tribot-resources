@@ -1,0 +1,31 @@
+{
+    "itemId": 12420,
+    "itemName": "Light infinity top",
+    "examine": "Mystical robes with a light recolour.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Infinity top",
+                    "quantity": 1
+                },
+                {
+                    "name": "Light infinity colour kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Light infinity top"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 22,
+        "magicDefenceBonus": 22,
+        "magicDamageBonus": 1.0
+    }
+}

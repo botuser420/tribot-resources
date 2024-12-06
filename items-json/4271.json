@@ -1,0 +1,25 @@
+{
+    "itemId": 4271,
+    "itemName": "Jogre bonemeal",
+    "examine": "A pot of crushed jogre bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Jogre bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Jogre bonemeal"
+            }
+        }
+    ]
+}

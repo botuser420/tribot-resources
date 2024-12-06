@@ -1,0 +1,7 @@
+{
+    "itemId": 2432,
+    "itemName": "Defence potion(4)",
+    "examine": "4 doses of Defence potion.",
+    "weight": 0.035,
+    "buyLimit": 2000
+}

@@ -1,0 +1,39 @@
+{
+    "itemId": 9096,
+    "itemName": "Lunar helm",
+    "examine": "A mystical helmet.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Lunar bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 2
+    }
+}

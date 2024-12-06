@@ -1,0 +1,17 @@
+{
+    "itemId": 12327,
+    "itemName": "Red d'hide body (g)",
+    "examine": "Made from 100% real dragonhide. With colourful trim!",
+    "weight": 6.803,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 25,
+        "stabDefenceBonus": 26,
+        "slashDefenceBonus": 34,
+        "crushDefenceBonus": 36,
+        "magicDefenceBonus": 36,
+        "rangeDefenceBonus": 45
+    }
+}

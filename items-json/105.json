@@ -1,0 +1,33 @@
+{
+    "itemId": 105,
+    "itemName": "Kwuarm potion (unf)",
+    "examine": "I need another ingredient to finish this Kwuarm potion.",
+    "weight": 0.056,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Kwuarm",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 55,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Kwuarm potion (unf)"
+            }
+        }
+    ]
+}

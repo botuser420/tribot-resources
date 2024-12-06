@@ -1,0 +1,29 @@
+{
+    "itemId": 28298,
+    "itemName": "Archer icon",
+    "examine": "The icon of an archer.",
+    "weight": 0.002,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Archers ring",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 400.0,
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Archer icon"
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "itemId": 2319,
+    "itemName": "Uncooked meat pie",
+    "examine": "This would be much healthier cooked.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cooked meat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pie shell",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked meat pie"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cooked chicken",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pie shell",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked meat pie"
+            }
+        }
+    ]
+}

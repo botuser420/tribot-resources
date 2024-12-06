@@ -1,0 +1,23 @@
+{
+    "itemId": 30376,
+    "itemName": "Amulet of the monarchs",
+    "examine": "An amulet that originated from the one true monarch of the northern province.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 30,
+        "slashAttackBonus": 30,
+        "crushAttackBonus": 30,
+        "magicAttackBonus": 30,
+        "rangedAttackBonus": 30,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": 30,
+        "rangeDefenceBonus": 30,
+        "strengthBonus": 15,
+        "rangedStrengthBonus": 15,
+        "magicDamageBonus": 10.0,
+        "prayerBonus": 10
+    }
+}

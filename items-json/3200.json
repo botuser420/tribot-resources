@@ -1,0 +1,20 @@
+{
+    "itemId": 3200,
+    "itemName": "Adamant halberd",
+    "examine": "An adamant halberd.",
+    "weight": 3.628,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 28,
+        "slashAttackBonus": 41,
+        "magicAttackBonus": -4,
+        "stabDefenceBonus": -1,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 4,
+        "strengthBonus": 42,
+        "attackDistance": 2,
+        "attackSpeed": 7,
+        "weaponType": "POLEARM"
+    }
+}

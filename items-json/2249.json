@@ -1,0 +1,29 @@
+{
+    "itemId": 2249,
+    "itemName": "Half baked batta",
+    "examine": "This gnome batta is in the early stages of preparation.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw batta",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half baked batta"
+            }
+        }
+    ]
+}

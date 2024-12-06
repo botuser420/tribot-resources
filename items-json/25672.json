@@ -1,0 +1,31 @@
+{
+    "itemId": 25672,
+    "itemName": "Catfish",
+    "examine": "This should be offered up at the altar.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Raw catfish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Preparation Table",
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 43.0,
+                    "level": 46,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Catfish"
+            }
+        }
+    ]
+}

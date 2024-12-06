@@ -1,0 +1,22 @@
+{
+    "itemId": 6681,
+    "itemName": "Ground guam",
+    "examine": "One of the ingredients for making fish food.",
+    "weight": 0.056,
+    "buyLimit": 100,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Guam leaf",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground guam"
+            }
+        }
+    ]
+}

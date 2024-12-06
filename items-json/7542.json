@@ -1,0 +1,29 @@
+{
+    "itemId": 7542,
+    "itemName": "Cake of guidance",
+    "examine": "Imbued with knowledge itself.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw guide cake",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 40,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cake of guidance"
+            }
+        }
+    ]
+}

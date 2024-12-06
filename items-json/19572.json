@@ -1,0 +1,32 @@
+{
+    "itemId": 19572,
+    "itemName": "Iron javelin heads",
+    "examine": "Needs a shaft.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 21,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Iron javelin heads"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 47,
+    "itemName": "Barb bolttips",
+    "examine": "I can make bolts with these.",
+    "weight": 0.0,
+    "buyLimit": 11000
+}

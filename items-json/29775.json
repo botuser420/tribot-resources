@@ -1,0 +1,9 @@
+{
+    "itemId": 29775,
+    "itemName": "Imcando hammer (off-hand)",
+    "examine": "It's good for holding and hitting things!",
+    "weight": 2.0,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

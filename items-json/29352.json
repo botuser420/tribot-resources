@@ -1,0 +1,21 @@
+{
+    "itemId": 29352,
+    "itemName": "Blessed babydragon bones",
+    "examine": "Bones blessed at an exposed altar.",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Babydragon bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Exposed altar",
+            "output": {
+                "quantity": 1,
+                "name": "Blessed babydragon bones"
+            }
+        }
+    ]
+}

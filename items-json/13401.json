@@ -1,0 +1,25 @@
+{
+    "itemId": 13401,
+    "itemName": "Servery pie shell",
+    "examine": "An empty pie. Needs meatiness.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery dish",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servery pastry dough",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery pie shell"
+            }
+        }
+    ]
+}

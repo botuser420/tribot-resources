@@ -1,0 +1,16 @@
+{
+    "itemId": 27851,
+    "itemName": "Corrupted zuriel's robe top (bh)",
+    "examine": "A powerful robe top.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 25,
+        "rangedAttackBonus": -8,
+        "stabDefenceBonus": 43,
+        "slashDefenceBonus": 39,
+        "crushDefenceBonus": 47,
+        "magicDefenceBonus": 22,
+        "magicDamageBonus": 3.0
+    }
+}

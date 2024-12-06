@@ -1,0 +1,35 @@
+{
+    "itemId": 12412,
+    "itemName": "Pirate hat & patch",
+    "examine": "All I need now is a parrot.",
+    "weight": 0.002,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Big pirate hat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Right eye patch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "tools": "Book o' piracy",
+            "output": {
+                "quantity": 1,
+                "name": "Pirate hat & patch"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

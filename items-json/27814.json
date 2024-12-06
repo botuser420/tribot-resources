@@ -1,0 +1,9 @@
+{
+    "itemId": 27814,
+    "itemName": "Jad plush",
+    "examine": "An adorable plushy based on a familiar face!",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

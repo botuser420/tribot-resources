@@ -1,0 +1,38 @@
+{
+    "itemId": 25958,
+    "itemName": "Corrupted paddlefish",
+    "examine": "Tastes a bit sharp.",
+    "weight": 0.45,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 10
+                },
+                {
+                    "name": "Paddlefish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted paddlefish"
+            }
+        }
+    ]
+}

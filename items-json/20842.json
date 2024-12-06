@@ -1,0 +1,16 @@
+{
+    "itemId": 20842,
+    "itemName": "Corrupted platelegs",
+    "examine": "The platelegs of a forgotten warrior, corrupted by the dark altar.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 10
+    }
+}

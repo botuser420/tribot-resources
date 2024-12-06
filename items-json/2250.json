@@ -1,0 +1,26 @@
+{
+    "itemId": 2250,
+    "itemName": "Raw batta",
+    "examine": "This gnome batta needs cooking.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Batta tin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gianne dough",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Batta tin",
+            "output": {
+                "quantity": 1,
+                "name": "Raw batta"
+            }
+        }
+    ]
+}

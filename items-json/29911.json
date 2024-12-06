@@ -1,0 +1,12 @@
+{
+    "itemId": 29911,
+    "itemName": "Prop sword",
+    "examine": "A fake, curved sword.",
+    "weight": 0.2,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

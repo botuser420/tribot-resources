@@ -1,0 +1,25 @@
+{
+    "itemId": 6293,
+    "itemName": "Spider on stick",
+    "examine": "A raw spider threaded onto a skewer stick.",
+    "weight": 0.9,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Skewer stick",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spider carcass",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spider on stick (raw)"
+            }
+        }
+    ]
+}

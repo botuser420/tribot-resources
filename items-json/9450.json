@@ -1,0 +1,31 @@
+{
+    "itemId": 9450,
+    "itemName": "Mahogany stock",
+    "examine": "A mahogany crossbow stock.",
+    "weight": 3.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Mahogany logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 41.0,
+                    "level": 61,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mahogany stock"
+            }
+        }
+    ]
+}

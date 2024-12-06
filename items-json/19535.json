@@ -1,0 +1,39 @@
+{
+    "itemId": 19535,
+    "itemName": "Zenyte necklace",
+    "examine": "A fiery glow emanates from this necklace.",
+    "weight": 0.01,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Zenyte",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Necklace mould",
+            "skills": [
+                {
+                    "experience": 165.0,
+                    "level": 92,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Zenyte necklace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "itemId": 11923,
+    "itemName": "Broken pickaxe",
+    "examine": "Nurmof can fix this for me.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 5
+    }
+}

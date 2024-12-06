@@ -1,0 +1,18 @@
+{
+    "itemId": 7668,
+    "itemName": "Gadderhammer",
+    "examine": "A specially crafted hammer with strange markings on it.",
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 35,
+        "magicAttackBonus": -4,
+        "strengthBonus": 35,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "BLUNT"
+    }
+}

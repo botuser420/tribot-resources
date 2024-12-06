@@ -1,0 +1,21 @@
+{
+    "itemId": 7515,
+    "itemName": "Breadcrumbs",
+    "examine": "Glad these aren't in my bed.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Breadcrumbs"
+            }
+        }
+    ]
+}

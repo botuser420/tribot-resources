@@ -1,0 +1,51 @@
+{
+    "itemId": 10035,
+    "itemName": "Kyatt legs",
+    "examine": "These should make me harder to spot in polar areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Kyatt fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 200
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Kyatt legs"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Tatty kyatt fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 200
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Kyatt legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "rangeDefenceBonus": 10
+    }
+}

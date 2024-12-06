@@ -1,0 +1,18 @@
+{
+    "itemId": 24157,
+    "itemName": "Decorative sword (l)",
+    "examine": "A very decorative sword.",
+    "weight": 1.587,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 20,
+        "slashAttackBonus": 29,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 31,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

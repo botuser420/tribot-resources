@@ -1,0 +1,17 @@
+{
+    "itemId": 7344,
+    "itemName": "Black shield (h3)",
+    "examine": "A shield with a heraldic design",
+    "weight": 5.443,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 19,
+        "crushDefenceBonus": 18,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 18
+    }
+}

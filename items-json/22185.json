@@ -1,0 +1,44 @@
+{
+    "itemId": 22185,
+    "itemName": "Adamant heraldic helm",
+    "examine": "The colours represent a skull.",
+    "weight": 2.721,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Adamant full helm",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pluming stand",
+            "skills": [
+                {
+                    "experience": 37.0,
+                    "level": 38,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "level": 16,
+                    "name": "Construction"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Adamant heraldic helm (Skull)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 19,
+        "slashDefenceBonus": 21,
+        "crushDefenceBonus": 16,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 19
+    }
+}

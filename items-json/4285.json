@@ -1,0 +1,9 @@
+{
+    "itemId": 4285,
+    "itemName": "Bedsheet",
+    "examine": "It's an ectoplasm-covered bedsheet.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

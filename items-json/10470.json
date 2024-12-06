@@ -1,0 +1,13 @@
+{
+    "itemId": 10470,
+    "itemName": "Saradomin stole",
+    "examine": "A Saradomin stole.",
+    "weight": 0.01,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "NECK",
+        "magicAttackBonus": 2,
+        "magicDefenceBonus": 2,
+        "prayerBonus": 10
+    }
+}

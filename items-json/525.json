@@ -1,0 +1,22 @@
+{
+    "itemId": 525,
+    "itemName": "Enchanted chicken",
+    "examine": "I don't fancy eating this now.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw chicken",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cauldron of Thunder",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted chicken"
+            }
+        }
+    ]
+}

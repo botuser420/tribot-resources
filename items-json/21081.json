@@ -1,0 +1,38 @@
+{
+    "itemId": 21081,
+    "itemName": "Opal ring",
+    "examine": "A valuable ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Opal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Opal ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

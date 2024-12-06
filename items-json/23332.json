@@ -1,0 +1,36 @@
+{
+    "itemId": 23332,
+    "itemName": "Rune scimitar",
+    "examine": "A vicious, curved sword.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Rune scimitar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rune scimitar ornament kit (saradomin)",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune scimitar (saradomin)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": 45,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 44,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

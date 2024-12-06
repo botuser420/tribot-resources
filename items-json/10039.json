@@ -1,0 +1,34 @@
+{
+    "itemId": 10039,
+    "itemName": "Kyatt hat",
+    "examine": "This should make me harder to spot in polar areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Kyatt fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1000
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Kyatt hat"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "rangeDefenceBonus": 4
+    }
+}

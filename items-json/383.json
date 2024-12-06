@@ -1,0 +1,7 @@
+{
+    "itemId": 383,
+    "itemName": "Raw shark",
+    "examine": "I should try cooking this.",
+    "weight": 0.7,
+    "buyLimit": 15000
+}

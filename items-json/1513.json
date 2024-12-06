@@ -1,0 +1,7 @@
+{
+    "itemId": 1513,
+    "itemName": "Magic logs",
+    "examine": "Logs cut from a magic tree.",
+    "weight": 2.0,
+    "buyLimit": 12000
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 2114,
+    "itemName": "Pineapple",
+    "examine": "It can be cut up into something more manageable with a knife.",
+    "weight": 0.15,
+    "buyLimit": 13000
+}

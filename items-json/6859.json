@@ -1,0 +1,9 @@
+{
+    "itemId": 6859,
+    "itemName": "Jester scarf",
+    "examine": "A woolly jester scarf.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

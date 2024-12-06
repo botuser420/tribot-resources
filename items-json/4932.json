@@ -1,0 +1,10 @@
+{
+    "itemId": 4932,
+    "itemName": "Karil's coif 0",
+    "examine": "Karil the Tainted's coif.",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

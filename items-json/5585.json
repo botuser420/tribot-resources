@@ -1,0 +1,47 @@
+{
+    "itemId": 5585,
+    "itemName": "Bronze key",
+    "examine": "I hope the mould was accurate enough... (Used in the Recruitment Drive quest).",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Tin (key)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel (Recruitment Drive)",
+            "output": {
+                "quantity": 1,
+                "name": "Bronze key (Recruitment Drive)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Tin (key)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Bronze wire (Recruitment Drive)",
+            "output": {
+                "quantity": 1,
+                "name": "Bronze key (Recruitment Drive)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Tin (key)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife (Recruitment Drive)",
+            "output": {
+                "quantity": 1,
+                "name": "Bronze key (Recruitment Drive)"
+            }
+        }
+    ]
+}

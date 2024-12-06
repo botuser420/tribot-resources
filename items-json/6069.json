@@ -1,0 +1,11 @@
+{
+    "itemId": 6069,
+    "itemName": "Mourner boots",
+    "examine": "Comfortable leather boots.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "FEET",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 732,
+    "itemName": "Holy water",
+    "examine": "A vial of holy water, good against certain demons.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Enchanted vial",
+                    "quantity": 1
+                },
+                {
+                    "name": "Golden bowl (blessed pure water)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Holy water"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 6,
+        "rangedStrengthBonus": 12,
+        "attackDistance": 4,
+        "attackSpeed": 4,
+        "weaponType": "THROWN"
+    }
+}

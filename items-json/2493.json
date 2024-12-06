@@ -1,0 +1,67 @@
+{
+    "itemId": 2493,
+    "itemName": "Blue d'hide chaps",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 5.443,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Blue dragon leather",
+                    "quantity": 2
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 140.0,
+                    "level": 68,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blue d'hide chaps"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Blue dragon leather",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 140.0,
+                    "level": 68,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blue d'hide chaps"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 11,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 20,
+        "magicDefenceBonus": 14,
+        "rangeDefenceBonus": 20
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "itemId": 12779,
+    "itemName": "Kharyrll teleport",
+    "examine": "A teleport to Kharyrll.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Ancient)",
+            "skills": [
+                {
+                    "experience": 76.0,
+                    "level": 66,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Kharyrll teleport (tablet)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 9423,
+    "itemName": "Iron limbs",
+    "examine": "A pair of iron crossbow limbs.",
+    "weight": 1.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 23,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Iron limbs"
+            }
+        }
+    ]
+}

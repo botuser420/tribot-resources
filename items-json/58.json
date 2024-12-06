@@ -1,0 +1,31 @@
+{
+    "itemId": 58,
+    "itemName": "Willow longbow (u)",
+    "examine": "An unstrung willow longbow; I need a bowstring for this.",
+    "weight": 1.332,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Willow logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 41.5,
+                    "level": 40,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Willow longbow (u)"
+            }
+        }
+    ]
+}

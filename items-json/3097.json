@@ -1,0 +1,45 @@
+{
+    "itemId": 3097,
+    "itemName": "Steel claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 75.0,
+                    "level": 43,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Steel claws"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": 11,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 12,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

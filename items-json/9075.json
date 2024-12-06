@@ -1,0 +1,53 @@
+{
+    "itemId": 9075,
+    "itemName": "Astral rune",
+    "examine": "Used for Lunar spells.",
+    "weight": 0.0,
+    "buyLimit": 15000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Astral Altar",
+            "skills": [
+                {
+                    "experience": 8.7,
+                    "level": 40,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Astral rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Astral Altar",
+            "skills": [
+                {
+                    "experience": 13.0,
+                    "level": 40,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Astral rune"
+            }
+        }
+    ]
+}

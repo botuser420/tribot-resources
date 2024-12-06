@@ -1,0 +1,31 @@
+{
+    "itemId": 21338,
+    "itemName": "Amethyst bolt tips",
+    "examine": "Amethyst bolt tips.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Amethyst",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 83,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Amethyst bolt tips"
+            }
+        }
+    ]
+}

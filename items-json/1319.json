@@ -1,0 +1,45 @@
+{
+    "itemId": 1319,
+    "itemName": "Rune 2h sword",
+    "examine": "A two handed sword.",
+    "weight": 3.628,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 225.0,
+                    "level": 99,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune 2h sword"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -4,
+        "slashAttackBonus": 69,
+        "crushAttackBonus": 50,
+        "magicAttackBonus": -4,
+        "rangeDefenceBonus": -1,
+        "strengthBonus": 70,
+        "attackDistance": 1,
+        "attackSpeed": 7,
+        "weaponType": "TWO_HANDED_SWORD"
+    }
+}

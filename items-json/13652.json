@@ -1,0 +1,20 @@
+{
+    "itemId": 13652,
+    "itemName": "Dragon claws",
+    "examine": "A set of fighting claws.",
+    "weight": 0.907,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 41,
+        "slashAttackBonus": 57,
+        "crushAttackBonus": -4,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 26,
+        "crushDefenceBonus": 7,
+        "strengthBonus": 56,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "CLAWS"
+    }
+}

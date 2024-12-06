@@ -1,0 +1,28 @@
+{
+    "itemId": 6817,
+    "itemName": "Slender blade",
+    "examine": "A slender two-handed sword.",
+    "weight": 3.175,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mithril 2h sword",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Doric's Whetstone",
+            "skills": [
+                {
+                    "level": 65,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Slender blade"
+            }
+        }
+    ]
+}

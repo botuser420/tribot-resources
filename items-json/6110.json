@@ -1,0 +1,11 @@
+{
+    "itemId": 6110,
+    "itemName": "Ghostly gloves",
+    "examine": "They seem to fade in and out of existence...",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": 2,
+        "magicDefenceBonus": 2
+    }
+}

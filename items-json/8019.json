@@ -1,0 +1,39 @@
+{
+    "itemId": 8019,
+    "itemName": "Enchant diamond",
+    "examine": "A tablet containing a magic spell.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 10
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Teak demon lectern",
+            "skills": [
+                {
+                    "experience": 50.3,
+                    "level": 57,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Enchant diamond"
+            }
+        }
+    ]
+}

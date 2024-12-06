@@ -1,0 +1,46 @@
+{
+    "itemId": 9566,
+    "itemName": "Mixed blizzard",
+    "examine": "This Wizzard Blizzard needs pouring, a lime slice and pineapple chunks.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vodka",
+                    "quantity": 2
+                },
+                {
+                    "name": "Gin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lime",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lemon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Orange",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Cocktail shaker",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 18,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed blizzard"
+            }
+        }
+    ]
+}

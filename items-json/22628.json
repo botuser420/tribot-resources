@@ -1,0 +1,20 @@
+{
+    "itemId": 22628,
+    "itemName": "Statius's platebody",
+    "examine": "A powerful platebody.",
+    "weight": 9.979,
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": 5,
+        "slashAttackBonus": 5,
+        "crushAttackBonus": 7,
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -10,
+        "stabDefenceBonus": 154,
+        "slashDefenceBonus": 145,
+        "crushDefenceBonus": 121,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 157,
+        "strengthBonus": 5
+    }
+}

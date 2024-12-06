@@ -1,0 +1,11 @@
+{
+    "itemId": 27161,
+    "itemName": "Mystic robe bottom (light)",
+    "examine": "The lower half of a bright magical robe.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 15,
+        "magicDefenceBonus": 15
+    }
+}

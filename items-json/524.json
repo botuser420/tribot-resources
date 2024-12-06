@@ -1,0 +1,22 @@
+{
+    "itemId": 524,
+    "itemName": "Enchanted bear",
+    "examine": "I don't fancy eating this now.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw bear meat",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cauldron of Thunder",
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted bear"
+            }
+        }
+    ]
+}

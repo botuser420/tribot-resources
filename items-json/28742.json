@@ -1,0 +1,9 @@
+{
+    "itemId": 28742,
+    "itemName": "Trailblazer reloaded trousers (t3)",
+    "examine": "The trousers of a Trailblazer Reloaded Relic Hunter.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

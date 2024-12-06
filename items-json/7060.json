@@ -1,0 +1,34 @@
+{
+    "itemId": 7060,
+    "itemName": "Tuna potato",
+    "examine": "A baked potato with tuna and sweetcorn.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Tuna and corn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Potato with butter",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 68,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tuna potato"
+            }
+        }
+    ]
+}

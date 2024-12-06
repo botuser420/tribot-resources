@@ -1,0 +1,11 @@
+{
+    "itemId": 27010,
+    "itemName": "Preform",
+    "examine": "A giant piece of untempered metal.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

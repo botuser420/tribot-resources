@@ -1,0 +1,37 @@
+{
+    "itemId": 2118,
+    "itemName": "Pineapple ring",
+    "examine": "Exotic fruit.",
+    "weight": 0.03,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Pineapple",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 4,
+                "name": "Pineapple ring"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Tenti pineapple",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 4,
+                "name": "Pineapple ring"
+            }
+        }
+    ]
+}

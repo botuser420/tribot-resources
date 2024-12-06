@@ -1,0 +1,31 @@
+{
+    "itemId": 9444,
+    "itemName": "Willow stock",
+    "examine": "A willow crossbow stock.",
+    "weight": 3.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Willow logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 22.0,
+                    "level": 39,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Willow stock"
+            }
+        }
+    ]
+}

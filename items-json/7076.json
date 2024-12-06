@@ -1,0 +1,33 @@
+{
+    "itemId": 7076,
+    "itemName": "Uncooked egg",
+    "examine": "A bowl of uncooked egg.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Egg",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bowl",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 13,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked egg"
+            }
+        }
+    ]
+}

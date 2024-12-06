@@ -1,0 +1,38 @@
+{
+    "itemId": 8929,
+    "itemName": "Crabclaw hook",
+    "examine": "Tied together so they don't come apart.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crab claw",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pirate's hook",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "tools": "Book o' piracy",
+            "output": {
+                "quantity": 1,
+                "name": "Crabclaw hook"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 3,
+        "strengthBonus": 1
+    }
+}

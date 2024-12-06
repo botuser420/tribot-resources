@@ -1,0 +1,11 @@
+{
+    "itemId": 30157,
+    "itemName": "Butler's tray",
+    "examine": "A neat way to carry things!",
+    "weight": 0.05,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

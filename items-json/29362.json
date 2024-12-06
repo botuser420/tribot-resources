@@ -1,0 +1,27 @@
+{
+    "itemId": 29362,
+    "itemName": "Blessed superior dragon bones",
+    "examine": "Bones blessed at an exposed altar.",
+    "weight": 1.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Superior dragon bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Exposed altar",
+            "skills": [
+                {
+                    "level": 70,
+                    "name": "Prayer"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blessed superior dragon bones"
+            }
+        }
+    ]
+}

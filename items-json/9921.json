@@ -1,0 +1,9 @@
+{
+    "itemId": 9921,
+    "itemName": "Skeleton boots",
+    "examine": "Skeleton feet.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

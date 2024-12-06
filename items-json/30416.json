@@ -1,0 +1,9 @@
+{
+    "itemId": 30416,
+    "itemName": "Raging echoes robeskirt (t2)",
+    "examine": "The robes of a Raging Echoes relic hunter.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 12833,
+    "itemName": "Holy elixir",
+    "examine": "A bottle of holy elixir.",
+    "weight": 2.0,
+    "buyLimit": 5
+}

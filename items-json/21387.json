@@ -1,0 +1,7 @@
+{
+    "itemId": 21387,
+    "itemName": "Master scroll book (empty)",
+    "examine": "I can store my teleport scrolls in this.",
+    "weight": 1.0,
+    "buyLimit": 100
+}

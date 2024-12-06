@@ -1,0 +1,37 @@
+{
+    "itemId": 581,
+    "itemName": "Black robe",
+    "examine": "I can do magic better in this.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Blue wizard robe",
+                    "quantity": 1
+                },
+                {
+                    "name": "Black dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black robe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

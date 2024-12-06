@@ -1,0 +1,62 @@
+{
+    "itemId": 13385,
+    "itemName": "Xerician hat",
+    "examine": "The forgotten magicks of Xeric imbue this garment with a little power.",
+    "weight": 0.2,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Xerician fabric",
+                    "quantity": 3
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 66.0,
+                    "level": 14,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Xerician hat"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Xerician fabric",
+                    "quantity": 3
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 66.0,
+                    "level": 14,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Xerician hat"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

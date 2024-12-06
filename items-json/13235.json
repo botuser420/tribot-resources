@@ -1,0 +1,47 @@
+{
+    "itemId": 13235,
+    "itemName": "Eternal boots",
+    "examine": "A pair of upgraded infinity boots.",
+    "weight": 1.814,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Infinity boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Eternal crystal",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 200.0,
+                    "level": 60,
+                    "name": "Magic"
+                },
+                {
+                    "experience": 200.0,
+                    "level": 60,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Eternal boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 8,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 5,
+        "crushDefenceBonus": 5,
+        "magicDefenceBonus": 8,
+        "rangeDefenceBonus": 5,
+        "magicDamageBonus": 1.0
+    }
+}

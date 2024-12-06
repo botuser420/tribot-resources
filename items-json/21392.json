@@ -1,0 +1,33 @@
+{
+    "itemId": 21392,
+    "itemName": "Expert mining gloves",
+    "examine": "These will help me mine Sandstone, Runite and Amethyst. As well as improve mining for Iron, Silver, Coal, Gold, Mithril, Adamantite.",
+    "weight": 0.226,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Mining gloves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Superior mining gloves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unidentified minerals",
+                    "quantity": 40
+                }
+            ],
+            "facilities": "Belona",
+            "output": {
+                "quantity": 1,
+                "name": "Expert mining gloves"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "itemId": 6086,
+    "itemName": "Blue dye bellows",
+    "examine": "A large pair of ogre bellows filled with blue dye.",
+    "weight": 0.538,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ogre bellows",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blue dye",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blue dye bellows"
+            }
+        }
+    ]
+}

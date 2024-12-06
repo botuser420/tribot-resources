@@ -1,0 +1,15 @@
+{
+    "itemId": 20035,
+    "itemName": "Samurai kasa",
+    "examine": "A conical hat.",
+    "weight": 0.6,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "HEAD",
+        "stabDefenceBonus": 16,
+        "slashDefenceBonus": 17,
+        "crushDefenceBonus": 15,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 16
+    }
+}

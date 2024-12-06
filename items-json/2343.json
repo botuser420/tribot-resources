@@ -1,0 +1,31 @@
+{
+    "itemId": 2343,
+    "itemName": "Cooked oomlie wrap",
+    "examine": "Deliciously cooked oomlie meat in a palm leaf pouch.",
+    "weight": 0.3,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Wrapped oomlie",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 50,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked oomlie wrap"
+            }
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "itemId": 19976,
+    "itemName": "Light tuxedo cuffs",
+    "examine": "Linked tuxedo cuffs with a gold trim.",
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

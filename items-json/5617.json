@@ -1,0 +1,11 @@
+{
+    "itemId": 5617,
+    "itemName": "Iron arrow(p+)",
+    "examine": "Venomous-looking arrows.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 10
+    }
+}

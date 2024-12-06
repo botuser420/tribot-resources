@@ -1,0 +1,193 @@
+{
+    "itemId": 4696,
+    "itemName": "Dust rune",
+    "examine": "A combined Air and Earth Rune.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Air tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 8.3,
+                    "level": 10,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dust rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Air tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 12.4,
+                    "level": 10,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dust rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Air Altar",
+            "tools": "Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 8.3,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dust rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 9.0,
+                    "level": 10,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dust rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 13.5,
+                    "level": 10,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dust rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 9.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dust rune"
+            }
+        }
+    ]
+}

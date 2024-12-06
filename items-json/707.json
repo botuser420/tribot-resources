@@ -1,0 +1,64 @@
+{
+    "itemId": 707,
+    "itemName": "Chemical compound",
+    "examine": "A mixture of strong chemicals.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Nitroglycerin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ammonium nitrate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ground charcoal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arcenia root",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 7.5,
+                    "level": 10,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chemical compound"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Mixed chemicals (Step 2)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Arcenia root",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 10,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chemical compound"
+            }
+        }
+    ]
+}

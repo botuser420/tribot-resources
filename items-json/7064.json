@@ -1,0 +1,33 @@
+{
+    "itemId": 7064,
+    "itemName": "Egg and tomato",
+    "examine": "A bowl of scrambled eggs and tomato.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Scrambled egg",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 23,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Egg and tomato"
+            }
+        }
+    ]
+}

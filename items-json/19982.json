@@ -1,0 +1,10 @@
+{
+    "itemId": 19982,
+    "itemName": "Light tuxedo shoes",
+    "examine": "Light shoes to match your light tuxedo.",
+    "weight": 0.5,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

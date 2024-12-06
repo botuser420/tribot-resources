@@ -1,0 +1,9 @@
+{
+    "itemId": 22675,
+    "itemName": "Scroll sack",
+    "examine": "Gosh, you really seem to love clue scrolls.",
+    "weight": 0.435,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

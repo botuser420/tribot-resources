@@ -1,0 +1,30 @@
+{
+    "itemId": 25289,
+    "itemName": "Goblin stew",
+    "examine": "A holiday delicacy for some.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mouldy sawdust",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rotten meat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Stale bread",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cauldron (Goblin Kitchen)",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Goblin stew"
+            }
+        }
+    ]
+}

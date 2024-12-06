@@ -1,0 +1,80 @@
+{
+    "itemId": 22350,
+    "itemName": "Small chocolate egg",
+    "examine": "A nice fresh chocolate egg.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Chocolate chunks",
+                    "quantity": 3
+                },
+                {
+                    "name": "Nuggets (2018 Easter event)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Idol of balance",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range (2018 Easter event)",
+            "tools": "Egg mould (2018 Easter event)",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Small chocolate egg"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Chocolate chunks",
+                    "quantity": 3
+                },
+                {
+                    "name": "Nuggets (2018 Easter event)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Idol of chaos",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range (2018 Easter event)",
+            "tools": "Egg mould (2018 Easter event)",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Small chocolate egg"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Chocolate chunks",
+                    "quantity": 3
+                },
+                {
+                    "name": "Nuggets (2018 Easter event)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Idol of light",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range (2018 Easter event)",
+            "tools": "Egg mould (2018 Easter event)",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Small chocolate egg"
+            }
+        }
+    ]
+}

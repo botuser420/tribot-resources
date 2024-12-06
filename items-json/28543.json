@@ -1,0 +1,20 @@
+{
+    "itemId": 28543,
+    "itemName": "Corrupted scythe of vitur",
+    "examine": "A powerful scythe.",
+    "weight": 3.175,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 56,
+        "slashAttackBonus": 88,
+        "crushAttackBonus": 24,
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": -2,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 8,
+        "strengthBonus": 60,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SCYTHE"
+    }
+}

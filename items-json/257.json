@@ -1,0 +1,29 @@
+{
+    "itemId": 257,
+    "itemName": "Ranarr weed",
+    "examine": "A useful herb.",
+    "weight": 0.007,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy ranarr weed",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 7.5,
+                    "level": 25,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ranarr weed"
+            }
+        }
+    ]
+}

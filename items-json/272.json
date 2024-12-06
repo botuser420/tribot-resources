@@ -1,0 +1,29 @@
+{
+    "itemId": 272,
+    "itemName": "Fish food",
+    "examine": "Keeps your pet fish strong and healthy.",
+    "weight": 0.028,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ground guam",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ground seaweed",
+                    "quantity": 1
+                },
+                {
+                    "name": "An empty box",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fish food"
+            }
+        }
+    ]
+}

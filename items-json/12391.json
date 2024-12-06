@@ -1,0 +1,16 @@
+{
+    "itemId": 12391,
+    "itemName": "Gilded boots",
+    "examine": "Rune boots with gold plate.",
+    "weight": 1.36,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 14,
+        "strengthBonus": 2
+    }
+}

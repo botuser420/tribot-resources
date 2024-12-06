@@ -1,0 +1,43 @@
+{
+    "itemId": 19627,
+    "itemName": "Cemetery teleport",
+    "examine": "A teleport to the Cemetery in level 31 Wilderness.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 82.0,
+                    "level": 71,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cemetery teleport (tablet)"
+            }
+        }
+    ]
+}

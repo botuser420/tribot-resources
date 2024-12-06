@@ -1,0 +1,77 @@
+{
+    "itemId": 561,
+    "itemName": "Nature rune",
+    "examine": "Used for alchemy spells.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Nature Altar",
+            "tools": "Nature tiara, Nature talisman",
+            "skills": [
+                {
+                    "experience": 9.0,
+                    "level": 44,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Nature rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Nature Altar",
+            "tools": "Nature tiara, Nature talisman",
+            "skills": [
+                {
+                    "experience": 13.5,
+                    "level": 44,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Nature rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Nature Altar",
+            "skills": [
+                {
+                    "experience": 9.0,
+                    "level": 44,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Nature rune"
+            }
+        }
+    ]
+}

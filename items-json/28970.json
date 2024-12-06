@@ -1,0 +1,21 @@
+{
+    "itemId": 28970,
+    "itemName": "Bream scales",
+    "examine": "Flaked off but still shiny.",
+    "weight": 0.003,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw bream",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Bream scales"
+            }
+        }
+    ]
+}

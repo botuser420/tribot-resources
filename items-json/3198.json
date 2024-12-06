@@ -1,0 +1,20 @@
+{
+    "itemId": 3198,
+    "itemName": "Mithril halberd",
+    "examine": "A mithril halberd.",
+    "weight": 2.721,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 22,
+        "slashAttackBonus": 28,
+        "magicAttackBonus": -4,
+        "stabDefenceBonus": -1,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 4,
+        "strengthBonus": 29,
+        "attackDistance": 2,
+        "attackSpeed": 7,
+        "weaponType": "POLEARM"
+    }
+}

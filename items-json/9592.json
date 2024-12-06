@@ -1,0 +1,25 @@
+{
+    "itemId": 9592,
+    "itemName": "Magic glue",
+    "examine": "Glue made from tree sap and ground mud runes.",
+    "weight": 2.5,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bucket of sap",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ground mud runes",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magic glue"
+            }
+        }
+    ]
+}

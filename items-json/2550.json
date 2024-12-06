@@ -1,0 +1,41 @@
+{
+    "itemId": 2550,
+    "itemName": "Ring of recoil",
+    "examine": "An enchanted ring.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Sapphire ring",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 7,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ring of recoil"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 6748,
+    "itemName": "Demonic sigil",
+    "examine": "A sigil used for the summoning of the demon Agrith-Naar.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Demonic sigil mould",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 30,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Demonic sigil"
+            }
+        }
+    ]
+}

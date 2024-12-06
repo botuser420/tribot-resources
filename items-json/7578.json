@@ -1,0 +1,28 @@
+{
+    "itemId": 7578,
+    "itemName": "Odd stuffed snake",
+    "examine": "Is this really what you wanted to do?",
+    "weight": 3.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Snake corpse",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red banana",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tchiki monkey nuts",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Odd stuffed snake"
+            }
+        }
+    ]
+}

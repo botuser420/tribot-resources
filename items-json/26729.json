@@ -1,0 +1,20 @@
+{
+    "itemId": 26729,
+    "itemName": "Wristbands of the arena (ic)",
+    "examine": "A pair of imbued wristbands to protect your hands in combat.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 14,
+        "slashAttackBonus": 13,
+        "crushAttackBonus": 15,
+        "magicAttackBonus": 7,
+        "rangedAttackBonus": 13,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 12,
+        "crushDefenceBonus": 12,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 12,
+        "strengthBonus": 12
+    }
+}

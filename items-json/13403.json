@@ -1,0 +1,30 @@
+{
+    "itemId": 13403,
+    "itemName": "Servery meat pie",
+    "examine": "Put it on the servery table to feed the troops.",
+    "weight": 0.45,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery uncooked pie",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Clay oven",
+            "skills": [
+                {
+                    "experience": 3.0,
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery meat pie"
+            }
+        }
+    ]
+}

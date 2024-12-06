@@ -1,0 +1,29 @@
+{
+    "itemId": 26494,
+    "itemName": "Book of war (or)",
+    "examine": "The short book of the wisdom of Bandos, plucked from the shattered abyss.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Book of war",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shattered relics variety ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Book of war (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "strengthBonus": 2,
+        "prayerBonus": 5
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 26356,
+    "itemName": "Frozen key",
+    "examine": "A mysterious frozen key.",
+    "weight": 0.04,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Frozen key piece (bandos)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Frozen key piece (saradomin)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Frozen key piece (zamorak)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Frozen key piece (armadyl)",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Frozen key (The Frozen Door)"
+            }
+        }
+    ]
+}

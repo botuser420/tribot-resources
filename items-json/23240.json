@@ -1,0 +1,37 @@
+{
+    "itemId": 23240,
+    "itemName": "Berserker necklace (or)",
+    "examine": "Makes obsidian weapons even stronger and has a nice glow to boot!",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Berserker necklace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Berserker necklace ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Berserker necklace (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": -10,
+        "slashAttackBonus": -10,
+        "crushAttackBonus": -10,
+        "stabDefenceBonus": -20,
+        "slashDefenceBonus": -20,
+        "crushDefenceBonus": -20,
+        "magicDefenceBonus": -20,
+        "rangeDefenceBonus": -20,
+        "strengthBonus": 7,
+        "prayerBonus": 3
+    }
+}

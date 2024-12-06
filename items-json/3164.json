@@ -1,0 +1,25 @@
+{
+    "itemId": 3164,
+    "itemName": "Karamjan rum",
+    "examine": "The Karamjan rum has slices of banana floating in it.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Karamjan rum",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sliced banana",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Karamjan rum (sliced banana)"
+            }
+        }
+    ]
+}

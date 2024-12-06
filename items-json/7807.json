@@ -1,0 +1,16 @@
+{
+    "itemId": 7807,
+    "itemName": "Anger battleaxe",
+    "examine": "A heavy duty axe.",
+    "weight": 2.721,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 2,
+        "slashAttackBonus": 2,
+        "crushAttackBonus": 2,
+        "rangeDefenceBonus": -1,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "AXE"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "itemId": 21255,
+    "itemName": "Slayer's staff (e)",
+    "examine": "An old and magical staff, now bearing extra enchantment.",
+    "weight": 1.95,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Slayer's staff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Slayer's enchantment",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Slayer's staff (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 25,
+        "magicAttackBonus": 12,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 10,
+        "strengthBonus": 35,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

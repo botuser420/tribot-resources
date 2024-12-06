@@ -1,0 +1,59 @@
+{
+    "itemId": 1581,
+    "itemName": "Blamish snail slime",
+    "examine": "Yuck.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Sample bottle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thin snail",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Blamish snail slime"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Sample bottle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lean snail",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Blamish snail slime"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Sample bottle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fat snail",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Blamish snail slime"
+            }
+        }
+    ]
+}

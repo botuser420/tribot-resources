@@ -1,0 +1,31 @@
+{
+    "itemId": 68,
+    "itemName": "Yew shortbow (u)",
+    "examine": "An unstrung yew shortbow; I need a bowstring for this.",
+    "weight": 0.992,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Yew logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 67.5,
+                    "level": 65,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yew shortbow (u)"
+            }
+        }
+    ]
+}

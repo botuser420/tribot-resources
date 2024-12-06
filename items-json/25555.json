@@ -1,0 +1,28 @@
+{
+    "itemId": 25555,
+    "itemName": "Golden prospector boots",
+    "examine": "Helps you when you're mining. Looks good too.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Prospector boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Star fragment",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Golden prospector boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET"
+    }
+}

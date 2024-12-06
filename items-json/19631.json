@@ -1,0 +1,43 @@
+{
+    "itemId": 19631,
+    "itemName": "Ape atoll teleport",
+    "examine": "A teleport to Ape Atoll.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 90,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ape atoll teleport (tablet)"
+            }
+        }
+    ]
+}

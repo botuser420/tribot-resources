@@ -1,0 +1,29 @@
+{
+    "itemId": 9584,
+    "itemName": "Unfinished crunchy",
+    "examine": "This worm crunchy needs garnishing with gnome spices.",
+    "weight": 0.35,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Half made crunchy (worm)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 14,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfinished crunchy (worm)"
+            }
+        }
+    ]
+}

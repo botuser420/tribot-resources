@@ -1,0 +1,9 @@
+{
+    "itemId": 29443,
+    "itemName": "Egg priest mitre",
+    "examine": "An egg mitre.",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

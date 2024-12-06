@@ -1,0 +1,31 @@
+{
+    "itemId": 7946,
+    "itemName": "Monkfish",
+    "examine": "A tasty fish.",
+    "weight": 0.4,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw monkfish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 62,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Monkfish"
+            }
+        }
+    ]
+}

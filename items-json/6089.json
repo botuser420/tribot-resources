@@ -1,0 +1,25 @@
+{
+    "itemId": 6089,
+    "itemName": "Blue toad",
+    "examine": "A blue dye filled toad.",
+    "weight": 0.75,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Swamp Toad",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blue dye bellows",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blue toad"
+            }
+        }
+    ]
+}

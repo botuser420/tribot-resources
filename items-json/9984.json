@@ -1,0 +1,33 @@
+{
+    "itemId": 9984,
+    "itemName": "Skewered bird meat",
+    "examine": "Skewered bird meat.",
+    "weight": 1.65,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw bird meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Iron spit",
+            "skills": [
+                {
+                    "level": 11,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 20,
+                    "name": "Firemaking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Skewered bird meat"
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "itemId": 3777,
+    "itemName": "Fremennik red cloak",
+    "examine": "The latest fashion in Rellekka.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

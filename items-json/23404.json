@@ -1,0 +1,17 @@
+{
+    "itemId": 23404,
+    "itemName": "Adamant platebody (h5)",
+    "examine": "Adamant platebody with a heraldic design.",
+    "weight": 11.339,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 65,
+        "slashDefenceBonus": 63,
+        "crushDefenceBonus": 55,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 63
+    }
+}

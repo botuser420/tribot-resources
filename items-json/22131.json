@@ -1,0 +1,44 @@
+{
+    "itemId": 22131,
+    "itemName": "Adamant kiteshield",
+    "examine": "A shield with a picture of the Dorgeshuun brooch.",
+    "weight": 5.443,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Adamant kiteshield",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Shield easel",
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 43,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "level": 16,
+                    "name": "Construction"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Adamant kiteshield (Dorgeshuun)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 27,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 29,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 29
+    }
+}

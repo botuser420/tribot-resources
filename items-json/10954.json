@@ -1,0 +1,17 @@
+{
+    "itemId": 10954,
+    "itemName": "Frog-leather body",
+    "examine": "Armour made out of frog hide.",
+    "weight": 5.0,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 23,
+        "slashDefenceBonus": 26,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": 15,
+        "rangeDefenceBonus": 32
+    }
+}

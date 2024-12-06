@@ -1,0 +1,18 @@
+{
+    "itemId": 30390,
+    "itemName": "Nature's reprisal",
+    "examine": "A piece of living nature, with a will for vengeance.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 95,
+        "magicAttackBonus": 45,
+        "rangedAttackBonus": 155,
+        "strengthBonus": 103,
+        "rangedStrengthBonus": 92,
+        "magicDamageBonus": 12.0,
+        "attackDistance": 7,
+        "attackSpeed": 5,
+        "weaponType": "SALAMANDER"
+    }
+}

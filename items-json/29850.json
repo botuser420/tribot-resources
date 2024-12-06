@@ -1,0 +1,17 @@
+{
+    "itemId": 29850,
+    "itemName": "Dual macuahuitl",
+    "examine": "A brutal pair.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 115,
+        "slashAttackBonus": -4,
+        "crushAttackBonus": 121,
+        "magicAttackBonus": -4,
+        "strengthBonus": 81,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "itemId": 11154,
+    "itemName": "Dream potion",
+    "examine": "Potion of Shared Dreaming. One dream for two!",
+    "weight": 0.03,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Ground astral rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dream vial (herb)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 84.0,
+                    "level": 0,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dream potion"
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "itemId": 1656,
+    "itemName": "Sapphire necklace",
+    "examine": "I wonder if this is valuable.",
+    "weight": 0.01,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Sapphire",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Necklace mould",
+            "skills": [
+                {
+                    "experience": 55.0,
+                    "level": 22,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Sapphire necklace"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

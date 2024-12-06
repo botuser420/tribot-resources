@@ -1,0 +1,12 @@
+{
+    "itemId": 3793,
+    "itemName": "Fremennik robe",
+    "examine": "The latest fashion in Rellekka.",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2
+    }
+}

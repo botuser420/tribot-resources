@@ -1,0 +1,9 @@
+{
+    "itemId": 22392,
+    "itemName": "Xeric's sentinel",
+    "examine": "Awarded for completing 1000 Chambers of Xeric in challenge mode.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

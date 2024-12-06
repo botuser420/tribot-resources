@@ -1,0 +1,260 @@
+{
+    "itemId": 28628,
+    "itemName": "Sawmill voucher",
+    "examine": "Used to provide additional planks at the sawmill.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 100
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sawmill",
+            "output": {
+                "quantity": 2,
+                "name": "Plank"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Oak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 250
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sawmill",
+            "output": {
+                "quantity": 2,
+                "name": "Oak plank"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Teak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sawmill",
+            "output": {
+                "quantity": 2,
+                "name": "Teak plank"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Mahogany logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1500
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sawmill",
+            "output": {
+                "quantity": 2,
+                "name": "Mahogany plank"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 70
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 15
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 86,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 2,
+                "name": "Plank"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Oak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 175
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 15
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 86,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 2,
+                "name": "Oak plank"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Teak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 350
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 15
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 86,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 2,
+                "name": "Teak plank"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mahogany logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1050
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 15
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 86,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 2,
+                "name": "Mahogany plank"
+            }
+        }
+    ]
+}

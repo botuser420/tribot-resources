@@ -1,0 +1,10 @@
+{
+    "itemId": 6359,
+    "itemName": "Villager armband",
+    "examine": "A light blue armband, as worn by the Tai Bwo Wannai locals.",
+    "weight": 0.68,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

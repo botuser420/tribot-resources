@@ -1,0 +1,14 @@
+{
+    "itemId": 29852,
+    "itemName": "Eclipse atlatl",
+    "examine": "Quite big for a dart.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 87,
+        "strengthBonus": 40,
+        "attackDistance": 5,
+        "attackSpeed": 4,
+        "weaponType": "BOW"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "itemId": 23858,
+    "itemName": "Corrupted teleport crystal",
+    "examine": "A corrupted crystal enchanted to return the user to the start of the Gauntlet.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Corrupted shards",
+                    "quantity": 40
+                }
+            ],
+            "facilities": "Singing Bowl (The Corrupted Gauntlet)|Singing Bowl",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Corrupted teleport crystal"
+            }
+        }
+    ]
+}

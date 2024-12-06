@@ -1,0 +1,33 @@
+{
+    "itemId": 1995,
+    "itemName": "Unfermented wine",
+    "examine": "This wine needs to ferment before it can be drunk.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Grapes",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jug of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Unfermented wine"
+            }
+        }
+    ]
+}

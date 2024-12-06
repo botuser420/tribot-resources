@@ -1,0 +1,14 @@
+{
+    "itemId": 13221,
+    "itemName": "Music cape",
+    "examine": "The cape worn by music aficionados.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9
+    }
+}

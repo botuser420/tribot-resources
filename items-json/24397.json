@@ -1,0 +1,10 @@
+{
+    "itemId": 24397,
+    "itemName": "Twisted hat (t2)",
+    "examine": "The headgear of a twisted relic hunter.",
+    "weight": 0.453,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

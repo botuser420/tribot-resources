@@ -1,0 +1,45 @@
+{
+    "itemId": 1879,
+    "itemName": "Ugthanki & tomato",
+    "examine": "A mixture of chopped tomatoes and ugthanki meat in a bowl.",
+    "weight": 0.3,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Chopped tomato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ugthanki meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Ugthanki & tomato"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Chopped ugthanki",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Ugthanki & tomato"
+            }
+        }
+    ]
+}

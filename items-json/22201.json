@@ -1,0 +1,35 @@
+{
+    "itemId": 22201,
+    "itemName": "Magic bird house",
+    "examine": "Feed and catch the birds by placing this in the right spot.",
+    "weight": 0.453,
+    "buyLimit": 250,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Magic logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Clockwork",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel, Hammer",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 75,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magic bird house"
+            }
+        }
+    ]
+}

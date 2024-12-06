@@ -1,0 +1,41 @@
+{
+    "itemId": 6128,
+    "itemName": "Rock-shell helm",
+    "examine": "Protective headwear made from crabs. Better than that sounds.",
+    "weight": 2.721,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dagannoth hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rock-shell chunk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 5000
+                }
+            ],
+            "facilities": "Skulgrimen",
+            "output": {
+                "quantity": 1,
+                "name": "Rock-shell helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30
+    }
+}

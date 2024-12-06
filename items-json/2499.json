@@ -1,0 +1,67 @@
+{
+    "itemId": 2499,
+    "itemName": "Blue d'hide body",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 6.803,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Blue dragon leather",
+                    "quantity": 3
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 210.0,
+                    "level": 71,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blue d'hide body"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Blue dragon leather",
+                    "quantity": 3
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 210.0,
+                    "level": 71,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blue d'hide body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 20,
+        "stabDefenceBonus": 23,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 30,
+        "magicDefenceBonus": 26,
+        "rangeDefenceBonus": 40
+    }
+}

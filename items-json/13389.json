@@ -1,0 +1,62 @@
+{
+    "itemId": 13389,
+    "itemName": "Xerician robe",
+    "examine": "The forgotten magicks of Xeric imbue this garment with a little power.",
+    "weight": 0.18,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Xerician fabric",
+                    "quantity": 4
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 88.0,
+                    "level": 17,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Xerician robe"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Xerician fabric",
+                    "quantity": 4
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 88.0,
+                    "level": 17,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Xerician robe"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 4,
+        "magicDefenceBonus": 7
+    }
+}

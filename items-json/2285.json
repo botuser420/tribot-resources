@@ -1,0 +1,33 @@
+{
+    "itemId": 2285,
+    "itemName": "Incomplete pizza",
+    "examine": "I need to add some cheese next.",
+    "weight": 0.6,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Pizza base",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Incomplete pizza"
+            }
+        }
+    ]
+}

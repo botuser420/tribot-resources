@@ -1,0 +1,9 @@
+{
+    "itemId": 11982,
+    "itemName": "Ring of wealth (4)",
+    "examine": "An enchanted ring with four teleport charges.",
+    "weight": 0.006,
+    "equipment": {
+        "slot": "RING"
+    }
+}

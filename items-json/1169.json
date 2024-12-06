@@ -1,0 +1,67 @@
+{
+    "itemId": 1169,
+    "itemName": "Coif",
+    "examine": "Light weight head protection.",
+    "weight": 0.907,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 37.0,
+                    "level": 38,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Coif"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 37.0,
+                    "level": 38,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Coif"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -1,
+        "rangedAttackBonus": 2,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 4
+    }
+}

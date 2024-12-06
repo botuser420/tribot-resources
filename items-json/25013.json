@@ -1,0 +1,13 @@
+{
+    "itemId": 25013,
+    "itemName": "Trailblazer cane",
+    "examine": "A cane of the trailblazer relic hunter.",
+    "weight": 1.814,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SPIKED"
+    }
+}

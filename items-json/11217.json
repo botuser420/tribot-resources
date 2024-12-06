@@ -1,0 +1,10 @@
+{
+    "itemId": 11217,
+    "itemName": "Dragon fire arrow",
+    "examine": "Arrows with dragon heads wrapped in oily cloth.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 60
+    }
+}

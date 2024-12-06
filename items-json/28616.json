@@ -1,0 +1,37 @@
+{
+    "itemId": 28616,
+    "itemName": "Pheasant cape",
+    "examine": "You'll look magni-pheasant wearing this!",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Pheasant tail feathers",
+                    "quantity": 15
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 2,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pheasant cape"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

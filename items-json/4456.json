@@ -1,0 +1,23 @@
+{
+    "itemId": 4456,
+    "itemName": "Bowl of hot water",
+    "examine": "It's a bowl of hot water.",
+    "weight": 0.907,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bowl of water",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "output": {
+                "quantity": 1,
+                "name": "Bowl of hot water"
+            }
+        }
+    ]
+}

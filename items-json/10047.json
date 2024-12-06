@@ -1,0 +1,51 @@
+{
+    "itemId": 10047,
+    "itemName": "Graahk legs",
+    "examine": "These should make me harder to spot in desert areas.",
+    "weight": 0.226,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Graahk fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 150
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Graahk legs"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Tatty graahk fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 150
+                }
+            ],
+            "facilities": "Fancy Clothes Store",
+            "output": {
+                "quantity": 1,
+                "name": "Graahk legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 11,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "rangeDefenceBonus": 10
+    }
+}

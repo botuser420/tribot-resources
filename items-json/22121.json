@@ -1,0 +1,37 @@
+{
+    "itemId": 22121,
+    "itemName": "Wrath tiara",
+    "examine": "A tiara infused with the properties of wrath.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Wrath talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Wrath Altar",
+            "skills": [
+                {
+                    "experience": 52.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wrath tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

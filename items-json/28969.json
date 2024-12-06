@@ -1,0 +1,21 @@
+{
+    "itemId": 28969,
+    "itemName": "Moss lizard tail",
+    "examine": "The tail from a moss lizard.",
+    "weight": 0.003,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw moss lizard",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Moss lizard tail"
+            }
+        }
+    ]
+}

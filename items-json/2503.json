@@ -1,0 +1,67 @@
+{
+    "itemId": 2503,
+    "itemName": "Black d'hide body",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 6.803,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Black dragon leather",
+                    "quantity": 3
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 258.0,
+                    "level": 84,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black d'hide body"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Black dragon leather",
+                    "quantity": 3
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 258.0,
+                    "level": 84,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black d'hide body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 30,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 38,
+        "crushDefenceBonus": 45,
+        "magicDefenceBonus": 45,
+        "rangeDefenceBonus": 50
+    }
+}

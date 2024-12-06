@@ -1,0 +1,41 @@
+{
+    "itemId": 9237,
+    "itemName": "Jade bolts (e)",
+    "examine": "Enchanted Jade tipped Blurite Crossbow Bolts.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Jade bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 19.0,
+                    "level": 14,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Jade bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 30
+    }
+}

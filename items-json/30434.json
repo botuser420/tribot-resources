@@ -1,0 +1,14 @@
+{
+    "itemId": 30434,
+    "itemName": "Echo venator bow",
+    "examine": "A bow used by hunters from a forgotten empire.",
+    "weight": 4.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 90,
+        "rangedStrengthBonus": 25,
+        "attackDistance": 6,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

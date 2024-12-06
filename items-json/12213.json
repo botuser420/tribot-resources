@@ -1,0 +1,17 @@
+{
+    "itemId": 12213,
+    "itemName": "Bronze kiteshield (g)",
+    "examine": "Bronze kiteshield with gold trim.",
+    "weight": 5.443,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 6
+    }
+}

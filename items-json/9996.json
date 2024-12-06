@@ -1,0 +1,35 @@
+{
+    "itemId": 9996,
+    "itemName": "Spicy minced meat",
+    "examine": "A bowl of fiery minced meat.",
+    "weight": 0.5,
+    "buyLimit": 8000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Minced meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Spice",
+            "output": {
+                "quantity": 1,
+                "name": "Spicy minced meat"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Minced meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Gnome spice",
+            "output": {
+                "quantity": 1,
+                "name": "Spicy minced meat"
+            }
+        }
+    ]
+}

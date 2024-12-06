@@ -1,0 +1,30 @@
+{
+    "itemId": 22954,
+    "itemName": "Devout boots",
+    "examine": "A pair of Devout Boots.",
+    "weight": 0.5,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Holy sandals",
+                    "quantity": 1
+                },
+                {
+                    "name": "Drake's tooth",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Devout boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "prayerBonus": 5
+    }
+}

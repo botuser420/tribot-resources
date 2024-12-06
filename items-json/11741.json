@@ -1,0 +1,31 @@
+{
+    "itemId": 11741,
+    "itemName": "Rimmington teleport",
+    "examine": "This tablet has been redirected to the Rimmington portal.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Teleport to house (tablet)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scroll of redirection",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Construction"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rimmington teleport"
+            }
+        }
+    ]
+}

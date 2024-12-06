@@ -1,0 +1,29 @@
+{
+    "itemId": 269,
+    "itemName": "Torstol",
+    "examine": "A powerful herb.",
+    "weight": 0.007,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy torstol",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 75,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Torstol"
+            }
+        }
+    ]
+}

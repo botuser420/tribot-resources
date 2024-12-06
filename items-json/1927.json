@@ -1,0 +1,24 @@
+{
+    "itemId": 1927,
+    "itemName": "Bucket of milk",
+    "examine": "It's a bucket of milk.",
+    "weight": 2.2,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bucket",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dairy cow",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bucket of milk"
+            }
+        }
+    ]
+}

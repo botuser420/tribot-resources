@@ -1,0 +1,24 @@
+{
+    "itemId": 6677,
+    "itemName": "Guam in a box",
+    "examine": "'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Guam Leaf...",
+    "weight": 0.028,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ground guam",
+                    "quantity": 1
+                },
+                {
+                    "name": "An empty box",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Guam in a box"
+            }
+        }
+    ]
+}

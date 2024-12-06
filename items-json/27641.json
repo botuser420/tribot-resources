@@ -1,0 +1,32 @@
+{
+    "itemId": 27641,
+    "itemName": "Saturated heart",
+    "examine": "This heart holds an ancient magical power within.",
+    "weight": 0.45,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Imbued heart",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ancient essence",
+                    "quantity": 150000
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 500.0,
+                    "level": 1,
+                    "name": "Magic"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Saturated heart"
+            }
+        }
+    ]
+}

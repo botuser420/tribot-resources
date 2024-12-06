@@ -1,0 +1,11 @@
+{
+    "itemId": 6741,
+    "itemName": "Broken axe",
+    "examine": "Bob can fix this for me.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 5
+    }
+}

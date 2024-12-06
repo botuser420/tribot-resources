@@ -1,0 +1,9 @@
+{
+    "itemId": 27570,
+    "itemName": "Sack of coal",
+    "examine": "Better not fill this to the brim or I might be on the naughty list.",
+    "weight": 0.05,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

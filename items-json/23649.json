@@ -1,0 +1,10 @@
+{
+    "itemId": 23649,
+    "itemName": "Diamond bolts (e)",
+    "examine": "Enchanted Diamond tipped Adamantite Crossbow Bolts.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 105
+    }
+}

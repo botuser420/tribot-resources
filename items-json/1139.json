@@ -1,0 +1,42 @@
+{
+    "itemId": 1139,
+    "itemName": "Bronze med helm",
+    "examine": "A medium sized helmet.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 3,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze med helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -3,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 3
+    }
+}

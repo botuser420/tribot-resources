@@ -1,0 +1,31 @@
+{
+    "itemId": 738,
+    "itemName": "Ardrigal mixture",
+    "examine": "It's a mixture of Ardrigal and water. Needs another ingredient.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Ardrigal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ardrigal mixture"
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "itemId": 19598,
+    "itemName": "Incomplete heavy ballista",
+    "examine": "The limbs have been attached to the frame.",
+    "weight": 5.5,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Heavy frame",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ballista limbs",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 72,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Incomplete heavy ballista"
+            }
+        }
+    ]
+}

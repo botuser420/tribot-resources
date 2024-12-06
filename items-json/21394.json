@@ -1,0 +1,29 @@
+{
+    "itemId": 21394,
+    "itemName": "Karambwanji",
+    "examine": "Small brightly coloured tropical fish. Looks tasty.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw karambwanji",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Karambwanji"
+            }
+        }
+    ]
+}

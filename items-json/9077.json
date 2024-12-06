@@ -1,0 +1,63 @@
+{
+    "itemId": 9077,
+    "itemName": "Lunar bar",
+    "examine": "It's a bar of magic metal.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Lunar ore",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 6.2,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar bar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Lunar ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.2,
+                    "level": 1,
+                    "name": "Smithing"
+                },
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar bar"
+            }
+        }
+    ]
+}

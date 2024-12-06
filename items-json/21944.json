@@ -1,0 +1,46 @@
+{
+    "itemId": 21944,
+    "itemName": "Ruby dragon bolts (e)",
+    "examine": "Enchanted Dragon crossbow bolts, tipped with ruby.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ruby dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 59.0,
+                    "level": 49,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Ruby dragon bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

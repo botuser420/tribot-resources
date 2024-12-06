@@ -1,0 +1,46 @@
+{
+    "itemId": 21946,
+    "itemName": "Diamond dragon bolts (e)",
+    "examine": "Enchanted Dragon crossbow bolts, tipped with diamond.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Diamond dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 10
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 67.0,
+                    "level": 57,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Diamond dragon bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

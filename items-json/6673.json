@@ -1,0 +1,24 @@
+{
+    "itemId": 6673,
+    "itemName": "Fishbowl and net",
+    "examine": "An empty fishbowl in a net.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Big fishing net",
+                    "quantity": 1
+                },
+                {
+                    "name": "Empty fishbowl",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fishbowl and net"
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "itemId": 27483,
+    "itemName": "Terrifying charm",
+    "examine": "Anyone who wears this must be terrifying.",
+    "weight": 0.09,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bruised banana",
+                    "quantity": 1
+                },
+                {
+                    "name": "Old wool",
+                    "quantity": 1
+                },
+                {
+                    "name": "Smelly sock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spooky egg",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Terrifying charm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO"
+    }
+}

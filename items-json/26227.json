@@ -1,0 +1,11 @@
+{
+    "itemId": 26227,
+    "itemName": "Ancient ceremonial gloves",
+    "examine": "Some ceremonial gloves dedicated to an ancient god.",
+    "weight": 0.2,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HANDS",
+        "prayerBonus": 1
+    }
+}

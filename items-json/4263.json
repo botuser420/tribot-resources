@@ -1,0 +1,25 @@
+{
+    "itemId": 4263,
+    "itemName": "Small ninja bonemeal",
+    "examine": "A pot of crushed small ninja monkey bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Small ninja monkey bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Small ninja bonemeal"
+            }
+        }
+    ]
+}

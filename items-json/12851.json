@@ -1,0 +1,22 @@
+{
+    "itemId": 12851,
+    "itemName": "Amulet of the damned (full)",
+    "examine": "Heirloom of an ancient family of Morytania.",
+    "weight": 0.1,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": 10,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 3,
+        "rangeDefenceBonus": 3,
+        "strengthBonus": 6,
+        "prayerBonus": 3
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 23862,
+    "itemName": "Crystal axe",
+    "examine": "A very powerful axe.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "strengthBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

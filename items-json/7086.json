@@ -1,0 +1,27 @@
+{
+    "itemId": 7086,
+    "itemName": "Chopped tuna",
+    "examine": "A bowl of finely chopped tuna.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bowl",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tuna",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Chopped tuna"
+            }
+        }
+    ]
+}

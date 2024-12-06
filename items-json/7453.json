@@ -1,0 +1,20 @@
+{
+    "itemId": 7453,
+    "itemName": "Hardleather gloves",
+    "examine": "A pair of gloves.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 1,
+        "slashAttackBonus": 1,
+        "crushAttackBonus": 1,
+        "magicAttackBonus": 1,
+        "rangedAttackBonus": 1,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 1
+    }
+}

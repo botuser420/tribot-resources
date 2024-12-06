@@ -1,0 +1,17 @@
+{
+    "itemId": 12233,
+    "itemName": "Iron kiteshield (t)",
+    "examine": "Iron kiteshield with trim.",
+    "weight": 5.443,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 8,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 9
+    }
+}

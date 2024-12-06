@@ -1,0 +1,33 @@
+{
+    "itemId": 13412,
+    "itemName": "Servery pineapple pizza",
+    "examine": "Put it on the servery table to feed the troops.",
+    "weight": 0.9,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Servery plain pizza",
+                    "quantity": 1
+                },
+                {
+                    "name": "Servery pineapple chunks",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 65,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery pineapple pizza"
+            }
+        }
+    ]
+}

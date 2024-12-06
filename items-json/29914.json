@@ -1,0 +1,9 @@
+{
+    "itemId": 29914,
+    "itemName": "Butler's uniform",
+    "examine": "A mostly clean uniform.",
+    "weight": 0.6,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

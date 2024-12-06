@@ -1,0 +1,23 @@
+{
+    "itemId": 13570,
+    "itemName": "Juniper charcoal",
+    "examine": "Rich charcoal made from juniper wood.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 99000,
+            "materials": [
+                {
+                    "name": "Juniper logs",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Charcoal furnace",
+            "tools": "Tinderbox",
+            "output": {
+                "quantity": 50,
+                "name": "Juniper charcoal"
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "itemId": 25410,
+    "itemName": "Bloodbark boots",
+    "examine": "Great foot protection.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Splitbark boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Blood Altar, Blood Altar (Kourend)",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 77,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bloodbark boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 4,
+        "stabDefenceBonus": 5,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 5
+    }
+}

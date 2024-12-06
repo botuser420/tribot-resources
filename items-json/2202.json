@@ -1,0 +1,26 @@
+{
+    "itemId": 2202,
+    "itemName": "Raw crunchies",
+    "examine": "These crunchies need cooking.",
+    "weight": 0.4,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crunchy tray",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gianne dough",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Crunchy tray",
+            "output": {
+                "quantity": 1,
+                "name": "Raw crunchies"
+            }
+        }
+    ]
+}

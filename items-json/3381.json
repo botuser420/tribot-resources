@@ -1,0 +1,31 @@
+{
+    "itemId": 3381,
+    "itemName": "Cooked slimy eel",
+    "examine": "A cooked slimy eel - not delicious, but pretty nutritious.",
+    "weight": 2.0,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw slimy eel",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 95.0,
+                    "level": 28,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked slimy eel"
+            }
+        }
+    ]
+}

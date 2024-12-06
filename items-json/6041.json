@@ -1,0 +1,35 @@
+{
+    "itemId": 6041,
+    "itemName": "Pre-nature amulet",
+    "examine": "Strung with the root of a Magic Tree; needs enchanting.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Emerald amulet (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Magic string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 4.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pre-nature amulet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

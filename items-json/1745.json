@@ -1,0 +1,78 @@
+{
+    "itemId": 1745,
+    "itemName": "Green dragon leather",
+    "examine": "It's a piece of prepared green dragonhide.",
+    "weight": 3.175,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Green dragonhide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 20
+                }
+            ],
+            "facilities": "Tannery",
+            "output": {
+                "quantity": 1,
+                "name": "Green dragon leather"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Green dragonhide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 45
+                }
+            ],
+            "facilities": "Sbott",
+            "output": {
+                "quantity": 1,
+                "name": "Green dragon leather"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Green dragonhide",
+                    "quantity": 5
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 81.0,
+                    "level": 78,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Green dragon leather"
+            }
+        }
+    ]
+}

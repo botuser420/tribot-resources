@@ -1,0 +1,14 @@
+{
+    "itemId": 807,
+    "itemName": "Iron dart",
+    "examine": "A deadly throwing dart with an iron tip.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedStrengthBonus": 2,
+        "attackDistance": 3,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

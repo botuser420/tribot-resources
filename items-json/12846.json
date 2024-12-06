@@ -1,0 +1,7 @@
+{
+    "itemId": 12846,
+    "itemName": "Target teleport scroll",
+    "examine": "Unlocks the level 85 Teleport to Target spell.",
+    "weight": 0.005,
+    "buyLimit": 5
+}

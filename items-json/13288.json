@@ -1,0 +1,9 @@
+{
+    "itemId": 13288,
+    "itemName": "Anti-panties",
+    "examine": "Your smelly reward for helping evict Anti-Santa from Death's house.",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

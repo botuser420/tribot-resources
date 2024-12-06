@@ -1,0 +1,43 @@
+{
+    "itemId": 19629,
+    "itemName": "Barrows teleport",
+    "examine": "A teleport to the Barrows.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 83,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Barrows teleport (tablet)"
+            }
+        }
+    ]
+}

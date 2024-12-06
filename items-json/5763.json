@@ -1,0 +1,39 @@
+{
+    "itemId": 5763,
+    "itemName": "Cider",
+    "examine": "A glass of cider.",
+    "weight": 0.55,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Apple mush",
+                    "quantity": 4
+                },
+                {
+                    "name": "Ale yeast",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beer glass",
+                    "quantity": 8
+                }
+            ],
+            "facilities": "Brewery",
+            "skills": [
+                {
+                    "experience": 182.0,
+                    "level": 14,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 8,
+                "name": "Cider"
+            }
+        }
+    ]
+}

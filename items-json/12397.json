@@ -1,0 +1,10 @@
+{
+    "itemId": 12397,
+    "itemName": "Royal crown",
+    "examine": "Who said I'd never be royal?",
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

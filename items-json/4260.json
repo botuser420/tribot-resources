@@ -1,0 +1,25 @@
+{
+    "itemId": 4260,
+    "itemName": "Baby dragon bonemeal",
+    "examine": "A pot of crushed baby dragon bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Babydragon bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Baby dragon bonemeal"
+            }
+        }
+    ]
+}

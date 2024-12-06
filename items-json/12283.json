@@ -1,0 +1,17 @@
+{
+    "itemId": 12283,
+    "itemName": "Mithril full helm (g)",
+    "examine": "Mithril full helm with gold trim.",
+    "weight": 2.267,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 14,
+        "crushDefenceBonus": 11,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 13
+    }
+}

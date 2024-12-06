@@ -1,0 +1,29 @@
+{
+    "itemId": 255,
+    "itemName": "Harralander",
+    "examine": "A useful herb.",
+    "weight": 0.007,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy harralander",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.3,
+                    "level": 20,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Harralander"
+            }
+        }
+    ]
+}

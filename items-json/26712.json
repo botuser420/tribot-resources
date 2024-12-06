@@ -1,0 +1,32 @@
+{
+    "itemId": 26712,
+    "itemName": "Heavy ballista (or)",
+    "examine": "A powerful and good looking weapon forged from the wreckage of an airship.",
+    "weight": 6.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Heavy ballista",
+                    "quantity": 1
+                },
+                {
+                    "name": "Heavy ballista ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Heavy ballista (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 125,
+        "rangedStrengthBonus": 15,
+        "attackDistance": 9,
+        "attackSpeed": 7,
+        "weaponType": "CROSSBOW"
+    }
+}

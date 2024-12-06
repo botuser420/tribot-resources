@@ -1,0 +1,46 @@
+{
+    "itemId": 9570,
+    "itemName": "Mixed special",
+    "examine": "This Blurberry Special needs pouring, orange and lemon chunks, a lime slice and equa leaves.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vodka",
+                    "quantity": 1
+                },
+                {
+                    "name": "Brandy",
+                    "quantity": 1
+                },
+                {
+                    "name": "Gin",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lemon",
+                    "quantity": 2
+                },
+                {
+                    "name": "Orange",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Cocktail shaker",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 37,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed special"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "itemId": 4256,
+    "itemName": "Bat bonemeal",
+    "examine": "A pot of crushed bat bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bat bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Bat bonemeal"
+            }
+        }
+    ]
+}

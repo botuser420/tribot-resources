@@ -1,0 +1,38 @@
+{
+    "itemId": 9569,
+    "itemName": "Mixed punch",
+    "examine": "This Pineapple Punch needs pouring, lime and pineapple chunks and a<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> orange slice.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pineapple",
+                    "quantity": 2
+                },
+                {
+                    "name": "Lemon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Orange",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Cocktail shaker",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 8,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed punch"
+            }
+        }
+    ]
+}

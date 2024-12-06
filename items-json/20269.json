@@ -1,0 +1,10 @@
+{
+    "itemId": 20269,
+    "itemName": "White unicorn mask",
+    "examine": "Pointy rainbows.",
+    "weight": 0.1,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

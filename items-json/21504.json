@@ -1,0 +1,7 @@
+{
+    "itemId": 21504,
+    "itemName": "Giant seaweed",
+    "examine": "Seaweed of large size.",
+    "weight": 0.2,
+    "buyLimit": 11000
+}

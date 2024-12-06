@@ -1,0 +1,40 @@
+{
+    "itemId": 28869,
+    "itemName": "Hunters' sunlight crossbow",
+    "examine": "A weapon made of horn and bone.",
+    "weight": 6.0,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Sunlight antelope antler",
+                    "quantity": 1
+                },
+                {
+                    "name": "Hunters' crossbow",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "level": 74,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Hunters' sunlight crossbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 79,
+        "attackDistance": 8,
+        "attackSpeed": 4,
+        "weaponType": "CROSSBOW"
+    }
+}

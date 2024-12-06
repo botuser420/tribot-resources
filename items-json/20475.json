@@ -1,0 +1,14 @@
+{
+    "itemId": 20475,
+    "itemName": "Void knight gloves (broken)",
+    "examine": "Broken gloves as used by the order of the Void Knights.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HANDS",
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 6
+    }
+}

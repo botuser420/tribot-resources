@@ -1,0 +1,11 @@
+{
+    "itemId": 882,
+    "itemName": "Bronze arrow",
+    "examine": "Arrows with bronze heads.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 7
+    }
+}

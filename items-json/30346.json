@@ -1,0 +1,17 @@
+{
+    "itemId": 30346,
+    "itemName": "Infernal pickaxe (uncharged)",
+    "examine": "A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",
+    "weight": 2.4,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 38,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 32,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 42,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "PICKAXE"
+    }
+}

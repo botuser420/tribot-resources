@@ -1,0 +1,42 @@
+{
+    "itemId": 9097,
+    "itemName": "Lunar torso",
+    "examine": "Provides good protection.",
+    "weight": 4.535,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Suqah leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 35.0,
+                    "level": 61,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar torso"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": 10,
+        "rangedAttackBonus": -10,
+        "stabDefenceBonus": 34,
+        "slashDefenceBonus": 22,
+        "crushDefenceBonus": 40,
+        "magicDefenceBonus": 12
+    }
+}

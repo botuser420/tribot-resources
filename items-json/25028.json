@@ -1,0 +1,10 @@
+{
+    "itemId": 25028,
+    "itemName": "Trailblazer hood (t1)",
+    "examine": "The headgear of a trailblazer relic hunter.",
+    "weight": 0.453,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

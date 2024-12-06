@@ -1,0 +1,16 @@
+{
+    "itemId": 10887,
+    "itemName": "Barrelchest anchor",
+    "examine": "This is likely to put my back out...",
+    "weight": 30.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 92,
+        "strengthBonus": 100,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "SPIKED"
+    }
+}

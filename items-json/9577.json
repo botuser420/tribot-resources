@@ -1,0 +1,34 @@
+{
+    "itemId": 9577,
+    "itemName": "Half made crunchy",
+    "examine": "This choc chip crunchy needs baking and garnishing with chocolate dust.",
+    "weight": 0.35,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half baked crunchy",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chocolate bar",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Gnome spice",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 16,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half made crunchy (chocchip)"
+            }
+        }
+    ]
+}

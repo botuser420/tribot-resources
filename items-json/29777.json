@@ -1,0 +1,9 @@
+{
+    "itemId": 29777,
+    "itemName": "Bruma torch (off-hand)",
+    "examine": "A torch made from the wood of the magical Bruma tree.",
+    "weight": 0.003,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

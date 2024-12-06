@@ -1,0 +1,96 @@
+{
+    "itemId": 3385,
+    "itemName": "Splitbark helm",
+    "examine": "A wooden helmet.",
+    "weight": 0.907,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 2
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 124.0,
+                    "level": 61,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark helm"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 124.0,
+                    "level": 61,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark helm"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Bark",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fine cloth",
+                    "quantity": 2
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 6000
+                }
+            ],
+            "facilities": "Wizard Jalarast",
+            "output": {
+                "quantity": 1,
+                "name": "Splitbark helm"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 11,
+        "magicDefenceBonus": 3
+    }
+}

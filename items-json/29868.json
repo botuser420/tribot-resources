@@ -1,0 +1,9 @@
+{
+    "itemId": 29868,
+    "itemName": "Emissary hood",
+    "examine": "Headwear of the Twilight Emissaries.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

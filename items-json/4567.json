@@ -1,0 +1,37 @@
+{
+    "itemId": 4567,
+    "itemName": "Gold helmet",
+    "examine": "Made of gold and white gold.",
+    "weight": 31.751,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 50,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Gold helmet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 20,
+        "rangeDefenceBonus": 10
+    }
+}

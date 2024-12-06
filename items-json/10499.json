@@ -1,0 +1,58 @@
+{
+    "itemId": 10499,
+    "itemName": "Ava's accumulator",
+    "examine": "A superior bagged chicken ready to serve you, magnet in claw.",
+    "weight": 4.535,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Coins",
+                    "quantity": 999
+                },
+                {
+                    "name": "Steel arrow",
+                    "quantity": 75
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Ranged"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ava's accumulator"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Ava's attractor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Steel arrow",
+                    "quantity": 75
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Ranged"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Ava's accumulator"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE",
+        "rangedAttackBonus": 4,
+        "slashDefenceBonus": 1,
+        "magicDefenceBonus": 4
+    }
+}

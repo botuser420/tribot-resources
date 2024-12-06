@@ -1,0 +1,9 @@
+{
+    "itemId": 9767,
+    "itemName": "Runecraft hood",
+    "examine": "Runecraft skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

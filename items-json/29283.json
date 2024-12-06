@@ -1,0 +1,77 @@
+{
+    "itemId": 29283,
+    "itemName": "Mixed hide legs",
+    "examine": "Made from the hide of a few different creatures.",
+    "weight": 2.0,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Mixed hide base",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fox fur",
+                    "quantity": 3
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 0
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 210.0,
+                    "level": 71,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed hide legs"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Mixed hide base",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fox fur",
+                    "quantity": 3
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 210.0,
+                    "level": 71,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed hide legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": 3,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": -2,
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 14,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 23,
+        "crushDefenceBonus": 22,
+        "magicDefenceBonus": 16,
+        "rangeDefenceBonus": 20
+    }
+}

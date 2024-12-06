@@ -1,0 +1,32 @@
+{
+    "itemId": 28059,
+    "itemName": "Dragon sq shield (cr)",
+    "examine": "An ancient and powerful-looking Dragon Square Shield.",
+    "weight": 3.175,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon sq shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bounty hunter ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon sq shield (cr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": 50,
+        "slashDefenceBonus": 52,
+        "crushDefenceBonus": 48,
+        "rangeDefenceBonus": 50
+    }
+}

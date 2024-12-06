@@ -1,0 +1,9 @@
+{
+    "itemId": 22400,
+    "itemName": "Drakan's medallion",
+    "examine": "An ancient medallion.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

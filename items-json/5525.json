@@ -1,0 +1,36 @@
+{
+    "itemId": 5525,
+    "itemName": "Tiara",
+    "examine": "Makes me feel like a Princess.",
+    "weight": 1.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Tiara mould",
+            "skills": [
+                {
+                    "experience": 52.5,
+                    "level": 23,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

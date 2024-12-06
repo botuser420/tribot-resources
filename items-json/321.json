@@ -1,0 +1,7 @@
+{
+    "itemId": 321,
+    "itemName": "Raw anchovies",
+    "examine": "I should try cooking this.",
+    "weight": 0.12,
+    "buyLimit": 13000
+}

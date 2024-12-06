@@ -1,0 +1,28 @@
+{
+    "itemId": 30097,
+    "itemName": "Huasca",
+    "examine": "A powerful herb.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy huasca",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 11.8,
+                    "level": 58,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Huasca"
+            }
+        }
+    ]
+}

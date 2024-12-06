@@ -1,0 +1,13 @@
+{
+    "itemId": 4934,
+    "itemName": "Karil's crossbow 100",
+    "examine": "Karil the Tainted's repeating crossbow.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 84,
+        "attackDistance": 8,
+        "attackSpeed": 4,
+        "weaponType": "CROSSBOW"
+    }
+}

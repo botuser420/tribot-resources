@@ -1,0 +1,75 @@
+{
+    "itemId": 29289,
+    "itemName": "Mixed hide cape",
+    "examine": "Made from the hide of a few different creatures.",
+    "weight": 3.0,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Mixed hide base",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jaguar fur",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 0
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 62.0,
+                    "level": 68,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed hide cape"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Mixed hide base",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jaguar fur",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 62.0,
+                    "level": 68,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed hide cape"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 5,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 1
+    }
+}

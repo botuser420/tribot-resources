@@ -1,0 +1,28 @@
+{
+    "itemId": 25549,
+    "itemName": "Golden prospector helmet",
+    "examine": "Helps you when you're mining. Looks good too.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Prospector helmet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Star fragment",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Golden prospector helmet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

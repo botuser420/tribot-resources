@@ -1,0 +1,31 @@
+{
+    "itemId": 11745,
+    "itemName": "Brimhaven teleport",
+    "examine": "This tablet has been redirected to the Brimhaven portal.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Teleport to house (tablet)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Scroll of redirection",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 40,
+                    "name": "Construction"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Brimhaven teleport"
+            }
+        }
+    ]
+}

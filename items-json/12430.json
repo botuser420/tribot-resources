@@ -1,0 +1,10 @@
+{
+    "itemId": 12430,
+    "itemName": "Afro",
+    "examine": "Wild!",
+    "weight": 0.453,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

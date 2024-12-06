@@ -1,0 +1,15 @@
+{
+    "itemId": 25155,
+    "itemName": "Decorative boots (broken)",
+    "examine": "Very decorative boots, but they're broken.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 11,
+        "crushDefenceBonus": 12,
+        "strengthBonus": 1
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "itemId": 13357,
+    "itemName": "Shayzien gloves (1)",
+    "examine": "Dress like a tier 1 Shayzien soldier.",
+    "weight": 0.226,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Lovakite bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 45,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shayzien gloves (1)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": -1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": -1
+    }
+}

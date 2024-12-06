@@ -1,0 +1,42 @@
+{
+    "itemId": 21936,
+    "itemName": "Pearl dragon bolts (e)",
+    "examine": "Enchanted Dragon crossbow bolts, tipped with pearl.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Pearl dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 29.0,
+                    "level": 24,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Pearl dragon bolts (e)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

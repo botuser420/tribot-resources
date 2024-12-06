@@ -1,0 +1,34 @@
+{
+    "itemId": 187,
+    "itemName": "Weapon poison",
+    "examine": "For use on daggers and projectiles.",
+    "weight": 0.025,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Kwuarm potion (unf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon scale dust",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 137.5,
+                    "level": 60,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Weapon poison"
+            }
+        }
+    ]
+}

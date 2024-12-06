@@ -1,0 +1,9 @@
+{
+    "itemId": 23981,
+    "itemName": "Crystal legs (inactive)",
+    "examine": "A bright, shiny set of leg armour.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

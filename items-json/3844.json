@@ -1,0 +1,20 @@
+{
+    "itemId": 3844,
+    "itemName": "Book of balance",
+    "examine": "The holy book of Guthix.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 4,
+        "slashAttackBonus": 4,
+        "crushAttackBonus": 4,
+        "magicAttackBonus": 4,
+        "rangedAttackBonus": 4,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 4,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 4,
+        "prayerBonus": 5
+    }
+}

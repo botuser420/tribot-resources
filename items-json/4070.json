@@ -1,0 +1,16 @@
+{
+    "itemId": 4070,
+    "itemName": "Decorative armour",
+    "examine": "Very decorative armour.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 15,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 16
+    }
+}

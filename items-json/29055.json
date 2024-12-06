@@ -1,0 +1,18 @@
+{
+    "itemId": 29055,
+    "itemName": "Eclipse moon helm (broken)",
+    "examine": "The helm of the Eclipse Moon.",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": 8,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": 10,
+        "rangeDefenceBonus": 4,
+        "strengthBonus": 3
+    }
+}

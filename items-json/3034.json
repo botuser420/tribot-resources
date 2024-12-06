@@ -1,0 +1,7 @@
+{
+    "itemId": 3034,
+    "itemName": "Agility potion(3)",
+    "examine": "3 doses of Agility potion.",
+    "weight": 0.03,
+    "buyLimit": 2000
+}

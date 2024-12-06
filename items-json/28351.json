@@ -1,0 +1,29 @@
+{
+    "itemId": 28351,
+    "itemName": "Arder-musca poison",
+    "examine": "A nasty fungal poison.",
+    "weight": 0.05,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Arder powder",
+                    "quantity": 6
+                },
+                {
+                    "name": "Musca powder",
+                    "quantity": 6
+                },
+                {
+                    "name": "Salax salt",
+                    "quantity": 6
+                }
+            ],
+            "facilities": "Fermentation Vat",
+            "output": {
+                "quantity": 1,
+                "name": "Arder-musca poison"
+            }
+        }
+    ]
+}

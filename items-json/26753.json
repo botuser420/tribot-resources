@@ -1,0 +1,19 @@
+{
+    "itemId": 26753,
+    "itemName": "Elite calamity chest",
+    "examine": "An elite chest piece used by the Calamity Coven.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 6,
+        "magicAttackBonus": 16,
+        "rangedAttackBonus": 21,
+        "stabDefenceBonus": 66,
+        "slashDefenceBonus": 63,
+        "crushDefenceBonus": 66,
+        "magicDefenceBonus": 36,
+        "rangeDefenceBonus": 64
+    }
+}

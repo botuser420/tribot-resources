@@ -1,0 +1,21 @@
+{
+    "itemId": 2946,
+    "itemName": "Golden tinderbox",
+    "examine": "A replica tinderbox made of solid gold.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Tinderbox",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Monument",
+            "output": {
+                "quantity": 1,
+                "name": "Golden tinderbox"
+            }
+        }
+    ]
+}

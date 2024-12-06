@@ -1,0 +1,7 @@
+{
+    "itemId": 273,
+    "itemName": "Poison",
+    "examine": "This stuff looks nasty.",
+    "weight": 0.02,
+    "buyLimit": 15
+}

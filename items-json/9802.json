@@ -1,0 +1,15 @@
+{
+    "itemId": 9802,
+    "itemName": "Cooking cape(t)",
+    "examine": "The cape worn by the world's best chefs.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 9,
+        "rangeDefenceBonus": 9,
+        "prayerBonus": 4
+    }
+}

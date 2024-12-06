@@ -1,0 +1,18 @@
+{
+    "itemId": 12462,
+    "itemName": "Ancient platelegs",
+    "examine": "Rune platelegs in the colours of a long-forgotten god.",
+    "weight": 9.071,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 51,
+        "slashDefenceBonus": 49,
+        "crushDefenceBonus": 47,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 49,
+        "prayerBonus": 1
+    }
+}

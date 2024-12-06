@@ -1,0 +1,39 @@
+{
+    "itemId": 8017,
+    "itemName": "Enchant emerald or jade",
+    "examine": "A tablet containing a magic spell.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Demon lectern",
+            "skills": [
+                {
+                    "experience": 27.8,
+                    "level": 27,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Enchant emerald or jade"
+            }
+        }
+    ]
+}

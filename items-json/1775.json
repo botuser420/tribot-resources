@@ -1,0 +1,206 @@
+{
+    "itemId": 1775,
+    "itemName": "Molten glass",
+    "examine": "Hot glass ready to be blown into useful objects.",
+    "weight": 0.907,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bucket of sand",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soda ash",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Molten glass"
+            }
+        },
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Bucket of sand",
+                    "quantity": 18
+                },
+                {
+                    "name": "Giant seaweed",
+                    "quantity": 3
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 6
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 180.0,
+                    "level": 61,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "experience": 78.0,
+                    "level": 77,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 28,
+                "name": "Molten glass"
+            }
+        },
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Bucket of sand",
+                    "quantity": 13
+                },
+                {
+                    "name": "Seaweed",
+                    "quantity": 13
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 6
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 130.0,
+                    "level": 61,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "experience": 78.0,
+                    "level": 77,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 16,
+                "name": "Molten glass"
+            }
+        },
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Bucket of sand",
+                    "quantity": 13
+                },
+                {
+                    "name": "Soda ash",
+                    "quantity": 13
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 6
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 130.0,
+                    "level": 61,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "experience": 78.0,
+                    "level": 77,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 16,
+                "name": "Molten glass"
+            }
+        },
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Bucket of sand",
+                    "quantity": 13
+                },
+                {
+                    "name": "Swamp weed",
+                    "quantity": 13
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 6
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 130.0,
+                    "level": 61,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "experience": 78.0,
+                    "level": 77,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 16,
+                "name": "Molten glass"
+            }
+        }
+    ]
+}

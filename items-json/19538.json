@@ -1,0 +1,39 @@
+{
+    "itemId": 19538,
+    "itemName": "Zenyte ring",
+    "examine": "A fiery glow emanates from this ring.",
+    "weight": 0.006,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Zenyte",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 150.0,
+                    "level": 89,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Zenyte ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

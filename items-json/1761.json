@@ -1,0 +1,172 @@
+{
+    "itemId": 1761,
+    "itemName": "Soft clay",
+    "examine": "Clay soft enough to mould.",
+    "weight": 0.907,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Clay",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of water",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Soft clay"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Clay",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bowl of water",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Soft clay"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Clay",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jug of water",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Soft clay"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Clay",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Soft clay"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Clay",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 65.0,
+                    "level": 68,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Soft clay"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Clay",
+                    "quantity": 27
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 65.0,
+                    "level": 68,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 27,
+                "name": "Soft clay"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Clay",
+                    "quantity": 27
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 65.0,
+                    "level": 68,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 27,
+                "name": "Soft clay"
+            }
+        }
+    ]
+}

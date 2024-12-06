@@ -1,0 +1,35 @@
+{
+    "itemId": 28878,
+    "itemName": "Moonlight antler bolts",
+    "examine": "Bolts made from the antlers of a moonlight antelope.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Moonlight antelope antler",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 12.0,
+                    "level": 72,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Moonlight antler bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 60
+    }
+}

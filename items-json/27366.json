@@ -1,0 +1,53 @@
+{
+    "itemId": 27366,
+    "itemName": "Masori assembler max hood",
+    "examine": "The hood worn by only the most experienced players.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Masori assembler",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "output": {
+                "quantity": 1,
+                "name": "Masori assembler max hood"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Assembler max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Assembler max cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Masori crafting kit",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "output": {
+                "quantity": 1,
+                "name": "Masori assembler max hood"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

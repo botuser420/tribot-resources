@@ -1,0 +1,9 @@
+{
+    "itemId": 8952,
+    "itemName": "Blue naval shirt",
+    "examine": "...You can sail the seven seas...",
+    "weight": 0.003,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 20190,
+    "itemName": "Steel plateskirt (t)",
+    "examine": "Steel plateskirt with trim.",
+    "weight": 8.164,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 15,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 16
+    }
+}

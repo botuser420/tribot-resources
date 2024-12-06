@@ -1,0 +1,12 @@
+{
+    "itemId": 589,
+    "itemName": "Gnome amulet",
+    "examine": "It's an amulet of protection given to me by the gnomes.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 13
+    }
+}

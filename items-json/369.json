@@ -1,0 +1,29 @@
+{
+    "itemId": 369,
+    "itemName": "Burnt fish",
+    "examine": "Oops!",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw sardine",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Burnt fish (sardine)"
+            }
+        }
+    ]
+}

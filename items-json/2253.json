@@ -1,0 +1,35 @@
+{
+    "itemId": 2253,
+    "itemName": "Worm batta",
+    "examine": "It actually smells quite good.",
+    "weight": 0.25,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Unfinished batta (worm)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 84.0,
+                    "level": 27,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Worm batta"
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 27143,
+    "itemName": "Flower crown",
+    "examine": "A crown made out of six beautiful flowers that celebrates Pride.",
+    "weight": 0.056,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 27839,
+    "itemName": "Zuriel's hood (bh)",
+    "examine": "A powerful hood.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 8,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 16,
+        "crushDefenceBonus": 22,
+        "magicDefenceBonus": 8,
+        "magicDamageBonus": 1.0
+    }
+}

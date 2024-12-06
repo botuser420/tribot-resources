@@ -1,0 +1,44 @@
+{
+    "itemId": 25416,
+    "itemName": "Bloodbark legs",
+    "examine": "Strong leg protection.",
+    "weight": 3.628,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Splitbark legs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Blood Altar, Blood Altar (Kourend)",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 81,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bloodbark legs"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 16,
+        "stabDefenceBonus": 33,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 38,
+        "magicDefenceBonus": 17,
+        "magicDamageBonus": 1.0
+    }
+}

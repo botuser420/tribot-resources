@@ -1,0 +1,47 @@
+{
+    "itemId": 1729,
+    "itemName": "Amulet of defence",
+    "examine": "An enchanted emerald amulet of protection.",
+    "weight": 0.01,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Emerald amulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 3
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 37.0,
+                    "level": 27,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of defence"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 7,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 7,
+        "magicDefenceBonus": 7,
+        "rangeDefenceBonus": 7
+    }
+}

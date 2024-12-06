@@ -1,0 +1,32 @@
+{
+    "itemId": 12774,
+    "itemName": "Frozen abyssal whip",
+    "examine": "A weapon from the frozen abyss.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Abyssal whip",
+                    "quantity": 1
+                },
+                {
+                    "name": "Frozen whip mix",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Frozen abyssal whip"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 82,
+        "strengthBonus": 82,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "WHIP"
+    }
+}

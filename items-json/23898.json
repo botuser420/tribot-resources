@@ -1,0 +1,45 @@
+{
+    "itemId": 23898,
+    "itemName": "Crystal staff (basic)",
+    "examine": "A basic staff of crystal.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 20
+                },
+                {
+                    "name": "Weapon frame",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal staff (basic)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 84,
+        "prayerBonus": 1,
+        "attackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

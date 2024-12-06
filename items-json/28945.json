@@ -1,0 +1,36 @@
+{
+    "itemId": 28945,
+    "itemName": "Echo boots",
+    "examine": "Thick, stony boots. There's a giant crystal in the middle of them.",
+    "weight": 7.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Guardian boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Echo crystal",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Echo boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 32,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 32,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 24,
+        "strengthBonus": 3,
+        "prayerBonus": 4
+    }
+}

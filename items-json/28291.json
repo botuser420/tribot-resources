@@ -1,0 +1,41 @@
+{
+    "itemId": 28291,
+    "itemName": "Magus icon",
+    "examine": "Ancient energy that has been fused with the symbol of a seer.",
+    "weight": 0.006,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Magus vestige",
+                    "quantity": 1
+                },
+                {
+                    "name": "Seers icon",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 500
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 400.0,
+                    "level": 90,
+                    "name": "Magic",
+                    "boostable": true
+                },
+                {
+                    "level": 80,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magus icon"
+            }
+        }
+    ]
+}

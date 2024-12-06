@@ -1,0 +1,21 @@
+{
+    "itemId": 2887,
+    "itemName": "Battered key",
+    "examine": "An old battered key (Provides access to the elemental workshop).",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Battered book",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Battered key"
+            }
+        }
+    ]
+}

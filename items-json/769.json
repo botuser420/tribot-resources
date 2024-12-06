@@ -1,0 +1,26 @@
+{
+    "itemId": 769,
+    "itemName": "Certificate",
+    "examine": "I can use this to claim a reward from King Roald.",
+    "weight": 0.02,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half certificate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Half certificate",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Certificate (Shield of Arrav)"
+            }
+        }
+    ]
+}

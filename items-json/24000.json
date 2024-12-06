@@ -1,0 +1,11 @@
+{
+    "itemId": 24000,
+    "itemName": "Crystal grail",
+    "examine": "Smells of victory.",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

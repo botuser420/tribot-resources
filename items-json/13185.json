@@ -1,0 +1,11 @@
+{
+    "itemId": 13185,
+    "itemName": "Easter blaster",
+    "examine": "Choc 'n' load!",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": -1,
+        "weaponType": "GUN"
+    }
+}

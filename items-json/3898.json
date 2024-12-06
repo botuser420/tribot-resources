@@ -1,0 +1,30 @@
+{
+    "itemId": 3898,
+    "itemName": "Giant pen",
+    "examine": "The King should be able to use this.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Giant nib",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 0,
+                    "name": "None"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Giant pen"
+            }
+        }
+    ]
+}

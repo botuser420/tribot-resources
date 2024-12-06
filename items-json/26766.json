@@ -1,0 +1,11 @@
+{
+    "itemId": 26766,
+    "itemName": "Treasonous ring (i)",
+    "examine": "A razor sharp ring.",
+    "weight": 0.4,
+    "equipment": {
+        "slot": "RING",
+        "stabAttackBonus": 8,
+        "stabDefenceBonus": 8
+    }
+}

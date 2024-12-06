@@ -1,0 +1,101 @@
+{
+    "itemId": 557,
+    "itemName": "Earth rune",
+    "examine": "One of the 4 basic elemental Runes.",
+    "weight": 0.0,
+    "buyLimit": 50000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rune essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Earth talisman",
+            "skills": [
+                {
+                    "experience": 6.5,
+                    "level": 9,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Earth rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Earth talisman",
+            "skills": [
+                {
+                    "experience": 6.5,
+                    "level": 9,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Earth rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Earth talisman",
+            "skills": [
+                {
+                    "experience": 9.7,
+                    "level": 9,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Earth rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "skills": [
+                {
+                    "experience": 6.5,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Earth rune"
+            }
+        }
+    ]
+}

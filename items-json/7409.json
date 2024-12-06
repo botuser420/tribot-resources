@@ -1,0 +1,19 @@
+{
+    "itemId": 7409,
+    "itemName": "Magic secateurs",
+    "examine": "The only way to kill a Tanglefoot.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": 9,
+        "crushAttackBonus": -5,
+        "magicAttackBonus": 1,
+        "slashDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 1,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAB_SWORD"
+    }
+}

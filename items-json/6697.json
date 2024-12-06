@@ -1,0 +1,53 @@
+{
+    "itemId": 6697,
+    "itemName": "Pat of butter",
+    "examine": "A pat of freshly churned butter.",
+    "weight": 0.2,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 19,
+            "materials": [
+                {
+                    "name": "Bucket of milk",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dairy churn",
+            "skills": [
+                {
+                    "experience": 40.5,
+                    "level": 38,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pat of butter"
+            }
+        },
+        {
+            "ticks": 10,
+            "materials": [
+                {
+                    "name": "Pot of cream",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dairy churn",
+            "skills": [
+                {
+                    "experience": 22.5,
+                    "level": 38,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pat of butter"
+            }
+        }
+    ]
+}

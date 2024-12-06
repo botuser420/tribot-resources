@@ -1,0 +1,25 @@
+{
+    "itemId": 4262,
+    "itemName": "Wolf bonemeal",
+    "examine": "A pot of crushed wolf bones.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Wolf bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Wolf bonemeal"
+            }
+        }
+    ]
+}

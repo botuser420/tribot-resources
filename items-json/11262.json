@@ -1,0 +1,318 @@
+{
+    "itemId": 11262,
+    "itemName": "Imp repellent",
+    "examine": "Imps seem to hate this stuff. Can't say I blame them.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Baby impling jar",
+                    "quantity": 3
+                },
+                {
+                    "name": "Young impling jar",
+                    "quantity": 2
+                },
+                {
+                    "name": "Gourmet impling jar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Elnock Inquisitor",
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Assorted flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Black flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blue flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mixed flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Orange flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Purple flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "White flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow flowers",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rosemary",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Marigolds",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Anchovy oil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nasturtiums",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar, Sieve",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 3,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Imp repellent"
+            }
+        }
+    ]
+}

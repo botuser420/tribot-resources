@@ -1,0 +1,38 @@
+{
+    "itemId": 5535,
+    "itemName": "Earth tiara",
+    "examine": "A tiara infused with the properties of the earth.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "skills": [
+                {
+                    "experience": 32.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Earth tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

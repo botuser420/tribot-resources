@@ -1,0 +1,14 @@
+{
+    "itemId": 12924,
+    "itemName": "Toxic blowpipe (empty)",
+    "examine": "Fires darts while coating them with venom.",
+    "weight": 0.3,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 30,
+        "attackDistance": 5,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

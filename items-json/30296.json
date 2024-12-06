@@ -1,0 +1,9 @@
+{
+    "itemId": 30296,
+    "itemName": "Powder grey pumpkin (angry)",
+    "examine": "That pumpkin is not happy about things.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

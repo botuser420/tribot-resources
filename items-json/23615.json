@@ -1,0 +1,19 @@
+{
+    "itemId": 23615,
+    "itemName": "Vesta's longsword",
+    "examine": "A powerful longsword.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 106,
+        "slashAttackBonus": 121,
+        "crushAttackBonus": -2,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 3,
+        "strengthBonus": 118,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

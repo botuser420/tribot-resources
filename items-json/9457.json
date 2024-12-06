@@ -1,0 +1,35 @@
+{
+    "itemId": 9457,
+    "itemName": "Iron crossbow (u)",
+    "examine": "An unstrung iron crossbow.",
+    "weight": 8.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Willow stock",
+                    "quantity": 1
+                },
+                {
+                    "name": "Iron limbs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 44.0,
+                    "level": 39,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Iron crossbow (u)"
+            }
+        }
+    ]
+}

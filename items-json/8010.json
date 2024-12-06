@@ -1,0 +1,39 @@
+{
+    "itemId": 8010,
+    "itemName": "Camelot teleport",
+    "examine": "A teleport to Camelot.",
+    "weight": 0.0,
+    "buyLimit": 15000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 5
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Teak eagle lectern",
+            "skills": [
+                {
+                    "experience": 55.5,
+                    "level": 45,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Camelot teleport (tablet)"
+            }
+        }
+    ]
+}

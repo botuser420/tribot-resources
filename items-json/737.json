@@ -1,0 +1,32 @@
+{
+    "itemId": 737,
+    "itemName": "Snakeweed mixture",
+    "examine": "It's a mixture of Snakeweed and water. Needs another ingredient.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Snake weed",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 8,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Snakeweed mixture"
+            }
+        }
+    ]
+}

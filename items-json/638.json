@@ -1,0 +1,12 @@
+{
+    "itemId": 638,
+    "itemName": "Green robe top",
+    "examine": "The ultimate in gnome design, now in green!",
+    "weight": 0.907,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "BODY",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "itemId": 26879,
+    "itemName": "Guardian essence",
+    "examine": "Pure essence combined with rune guardian remnants. It looks like it can be imbued with energy.",
+    "weight": 0.402,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian fragments",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Workbench (Guardians of the Rift)",
+            "skills": [
+                {
+                    "experience": 1.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Guardian essence"
+            }
+        }
+    ]
+}

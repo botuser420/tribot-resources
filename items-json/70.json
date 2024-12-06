@@ -1,0 +1,31 @@
+{
+    "itemId": 70,
+    "itemName": "Magic longbow (u)",
+    "examine": "An unstrung magic longbow; I need a bowstring for this.",
+    "weight": 1.332,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Magic logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 91.5,
+                    "level": 85,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Magic longbow (u)"
+            }
+        }
+    ]
+}

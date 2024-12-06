@@ -1,0 +1,82 @@
+{
+    "itemId": 7068,
+    "itemName": "Tuna and corn",
+    "examine": "A bowl of cooked tuna and sweetcorn.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Sweetcorn (bowl)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tuna",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "level": 67,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tuna and corn"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Sweetcorn (bowl)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chopped tuna",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 67,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tuna and corn"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cooked sweetcorn",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chopped tuna",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 67,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tuna and corn"
+            }
+        }
+    ]
+}

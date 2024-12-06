@@ -1,0 +1,24 @@
+{
+    "itemId": 5354,
+    "itemName": "Filled plant pot",
+    "examine": "A plant pot filled with soil.",
+    "weight": 0.907,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Empty plant pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Farming patch",
+            "tools": "Gardening_trowel",
+            "output": {
+                "quantity": 1,
+                "name": "Filled plant pot"
+            }
+        }
+    ]
+}

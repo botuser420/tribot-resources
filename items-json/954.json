@@ -1,0 +1,46 @@
+{
+    "itemId": 954,
+    "itemName": "Rope",
+    "examine": "A coil of rope.",
+    "weight": 1.36,
+    "buyLimit": 250,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Hair",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Spinning wheel",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 30,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rope"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ball of wool",
+                    "quantity": 4
+                }
+            ],
+            "facilities": "Ned",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rope"
+            }
+        }
+    ]
+}

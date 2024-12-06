@@ -1,0 +1,30 @@
+{
+    "itemId": 4440,
+    "itemName": "Pot lid",
+    "examine": "This should fit on a normal-sized pot.",
+    "weight": 0.198,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Unfired pot lid",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pottery Oven",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pot lid"
+            }
+        }
+    ]
+}

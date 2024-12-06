@@ -1,0 +1,16 @@
+{
+    "itemId": 1107,
+    "itemName": "Black chainbody",
+    "examine": "A series of connected metal rings.",
+    "weight": 6.803,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "stabDefenceBonus": 22,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 39,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": 24
+    }
+}

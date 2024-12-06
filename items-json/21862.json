@@ -1,0 +1,25 @@
+{
+    "itemId": 21862,
+    "itemName": "Enchanted snowy curtains",
+    "examine": "Former window coverings, enchanted by a wizard and covered in snow.",
+    "weight": 9.071,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Enchanted curtains",
+                    "quantity": 1
+                },
+                {
+                    "name": "Snowball",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Enchanted snowy curtains"
+            }
+        }
+    ]
+}

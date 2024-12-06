@@ -1,0 +1,17 @@
+{
+    "itemId": 11721,
+    "itemName": "Iron pickaxe (nz)",
+    "examine": "For use in the Nightmare Zone. Doesn't work for mining.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 5,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 3,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 7,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "PICKAXE"
+    }
+}

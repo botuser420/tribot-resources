@@ -1,0 +1,32 @@
+{
+    "itemId": 3265,
+    "itemName": "Troll potion",
+    "examine": "It's part of Eadgar's plan.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ranarr potion (unf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ground thistle",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 77.5,
+                    "level": 31,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Troll potion"
+            }
+        }
+    ]
+}

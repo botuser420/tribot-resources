@@ -1,0 +1,33 @@
+{
+    "itemId": 7066,
+    "itemName": "Mushroom & onion",
+    "examine": "A bowl of fried mushroom and onions.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Fried mushrooms",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fried onions",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 57,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mushroom & onion"
+            }
+        }
+    ]
+}

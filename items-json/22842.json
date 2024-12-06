@@ -1,0 +1,11 @@
+{
+    "itemId": 22842,
+    "itemName": "Pearl barbarian rod",
+    "examine": "A decorative heavy barbarian Fishing rod.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

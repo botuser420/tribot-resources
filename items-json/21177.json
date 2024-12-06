@@ -1,0 +1,41 @@
+{
+    "itemId": 21177,
+    "itemName": "Expeditious bracelet",
+    "examine": "Allows one slayer kill to count as two.",
+    "weight": 0.25,
+    "buyLimit": 15000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Opal bracelet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 7,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Expeditious bracelet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

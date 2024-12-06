@@ -1,0 +1,46 @@
+{
+    "itemId": 29305,
+    "itemName": "Hunter's spear",
+    "examine": "Throw it... Or don't.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Teak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jerboa tail",
+                    "quantity": 5
+                },
+                {
+                    "name": "Hunter spear tips",
+                    "quantity": 5
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 9.5,
+                    "level": 60,
+                    "name": "Fletching"
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Hunter's spear"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 73,
+        "strengthBonus": 48,
+        "prayerBonus": 1,
+        "attackDistance": 5,
+        "attackSpeed": 6,
+        "weaponType": "THROWN"
+    }
+}

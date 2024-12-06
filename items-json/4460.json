@@ -1,0 +1,39 @@
+{
+    "itemId": 4460,
+    "itemName": "Cup of hot water",
+    "examine": "It's hot!",
+    "weight": 0.05,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bowl of hot water",
+                    "quantity": 1
+                },
+                {
+                    "name": "Empty cup",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cup of hot water"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Cup of water",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "output": {
+                "quantity": 1,
+                "name": "Cup of hot water"
+            }
+        }
+    ]
+}

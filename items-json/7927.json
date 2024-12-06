@@ -1,0 +1,9 @@
+{
+    "itemId": 7927,
+    "itemName": "Easter ring",
+    "examine": "A ring given to you by the Easter Bunny.",
+    "weight": 0.001,
+    "equipment": {
+        "slot": "RING"
+    }
+}

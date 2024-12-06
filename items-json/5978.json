@@ -1,0 +1,24 @@
+{
+    "itemId": 5978,
+    "itemName": "Coconut shell",
+    "examine": "All the milk has been removed.",
+    "weight": 0.028,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Vial",
+                    "quantity": 1
+                },
+                {
+                    "name": "Half coconut",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Coconut shell"
+            }
+        }
+    ]
+}

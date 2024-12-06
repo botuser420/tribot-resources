@@ -1,0 +1,30 @@
+{
+    "itemId": 2205,
+    "itemName": "Worm crunchies",
+    "examine": "It actually smells quite good.",
+    "weight": 0.25,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Unfinished crunchy (worm)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Gnome spice",
+            "skills": [
+                {
+                    "experience": 44.0,
+                    "level": 14,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Worm crunchies"
+            }
+        }
+    ]
+}

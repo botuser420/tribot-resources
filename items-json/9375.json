@@ -1,0 +1,32 @@
+{
+    "itemId": 9375,
+    "itemName": "Bronze bolts (unf)",
+    "examine": "Unfeathered bronze crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 3,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Bronze bolts (unf)"
+            }
+        }
+    ]
+}

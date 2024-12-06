@@ -1,0 +1,7 @@
+{
+    "itemId": 8453,
+    "itemName": "Bagged daffodils",
+    "examine": "You can plant this in your garden.",
+    "weight": 10.0,
+    "buyLimit": 10000
+}

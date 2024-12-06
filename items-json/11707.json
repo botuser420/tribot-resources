@@ -1,0 +1,16 @@
+{
+    "itemId": 11707,
+    "itemName": "Cursed goblin hammer",
+    "examine": "A curse has been placed on this warhammer.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -100,
+        "strengthBonus": -100,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "itemId": 29079,
+    "itemName": "Moonlight grub paste",
+    "examine": "A gooey, sparkling, grub-based paste.",
+    "weight": 0.002,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Moonlight grub",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Moonlight grub paste"
+            }
+        }
+    ]
+}

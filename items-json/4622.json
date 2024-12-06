@@ -1,0 +1,25 @@
+{
+    "itemId": 4622,
+    "itemName": "Black dye",
+    "examine": "Black dye made out of mushrooms.",
+    "weight": 0.01,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Vial",
+                    "quantity": 1
+                },
+                {
+                    "name": "Black mushroom",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Black dye"
+            }
+        }
+    ]
+}

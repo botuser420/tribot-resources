@@ -1,0 +1,132 @@
+{
+    "itemId": 2353,
+    "itemName": "Steel bar",
+    "examine": "It's a bar of steel.",
+    "weight": 1.814,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Iron ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 30,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Steel bar"
+            }
+        },
+        {
+            "ticks": 11,
+            "materials": [
+                {
+                    "name": "Iron ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blast Furnace",
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 30,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Steel bar"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Iron ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 1
+                },
+                {
+                    "name": "Smithing catalyst",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 35.0,
+                    "level": 30,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Steel bar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Iron ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 2
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 4
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 30,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Steel bar"
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "itemId": 9485,
+    "itemName": "Half made batta",
+    "examine": "This veg batta needs baking and garnishing with equa leaves.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half baked batta",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 2
+                },
+                {
+                    "name": "Cheese",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dwellberries",
+                    "quantity": 1
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cabbage",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 28,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half made batta (vegetable)"
+            }
+        }
+    ]
+}

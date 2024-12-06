@@ -1,0 +1,12 @@
+{
+    "itemId": 2405,
+    "itemName": "Carnillean armour",
+    "examine": "An heirloom of the Carnillean family.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "BODY",
+        "stabDefenceBonus": 20,
+        "slashDefenceBonus": 14,
+        "crushDefenceBonus": 8
+    }
+}

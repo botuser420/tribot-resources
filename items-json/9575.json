@@ -1,0 +1,31 @@
+{
+    "itemId": 9575,
+    "itemName": "Mixed dragon",
+    "examine": "This Drunk Dragon needs pineapple chunks, cream and heating.",
+    "weight": 0.15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mixed dragon (shaker)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cocktail glass",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 32,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mixed dragon (poured)"
+            }
+        }
+    ]
+}

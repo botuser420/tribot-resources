@@ -1,0 +1,38 @@
+{
+    "itemId": 667,
+    "itemName": "Blurite sword",
+    "examine": "A Faladian Knight's sword.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Iron bar",
+                    "quantity": 2
+                },
+                {
+                    "name": "Blurite ore",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Thurgo",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Blurite sword"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 9,
+        "slashAttackBonus": 14,
+        "crushAttackBonus": -2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "strengthBonus": 10,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

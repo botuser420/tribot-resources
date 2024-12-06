@@ -1,0 +1,43 @@
+{
+    "itemId": 1725,
+    "itemName": "Amulet of strength",
+    "examine": "An enchanted ruby amulet.",
+    "weight": 0.01,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ruby amulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 59.0,
+                    "level": 49,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of strength"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "strengthBonus": 10
+    }
+}

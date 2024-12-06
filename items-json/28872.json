@@ -1,0 +1,35 @@
+{
+    "itemId": 28872,
+    "itemName": "Sunlight antler bolts",
+    "examine": "Bolts made from the antlers of a sunlight antelope.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Sunlight antelope antler",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 62,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 12,
+                "name": "Sunlight antler bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 55
+    }
+}

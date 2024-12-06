@@ -1,0 +1,43 @@
+{
+    "itemId": 8009,
+    "itemName": "Falador teleport",
+    "examine": "A teleport to Falador.",
+    "weight": 0.0,
+    "buyLimit": 15000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 3
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Eagle lectern",
+            "skills": [
+                {
+                    "experience": 48.0,
+                    "level": 37,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Falador teleport (tablet)"
+            }
+        }
+    ]
+}

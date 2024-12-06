@@ -1,0 +1,32 @@
+{
+    "itemId": 9427,
+    "itemName": "Mithril limbs",
+    "examine": "A pair of mithril crossbow limbs.",
+    "weight": 2.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Mithril bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 56,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mithril limbs"
+            }
+        }
+    ]
+}

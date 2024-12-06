@@ -1,0 +1,43 @@
+{
+    "itemId": 2961,
+    "itemName": "Silver sickle",
+    "examine": "It's a silver sickle.",
+    "weight": 1.587,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Silver bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Sickle mould",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 18,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Silver sickle"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 1,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

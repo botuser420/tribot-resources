@@ -1,0 +1,20 @@
+{
+    "itemId": 25739,
+    "itemName": "Sanguine scythe of vitur",
+    "examine": "A powerful scythe that drips the blood of the slain.",
+    "weight": 3.175,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 70,
+        "slashAttackBonus": 125,
+        "crushAttackBonus": 30,
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": -2,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 10,
+        "strengthBonus": 75,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SCYTHE"
+    }
+}

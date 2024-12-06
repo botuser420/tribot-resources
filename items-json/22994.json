@@ -1,0 +1,7 @@
+{
+    "itemId": 22994,
+    "itemName": "Bottomless compost bucket",
+    "examine": "It's a bucket that can hold a lot of compost at once.",
+    "weight": 1.0,
+    "buyLimit": 5
+}

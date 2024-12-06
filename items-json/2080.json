@@ -1,0 +1,41 @@
+{
+    "itemId": 2080,
+    "itemName": "Short green guy",
+    "examine": "A Short Green Guy... looks good.",
+    "weight": 0.5,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mixed sgg",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lime slices",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cocktail glass",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Short green guy"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 21202,
+    "itemName": "Lava staff upgrade kit",
+    "examine": "Makes a lava battlestaff or mystic lava staff more beautiful.",
+    "weight": 0.5,
+    "buyLimit": 50
+}

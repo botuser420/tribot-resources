@@ -1,0 +1,31 @@
+{
+    "itemId": 7568,
+    "itemName": "Cooked jubbly",
+    "examine": "Lovely Jubbly!",
+    "weight": 10.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Raw jubbly",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Ogre spit-roast",
+            "skills": [
+                {
+                    "experience": 160.0,
+                    "level": 41,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked jubbly"
+            }
+        }
+    ]
+}

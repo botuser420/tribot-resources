@@ -1,0 +1,10 @@
+{
+    "itemId": 5050,
+    "itemName": "Skirt",
+    "examine": "Lilac skirt.",
+    "weight": 0.08,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

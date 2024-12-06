@@ -1,0 +1,18 @@
+{
+    "itemId": 6601,
+    "itemName": "White mace",
+    "examine": "A spiky mace.",
+    "weight": 1.814,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 8,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 16,
+        "strengthBonus": 13,
+        "prayerBonus": 3,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

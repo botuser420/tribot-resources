@@ -1,0 +1,56 @@
+{
+    "itemId": 5939,
+    "itemName": "Weapon poison++ (unf)",
+    "examine": "A vial of coconut milk and Deadly Nightshade.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Coconut milk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cave nightshade",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 82,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Weapon poison++ (unf)"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Coconut milk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nightshade",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 82,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Weapon poison++ (unf)"
+            }
+        }
+    ]
+}

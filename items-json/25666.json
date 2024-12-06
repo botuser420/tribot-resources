@@ -1,0 +1,32 @@
+{
+    "itemId": 25666,
+    "itemName": "Tetra",
+    "examine": "This should be offered up at the altar.",
+    "weight": 0.12,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Raw tetra",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Preparation Table",
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 31.0,
+                    "level": 33,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Tetra"
+            }
+        }
+    ]
+}

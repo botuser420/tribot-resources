@@ -1,0 +1,190 @@
+{
+    "itemId": 25867,
+    "itemName": "Bow of faerdhinen (c)",
+    "examine": "A magical elven bow, corrupted through the addition of too many shards.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bow of faerdhinen",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal shard",
+                    "quantity": 2000
+                }
+            ],
+            "facilities": "Singing bowl",
+            "skills": [
+                {
+                    "level": 82,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "level": 82,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Enhanced crystal weapon seed",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal shard",
+                    "quantity": 2000
+                }
+            ],
+            "facilities": "Singing bowl",
+            "skills": [
+                {
+                    "experience": 5000.0,
+                    "level": 82,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 5000.0,
+                    "level": 82,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Bow of faerdhinen (c) (Amlodd)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of hefin",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Bow of faerdhinen (c) (Cadarn)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of hefin",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Bow of faerdhinen (c) (Crwys)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of hefin",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Bow of faerdhinen (c) (Iorwerth)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of hefin",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Bow of faerdhinen (c) (Ithell)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of hefin",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Bow of faerdhinen (c) (Meilyr)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of hefin",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Bow of faerdhinen (c) (Trahaearn)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of hefin",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow of faerdhinen (c)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 128,
+        "rangedStrengthBonus": 106,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

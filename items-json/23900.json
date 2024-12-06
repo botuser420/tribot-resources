@@ -1,0 +1,34 @@
+{
+    "itemId": 23900,
+    "itemName": "Crystal staff (perfected)",
+    "examine": "A powerful staff of crystal.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal staff (attuned)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal orb",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal staff (perfected)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 184,
+        "prayerBonus": 3,
+        "attackDistance": 10,
+        "attackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

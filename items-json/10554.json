@@ -1,0 +1,12 @@
+{
+    "itemId": 10554,
+    "itemName": "Penance gloves",
+    "examine": "These gloves seem unbelieveably light!<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "weight": -4.535,
+    "equipment": {
+        "slot": "HANDS",
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 4,
+        "rangeDefenceBonus": 2
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "itemId": 19547,
+    "itemName": "Necklace of anguish",
+    "examine": "A deep sense of anguish burns within this powerful necklace.",
+    "weight": 0.01,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Zenyte necklace",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 20
+                },
+                {
+                    "name": "Blood rune",
+                    "quantity": 20
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 110.0,
+                    "level": 93,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Necklace of anguish"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "rangedAttackBonus": 15,
+        "rangedStrengthBonus": 5,
+        "prayerBonus": 2
+    }
+}

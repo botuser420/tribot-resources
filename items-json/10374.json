@@ -1,0 +1,18 @@
+{
+    "itemId": 10374,
+    "itemName": "Zamorak coif",
+    "examine": "Zamorak blessed dragonhide coif.",
+    "weight": 0.9,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -1,
+        "rangedAttackBonus": 7,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 4,
+        "rangeDefenceBonus": 8,
+        "prayerBonus": 1
+    }
+}

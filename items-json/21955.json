@@ -1,0 +1,38 @@
+{
+    "itemId": 21955,
+    "itemName": "Opal dragon bolts",
+    "examine": "Dragon crossbow bolts, tipped with opal.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dragon bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Opal bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 16.0,
+                    "level": 84,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Opal dragon bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 122
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "itemId": 27197,
+    "itemName": "Inquisitor's plateskirt",
+    "examine": "The plateskirt of the turncloak justiciar.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "stabAttackBonus": -3,
+        "slashAttackBonus": -3,
+        "crushAttackBonus": 12,
+        "magicAttackBonus": -9,
+        "rangedAttackBonus": -5,
+        "stabDefenceBonus": 42,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 49,
+        "rangeDefenceBonus": 22,
+        "strengthBonus": 2,
+        "prayerBonus": 2
+    }
+}

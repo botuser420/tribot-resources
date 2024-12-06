@@ -1,0 +1,28 @@
+{
+    "itemId": 9994,
+    "itemName": "Spicy tomato",
+    "examine": "A bowl of chopped tomatoes with an extra kick.",
+    "weight": 0.2,
+    "buyLimit": 8000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Chopped tomato",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Spice",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spicy tomato"
+            }
+        }
+    ]
+}

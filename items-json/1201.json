@@ -1,0 +1,43 @@
+{
+    "itemId": 1201,
+    "itemName": "Rune kiteshield",
+    "examine": "A large metal shield.",
+    "weight": 5.443,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Runite bar",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 225.0,
+                    "level": 97,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Rune kiteshield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 44,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 46,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 46
+    }
+}

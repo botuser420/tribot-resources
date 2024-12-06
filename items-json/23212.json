@@ -1,0 +1,17 @@
+{
+    "itemId": 23212,
+    "itemName": "Rune platebody (h2)",
+    "examine": "Provides excellent protection with a heraldic design.",
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 82,
+        "slashDefenceBonus": 80,
+        "crushDefenceBonus": 72,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 80
+    }
+}

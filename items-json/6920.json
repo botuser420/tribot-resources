@@ -1,0 +1,12 @@
+{
+    "itemId": 6920,
+    "itemName": "Infinity boots",
+    "examine": "Mystical boots.",
+    "weight": 0.453,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": 5,
+        "magicDefenceBonus": 5
+    }
+}

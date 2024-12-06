@@ -1,0 +1,28 @@
+{
+    "itemId": 20856,
+    "itemName": "Pysk fish (0)",
+    "examine": "I should try eating this.",
+    "weight": 0.4,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw pysk fish (0)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Pysk fish (0)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "itemId": 2349,
+    "itemName": "Bronze bar",
+    "examine": "It's a bar of bronze.",
+    "weight": 1.814,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Copper ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tin ore",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 6.2,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze bar"
+            }
+        },
+        {
+            "ticks": 11,
+            "materials": [
+                {
+                    "name": "Copper ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tin ore",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Blast Furnace",
+            "skills": [
+                {
+                    "experience": 6.2,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bronze bar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Copper ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tin ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 4
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 6.2,
+                    "level": 1,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze bar"
+            }
+        }
+    ]
+}

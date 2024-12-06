@@ -1,0 +1,21 @@
+{
+    "itemId": 29358,
+    "itemName": "Blessed lava dragon bones",
+    "examine": "Bones blessed at an exposed altar.",
+    "weight": 1.6,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Lava dragon bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Exposed altar",
+            "output": {
+                "quantity": 1,
+                "name": "Blessed lava dragon bones"
+            }
+        }
+    ]
+}

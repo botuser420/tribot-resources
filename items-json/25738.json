@@ -1,0 +1,19 @@
+{
+    "itemId": 25738,
+    "itemName": "Holy scythe of vitur (uncharged)",
+    "examine": "A powerful scythe cleansed in the light of Saradomin. It is currently uncharged.",
+    "weight": 3.175,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 50,
+        "slashAttackBonus": 75,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": -6,
+        "stabDefenceBonus": -2,
+        "slashDefenceBonus": 6,
+        "strengthBonus": 50,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SCYTHE"
+    }
+}

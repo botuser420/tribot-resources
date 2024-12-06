@@ -1,0 +1,33 @@
+{
+    "itemId": 1582,
+    "itemName": "Blamish oil",
+    "examine": "Made from the finest snail slime.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blamish snail slime",
+                    "quantity": 1
+                },
+                {
+                    "name": "Harralander potion (unf)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 80.0,
+                    "level": 25,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blamish oil"
+            }
+        }
+    ]
+}

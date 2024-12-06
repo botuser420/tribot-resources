@@ -1,0 +1,62 @@
+{
+    "itemId": 24699,
+    "itemName": "Blisterwood flail",
+    "examine": "A legendary flail that has been enhanced with blisterwood.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Ivandis flail",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blisterwood sickle",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blisterwood flail"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Rod of ivandis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blisterwood sickle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Chain",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blisterwood flail"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 30,
+        "slashAttackBonus": 44,
+        "crushAttackBonus": 68,
+        "magicAttackBonus": 8,
+        "stabDefenceBonus": 4,
+        "slashDefenceBonus": 4,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 8,
+        "strengthBonus": 46,
+        "prayerBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAFF"
+    }
+}

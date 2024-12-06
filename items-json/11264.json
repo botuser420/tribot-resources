@@ -1,0 +1,25 @@
+{
+    "itemId": 11264,
+    "itemName": "Anchovy oil",
+    "examine": "Omega 3 oil. Good for the brain, not so for the nose.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Vial",
+                    "quantity": 1
+                },
+                {
+                    "name": "Anchovy paste",
+                    "quantity": 8
+                }
+            ],
+            "tools": "Sieve",
+            "output": {
+                "quantity": 1,
+                "name": "Anchovy oil"
+            }
+        }
+    ]
+}

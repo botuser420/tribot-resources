@@ -1,0 +1,33 @@
+{
+    "itemId": 7196,
+    "itemName": "Raw admiral pie",
+    "examine": "This would taste a lot better cooked.",
+    "weight": 0.001,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Part admiral pie (tuna)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Potato",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 70,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw admiral pie"
+            }
+        }
+    ]
+}

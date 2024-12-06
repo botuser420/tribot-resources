@@ -1,0 +1,30 @@
+{
+    "itemId": 2365,
+    "itemName": "'perfect' gold bar",
+    "examine": "It's a bar of 'perfect' gold.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "'perfect' gold ore",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 22.5,
+                    "level": 40,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "'perfect' gold bar"
+            }
+        }
+    ]
+}

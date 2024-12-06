@@ -1,0 +1,140 @@
+{
+    "itemId": 21547,
+    "itemName": "Small enriched bone",
+    "examine": "This once fossilised bone is now bone again.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Small fossilised limbs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Small enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Small fossilised spine",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Small enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Small fossilised ribs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Small enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Small fossilised pelvis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Small enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Small fossilised skull",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Small enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Unidentified small fossil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Small enriched bone"
+            }
+        }
+    ]
+}

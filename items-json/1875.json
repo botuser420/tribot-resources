@@ -1,0 +1,45 @@
+{
+    "itemId": 1875,
+    "itemName": "Onion & tomato",
+    "examine": "A mixture of chopped onions and tomatoes in a bowl.",
+    "weight": 0.3,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Chopped onion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Onion & tomato"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Chopped tomato",
+                    "quantity": 1
+                },
+                {
+                    "name": "Onion",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 1,
+                "name": "Onion & tomato"
+            }
+        }
+    ]
+}

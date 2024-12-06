@@ -1,0 +1,13 @@
+{
+    "itemId": 23601,
+    "itemName": "Rune crossbow",
+    "examine": "A runite crossbow.",
+    "weight": 6.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 90,
+        "attackDistance": 7,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

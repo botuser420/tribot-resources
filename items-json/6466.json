@@ -1,0 +1,34 @@
+{
+    "itemId": 6466,
+    "itemName": "Rune shards",
+    "examine": "A rune essence chip that has been broken into shards.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Rune essence",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer, Chisel",
+            "output": {
+                "quantity": 1,
+                "name": "Rune shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer, Chisel",
+            "output": {
+                "quantity": 1,
+                "name": "Rune shards"
+            }
+        }
+    ]
+}

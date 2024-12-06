@@ -1,0 +1,11 @@
+{
+    "itemId": 5608,
+    "itemName": "Fox",
+    "examine": "I don't think he likes being carried.",
+    "weight": 5.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

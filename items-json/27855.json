@@ -1,0 +1,34 @@
+{
+    "itemId": 27855,
+    "itemName": "Barrelchest anchor (bh)",
+    "examine": "This is likely to put my back out...",
+    "weight": 30.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Barrelchest anchor",
+                    "quantity": 1
+                },
+                {
+                    "name": "Barrelchest anchor imbue scroll",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Barrelchest anchor (bh)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 102,
+        "strengthBonus": 110,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "SPIKED"
+    }
+}

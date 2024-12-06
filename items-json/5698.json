@@ -1,0 +1,19 @@
+{
+    "itemId": 5698,
+    "itemName": "Dragon dagger(p++)",
+    "examine": "A powerful dagger.",
+    "weight": 0.453,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 40,
+        "slashAttackBonus": 25,
+        "crushAttackBonus": -4,
+        "magicAttackBonus": 1,
+        "magicDefenceBonus": 1,
+        "strengthBonus": 40,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "STAB_SWORD"
+    }
+}

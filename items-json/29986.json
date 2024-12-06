@@ -1,0 +1,9 @@
+{
+    "itemId": 29986,
+    "itemName": "Alchemist gloves",
+    "examine": "No science is done without proper gloves.",
+    "weight": 0.09,
+    "equipment": {
+        "slot": "HANDS"
+    }
+}

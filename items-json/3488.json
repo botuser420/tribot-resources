@@ -1,0 +1,17 @@
+{
+    "itemId": 3488,
+    "itemName": "Gilded kiteshield",
+    "examine": "Rune kiteshield with gold plate.",
+    "weight": 5.443,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 44,
+        "slashDefenceBonus": 48,
+        "crushDefenceBonus": 46,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 46
+    }
+}

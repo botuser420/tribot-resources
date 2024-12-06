@@ -1,0 +1,33 @@
+{
+    "itemId": 7230,
+    "itemName": "Skewered chompy",
+    "examine": "A skewered chompy bird.",
+    "weight": 2.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw chompy",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Iron spit",
+            "skills": [
+                {
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 20,
+                    "name": "Firemaking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Skewered chompy"
+            }
+        }
+    ]
+}

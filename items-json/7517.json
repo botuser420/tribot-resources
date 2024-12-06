@@ -1,0 +1,21 @@
+{
+    "itemId": 7517,
+    "itemName": "Ground kelp",
+    "examine": "Kelp flakes. Smells of the sea.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Kelp",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground kelp"
+            }
+        }
+    ]
+}

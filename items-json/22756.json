@@ -1,0 +1,25 @@
+{
+    "itemId": 22756,
+    "itemName": "Drake bonemeal",
+    "examine": "A pot of crushed drake bones.",
+    "weight": 1.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Drake bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Bone grinder",
+            "output": {
+                "quantity": 1,
+                "name": "Drake bonemeal"
+            }
+        }
+    ]
+}

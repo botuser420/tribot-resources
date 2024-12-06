@@ -1,0 +1,15 @@
+{
+    "itemId": 870,
+    "itemName": "Bronze knife(p)",
+    "examine": "A finely balanced throwing knife.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 4,
+        "rangedStrengthBonus": 3,
+        "attackDistance": 4,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

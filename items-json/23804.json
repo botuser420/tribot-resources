@@ -1,0 +1,21 @@
+{
+    "itemId": 23804,
+    "itemName": "Crystal dust",
+    "examine": "The dust of a ground elven crystal.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Crystal (Song of the Elves)",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal dust (Song of the Elves)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 5325,
+    "itemName": "Gardening trowel",
+    "examine": "Not suitable for archaeological digs.",
+    "weight": 0.056,
+    "buyLimit": 40
+}

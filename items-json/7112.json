@@ -1,0 +1,10 @@
+{
+    "itemId": 7112,
+    "itemName": "Pirate bandana",
+    "examine": "Essential pirate wear.",
+    "weight": 1.0,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

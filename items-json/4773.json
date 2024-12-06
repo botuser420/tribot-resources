@@ -1,0 +1,39 @@
+{
+    "itemId": 4773,
+    "itemName": "Bronze brutal",
+    "examine": "Blunt bronze arrow... ouch.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Flighted ogre arrow",
+                    "quantity": 6
+                },
+                {
+                    "name": "Bronze nails",
+                    "quantity": 6
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 8.4,
+                    "level": 7,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 6,
+                "name": "Bronze brutal"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 11
+    }
+}

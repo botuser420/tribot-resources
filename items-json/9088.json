@@ -1,0 +1,31 @@
+{
+    "itemId": 9088,
+    "itemName": "Guam vial",
+    "examine": "A vessel with water and Guam inside.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Vial of water (Lunar Diplomacy)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Guam leaf",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 84.0,
+                    "level": 5,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Guam vial"
+            }
+        }
+    ]
+}

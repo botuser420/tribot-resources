@@ -1,0 +1,41 @@
+{
+    "itemId": 21140,
+    "itemName": "Efaritay's aid",
+    "examine": "Aids the user against vampyres.",
+    "weight": 0.006,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Topaz ring",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 59.0,
+                    "level": 49,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Efaritay's aid"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

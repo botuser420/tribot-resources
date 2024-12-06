@@ -1,0 +1,29 @@
+{
+    "itemId": 5373,
+    "itemName": "Yew sapling",
+    "examine": "This sapling is ready to be replanted in a tree patch.",
+    "weight": 0.907,
+    "buyLimit": 200,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Yew seedling (w)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 60,
+                    "name": "Farming",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Yew sapling"
+            }
+        }
+    ]
+}

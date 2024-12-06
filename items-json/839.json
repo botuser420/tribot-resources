@@ -1,0 +1,41 @@
+{
+    "itemId": 839,
+    "itemName": "Longbow",
+    "examine": "A nice sturdy bow.",
+    "weight": 1.814,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Longbow (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 10,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Longbow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 8,
+        "attackDistance": 10,
+        "attackSpeed": 6,
+        "weaponType": "BOW"
+    }
+}

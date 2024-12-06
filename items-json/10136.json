@@ -1,0 +1,31 @@
+{
+    "itemId": 10136,
+    "itemName": "Rainbow fish",
+    "examine": "Well, this would certainly add some colour to a meal.",
+    "weight": 0.4,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw rainbow fish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 110.0,
+                    "level": 35,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Rainbow fish"
+            }
+        }
+    ]
+}

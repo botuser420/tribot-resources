@@ -1,0 +1,132 @@
+{
+    "itemId": 2359,
+    "itemName": "Mithril bar",
+    "examine": "It's a bar of mithril.",
+    "weight": 1.587,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Mithril ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 4
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 50,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mithril bar"
+            }
+        },
+        {
+            "ticks": 11,
+            "materials": [
+                {
+                    "name": "Mithril ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 2
+                }
+            ],
+            "facilities": "Blast Furnace",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 50,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mithril bar"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Mithril ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 2
+                },
+                {
+                    "name": "Smithing catalyst",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 50,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mithril bar"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Mithril ore",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coal",
+                    "quantity": 4
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 4
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 50,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mithril bar"
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "itemId": 13337,
+    "itemName": "Accumulator max cape",
+    "examine": "The cape worn by only the most experienced players.",
+    "weight": 0.453,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ava's accumulator",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max hood",
+                    "quantity": 1
+                },
+                {
+                    "name": "Max cape",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Accumulator max cape"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE",
+        "rangedAttackBonus": 4,
+        "slashDefenceBonus": 1,
+        "magicDefenceBonus": 4
+    }
+}

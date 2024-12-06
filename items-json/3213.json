@@ -1,0 +1,22 @@
+{
+    "itemId": 3213,
+    "itemName": "Quicklime",
+    "examine": "Some quicklime.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Limestone",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "output": {
+                "quantity": 1,
+                "name": "Quicklime"
+            }
+        }
+    ]
+}

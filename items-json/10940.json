@@ -1,0 +1,9 @@
+{
+    "itemId": 10940,
+    "itemName": "Lumberjack legs",
+    "examine": "You'll certainly be alright wearing these.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

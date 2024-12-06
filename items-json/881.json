@@ -1,0 +1,38 @@
+{
+    "itemId": 881,
+    "itemName": "Barbed bolts",
+    "examine": "Great if you have a crossbow!",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bronze bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Barb bolttips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 9.5,
+                    "level": 51,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Barbed bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 12
+    }
+}

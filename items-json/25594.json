@@ -1,0 +1,28 @@
+{
+    "itemId": 25594,
+    "itemName": "Spirit angler top",
+    "examine": "This will help with fishing.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Angler top",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spirit flakes",
+                    "quantity": 1200
+                }
+            ],
+            "facilities": "Gita Prymes",
+            "output": {
+                "quantity": 1,
+                "name": "Spirit angler top"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY"
+    }
+}

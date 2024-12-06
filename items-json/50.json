@@ -1,0 +1,31 @@
+{
+    "itemId": 50,
+    "itemName": "Shortbow (u)",
+    "examine": "I need to find a string for this.",
+    "weight": 0.992,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 5,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shortbow (u)"
+            }
+        }
+    ]
+}

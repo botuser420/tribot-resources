@@ -1,0 +1,41 @@
+{
+    "itemId": 19481,
+    "itemName": "Heavy ballista",
+    "examine": "A powerful weapon forged from the wreckage of an airship.",
+    "weight": 6.0,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Unstrung heavy ballista",
+                    "quantity": 1
+                },
+                {
+                    "name": "Monkey tail",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 600.0,
+                    "level": 72,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Heavy ballista"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 125,
+        "rangedStrengthBonus": 15,
+        "attackDistance": 9,
+        "attackSpeed": 7,
+        "weaponType": "CROSSBOW"
+    }
+}

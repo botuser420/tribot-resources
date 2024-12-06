@@ -1,0 +1,41 @@
+{
+    "itemId": 21163,
+    "itemName": "Amulet of chemistry",
+    "examine": "Useful when making potions - has the chance of giving an extra dose.",
+    "weight": 0.007,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Jade amulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 3
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 37.0,
+                    "level": 27,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of chemistry"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

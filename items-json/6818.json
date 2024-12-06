@@ -1,0 +1,32 @@
+{
+    "itemId": 6818,
+    "itemName": "Bow-sword",
+    "examine": "A sharp sword that can also fire arrows.",
+    "weight": 3.175,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bow string",
+                    "quantity": 1
+                },
+                {
+                    "name": "Slender blade",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 50,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bow-sword"
+            }
+        }
+    ]
+}

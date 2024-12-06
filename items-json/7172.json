@@ -1,0 +1,32 @@
+{
+    "itemId": 7172,
+    "itemName": "Part garden pie",
+    "examine": "Still needs two more ingredients.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Pie shell",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 34,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Part garden pie (tomato)"
+            }
+        }
+    ]
+}

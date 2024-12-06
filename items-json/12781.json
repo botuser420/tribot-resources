@@ -1,0 +1,43 @@
+{
+    "itemId": 12781,
+    "itemName": "Paddewwa teleport",
+    "examine": "A teleport to Paddewwa.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Air rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Ancient)",
+            "skills": [
+                {
+                    "experience": 64.0,
+                    "level": 54,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Paddewwa teleport (tablet)"
+            }
+        }
+    ]
+}

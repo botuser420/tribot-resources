@@ -1,0 +1,12 @@
+{
+    "itemId": 4037,
+    "itemName": "Saradomin banner",
+    "examine": "The Saradomin Team Standard.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BANNER"
+    }
+}

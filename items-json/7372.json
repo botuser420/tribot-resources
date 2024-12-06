@@ -1,0 +1,17 @@
+{
+    "itemId": 7372,
+    "itemName": "Green d'hide body (t)",
+    "examine": "Made from 100% real dragonhide. With colourful trim!",
+    "weight": 6.803,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 15,
+        "stabDefenceBonus": 18,
+        "slashDefenceBonus": 27,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": 20,
+        "rangeDefenceBonus": 35
+    }
+}

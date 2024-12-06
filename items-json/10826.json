@@ -1,0 +1,54 @@
+{
+    "itemId": 10826,
+    "itemName": "Neitiznot shield",
+    "examine": "A wooden shield with a rope rim.",
+    "weight": 3.628,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Arctic pine logs",
+                    "quantity": 2
+                },
+                {
+                    "name": "Bronze nails",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rope",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Woodcutting stump",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "level": 56,
+                    "name": "Woodcutting",
+                    "boostable": true
+                },
+                {
+                    "experience": 34.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Neitiznot shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": -10,
+        "stabDefenceBonus": 17,
+        "slashDefenceBonus": 17,
+        "crushDefenceBonus": 31,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 33
+    }
+}

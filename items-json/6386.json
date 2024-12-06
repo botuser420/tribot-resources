@@ -1,0 +1,10 @@
+{
+    "itemId": 6386,
+    "itemName": "Desert robes",
+    "examine": "Has a coarse hard wearing texture.",
+    "weight": 0.005,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "itemId": 8925,
+    "itemName": "Bandana eyepatch",
+    "examine": "Essential pirate wear.",
+    "weight": 1.0,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pirate bandana (red)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Right eye patch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "tools": "Book o' piracy",
+            "output": {
+                "quantity": 1,
+                "name": "Bandana eyepatch (red)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

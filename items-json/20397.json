@@ -1,0 +1,19 @@
+{
+    "itemId": 20397,
+    "itemName": "Spear",
+    "examine": "A large makeshift spear.",
+    "weight": 3.628,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 22,
+        "slashAttackBonus": 18,
+        "magicAttackBonus": -4,
+        "stabDefenceBonus": -1,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 4,
+        "strengthBonus": 20,
+        "attackDistance": 2,
+        "attackSpeed": 7,
+        "weaponType": "POLEARM"
+    }
+}

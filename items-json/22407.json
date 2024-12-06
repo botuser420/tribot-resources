@@ -1,0 +1,25 @@
+{
+    "itemId": 22407,
+    "itemName": "Blood potion",
+    "examine": "A strange potion made using blood.",
+    "weight": 0.02,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Unfinished blood potion",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mysterious crushed meat",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blood potion"
+            }
+        }
+    ]
+}

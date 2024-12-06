@@ -1,0 +1,9 @@
+{
+    "itemId": 24021,
+    "itemName": "Elven top",
+    "examine": "Clothing from the elven city of Prifddinas.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

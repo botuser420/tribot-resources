@@ -1,0 +1,41 @@
+{
+    "itemId": 29591,
+    "itemName": "Scorching bow",
+    "examine": "The ashen wood is warm to the touch.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Tormented synapse",
+                    "quantity": 1
+                },
+                {
+                    "name": "Magic longbow (u)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 730.0,
+                    "level": 74,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Scorching bow"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 124,
+        "rangedStrengthBonus": 40,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

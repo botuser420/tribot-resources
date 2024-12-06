@@ -1,0 +1,14 @@
+{
+    "itemId": 13121,
+    "itemName": "Ardougne cloak 1",
+    "examine": "A shadowy Ardougne cloak.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "CAPE",
+        "stabAttackBonus": 2,
+        "magicAttackBonus": 2,
+        "stabDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "prayerBonus": 2
+    }
+}

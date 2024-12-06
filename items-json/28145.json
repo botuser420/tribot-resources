@@ -1,0 +1,9 @@
+{
+    "itemId": 28145,
+    "itemName": "Open forestry basket",
+    "examine": "The most efficient woodcutting utility out there.",
+    "weight": 2.267,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

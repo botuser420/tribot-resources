@@ -1,0 +1,44 @@
+{
+    "itemId": 6328,
+    "itemName": "Snakeskin boots",
+    "examine": "Made from snakes.",
+    "weight": 0.34,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Snakeskin",
+                    "quantity": 6
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 45,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Snakeskin boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 3,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 1
+    }
+}

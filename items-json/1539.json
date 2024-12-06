@@ -1,0 +1,33 @@
+{
+    "itemId": 1539,
+    "itemName": "Steel nails",
+    "examine": "Keeps things in place fairly permanently.",
+    "weight": 0.0,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 37.5,
+                    "level": 34,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 15,
+                "name": "Steel nails"
+            }
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "itemId": 2054,
+    "itemName": "Wizard blizzard",
+    "examine": "This looks like a strange mix.",
+    "weight": 0.5,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Mixed blizzard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pineapple chunks",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lime slices",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cocktail glass",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 80.0,
+                    "level": 18,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Wizard blizzard"
+            }
+        }
+    ]
+}

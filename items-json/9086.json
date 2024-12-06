@@ -1,0 +1,27 @@
+{
+    "itemId": 9086,
+    "itemName": "Vial of water",
+    "examine": "A vessel containing water.",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Empty vial",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water",
+            "skills": [
+                {
+                    "level": 5,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Vial of water (Lunar Diplomacy)"
+            }
+        }
+    ]
+}

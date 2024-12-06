@@ -1,0 +1,11 @@
+{
+    "itemId": 9142,
+    "itemName": "Mithril bolts",
+    "examine": "Mithril crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 82
+    }
+}

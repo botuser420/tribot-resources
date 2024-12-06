@@ -1,0 +1,33 @@
+{
+    "itemId": 7176,
+    "itemName": "Raw garden pie",
+    "examine": "Needs cooking before I eat it.",
+    "weight": 0.001,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cabbage",
+                    "quantity": 1
+                },
+                {
+                    "name": "Part garden pie (onion)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 34,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw garden pie"
+            }
+        }
+    ]
+}

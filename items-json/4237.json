@@ -1,0 +1,32 @@
+{
+    "itemId": 4237,
+    "itemName": "Nettle-water",
+    "examine": "It's a bowl of water, with some nettles in it.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Nettles",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bowl of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 20,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Nettle-water"
+            }
+        }
+    ]
+}

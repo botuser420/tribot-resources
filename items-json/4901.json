@@ -1,0 +1,16 @@
+{
+    "itemId": 4901,
+    "itemName": "Dharok's platelegs 25",
+    "examine": "Dharok the Wretched's plate leg armour.",
+    "weight": 9.071,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 85,
+        "slashDefenceBonus": 82,
+        "crushDefenceBonus": 83,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 92
+    }
+}

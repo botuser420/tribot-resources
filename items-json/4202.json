@@ -1,0 +1,9 @@
+{
+    "itemId": 4202,
+    "itemName": "Ring of charos",
+    "examine": "The Ring of Charos.",
+    "weight": 0.005,
+    "equipment": {
+        "slot": "RING"
+    }
+}

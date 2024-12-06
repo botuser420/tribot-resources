@@ -1,0 +1,18 @@
+{
+    "itemId": 1361,
+    "itemName": "Black axe",
+    "examine": "A sinister looking axe.",
+    "weight": 1.36,
+    "buyLimit": 40,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -2,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 8,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 12,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "AXE"
+    }
+}

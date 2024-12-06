@@ -1,0 +1,31 @@
+{
+    "itemId": 4438,
+    "itemName": "Unfired pot lid",
+    "examine": "This needs firing, then it should fit on a normal-sized pot.",
+    "weight": 0.198,
+    "buyLimit": 100,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Potter's Wheel",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 25,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfired pot lid"
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "itemId": 22087,
+    "itemName": "Dragon key",
+    "examine": "An ancient key made of dragon metal.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Dragon key piece (Karamja)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon key piece (Kourend)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon key piece (Morytania)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon key piece (Ungael)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dragon forge",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "level": 70,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon key"
+            }
+        }
+    ]
+}

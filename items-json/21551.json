@@ -1,0 +1,140 @@
+{
+    "itemId": 21551,
+    "itemName": "Large enriched bone",
+    "examine": "This once fossilised bone is now bone again.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Large fossilised limbs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Large enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Large fossilised spine",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Large enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Large fossilised ribs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Large enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Large fossilised pelvis",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Large enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Large fossilised skull",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Large enriched bone"
+            }
+        },
+        {
+            "ticks": 117,
+            "materials": [
+                {
+                    "name": "Unidentified large fossil",
+                    "quantity": 1
+                },
+                {
+                    "name": "Calcite",
+                    "quantity": 3
+                },
+                {
+                    "name": "Pyrophosphite",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Mycelium pool",
+            "output": {
+                "quantity": 1,
+                "name": "Large enriched bone"
+            }
+        }
+    ]
+}

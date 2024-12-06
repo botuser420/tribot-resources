@@ -1,0 +1,84 @@
+{
+    "itemId": 3127,
+    "itemName": "Burnt jogre bones",
+    "examine": "These blackened Jogre bones have been somehow burnt.",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Jogre bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Tinderbox",
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 30,
+                    "name": "Firemaking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt jogre bones"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Jogre bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt jogre bones"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Jogre bones",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 4
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 53.0,
+                    "level": 43,
+                    "name": "Magic",
+                    "boostable": true
+                },
+                {
+                    "experience": 25.0,
+                    "level": 30,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt jogre bones"
+            }
+        }
+    ]
+}

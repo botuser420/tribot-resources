@@ -1,0 +1,49 @@
+{
+    "itemId": 21892,
+    "itemName": "Dragon platebody",
+    "examine": "Provides excellent protection.",
+    "weight": 11.339,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Dragon chainbody",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon metal lump",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dragon metal shard",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Dragon forge",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 2000.0,
+                    "level": 90,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dragon platebody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 109,
+        "slashDefenceBonus": 107,
+        "crushDefenceBonus": 97,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 106
+    }
+}

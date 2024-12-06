@@ -1,0 +1,16 @@
+{
+    "itemId": 26219,
+    "itemName": "Osmumten's fang",
+    "examine": "A deadly sword created long ago.",
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 105,
+        "slashAttackBonus": 75,
+        "strengthBonus": 103,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "STAB_SWORD"
+    }
+}

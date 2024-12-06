@@ -1,0 +1,17 @@
+{
+    "itemId": 2623,
+    "itemName": "Rune platebody (t)",
+    "examine": "Rune platebody with trim.",
+    "weight": 9.979,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 82,
+        "slashDefenceBonus": 80,
+        "crushDefenceBonus": 72,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 80
+    }
+}

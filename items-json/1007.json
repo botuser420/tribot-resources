@@ -1,0 +1,182 @@
+{
+    "itemId": 1007,
+    "itemName": "Red cape",
+    "examine": "A bright red cape.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Black cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Red cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blue cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Red cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Green cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Red cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Orange cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Red cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Pink cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Purple cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Red cape"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Yellow cape",
+                    "quantity": 1
+                },
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Red cape"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "CAPE",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "rangeDefenceBonus": 2
+    }
+}

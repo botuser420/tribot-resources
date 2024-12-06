@@ -1,0 +1,12 @@
+{
+    "itemId": 23654,
+    "itemName": "Occult necklace",
+    "examine": "A smokey evil embodies this amulet.",
+    "weight": 0.005,
+    "equipment": {
+        "slot": "NECK",
+        "magicAttackBonus": 12,
+        "magicDamageBonus": 5.0,
+        "prayerBonus": 2
+    }
+}

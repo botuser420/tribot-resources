@@ -1,0 +1,57 @@
+{
+    "itemId": 6585,
+    "itemName": "Amulet of fury",
+    "examine": "A very powerful onyx amulet.",
+    "weight": 0.01,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Onyx amulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 20
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 20
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 97.0,
+                    "level": 87,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of fury"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": 10,
+        "rangedAttackBonus": 10,
+        "stabDefenceBonus": 15,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 15,
+        "magicDefenceBonus": 15,
+        "rangeDefenceBonus": 15,
+        "strengthBonus": 8,
+        "prayerBonus": 5
+    }
+}

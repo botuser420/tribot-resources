@@ -1,0 +1,7 @@
+{
+    "itemId": 11475,
+    "itemName": "Anti-poison supermix(1)",
+    "examine": "One dose of fishy super antipoison potion.",
+    "weight": 0.045,
+    "buyLimit": 2000
+}

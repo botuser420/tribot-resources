@@ -1,0 +1,38 @@
+{
+    "itemId": 773,
+    "itemName": "'perfect' ring",
+    "examine": "A perfect ruby ring.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "'perfect' gold bar",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ruby",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Ring mould",
+            "skills": [
+                {
+                    "experience": 70.0,
+                    "level": 40,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "'perfect' ring"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "RING"
+    }
+}

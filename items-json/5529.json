@@ -1,0 +1,38 @@
+{
+    "itemId": 5529,
+    "itemName": "Mind tiara",
+    "examine": "A tiara infused with the properties of the mind.",
+    "weight": 1.0,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Mind talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mind Altar",
+            "skills": [
+                {
+                    "experience": 27.5,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Mind tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

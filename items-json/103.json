@@ -1,0 +1,33 @@
+{
+    "itemId": 103,
+    "itemName": "Avantoe potion (unf)",
+    "examine": "I need another ingredient to finish this Avantoe potion.",
+    "weight": 0.056,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Avantoe",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Avantoe potion (unf)"
+            }
+        }
+    ]
+}

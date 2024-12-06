@@ -1,0 +1,18 @@
+{
+    "itemId": 1434,
+    "itemName": "Dragon mace",
+    "examine": "A spiky mace.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 40,
+        "slashAttackBonus": -2,
+        "crushAttackBonus": 60,
+        "strengthBonus": 55,
+        "prayerBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SPIKED"
+    }
+}

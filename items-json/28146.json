@@ -1,0 +1,31 @@
+{
+    "itemId": 28146,
+    "itemName": "Log brace",
+    "examine": "With some rope, adamantite bars and steel nails, I can create a sturdy harness.",
+    "weight": 0.907,
+    "buyLimit": 40,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 3000
+                },
+                {
+                    "name": "Maple logs",
+                    "quantity": 300
+                },
+                {
+                    "name": "Yew logs",
+                    "quantity": 300
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Log brace"
+            }
+        }
+    ]
+}

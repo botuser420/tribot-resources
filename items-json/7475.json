@@ -1,0 +1,24 @@
+{
+    "itemId": 7475,
+    "itemName": "Brulee",
+    "examine": "Perfect, it just needs flambeing.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Brulee (egg)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cinnamon",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Brulee (raw)"
+            }
+        }
+    ]
+}

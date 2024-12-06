@@ -1,0 +1,127 @@
+{
+    "itemId": 8780,
+    "itemName": "Teak plank",
+    "examine": "A plank of fine teak.",
+    "weight": 0.8,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Teak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Sawmill",
+            "output": {
+                "quantity": 1,
+                "name": "Teak plank"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Teak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sawmill",
+            "output": {
+                "quantity": 2,
+                "name": "Teak plank"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Teak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 350
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 15
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 86,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Teak plank"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Teak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 350
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 15
+                },
+                {
+                    "name": "Sawmill voucher",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 86,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 2,
+                "name": "Teak plank"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "itemId": 9335,
+    "itemName": "Jade bolts",
+    "examine": "Jade tipped Blurite crossbow bolts.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Blurite bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Jade bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 24.0,
+                    "level": 26,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Jade bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 30
+    }
+}

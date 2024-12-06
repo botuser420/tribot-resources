@@ -1,0 +1,39 @@
+{
+    "itemId": 22296,
+    "itemName": "Staff of light",
+    "examine": "A ghastly weapon with evil origins combined with a holy light.",
+    "weight": 1.5,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Staff of the dead",
+                    "quantity": 1
+                },
+                {
+                    "name": "Saradomin's light",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Staff of light"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 55,
+        "slashAttackBonus": 70,
+        "magicAttackBonus": 17,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 17,
+        "strengthBonus": 72,
+        "magicDamageBonus": 15.0,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLADED_STAFF"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 12888,
+    "itemName": "Santa jacket",
+    "examine": "Apparently you can still fit down the chimney in this.",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

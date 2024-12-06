@@ -1,0 +1,31 @@
+{
+    "itemId": 21728,
+    "itemName": "Granite cannonball",
+    "examine": "Extra powerful ammo for the Dwarf Cannon.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Cannonball",
+                    "quantity": 1
+                },
+                {
+                    "name": "Granite dust",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Granite cannonball"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "itemId": 9087,
+    "itemName": "Waking sleep vial",
+    "examine": "A vessel for dreaming while awake!",
+    "weight": 0.5,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Ground tooth",
+                    "quantity": 1
+                },
+                {
+                    "name": "Guam-marr vial",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 5,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Waking sleep vial"
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "itemId": 5976,
+    "itemName": "Half coconut",
+    "examine": "It's a coconut.",
+    "weight": 0.028,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Coconut",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Hammer",
+            "output": {
+                "quantity": 1,
+                "name": "Half coconut"
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "itemId": 4699,
+    "itemName": "Lava rune",
+    "examine": "A combined Earth and Fire Rune.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 23,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lava rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Earth tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 23,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lava rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Earth Altar",
+            "tools": "Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lava rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire Altar",
+            "tools": "Fire tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 10.5,
+                    "level": 23,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lava rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire Altar",
+            "tools": "Fire tiara, Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 15.7,
+                    "level": 23,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lava rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire Altar",
+            "tools": "Binding necklace, Magic Imbue",
+            "skills": [
+                {
+                    "experience": 10.5,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lava rune"
+            }
+        }
+    ]
+}

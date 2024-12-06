@@ -1,0 +1,32 @@
+{
+    "itemId": 23800,
+    "itemName": "Elder cadantine potion (unf)",
+    "examine": "I need another ingredient to finish this Elder Cadantine potion.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elder cadantine",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 70,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Elder cadantine potion (unf)"
+            }
+        }
+    ]
+}

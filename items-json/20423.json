@@ -1,0 +1,16 @@
+{
+    "itemId": 20423,
+    "itemName": "Black d'hide body",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 6.803,
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 30,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 38,
+        "crushDefenceBonus": 45,
+        "magicDefenceBonus": 45,
+        "rangeDefenceBonus": 50
+    }
+}

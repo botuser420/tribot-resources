@@ -1,0 +1,14 @@
+{
+    "itemId": 23611,
+    "itemName": "Armadyl crossbow",
+    "examine": "A weapon originally developed for Armadyl's forces.",
+    "weight": 6.0,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 100,
+        "prayerBonus": 1,
+        "attackDistance": 8,
+        "attackSpeed": 6,
+        "weaponType": "CROSSBOW"
+    }
+}

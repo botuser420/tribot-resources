@@ -1,0 +1,33 @@
+{
+    "itemId": 93,
+    "itemName": "Marrentill potion (unf)",
+    "examine": "I need another ingredient to finish this Marrentill potion.",
+    "weight": 0.056,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Marrentill",
+                    "quantity": 1
+                },
+                {
+                    "name": "Vial of water",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 5,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Marrentill potion (unf)"
+            }
+        }
+    ]
+}

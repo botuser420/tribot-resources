@@ -1,0 +1,56 @@
+{
+    "itemId": 27426,
+    "itemName": "Dynamite(p)",
+    "examine": "A pot of Poison dynamite, with a fuse ready to light.",
+    "weight": 1.36,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dynamite",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cave nightshade",
+                    "quantity": 3
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Firemaking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dynamite(p)"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Dynamite",
+                    "quantity": 1
+                },
+                {
+                    "name": "Nightshade",
+                    "quantity": 3
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Firemaking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dynamite(p)"
+            }
+        }
+    ]
+}

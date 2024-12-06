@@ -1,0 +1,39 @@
+{
+    "itemId": 569,
+    "itemName": "Fire orb",
+    "examine": "A magic glowing orb.",
+    "weight": 0.453,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Unpowered orb",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 30
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 3
+                }
+            ],
+            "facilities": "Obelisk of Fire",
+            "skills": [
+                {
+                    "experience": 73.0,
+                    "level": 63,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Fire orb"
+            }
+        }
+    ]
+}

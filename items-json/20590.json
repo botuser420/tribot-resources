@@ -1,0 +1,17 @@
+{
+    "itemId": 20590,
+    "itemName": "Stale baguette",
+    "examine": "Baguette ready for pain.",
+    "weight": 2.267,
+    "buyLimit": 5,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": -100,
+        "slashAttackBonus": -100,
+        "crushAttackBonus": -50,
+        "strengthBonus": -10,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

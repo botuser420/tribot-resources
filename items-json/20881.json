@@ -1,0 +1,29 @@
+{
+    "itemId": 20881,
+    "itemName": "Murng bat (5)",
+    "examine": "Probably won't kill you.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw murng bat (5)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 75,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Murng bat (5)"
+            }
+        }
+    ]
+}

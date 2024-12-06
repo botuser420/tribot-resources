@@ -1,0 +1,38 @@
+{
+    "itemId": 9583,
+    "itemName": "Half made crunchy",
+    "examine": "This worm crunchy needs baking and garnishing with gnome spices.",
+    "weight": 0.35,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half baked crunchy",
+                    "quantity": 1
+                },
+                {
+                    "name": "Equa leaves",
+                    "quantity": 1
+                },
+                {
+                    "name": "King worm",
+                    "quantity": 2
+                }
+            ],
+            "tools": "Gnome spice",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 14,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Half made crunchy (worm)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "itemId": 25565,
+    "itemName": "Harpoonfish",
+    "examine": "Looks like it would pack a punch.",
+    "weight": 0.45,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Raw harpoonfish",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Shrine (Tempoross Cove)",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Harpoonfish"
+            }
+        }
+    ]
+}

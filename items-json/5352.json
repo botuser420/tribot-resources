@@ -1,0 +1,31 @@
+{
+    "itemId": 5352,
+    "itemName": "Unfired plant pot",
+    "examine": "An unfired plant pot.",
+    "weight": 0.907,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Potter's Wheel",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 19,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unfired plant pot"
+            }
+        }
+    ]
+}

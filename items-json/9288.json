@@ -1,0 +1,11 @@
+{
+    "itemId": 9288,
+    "itemName": "Steel bolts (p)",
+    "examine": "Some poisoned steel bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 64
+    }
+}

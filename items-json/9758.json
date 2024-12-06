@@ -1,0 +1,9 @@
+{
+    "itemId": 9758,
+    "itemName": "Ranging hood",
+    "examine": "Range skillcape hood.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

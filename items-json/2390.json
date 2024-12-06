@@ -1,0 +1,32 @@
+{
+    "itemId": 2390,
+    "itemName": "Vial",
+    "examine": "A mixture of jangerberries and a guam leaf in a vial.",
+    "weight": 0.025,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Guam potion (unf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Jangerberries",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 14,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Vial (jangerberries and guam leaf)"
+            }
+        }
+    ]
+}

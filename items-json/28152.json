@@ -1,0 +1,414 @@
+{
+    "itemId": 28152,
+    "itemName": "Nature offerings",
+    "examine": "A sacrifice to nature in the hope of an increase of yield in logs.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Avantoe",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Kwuarm",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Snapdragon",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cadantine",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Lantadyme",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Dwarf weed",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Torstol",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grimy avantoe",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grimy kwuarm",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grimy snapdragon",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grimy cadantine",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grimy lantadyme",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grimy dwarf weed",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Ritual mulch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Grimy torstol",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 50,
+                    "name": "Farming",
+                    "boostable": true
+                },
+                {
+                    "level": 68,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 40,
+                "name": "Nature offerings"
+            }
+        }
+    ]
+}

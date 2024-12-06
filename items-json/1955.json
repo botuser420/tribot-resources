@@ -1,0 +1,7 @@
+{
+    "itemId": 1955,
+    "itemName": "Cooking apple",
+    "examine": "Keeps the doctor away.",
+    "weight": 0.085,
+    "buyLimit": 13000
+}

@@ -1,0 +1,49 @@
+{
+    "itemId": 23896,
+    "itemName": "Crystal halberd (attuned)",
+    "examine": "A wooden stick with some more crystal on the end.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Crystal shards",
+                    "quantity": 60
+                },
+                {
+                    "name": "Crystal halberd (basic)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Singing Bowl (The Gauntlet)",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "experience": 30.0,
+                    "level": 1,
+                    "name": "Smithing"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal halberd (attuned)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 114,
+        "slashAttackBonus": 114,
+        "crushAttackBonus": 12,
+        "strengthBonus": 88,
+        "prayerBonus": 2,
+        "attackDistance": 2,
+        "attackSpeed": 4,
+        "weaponType": "POLEARM"
+    }
+}

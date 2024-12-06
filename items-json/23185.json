@@ -1,0 +1,10 @@
+{
+    "itemId": 23185,
+    "itemName": "Ring of 3rd age",
+    "examine": "Makes you look like something really old, for those moments when you want that.",
+    "weight": 0.005,
+    "buyLimit": 4,
+    "equipment": {
+        "slot": "RING"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "itemId": 1552,
+    "itemName": "Seasoned sardine",
+    "examine": "Sardine flavoured with doogle leaves.",
+    "weight": 0.12,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Raw sardine",
+                    "quantity": 1
+                },
+                {
+                    "name": "Doogle leaves",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Seasoned sardine"
+            }
+        }
+    ]
+}

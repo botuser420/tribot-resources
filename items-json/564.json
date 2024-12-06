@@ -1,0 +1,76 @@
+{
+    "itemId": 564,
+    "itemName": "Cosmic rune",
+    "examine": "Used for enchant spells.",
+    "weight": 0.0,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cosmic Altar",
+            "tools": "Cosmic tiara, Cosmic talisman",
+            "skills": [
+                {
+                    "experience": 8.0,
+                    "level": 27,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cosmic rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cosmic Altar",
+            "tools": "Cosmic tiara, Cosmic talisman",
+            "skills": [
+                {
+                    "experience": 12.0,
+                    "level": 27,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cosmic rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cosmic Altar",
+            "skills": [
+                {
+                    "experience": 8.0,
+                    "level": 27,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cosmic rune"
+            }
+        }
+    ]
+}

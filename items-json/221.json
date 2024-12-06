@@ -1,0 +1,7 @@
+{
+    "itemId": 221,
+    "itemName": "Eye of newt",
+    "examine": "It seems to be looking at me.",
+    "weight": 0.007,
+    "buyLimit": 13000
+}

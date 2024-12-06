@@ -1,0 +1,31 @@
+{
+    "itemId": 23806,
+    "itemName": "Inversion potion",
+    "examine": "A magical elven potion.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Elder cadantine potion (unf)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal dust (Song of the Elves)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 70,
+                    "name": "Herblore"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Inversion potion"
+            }
+        }
+    ]
+}

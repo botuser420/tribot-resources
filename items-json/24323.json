@@ -1,0 +1,38 @@
+{
+    "itemId": 24323,
+    "itemName": "Spookier boots",
+    "examine": "A spooky pair of boots cut from a bedsheet!",
+    "weight": 0.1,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Spooky boots",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Ectofuntus",
+            "output": {
+                "quantity": 1,
+                "name": "Spookier boots"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Spooky boots",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Swampy sink",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Spookier boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET"
+    }
+}

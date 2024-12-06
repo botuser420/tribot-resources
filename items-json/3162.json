@@ -1,0 +1,23 @@
+{
+    "itemId": 3162,
+    "itemName": "Sliced banana",
+    "examine": "You swear you had more than three slices before.",
+    "weight": 0.028,
+    "buyLimit": 15,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Banana",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Sliced banana"
+            }
+        }
+    ]
+}

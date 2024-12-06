@@ -1,0 +1,15 @@
+{
+    "itemId": 4212,
+    "itemName": "New crystal bow",
+    "examine": "A nice sturdy magical bow.",
+    "weight": 1.814,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 100,
+        "rangedStrengthBonus": 70,
+        "attackDistance": 10,
+        "attackSpeed": 5,
+        "weaponType": "BOW"
+    }
+}

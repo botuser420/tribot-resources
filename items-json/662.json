@@ -1,0 +1,12 @@
+{
+    "itemId": 662,
+    "itemName": "Cream hat",
+    "examine": "A silly cream pointed hat.",
+    "weight": 0.453,
+    "buyLimit": 150,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 3,
+        "magicDefenceBonus": 3
+    }
+}

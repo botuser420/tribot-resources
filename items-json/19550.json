@@ -1,0 +1,16 @@
+{
+    "itemId": 19550,
+    "itemName": "Ring of suffering",
+    "examine": "A deep sense of suffering burns within this powerful ring.",
+    "weight": 0.006,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "RING",
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 10,
+        "crushDefenceBonus": 10,
+        "magicDefenceBonus": 10,
+        "rangeDefenceBonus": 10,
+        "prayerBonus": 2
+    }
+}

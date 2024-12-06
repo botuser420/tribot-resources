@@ -1,0 +1,67 @@
+{
+    "itemId": 2501,
+    "itemName": "Red d'hide body",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 6.803,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Red dragon leather",
+                    "quantity": 3
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 234.0,
+                    "level": 77,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red d'hide body"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Red dragon leather",
+                    "quantity": 3
+                }
+            ],
+            "tools": "Costume needle",
+            "skills": [
+                {
+                    "experience": 234.0,
+                    "level": 77,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red d'hide body"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -15,
+        "rangedAttackBonus": 25,
+        "stabDefenceBonus": 26,
+        "slashDefenceBonus": 34,
+        "crushDefenceBonus": 36,
+        "magicDefenceBonus": 36,
+        "rangeDefenceBonus": 45
+    }
+}

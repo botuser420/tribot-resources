@@ -1,0 +1,31 @@
+{
+    "itemId": 21350,
+    "itemName": "Amethyst arrowtips",
+    "examine": "I can make some arrows with these.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Amethyst",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 85,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Amethyst arrowtips"
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "itemId": 5751,
+    "itemName": "Axeman's folly",
+    "examine": "This might help me chop harder.",
+    "weight": 0.55,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bucket of water",
+                    "quantity": 2
+                },
+                {
+                    "name": "Barley malt",
+                    "quantity": 2
+                },
+                {
+                    "name": "Oak roots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ale yeast",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beer glass",
+                    "quantity": 8
+                }
+            ],
+            "facilities": "Brewery",
+            "skills": [
+                {
+                    "experience": 413.0,
+                    "level": 49,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 8,
+                "name": "Axeman's folly"
+            }
+        }
+    ]
+}

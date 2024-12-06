@@ -1,0 +1,30 @@
+{
+    "itemId": 27117,
+    "itemName": "Elder chaos robe (or)",
+    "examine": "The robes worn by the dangerous elder druids, tastefully decorated.",
+    "weight": 0.18,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Elder chaos robe",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elder chaos robes ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Elder chaos robe (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 6,
+        "magicDefenceBonus": 6,
+        "magicDamageBonus": 1.0
+    }
+}

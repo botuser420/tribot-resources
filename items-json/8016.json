@@ -1,0 +1,39 @@
+{
+    "itemId": 8016,
+    "itemName": "Enchant sapphire or opal",
+    "examine": "A tablet containing a magic spell.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Water rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Oak lectern",
+            "skills": [
+                {
+                    "experience": 13.2,
+                    "level": 7,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Enchant sapphire or opal"
+            }
+        }
+    ]
+}

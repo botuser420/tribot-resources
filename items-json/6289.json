@@ -1,0 +1,147 @@
+{
+    "itemId": 6289,
+    "itemName": "Snakeskin",
+    "examine": "Nicely tanned skin from a snake.",
+    "weight": 0.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Snake hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 15
+                }
+            ],
+            "facilities": "Tannery",
+            "output": {
+                "quantity": 1,
+                "name": "Snakeskin"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Snake hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 25
+                }
+            ],
+            "facilities": "Sbott",
+            "output": {
+                "quantity": 1,
+                "name": "Snakeskin"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Snake hide (swamp)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 20
+                }
+            ],
+            "facilities": "Tannery",
+            "output": {
+                "quantity": 1,
+                "name": "Snakeskin"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Snake hide (swamp)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 45
+                }
+            ],
+            "facilities": "Sbott",
+            "output": {
+                "quantity": 1,
+                "name": "Snakeskin"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Snake hide",
+                    "quantity": 5
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 81.0,
+                    "level": 78,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Snakeskin"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Snake hide (swamp)",
+                    "quantity": 5
+                },
+                {
+                    "name": "Nature rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Astral rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 5
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 81.0,
+                    "level": 78,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 5,
+                "name": "Snakeskin"
+            }
+        }
+    ]
+}

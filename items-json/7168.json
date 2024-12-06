@@ -1,0 +1,33 @@
+{
+    "itemId": 7168,
+    "itemName": "Raw mud pie",
+    "examine": "Needs to be baked before I can use it.",
+    "weight": 0.001,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Clay",
+                    "quantity": 1
+                },
+                {
+                    "name": "Part mud pie (water)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 29,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw mud pie"
+            }
+        }
+    ]
+}

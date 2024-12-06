@@ -1,0 +1,43 @@
+{
+    "itemId": 8021,
+    "itemName": "Enchant onyx",
+    "examine": "A tablet containing a magic spell.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 20
+                },
+                {
+                    "name": "Fire rune",
+                    "quantity": 20
+                },
+                {
+                    "name": "Soft clay",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Mahogany demon lectern",
+            "skills": [
+                {
+                    "experience": 72.8,
+                    "level": 87,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Enchant onyx"
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "itemId": 24140,
+    "itemName": "Mithril defender (l)",
+    "examine": "A defensive weapon.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 9,
+        "crushAttackBonus": 8,
+        "magicAttackBonus": -3,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 8,
+        "magicDefenceBonus": -3,
+        "rangeDefenceBonus": -2,
+        "strengthBonus": 3
+    }
+}

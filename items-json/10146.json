@@ -1,0 +1,16 @@
+{
+    "itemId": 10146,
+    "itemName": "Orange salamander",
+    "examine": "Slightly slimy but kind of cute.",
+    "weight": 4.0,
+    "buyLimit": 125,
+    "equipment": {
+        "slot": "WEAPON",
+        "slashAttackBonus": 19,
+        "rangedAttackBonus": 29,
+        "strengthBonus": 31,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SALAMANDER"
+    }
+}

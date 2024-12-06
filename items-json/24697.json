@@ -1,0 +1,48 @@
+{
+    "itemId": 24697,
+    "itemName": "Blisterwood sickle",
+    "examine": "A ruby sickle with a blade of silver and blisterwood.",
+    "weight": 1.587,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Enchanted ruby sickle (b)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blisterwood logs",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 82.0,
+                    "level": 60,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blisterwood sickle"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 30,
+        "slashAttackBonus": 38,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 2,
+        "strengthBonus": 32,
+        "prayerBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

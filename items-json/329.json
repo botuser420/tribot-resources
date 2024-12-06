@@ -1,0 +1,32 @@
+{
+    "itemId": 329,
+    "itemName": "Salmon",
+    "examine": "Some nicely cooked salmon.",
+    "weight": 0.5,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw salmon",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 90.0,
+                    "level": 25,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Salmon"
+            }
+        }
+    ]
+}

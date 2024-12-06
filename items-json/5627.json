@@ -1,0 +1,11 @@
+{
+    "itemId": 5627,
+    "itemName": "Rune arrow(p++)",
+    "examine": "Venomous-looking arrows.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 49
+    }
+}

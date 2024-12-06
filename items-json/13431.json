@@ -1,0 +1,21 @@
+{
+    "itemId": 13431,
+    "itemName": "Sandworms",
+    "examine": "Can be used as bait for catching anglerfish.",
+    "weight": 0.0,
+    "buyLimit": 8000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bucket of sandworms",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 3,
+                "name": "Sandworms"
+            }
+        }
+    ]
+}

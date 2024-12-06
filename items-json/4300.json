@@ -1,0 +1,12 @@
+{
+    "itemId": 4300,
+    "itemName": "Ham robe",
+    "examine": "The label says 'Vivid Crimson', but it looks pink to me!",
+    "weight": 0.907,
+    "buyLimit": 15,
+    "equipment": {
+        "slot": "LEGS",
+        "slashDefenceBonus": 2,
+        "crushDefenceBonus": 2
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "itemId": 7530,
+    "itemName": "Cooked fishcake",
+    "examine": "Mmmm, reminds me of the seaside.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw fishcake",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 31,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked fishcake"
+            }
+        }
+    ]
+}

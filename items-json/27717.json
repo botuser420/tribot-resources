@@ -1,0 +1,17 @@
+{
+    "itemId": 27717,
+    "itemName": "Crystal helm",
+    "examine": "This helmet shines bright, like a diamond.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 9,
+        "stabDefenceBonus": 12,
+        "slashDefenceBonus": 8,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": 10,
+        "rangeDefenceBonus": 18,
+        "prayerBonus": 2
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "itemId": 20424,
+    "itemName": "Black d'hide chaps",
+    "examine": "Made from 100% real dragonhide.",
+    "weight": 5.443,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 17,
+        "stabDefenceBonus": 18,
+        "slashDefenceBonus": 20,
+        "crushDefenceBonus": 26,
+        "magicDefenceBonus": 23,
+        "rangeDefenceBonus": 26
+    }
+}

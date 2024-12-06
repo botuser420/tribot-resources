@@ -1,0 +1,7 @@
+{
+    "itemId": 5312,
+    "itemName": "Acorn",
+    "examine": "Plant this in a plantpot of soil to grow a sapling.",
+    "weight": 0.0,
+    "buyLimit": 200
+}

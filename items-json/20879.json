@@ -1,0 +1,29 @@
+{
+    "itemId": 20879,
+    "itemName": "Kryket bat (4)",
+    "examine": "Probably won't kill you.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw kryket bat (4)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 22.0,
+                    "level": 60,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Kryket bat (4)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "itemId": 4027,
+    "itemName": "Bearded gorilla greegree",
+    "examine": "A magical talisman in the shape of a bearded gorilla head.",
+    "weight": 0.085,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Monkey talisman",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bearded gorilla bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Zooknock",
+            "output": {
+                "quantity": 1,
+                "name": "Bearded gorilla greegree"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": -1
+    }
+}

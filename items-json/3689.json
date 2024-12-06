@@ -1,0 +1,37 @@
+{
+    "itemId": 3689,
+    "itemName": "Lyre",
+    "examine": "It's a musical instrument I don't know how to play.",
+    "weight": 1.814,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Unstrung lyre",
+                    "quantity": 1
+                },
+                {
+                    "name": "Golden wool",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 1.0,
+                    "level": 25,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lyre"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
+}

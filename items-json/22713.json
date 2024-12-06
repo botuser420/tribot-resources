@@ -1,0 +1,36 @@
+{
+    "itemId": 22713,
+    "itemName": "Star-face",
+    "examine": "Say hello to my little star.",
+    "weight": 0.113,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Festive tree branch",
+                    "quantity": 1
+                },
+                {
+                    "name": "Church decoration",
+                    "quantity": 1
+                },
+                {
+                    "name": "Waste gems",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ball of wool",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Star-face"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

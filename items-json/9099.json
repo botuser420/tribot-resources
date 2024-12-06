@@ -1,0 +1,42 @@
+{
+    "itemId": 9099,
+    "itemName": "Lunar gloves",
+    "examine": "These should keep my hands safe.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Suqah leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Thread",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 61,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lunar gloves"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": 4,
+        "rangedAttackBonus": -1,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 2
+    }
+}

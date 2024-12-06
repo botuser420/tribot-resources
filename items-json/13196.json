@@ -1,0 +1,11 @@
+{
+    "itemId": 13196,
+    "itemName": "Tanzanite helm (uncharged)",
+    "examine": "Needs to be charged with Zulrah's scales.",
+    "weight": 0.9,
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -5,
+        "rangedAttackBonus": -5
+    }
+}

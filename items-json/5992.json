@@ -1,0 +1,34 @@
+{
+    "itemId": 5992,
+    "itemName": "Apple mush",
+    "examine": "A bucket of apple mush.",
+    "weight": 1.1,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 15,
+            "materials": [
+                {
+                    "name": "Cooking apple",
+                    "quantity": 4
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Apple Press",
+            "skills": [
+                {
+                    "level": 14,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Apple mush"
+            }
+        }
+    ]
+}

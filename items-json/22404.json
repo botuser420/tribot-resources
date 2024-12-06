@@ -1,0 +1,21 @@
+{
+    "itemId": 22404,
+    "itemName": "Mysterious crushed meat",
+    "examine": "I can't tell what animal it came from.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Mysterious meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Mysterious crushed meat"
+            }
+        }
+    ]
+}

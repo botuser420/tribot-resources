@@ -1,0 +1,29 @@
+{
+    "itemId": 6766,
+    "itemName": "Cat antipoison",
+    "examine": "Antipoison for Pox.",
+    "weight": 0.035,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Bucket of milk",
+                    "quantity": 1
+                },
+                {
+                    "name": "Marrentill",
+                    "quantity": 1
+                },
+                {
+                    "name": "Unicorn horn dust",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Apothecary",
+            "output": {
+                "quantity": 1,
+                "name": "Cat antipoison"
+            }
+        }
+    ]
+}

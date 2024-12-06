@@ -1,0 +1,34 @@
+{
+    "itemId": 24370,
+    "itemName": "Twisted slayer helmet",
+    "examine": "You don't want to wear it inside-out.",
+    "weight": 2.267,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Slayer helmet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Twisted horns",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Twisted slayer helmet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": -6,
+        "rangedAttackBonus": -2,
+        "stabDefenceBonus": 30,
+        "slashDefenceBonus": 32,
+        "crushDefenceBonus": 27,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 30
+    }
+}

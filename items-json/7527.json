@@ -1,0 +1,21 @@
+{
+    "itemId": 7527,
+    "itemName": "Ground crab meat",
+    "examine": "A smelly paste.",
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Crab meat",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "output": {
+                "quantity": 1,
+                "name": "Ground crab meat"
+            }
+        }
+    ]
+}

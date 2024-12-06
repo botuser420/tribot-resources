@@ -1,0 +1,39 @@
+{
+    "itemId": 6082,
+    "itemName": "Fixed device",
+    "examine": "A device for firing dye.",
+    "weight": 4.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Toad crunchies",
+                    "quantity": 1
+                },
+                {
+                    "name": "Broken device",
+                    "quantity": 1
+                },
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                },
+                {
+                    "name": "Magic logs",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Rack (Mourner Headquarters)#Gnome|Gnome on a rack",
+            "tools": "Feather",
+            "output": {
+                "quantity": 1,
+                "name": "Fixed device"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "attackSpeed": 4,
+        "weaponType": "GUN"
+    }
+}

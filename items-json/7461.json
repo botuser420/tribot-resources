@@ -1,0 +1,20 @@
+{
+    "itemId": 7461,
+    "itemName": "Dragon gloves",
+    "examine": "A pair of very nice gloves.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 9,
+        "slashAttackBonus": 9,
+        "crushAttackBonus": 9,
+        "magicAttackBonus": 5,
+        "rangedAttackBonus": 9,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 9,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": 5,
+        "rangeDefenceBonus": 9,
+        "strengthBonus": 9
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "itemId": 13398,
+    "itemName": "Servery pastry dough",
+    "examine": "Suitable for making pies.",
+    "weight": 0.17,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Servery flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bowl of water",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Servery pastry dough"
+            }
+        }
+    ]
+}

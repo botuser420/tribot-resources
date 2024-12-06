@@ -1,0 +1,39 @@
+{
+    "itemId": 19623,
+    "itemName": "West ardougne teleport",
+    "examine": "A teleport to West Ardougne.",
+    "weight": 0.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Law rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Soul rune",
+                    "quantity": 2
+                },
+                {
+                    "name": "Dark essence block",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Lectern (Arceuus)",
+            "skills": [
+                {
+                    "experience": 68.0,
+                    "level": 61,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "West ardougne teleport (tablet)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 25676,
+    "itemName": "Barronite shards",
+    "examine": "Shards of strange glowing ore.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Barronite deposit",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Barronite Crusher",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 30.0,
+                    "level": 14,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 6,
+                "name": "Barronite shards"
+            }
+        }
+    ]
+}

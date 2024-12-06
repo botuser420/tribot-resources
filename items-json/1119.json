@@ -1,0 +1,43 @@
+{
+    "itemId": 1119,
+    "itemName": "Steel platebody",
+    "examine": "Provides excellent protection.",
+    "weight": 9.979,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 5
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 187.5,
+                    "level": 48,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Steel platebody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 32,
+        "slashDefenceBonus": 31,
+        "crushDefenceBonus": 24,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 31
+    }
+}

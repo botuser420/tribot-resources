@@ -1,0 +1,33 @@
+{
+    "itemId": 7224,
+    "itemName": "Skewered rabbit",
+    "examine": "All ready to be used on a fire.",
+    "weight": 1.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Raw rabbit",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Iron spit",
+            "skills": [
+                {
+                    "level": 16,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 20,
+                    "name": "Firemaking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Skewered rabbit"
+            }
+        }
+    ]
+}

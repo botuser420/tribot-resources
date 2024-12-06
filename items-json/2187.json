@@ -1,0 +1,31 @@
+{
+    "itemId": 2187,
+    "itemName": "Tangled toad's legs",
+    "examine": "It actually smells quite good.",
+    "weight": 0.35,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Half made bowl (tangled toad's legs)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 105.0,
+                    "level": 40,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tangled toad's legs"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 314,
+    "itemName": "Feather",
+    "examine": "Used for fly fishing.",
+    "weight": 0.0,
+    "buyLimit": 30000
+}

@@ -1,0 +1,37 @@
+{
+    "itemId": 1692,
+    "itemName": "Gold amulet",
+    "examine": "A plain gold amulet.",
+    "weight": 0.007,
+    "buyLimit": 18000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Gold amulet (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ball of wool",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 4.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Gold amulet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

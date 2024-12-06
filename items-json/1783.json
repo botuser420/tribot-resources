@@ -1,0 +1,107 @@
+{
+    "itemId": 1783,
+    "itemName": "Bucket of sand",
+    "examine": "One of the ingredients for making glass.",
+    "weight": 2.5,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Bucket",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Sand pit",
+            "output": {
+                "quantity": 1,
+                "name": "Bucket of sand"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Sandstone (1kg)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 50
+                }
+            ],
+            "facilities": "Sandstorm",
+            "output": {
+                "quantity": 1,
+                "name": "Bucket of sand"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Sandstone (2kg)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 2
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Sandstorm",
+            "output": {
+                "quantity": 2,
+                "name": "Bucket of sand"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Sandstone (5kg)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 4
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 200
+                }
+            ],
+            "facilities": "Sandstorm",
+            "output": {
+                "quantity": 4,
+                "name": "Bucket of sand"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Sandstone (10kg)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket",
+                    "quantity": 8
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 400
+                }
+            ],
+            "facilities": "Sandstorm",
+            "output": {
+                "quantity": 8,
+                "name": "Bucket of sand"
+            }
+        }
+    ]
+}

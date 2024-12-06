@@ -1,0 +1,30 @@
+{
+    "itemId": 5350,
+    "itemName": "Empty plant pot",
+    "examine": "An empty plant pot.",
+    "weight": 0.907,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 7,
+            "materials": [
+                {
+                    "name": "Unfired plant pot",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pottery Oven",
+            "skills": [
+                {
+                    "experience": 17.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Empty plant pot"
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "itemId": 28688,
+    "itemName": "Blazing blowpipe",
+    "examine": "A Toxic Blowpipe that fires darts coated with venom... And fire.",
+    "weight": 0.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 30,
+        "rangedStrengthBonus": 20,
+        "attackDistance": 5,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
+}

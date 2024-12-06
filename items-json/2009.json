@@ -1,0 +1,56 @@
+{
+    "itemId": 2009,
+    "itemName": "Uncooked curry",
+    "examine": "I need to cook this.",
+    "weight": 1.5,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Curry leaf",
+                    "quantity": 3
+                },
+                {
+                    "name": "Uncooked stew",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 60,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked curry"
+            }
+        },
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Spice",
+                    "quantity": 1
+                },
+                {
+                    "name": "Uncooked stew",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 60,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Uncooked curry"
+            }
+        }
+    ]
+}

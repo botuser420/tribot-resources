@@ -1,0 +1,52 @@
+{
+    "itemId": 22284,
+    "itemName": "Black d'hide shield",
+    "examine": "A solid redwood shield covered in black dragon leather.",
+    "weight": 8.0,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Black dragon leather",
+                    "quantity": 2
+                },
+                {
+                    "name": "Redwood shield",
+                    "quantity": 1
+                },
+                {
+                    "name": "Rune nails",
+                    "quantity": 15
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 172.0,
+                    "level": 83,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Black d'hide shield"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": -15,
+        "slashAttackBonus": -15,
+        "crushAttackBonus": -11,
+        "magicAttackBonus": -10,
+        "rangedAttackBonus": 7,
+        "stabDefenceBonus": 21,
+        "slashDefenceBonus": 18,
+        "crushDefenceBonus": 16,
+        "magicDefenceBonus": 15,
+        "rangeDefenceBonus": 14
+    }
+}

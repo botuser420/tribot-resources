@@ -1,0 +1,47 @@
+{
+    "itemId": 5743,
+    "itemName": "Greenman's ale(m)",
+    "examine": "This looks a good deal stronger than normal Greenman's Ale.",
+    "weight": 0.55,
+    "buyLimit": 2000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Bucket of water",
+                    "quantity": 2
+                },
+                {
+                    "name": "Barley malt",
+                    "quantity": 2
+                },
+                {
+                    "name": "Harralander",
+                    "quantity": 4
+                },
+                {
+                    "name": "Ale yeast",
+                    "quantity": 1
+                },
+                {
+                    "name": "Beer glass",
+                    "quantity": 8
+                }
+            ],
+            "facilities": "Brewery",
+            "skills": [
+                {
+                    "experience": 281.0,
+                    "level": 29,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 8,
+                "name": "Greenman's ale(m)"
+            }
+        }
+    ]
+}

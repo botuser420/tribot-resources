@@ -1,0 +1,31 @@
+{
+    "itemId": 4542,
+    "itemName": "Lantern lens",
+    "examine": "A roughly circular disc of glass.",
+    "weight": 0.028,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Molten glass",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Glassblowing pipe",
+            "skills": [
+                {
+                    "experience": 55.0,
+                    "level": 49,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lantern lens"
+            }
+        }
+    ]
+}

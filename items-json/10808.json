@@ -1,0 +1,32 @@
+{
+    "itemId": 10808,
+    "itemName": "Arctic pyre logs",
+    "examine": "Arctic pine logs prepared with sacred oil for a funeral pyre.",
+    "weight": 1.36,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Arctic pine logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Sacred oil(2)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 1,
+                    "name": "Firemaking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Arctic pyre logs"
+            }
+        }
+    ]
+}

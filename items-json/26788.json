@@ -1,0 +1,35 @@
+{
+    "itemId": 26788,
+    "itemName": "Gold tiara",
+    "examine": "Makes me feel like a wealthy Princess.",
+    "weight": 1.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Gold bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Furnace",
+            "tools": "Tiara mould",
+            "skills": [
+                {
+                    "experience": 35.0,
+                    "level": 42,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Gold tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

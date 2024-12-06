@@ -1,0 +1,10 @@
+{
+    "itemId": 942,
+    "itemName": "Bronze fire arrow (lit)",
+    "examine": "These bronze-headed arrows are ablaze with fire.",
+    "weight": 0.0,
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 7
+    }
+}

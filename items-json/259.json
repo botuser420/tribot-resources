@@ -1,0 +1,29 @@
+{
+    "itemId": 259,
+    "itemName": "Irit leaf",
+    "examine": "A useful herb.",
+    "weight": 0.007,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Grimy irit leaf",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 8.8,
+                    "level": 40,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Irit leaf"
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "itemId": 5984,
+    "itemName": "Watermelon slice",
+    "examine": "A slice of watermelon.",
+    "weight": 0.028,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Watermelon",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "output": {
+                "quantity": 3,
+                "name": "Watermelon slice"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "itemId": 11330,
+    "itemName": "Leaping salmon",
+    "examine": "Some non-tasty salmon.",
+    "weight": 0.5,
+    "buyLimit": 13000
+}

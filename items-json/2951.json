@@ -1,0 +1,21 @@
+{
+    "itemId": 2951,
+    "itemName": "Golden needle",
+    "examine": "A replica needle made of solid gold.",
+    "weight": 0.001,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Needle",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Monument",
+            "output": {
+                "quantity": 1,
+                "name": "Golden needle"
+            }
+        }
+    ]
+}

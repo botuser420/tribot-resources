@@ -1,0 +1,33 @@
+{
+    "itemId": 2963,
+    "itemName": "Silver sickle (b)",
+    "examine": "It's a blessed silver sickle.",
+    "weight": 1.587,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Silver sickle",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Altar of nature",
+            "output": {
+                "quantity": 1,
+                "name": "Silver sickle (b)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "slashDefenceBonus": 1,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 1,
+        "rangeDefenceBonus": 1,
+        "strengthBonus": 1,
+        "prayerBonus": 5,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SLASH_SWORD"
+    }
+}

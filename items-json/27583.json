@@ -1,0 +1,9 @@
+{
+    "itemId": 27583,
+    "itemName": "Sweet nutcracker trousers",
+    "examine": "Some sweet-themed nutcracker trousers.",
+    "weight": 0.3,
+    "equipment": {
+        "slot": "LEGS"
+    }
+}

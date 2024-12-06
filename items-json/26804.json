@@ -1,0 +1,36 @@
+{
+    "itemId": 26804,
+    "itemName": "Elemental tiara",
+    "examine": "A tiara infused with the properties of every elemental rune.",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Gold tiara",
+                    "quantity": 1
+                },
+                {
+                    "name": "Elemental talisman",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Elemental runic altar",
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 1,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Elemental tiara"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

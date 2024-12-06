@@ -1,0 +1,9 @@
+{
+    "itemId": 30410,
+    "itemName": "Raging echoes boots (t1)",
+    "examine": "The boots of a Raging Echoes relic hunter.",
+    "weight": 0.34,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

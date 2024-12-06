@@ -1,0 +1,28 @@
+{
+    "itemId": 25598,
+    "itemName": "Spirit angler boots",
+    "examine": "Where's Welly?",
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Angler boots",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spirit flakes",
+                    "quantity": 1200
+                }
+            ],
+            "facilities": "Gita Prymes",
+            "output": {
+                "quantity": 1,
+                "name": "Spirit angler boots"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "FEET"
+    }
+}

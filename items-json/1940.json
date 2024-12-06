@@ -1,0 +1,24 @@
+{
+    "itemId": 1940,
+    "itemName": "Raw swamp paste",
+    "examine": "A thick tar-like substance mixed with flour.",
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Pot of flour",
+                    "quantity": 1
+                },
+                {
+                    "name": "Swamp tar",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Raw swamp paste"
+            }
+        }
+    ]
+}

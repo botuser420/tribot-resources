@@ -1,0 +1,38 @@
+{
+    "itemId": 579,
+    "itemName": "Blue wizard hat",
+    "examine": "A silly pointed hat.",
+    "weight": 0.453,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Wizard hat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blue dye",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 2.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Blue wizard hat"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD",
+        "magicAttackBonus": 2,
+        "magicDefenceBonus": 2
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "itemId": 1468,
+    "itemName": "Dry sticks",
+    "examine": "Some dry wooden sticks.",
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "ticks": 18,
+            "materials": [
+                {
+                    "name": "Broken glass",
+                    "quantity": 1
+                },
+                {
+                    "name": "Damp sticks",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Dry sticks"
+            }
+        }
+    ]
+}

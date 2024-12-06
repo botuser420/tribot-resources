@@ -1,0 +1,54 @@
+{
+    "itemId": 1731,
+    "itemName": "Amulet of power",
+    "examine": "An enchanted diamond amulet of power.",
+    "weight": 0.01,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Diamond amulet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Cosmic rune",
+                    "quantity": 1
+                },
+                {
+                    "name": "Earth rune",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 67.0,
+                    "level": 57,
+                    "name": "Magic",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Amulet of power"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabAttackBonus": 6,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 6,
+        "magicAttackBonus": 6,
+        "rangedAttackBonus": 6,
+        "stabDefenceBonus": 6,
+        "slashDefenceBonus": 6,
+        "crushDefenceBonus": 6,
+        "magicDefenceBonus": 6,
+        "rangeDefenceBonus": 6,
+        "strengthBonus": 6,
+        "prayerBonus": 1
+    }
+}

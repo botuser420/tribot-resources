@@ -1,0 +1,28 @@
+{
+    "itemId": 782,
+    "itemName": "Family crest",
+    "examine": "The Fitzharmon family crest.",
+    "weight": 4.535,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Crest part",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crest part",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crest part",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Family crest (item)"
+            }
+        }
+    ]
+}

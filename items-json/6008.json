@@ -1,0 +1,29 @@
+{
+    "itemId": 6008,
+    "itemName": "Barley malt",
+    "examine": "A handful of barley malt.",
+    "weight": 0.028,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Barley",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Cooking"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Barley malt"
+            }
+        }
+    ]
+}

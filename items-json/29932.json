@@ -1,0 +1,9 @@
+{
+    "itemId": 29940,
+    "itemName": "Jaguar mask",
+    "examine": "A rather interesting mask of a jaguar.",
+    "weight": 0.1,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

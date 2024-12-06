@@ -1,0 +1,48 @@
+{
+    "itemId": 13568,
+    "itemName": "Shayzien supply set (4)",
+    "examine": "Supplies for the Shayzien soldiers.",
+    "weight": 6.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Shayzien supply crate",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shayzien supply helm (4)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shayzien supply platebody (4)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shayzien supply gloves (4)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shayzien supply greaves (4)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Shayzien supply boots (4)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 83,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Shayzien supply set (4)"
+            }
+        }
+    ]
+}

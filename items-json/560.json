@@ -1,0 +1,77 @@
+{
+    "itemId": 560,
+    "itemName": "Death rune",
+    "examine": "Used for medium level missile spells.",
+    "weight": 0.0,
+    "buyLimit": 25000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Pure essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Death Altar",
+            "tools": "Death tiara, Death talisman",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 65,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Death rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Daeyalt essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Death Altar",
+            "tools": "Death tiara, Death talisman",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 65,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Death rune"
+            }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Guardian essence",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Death Altar",
+            "skills": [
+                {
+                    "experience": 10.0,
+                    "level": 65,
+                    "name": "Runecraft",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Death rune"
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "itemId": 13643,
+    "itemName": "Farmer's shirt",
+    "examine": "This will help with farming.",
+    "weight": 0.907,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "itemId": 29348,
+    "itemName": "Blessed big bones",
+    "examine": "Bones blessed at an exposed altar.",
+    "weight": 0.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Big bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Exposed altar",
+            "output": {
+                "quantity": 1,
+                "name": "Blessed big bones"
+            }
+        }
+    ]
+}

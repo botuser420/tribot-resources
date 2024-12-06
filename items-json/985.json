@@ -1,0 +1,7 @@
+{
+    "itemId": 985,
+    "itemName": "Tooth half of key",
+    "examine": "The tooth end of the mysterious Crystal Key. Can you find the other half?",
+    "weight": 0.005,
+    "buyLimit": 11000
+}

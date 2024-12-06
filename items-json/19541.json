@@ -1,0 +1,36 @@
+{
+    "itemId": 19541,
+    "itemName": "Zenyte amulet",
+    "examine": "A fiery glow emanates from this amulet.",
+    "weight": 0.01,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Zenyte amulet (u)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ball of wool",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 4.0,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Zenyte amulet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK"
+    }
+}

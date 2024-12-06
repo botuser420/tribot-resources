@@ -1,0 +1,31 @@
+{
+    "itemId": 1613,
+    "itemName": "Red topaz",
+    "examine": "A semi precious stone.",
+    "weight": 0.002,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Uncut red topaz",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 25.0,
+                    "level": 16,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Red topaz"
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "itemId": 12434,
+    "itemName": "Top hat & monocle",
+    "examine": "Like a sir.",
+    "weight": 1.36,
+    "buyLimit": 4,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Top hat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Monocle",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Patchy",
+            "tools": "Book o' piracy",
+            "output": {
+                "quantity": 1,
+                "name": "Top hat & monocle"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

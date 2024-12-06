@@ -1,0 +1,43 @@
+{
+    "itemId": 1117,
+    "itemName": "Bronze platebody",
+    "examine": "Provides excellent protection.",
+    "weight": 9.979,
+    "buyLimit": 125,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bronze bar",
+                    "quantity": 5
+                }
+            ],
+            "facilities": "Anvil",
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 62.5,
+                    "level": 18,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Bronze platebody"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -15,
+        "stabDefenceBonus": 15,
+        "slashDefenceBonus": 14,
+        "crushDefenceBonus": 9,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 14
+    }
+}

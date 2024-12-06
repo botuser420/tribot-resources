@@ -1,0 +1,38 @@
+{
+    "itemId": 4081,
+    "itemName": "Salve amulet",
+    "examine": "Increases the wearer's strength and accuracy by 15%<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"actually 1/6th\">sic</span>&#93;</sup> when fighting the undead.",
+    "weight": 0.007,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Salve shard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ball of wool",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Salve amulet"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "NECK",
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "prayerBonus": 3
+    }
+}

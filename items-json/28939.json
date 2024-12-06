@@ -1,0 +1,17 @@
+{
+    "itemId": 28939,
+    "itemName": "Sunfire fanatic chausses",
+    "examine": "Chausses forged from sunfire.",
+    "weight": 7.711,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -4,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 51,
+        "slashDefenceBonus": 49,
+        "crushDefenceBonus": 47,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 49,
+        "prayerBonus": 8
+    }
+}

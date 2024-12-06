@@ -1,0 +1,18 @@
+{
+    "itemId": 11905,
+    "itemName": "Trident of the seas (full)",
+    "examine": "A weapon from the deep.",
+    "weight": 1.814,
+    "buyLimit": 8,
+    "equipment": {
+        "slot": "WEAPON",
+        "magicAttackBonus": 15,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 15,
+        "attackDistance": 7,
+        "attackSpeed": 4,
+        "weaponType": "POWERED_STAFF"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "itemId": 10143,
+    "itemName": "Marrentill tar",
+    "examine": "A thick, foul-smelling, tar-like substance with an orange tinge.",
+    "weight": 0.0,
+    "buyLimit": 7000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Swamp tar",
+                    "quantity": 15
+                },
+                {
+                    "name": "Marrentill",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Pestle and mortar",
+            "skills": [
+                {
+                    "experience": 42.5,
+                    "level": 31,
+                    "name": "Herblore",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 15,
+                "name": "Marrentill tar"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 22
+    }
+}

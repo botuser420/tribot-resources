@@ -1,0 +1,48 @@
+{
+    "itemId": 8776,
+    "itemName": "Steel kiteshield",
+    "examine": "A shield with the symbol of Zamorak.",
+    "weight": 5.443,
+    "itemCreation": [
+        {
+            "ticks": 6,
+            "materials": [
+                {
+                    "name": "Steel kiteshield",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Shield easel",
+            "skills": [
+                {
+                    "experience": 40.0,
+                    "level": 43,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "level": 16,
+                    "name": "Construction"
+                },
+                {
+                    "level": 70,
+                    "name": "Prayer"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Steel kiteshield (Zamorak)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "SHIELD",
+        "magicAttackBonus": -8,
+        "rangedAttackBonus": -3,
+        "stabDefenceBonus": 13,
+        "slashDefenceBonus": 15,
+        "crushDefenceBonus": 14,
+        "magicDefenceBonus": -1,
+        "rangeDefenceBonus": 14
+    }
+}

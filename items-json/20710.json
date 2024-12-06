@@ -1,0 +1,9 @@
+{
+    "itemId": 20710,
+    "itemName": "Pyromancer boots",
+    "examine": "The boots of the Pyromancers.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

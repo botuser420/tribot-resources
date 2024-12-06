@@ -1,0 +1,30 @@
+{
+    "itemId": 29077,
+    "itemName": "Cooked moss lizard",
+    "examine": "Mmm, this looks tasty.",
+    "weight": 0.141,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Raw moss lizard",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Cooking range",
+            "skills": [
+                {
+                    "experience": 60.0,
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked moss lizard"
+            }
+        }
+    ]
+}

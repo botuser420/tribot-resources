@@ -1,0 +1,35 @@
+{
+    "itemId": 4825,
+    "itemName": "Unstrung comp bow",
+    "examine": "An unstrung composite ogre bow.",
+    "weight": 5.0,
+    "buyLimit": 10000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Achey tree logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Wolf bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Knife",
+            "skills": [
+                {
+                    "experience": 45.0,
+                    "level": 30,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Unstrung comp bow"
+            }
+        }
+    ]
+}

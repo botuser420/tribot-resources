@@ -1,0 +1,18 @@
+{
+    "itemId": 19675,
+    "itemName": "Arclight",
+    "examine": "The magical sword 'Silverlight', enhanced with the blood of Agrith-Naar and ancient shards.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 38,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 2,
+        "magicDefenceBonus": 2,
+        "strengthBonus": 8,
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "SLASH_SWORD"
+    }
+}

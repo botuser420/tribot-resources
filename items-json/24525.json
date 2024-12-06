@@ -1,0 +1,9 @@
+{
+    "itemId": 24525,
+    "itemName": "Cat ears",
+    "examine": "Meeeooow.",
+    "weight": 0.09,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

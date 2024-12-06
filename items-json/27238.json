@@ -1,0 +1,47 @@
+{
+    "itemId": 27238,
+    "itemName": "Masori body (f)",
+    "examine": "Fortified armour once worn by a powerful ranger.",
+    "weight": 10.0,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Masori body",
+                    "quantity": 1
+                },
+                {
+                    "name": "Armadylean plate",
+                    "quantity": 4
+                }
+            ],
+            "tools": "Hammer",
+            "skills": [
+                {
+                    "experience": 3320.0,
+                    "level": 90,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Masori body (f)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -4,
+        "rangedAttackBonus": 43,
+        "stabDefenceBonus": 59,
+        "slashDefenceBonus": 52,
+        "crushDefenceBonus": 64,
+        "magicDefenceBonus": 74,
+        "rangeDefenceBonus": 60,
+        "rangedStrengthBonus": 4,
+        "prayerBonus": 1
+    }
+}

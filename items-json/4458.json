@@ -1,0 +1,23 @@
+{
+    "itemId": 4458,
+    "itemName": "Cup of water",
+    "examine": "A cup of water.",
+    "weight": 0.05,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Empty cup",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water",
+            "output": {
+                "quantity": 1,
+                "name": "Cup of water"
+            }
+        }
+    ]
+}

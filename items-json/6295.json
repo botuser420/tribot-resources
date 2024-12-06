@@ -1,0 +1,25 @@
+{
+    "itemId": 6295,
+    "itemName": "Spider on shaft",
+    "examine": "A raw spider threaded onto an arrow shaft.",
+    "weight": 0.9,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Arrow shaft",
+                    "quantity": 1
+                },
+                {
+                    "name": "Spider carcass",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Spider on shaft (raw)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "itemId": 26688,
+    "itemName": "Maoma's great helm (broken)",
+    "examine": "Maoma the Corrupt Captain's great helm, but it's broken.",
+    "weight": 1.36,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": 10,
+        "slashAttackBonus": 10,
+        "crushAttackBonus": 10,
+        "magicAttackBonus": -60,
+        "rangedAttackBonus": -60,
+        "magicDefenceBonus": -25,
+        "rangeDefenceBonus": 25,
+        "strengthBonus": 4
+    }
+}

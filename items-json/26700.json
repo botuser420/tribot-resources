@@ -1,0 +1,18 @@
+{
+    "itemId": 26700,
+    "itemName": "Koriff's coif (broken)",
+    "examine": "Koriff the Crowd Pleaser's coif, but it's broken.",
+    "weight": 0.453,
+    "equipment": {
+        "slot": "HEAD",
+        "stabAttackBonus": -60,
+        "slashAttackBonus": -60,
+        "crushAttackBonus": -60,
+        "magicAttackBonus": -60,
+        "rangedAttackBonus": 18,
+        "stabDefenceBonus": -25,
+        "slashDefenceBonus": -25,
+        "crushDefenceBonus": -25,
+        "magicDefenceBonus": 20
+    }
+}

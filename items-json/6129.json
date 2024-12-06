@@ -1,0 +1,41 @@
+{
+    "itemId": 6129,
+    "itemName": "Rock-shell plate",
+    "examine": "A sturdy body armour made from rock crab pieces.",
+    "weight": 9.979,
+    "buyLimit": 70,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Dagannoth hide",
+                    "quantity": 3
+                },
+                {
+                    "name": "Rock-shell shard",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 10000
+                }
+            ],
+            "facilities": "Skulgrimen",
+            "output": {
+                "quantity": 1,
+                "name": "Rock-shell plate"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "BODY",
+        "magicAttackBonus": -30,
+        "rangedAttackBonus": -10,
+        "stabDefenceBonus": 82,
+        "slashDefenceBonus": 80,
+        "crushDefenceBonus": 72,
+        "magicDefenceBonus": -6,
+        "rangeDefenceBonus": 80
+    }
+}

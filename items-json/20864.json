@@ -1,0 +1,29 @@
+{
+    "itemId": 20864,
+    "itemName": "Mycil fish (4)",
+    "examine": "I should try eating this.",
+    "weight": 0.4,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw mycil fish (4)",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 22.0,
+                    "level": 60,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Mycil fish (4)"
+            }
+        }
+    ]
+}

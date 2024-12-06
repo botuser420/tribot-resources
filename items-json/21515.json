@@ -1,0 +1,35 @@
+{
+    "itemId": 21515,
+    "itemName": "Oak bird house",
+    "examine": "Feed and catch the birds by placing this in the right spot.",
+    "weight": 0.453,
+    "buyLimit": 250,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Oak logs",
+                    "quantity": 1
+                },
+                {
+                    "name": "Clockwork",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel, Hammer",
+            "skills": [
+                {
+                    "experience": 20.0,
+                    "level": 15,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Oak bird house"
+            }
+        }
+    ]
+}

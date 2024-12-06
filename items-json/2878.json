@@ -1,0 +1,58 @@
+{
+    "itemId": 2878,
+    "itemName": "Cooked chompy",
+    "examine": "It might look delicious to an ogre.",
+    "weight": 10.0,
+    "buyLimit": 6000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Skewered chompy",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Fire",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                },
+                {
+                    "level": 20,
+                    "name": "Firemaking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked chompy"
+            }
+        },
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Raw chompy",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Ogre spit-roast",
+            "skills": [
+                {
+                    "experience": 100.0,
+                    "level": 30,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Cooked chompy"
+            }
+        }
+    ]
+}

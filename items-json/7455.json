@@ -1,0 +1,20 @@
+{
+    "itemId": 7455,
+    "itemName": "Iron gloves",
+    "examine": "A pair of gloves.",
+    "weight": 0.226,
+    "equipment": {
+        "slot": "HANDS",
+        "stabAttackBonus": 3,
+        "slashAttackBonus": 3,
+        "crushAttackBonus": 3,
+        "magicAttackBonus": 2,
+        "rangedAttackBonus": 3,
+        "stabDefenceBonus": 3,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 3,
+        "magicDefenceBonus": 2,
+        "rangeDefenceBonus": 3,
+        "strengthBonus": 3
+    }
+}

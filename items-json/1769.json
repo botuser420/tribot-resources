@@ -1,0 +1,26 @@
+{
+    "itemId": 1769,
+    "itemName": "Orange dye",
+    "examine": "A little bottle of orange dye.",
+    "weight": 0.02,
+    "buyLimit": 150,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Red dye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Yellow dye",
+                    "quantity": 1
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Orange dye"
+            }
+        }
+    ]
+}

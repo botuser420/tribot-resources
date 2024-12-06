@@ -1,0 +1,17 @@
+{
+    "itemId": 4585,
+    "itemName": "Dragon plateskirt",
+    "examine": "This looks pretty heavy.",
+    "weight": 9.071,
+    "buyLimit": 70,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": -21,
+        "rangedAttackBonus": -11,
+        "stabDefenceBonus": 68,
+        "slashDefenceBonus": 66,
+        "crushDefenceBonus": 63,
+        "magicDefenceBonus": -4,
+        "rangeDefenceBonus": 65
+    }
+}

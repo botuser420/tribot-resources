@@ -1,0 +1,43 @@
+{
+    "itemId": 6955,
+    "itemName": "Pink dye",
+    "examine": "A vial of pink dye.",
+    "weight": 0.05,
+    "itemCreation": [
+        {
+            "ticks": 5,
+            "materials": [
+                {
+                    "name": "Bagged nice tree",
+                    "quantity": 1
+                },
+                {
+                    "name": "Pink dye",
+                    "quantity": 1
+                },
+                {
+                    "name": "Bucket of sand",
+                    "quantity": 6
+                }
+            ],
+            "tools": "Watering can",
+            "skills": [
+                {
+                    "experience": 474.0,
+                    "level": 65,
+                    "name": "Construction",
+                    "boostable": true
+                },
+                {
+                    "experience": 474.0,
+                    "level": 1,
+                    "name": "Farming"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Zen theme"
+            }
+        }
+    ]
+}

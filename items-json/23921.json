@@ -1,0 +1,123 @@
+{
+    "itemId": 23921,
+    "itemName": "Crystal crown",
+    "examine": "A crown fit for the most wealthy of elves.",
+    "weight": 0.3,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Crystal crown (Ithell)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of meilyr",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal crown (Meilyr)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal crown (Amlodd)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of meilyr",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal crown (Meilyr)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal crown (Cadarn)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of meilyr",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal crown (Meilyr)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal crown (Crwys)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of meilyr",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal crown (Meilyr)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal crown (Iorwerth)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of meilyr",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal crown (Meilyr)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal crown (Hefin)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of meilyr",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal crown (Meilyr)"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal crown (Trahaearn)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal of meilyr",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Crystal crown (Meilyr)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

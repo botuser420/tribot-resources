@@ -1,0 +1,38 @@
+{
+    "itemId": 9337,
+    "itemName": "Sapphire bolts",
+    "examine": "Sapphire tipped Mithril crossbow bolts.",
+    "weight": 0.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 2,
+            "materials": [
+                {
+                    "name": "Mithril bolts",
+                    "quantity": 10
+                },
+                {
+                    "name": "Sapphire bolt tips",
+                    "quantity": 10
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 47.0,
+                    "level": 56,
+                    "name": "Fletching",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 10,
+                "name": "Sapphire bolts"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "AMMO",
+        "rangedStrengthBonus": 83
+    }
+}

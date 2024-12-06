@@ -1,0 +1,7 @@
+{
+    "itemId": 8518,
+    "itemName": "Cider barrel",
+    "examine": "How does it all fit in there?",
+    "weight": 1.0,
+    "buyLimit": 500
+}

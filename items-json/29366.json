@@ -1,0 +1,21 @@
+{
+    "itemId": 29366,
+    "itemName": "Blessed drake bones",
+    "examine": "Bones blessed at an exposed altar.",
+    "weight": 1.8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Drake bones",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Exposed altar",
+            "output": {
+                "quantity": 1,
+                "name": "Blessed drake bones"
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "itemId": 8792,
+    "itemName": "Clockwork",
+    "examine": "A clockwork mechanism.",
+    "weight": 1.0,
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Steel bar",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Crafting table 2",
+            "skills": [
+                {
+                    "experience": 15.0,
+                    "level": 8,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Clockwork"
+            }
+        }
+    ]
+}

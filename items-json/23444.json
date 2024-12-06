@@ -1,0 +1,30 @@
+{
+    "itemId": 23444,
+    "itemName": "Tormented bracelet (or)",
+    "examine": "A deep sense of torment burns within this powerful bracelet.",
+    "weight": 0.25,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Tormented bracelet",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tormented ornament kit",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Tormented bracelet (or)"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "HANDS",
+        "magicAttackBonus": 10,
+        "magicDamageBonus": 5.0,
+        "prayerBonus": 2
+    }
+}

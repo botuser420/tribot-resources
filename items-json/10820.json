@@ -1,0 +1,27 @@
+{
+    "itemId": 10820,
+    "itemName": "Cured yak-hide",
+    "examine": "Ready to be cut and sewn into armour.",
+    "weight": 0.453,
+    "buyLimit": 13000,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Yak-hide",
+                    "quantity": 1
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 5
+                }
+            ],
+            "facilities": "Thakkrad Sigmundson",
+            "output": {
+                "quantity": 1,
+                "name": "Cured yak-hide"
+            }
+        }
+    ]
+}

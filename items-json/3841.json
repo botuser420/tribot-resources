@@ -1,0 +1,10 @@
+{
+    "itemId": 3841,
+    "itemName": "Damaged book",
+    "examine": "An incomplete book of Zamorak.",
+    "weight": 1.0,
+    "equipment": {
+        "slot": "SHIELD",
+        "prayerBonus": 5
+    }
+}
