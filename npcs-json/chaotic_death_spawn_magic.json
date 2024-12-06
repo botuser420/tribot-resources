@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        7649
+    ],
+    "name": "Chaotic death spawn",
+    "hitpoints": 50,
+    "combatLevel": 215,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 380,
+    "strengthLevel": 1,
+    "defenceLevel": 70,
+    "magicLevel": 380,
+    "rangedLevel": 380
+}

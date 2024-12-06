@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        13680
+    ],
+    "name": "Dreadborn Araxyte",
+    "hitpoints": 350,
+    "combatLevel": 281,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        31
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 4658.0,
+    "size": 3,
+    "attackLevel": 260,
+    "strengthLevel": 260,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "rangedLevel": 1,
+    "attackBonus": 200,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 30,
+    "magicDefenceBonus": 10,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 100
+}

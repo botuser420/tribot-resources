@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        7036
+    ],
+    "name": "Reanimated demon",
+    "hitpoints": 35,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        8
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Lesser Demons",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 35.0,
+    "size": 2,
+    "attackLevel": 68,
+    "strengthLevel": 70,
+    "defenceLevel": 71,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -10
+}

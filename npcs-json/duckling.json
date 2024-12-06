@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        2001
+    ],
+    "name": "Duckling",
+    "hitpoints": 3,
+    "combatLevel": 1,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        0
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 3.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": -47,
+    "strengthBonus": -42,
+    "stabDefenceBonus": -42,
+    "slashDefenceBonus": -42,
+    "crushDefenceBonus": -42,
+    "magicDefenceBonus": -42,
+    "rangedDefenceBonus": -42
+}

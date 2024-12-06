@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        6369
+    ],
+    "name": "Agrith-Na-Na",
+    "hitpoints": 200,
+    "combatLevel": 146,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        16
+    ],
+    "size": 3,
+    "attackLevel": 83,
+    "strengthLevel": 150,
+    "defenceLevel": 82,
+    "magicLevel": 100,
+    "rangedLevel": 100,
+    "attackBonus": 100,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 100,
+    "rangedDefenceBonus": 100
+}

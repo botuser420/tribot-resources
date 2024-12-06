@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        5157
+    ],
+    "name": "H.A.M. Archer",
+    "hitpoints": 35,
+    "combatLevel": 30,
+    "attackSpeed": 10,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 30,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "rangedDefenceBonus": 5
+}

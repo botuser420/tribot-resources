@@ -1,0 +1,38 @@
+{
+    "npcIds": [
+        6613
+    ],
+    "name": "Skeleton Hellhound",
+    "hitpoints": 30,
+    "combatLevel": 194,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        26
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Hellhounds",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "KRYSTILIA",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 33.0,
+    "size": 2,
+    "attackLevel": 210,
+    "strengthLevel": 250,
+    "defenceLevel": 150,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 101,
+    "slashDefenceBonus": 103,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 180,
+    "rangedDefenceBonus": 266
+}

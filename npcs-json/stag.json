@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        1845
+    ],
+    "name": "Stag",
+    "hitpoints": 19,
+    "combatLevel": 15,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        2
+    ],
+    "size": 2,
+    "attackLevel": 11,
+    "strengthLevel": 13,
+    "defenceLevel": 13,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

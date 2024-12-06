@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        12561
+    ],
+    "name": "Bloodthirst rockslug<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup>",
+    "hitpoints": 77,
+    "combatLevel": 86,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "slayerCategory": "Rockslugs",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "size": 3,
+    "attackLevel": 72,
+    "strengthLevel": 77,
+    "defenceLevel": 77,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

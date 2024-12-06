@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        12812
+    ],
+    "name": "Minotaur",
+    "hitpoints": 225,
+    "combatLevel": 318,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        74
+    ],
+    "size": 3,
+    "attackLevel": 300,
+    "strengthLevel": 360,
+    "defenceLevel": 190,
+    "magicLevel": 250,
+    "rangedLevel": 120,
+    "strengthBonus": 65,
+    "rangedDefenceBonus": 12
+}

@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        8195
+    ],
+    "name": "Bryophyta",
+    "hitpoints": 115,
+    "combatLevel": 128,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        16
+    ],
+    "slayerCategory": "Moss Giants",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 115.0,
+    "size": 3,
+    "attackLevel": 130,
+    "strengthLevel": 100,
+    "defenceLevel": 100,
+    "magicLevel": 90,
+    "rangedLevel": 1,
+    "attackBonus": 33,
+    "strengthBonus": 31
+}

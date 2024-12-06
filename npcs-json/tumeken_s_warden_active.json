@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        11756,
+        11757
+    ],
+    "name": "Tumeken's Warden",
+    "hitpoints": 140,
+    "combatLevel": 489,
+    "attackSpeed": 8,
+    "attackStyles": [
+        "MELEE",
+        "RANGED",
+        "MAGIC"
+    ],
+    "maxHits": [
+        22
+    ],
+    "size": 5,
+    "attackLevel": 300,
+    "strengthLevel": 150,
+    "defenceLevel": 100,
+    "magicLevel": 190,
+    "rangedLevel": 190,
+    "strengthBonus": 25,
+    "magicAttackBonus": 225,
+    "magicDamageBonus": 12,
+    "rangeAttackBonus": 225,
+    "rangedStrengthBonus": 12,
+    "stabDefenceBonus": 70,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": -30,
+    "rangedDefenceBonus": 70,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

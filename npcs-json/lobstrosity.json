@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        7796
+    ],
+    "name": "Lobstrosity",
+    "hitpoints": 50,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        9
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 3,
+    "attackLevel": 60,
+    "strengthLevel": 80,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 99,
+    "rangedDefenceBonus": 70
+}

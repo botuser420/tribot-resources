@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        135
+    ],
+    "name": "Hellhound",
+    "hitpoints": 116,
+    "combatLevel": 122,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 2,
+    "attackLevel": 105,
+    "strengthLevel": 104,
+    "defenceLevel": 102,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

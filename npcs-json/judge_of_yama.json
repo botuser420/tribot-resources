@@ -1,0 +1,37 @@
+{
+    "npcIds": [
+        10936,
+        10938
+    ],
+    "name": "Judge of Yama",
+    "hitpoints": 260,
+    "combatLevel": 168,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC",
+        "MELEE"
+    ],
+    "maxHits": [
+        12
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Greater Demons",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 266.5,
+    "size": 3,
+    "attackLevel": 186,
+    "strengthLevel": 112,
+    "defenceLevel": 84,
+    "magicLevel": 84,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 600,
+    "rangedDefenceBonus": 600,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

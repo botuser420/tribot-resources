@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        13465
+    ],
+    "name": "Elite Dark Warrior",
+    "hitpoints": 80,
+    "combatLevel": 96,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "magicLevel": 40,
+    "rangedLevel": 25,
+    "attackBonus": 80,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": -10,
+    "rangedDefenceBonus": 30,
+    "lightRangedDefenceBonus": 40,
+    "heavyRangedDefenceBonus": 15
+}

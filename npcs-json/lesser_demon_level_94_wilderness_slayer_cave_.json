@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        7865,
+        7866,
+        7867
+    ],
+    "name": "Lesser demon",
+    "hitpoints": 110,
+    "combatLevel": 94,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Lesser Demons",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 110.0,
+    "size": 2,
+    "attackLevel": 68,
+    "strengthLevel": 85,
+    "defenceLevel": 71,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -10,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 40
+}

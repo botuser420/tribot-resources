@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        1298
+    ],
+    "name": "Afflicted",
+    "hitpoints": 24,
+    "combatLevel": 30,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 24,
+    "strengthLevel": 24,
+    "defenceLevel": 34,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

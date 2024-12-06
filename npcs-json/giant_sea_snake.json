@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        1101
+    ],
+    "name": "Giant Sea Snake",
+    "hitpoints": 100,
+    "combatLevel": 149,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        14
+    ],
+    "size": 5,
+    "attackLevel": 170,
+    "strengthLevel": 90,
+    "defenceLevel": 160,
+    "magicLevel": 1,
+    "rangedLevel": 130,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

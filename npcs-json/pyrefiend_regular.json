@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        433,
+        434,
+        435,
+        436
+    ],
+    "name": "Pyrefiend",
+    "hitpoints": 45,
+    "combatLevel": 43,
+    "attackSpeed": 4,
+    "maxHits": [
+        4
+    ],
+    "monsterAttribute": "fiery",
+    "slayerCategory": "Pyrefiends",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 45.0,
+    "size": 1,
+    "attackLevel": 52,
+    "strengthLevel": 30,
+    "defenceLevel": 22,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 100,
+    "rangedDefenceBonus": 10
+}

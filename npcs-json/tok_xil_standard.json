@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        2193,
+        3121
+    ],
+    "name": "Tok-Xil",
+    "hitpoints": 40,
+    "combatLevel": 90,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        13,
+        14
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 40.0,
+    "size": 3,
+    "attackLevel": 80,
+    "strengthLevel": 120,
+    "defenceLevel": 60,
+    "magicLevel": 60,
+    "rangedLevel": 120
+}

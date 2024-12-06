@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        11781
+    ],
+    "name": "Baboon",
+    "hitpoints": 35,
+    "combatLevel": 77,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "defenceLevel": 50,
+    "magicLevel": 50,
+    "rangedLevel": 80,
+    "rangeAttackBonus": 80,
+    "rangedStrengthBonus": 20,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

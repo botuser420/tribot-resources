@@ -1,0 +1,37 @@
+{
+    "npcIds": [
+        275
+    ],
+    "name": "Steel dragon",
+    "hitpoints": 210,
+    "combatLevel": 246,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        22,
+        50
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Steel Dragons",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 220.5,
+    "size": 4,
+    "attackLevel": 215,
+    "strengthLevel": 215,
+    "defenceLevel": 215,
+    "magicLevel": 100,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 70,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 30,
+    "elementalWeakness": "Earth",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 90,
+    "heavyRangedDefenceBonus": 65
+}

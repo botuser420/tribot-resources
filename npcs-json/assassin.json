@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        4568,
+        12062,
+        12348,
+        12349
+    ],
+    "name": "Assassin",
+    "hitpoints": 400,
+    "combatLevel": 262,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "SLASH"
+    ],
+    "maxHits": [
+        39
+    ],
+    "size": 1,
+    "attackLevel": 140,
+    "strengthLevel": 140,
+    "defenceLevel": 140,
+    "magicLevel": 140,
+    "rangedLevel": 140,
+    "attackBonus": 66,
+    "strengthBonus": 12,
+    "rangeAttackBonus": 66,
+    "rangedStrengthBonus": 12,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 80,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

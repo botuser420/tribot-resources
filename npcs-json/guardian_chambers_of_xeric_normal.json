@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        7569,
+        7571
+    ],
+    "name": "Guardian",
+    "hitpoints": 250,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        20
+    ],
+    "monsterAttribute": "xerician",
+    "attackLevel": 140,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 20,
+    "stabDefenceBonus": 80,
+    "slashDefenceBonus": 180,
+    "crushDefenceBonus": -10
+}

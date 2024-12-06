@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        4315
+    ],
+    "name": "Sea Troll Queen",
+    "hitpoints": 200,
+    "combatLevel": 170,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "MAGIC"
+    ],
+    "maxHits": [
+        254,
+        37,
+        16
+    ],
+    "size": 5,
+    "attackLevel": 100,
+    "strengthLevel": 70,
+    "defenceLevel": 100,
+    "magicLevel": 150,
+    "rangedLevel": 1,
+    "attackBonus": 100,
+    "strengthBonus": 40,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "magicDefenceBonus": 40
+}

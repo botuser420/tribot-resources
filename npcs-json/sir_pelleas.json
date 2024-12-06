@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        4347,
+        4360,
+        3524,
+        4350
+    ],
+    "name": "Sir Pelleas",
+    "hitpoints": 99,
+    "combatLevel": 112,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        15
+    ],
+    "size": 1,
+    "attackLevel": 95,
+    "strengthLevel": 99,
+    "defenceLevel": 98,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 22,
+    "strengthBonus": 22,
+    "stabDefenceBonus": 200,
+    "slashDefenceBonus": -5,
+    "crushDefenceBonus": 5,
+    "immuneToVenom": true
+}

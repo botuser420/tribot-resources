@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        12330
+    ],
+    "name": "Ketla the Unworthy",
+    "hitpoints": 1,
+    "combatLevel": 236,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        18
+    ],
+    "monsterAttribute": "spectral",
+    "size": 1,
+    "defenceLevel": 130,
+    "magicLevel": 130,
+    "rangedLevel": 160,
+    "rangeAttackBonus": 80,
+    "rangedStrengthBonus": 6,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 80,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 70,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        8993
+    ],
+    "name": "Kalrag",
+    "hitpoints": 78,
+    "combatLevel": 89,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 3,
+    "attackLevel": 78,
+    "strengthLevel": 78,
+    "defenceLevel": 78,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 17,
+    "crushDefenceBonus": 12,
+    "magicDefenceBonus": 13,
+    "rangedDefenceBonus": 13
+}

@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        7020
+    ],
+    "name": "Reanimated imp",
+    "hitpoints": 5,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        3
+    ],
+    "monsterAttribute": "demon",
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": -42,
+    "strengthBonus": -37,
+    "stabDefenceBonus": -42,
+    "slashDefenceBonus": -42,
+    "crushDefenceBonus": -42,
+    "magicDefenceBonus": -42,
+    "rangedDefenceBonus": -42
+}

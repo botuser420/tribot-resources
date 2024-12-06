@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        12650,
+        12651,
+        13784,
+        13785,
+        13691,
+        13693,
+        13786
+    ],
+    "name": "Prince Itzla Arkan",
+    "hitpoints": 250,
+    "combatLevel": 167,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        12,
+        16
+    ],
+    "size": 1,
+    "attackLevel": 150,
+    "strengthLevel": 110,
+    "defenceLevel": 75,
+    "magicLevel": 55,
+    "rangedLevel": 1,
+    "attackBonus": 150,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

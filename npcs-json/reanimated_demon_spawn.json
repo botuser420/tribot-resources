@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        7287
+    ],
+    "name": "Reanimated demon spawn",
+    "hitpoints": 85,
+    "combatLevel": 87,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 71,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,36 @@
+{
+    "npcIds": [
+        11175,
+        13666
+    ],
+    "name": "Araxyte",
+    "hitpoints": 60,
+    "combatLevel": 96,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        13
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 60.0,
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 125,
+    "defenceLevel": 60,
+    "magicLevel": 60,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 30,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 20,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 20
+}

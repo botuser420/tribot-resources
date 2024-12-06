@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        12817
+    ],
+    "name": "Javelin Colossus",
+    "hitpoints": 220,
+    "combatLevel": 278,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        48
+    ],
+    "size": 3,
+    "attackLevel": 200,
+    "strengthLevel": 300,
+    "defenceLevel": 190,
+    "magicLevel": 225,
+    "rangedLevel": 360,
+    "rangeAttackBonus": 25,
+    "rangedStrengthBonus": 20,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 20,
+    "rangedDefenceBonus": 30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

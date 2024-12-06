@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        6121
+    ],
+    "name": "The Untouchable (hard)",
+    "hitpoints": 180,
+    "combatLevel": 440,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        52
+    ],
+    "size": 2,
+    "attackLevel": 374,
+    "strengthLevel": 510,
+    "defenceLevel": 434,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

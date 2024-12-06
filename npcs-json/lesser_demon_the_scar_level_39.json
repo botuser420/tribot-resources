@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        12376
+    ],
+    "name": "Lesser demon",
+    "hitpoints": 40,
+    "combatLevel": 39,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "None",
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true
+}

@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        492
+    ],
+    "name": "Cave kraken",
+    "hitpoints": 125,
+    "combatLevel": 127,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        13
+    ],
+    "slayerCategory": "Cave Kraken",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 125.0,
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 150,
+    "magicLevel": 120,
+    "rangedLevel": 1,
+    "magicDefenceBonus": -63,
+    "rangedDefenceBonus": 100
+}

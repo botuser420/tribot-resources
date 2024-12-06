@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        7538,
+        7539
+    ],
+    "name": "Vespine soldier",
+    "hitpoints": 150,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        20
+    ],
+    "monsterAttribute": "xerician",
+    "size": 3,
+    "attackLevel": 225,
+    "strengthLevel": 225,
+    "defenceLevel": 60,
+    "magicLevel": 60,
+    "rangedLevel": 1,
+    "strengthBonus": -8,
+    "rangedStrengthBonus": -8,
+    "magicDefenceBonus": 30,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

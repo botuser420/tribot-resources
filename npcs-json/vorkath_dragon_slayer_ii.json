@@ -1,0 +1,47 @@
+{
+    "npcIds": [
+        8058,
+        8060
+    ],
+    "name": "Vorkath",
+    "hitpoints": 460,
+    "combatLevel": 392,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        30,
+        28,
+        32,
+        72,
+        121
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Blue Dragons",
+    "assignedBy": [
+        "MAZCHNA",
+        "DURADEL",
+        "NIEVE",
+        "SPRIA"
+    ],
+    "slayerExperience": 460.0,
+    "size": 7,
+    "attackLevel": 560,
+    "strengthLevel": 268,
+    "defenceLevel": 164,
+    "magicLevel": 148,
+    "rangedLevel": 268,
+    "attackBonus": 14,
+    "magicAttackBonus": 148,
+    "rangeAttackBonus": 96,
+    "stabDefenceBonus": 66,
+    "slashDefenceBonus": 126,
+    "crushDefenceBonus": 126,
+    "magicDefenceBonus": 204,
+    "rangedDefenceBonus": 80,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

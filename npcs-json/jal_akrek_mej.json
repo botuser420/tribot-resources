@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        7694
+    ],
+    "name": "Jal-AkRek-Mej",
+    "hitpoints": 15,
+    "combatLevel": 70,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        18
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 15.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 95,
+    "magicLevel": 120,
+    "rangedLevel": 1,
+    "magicAttackBonus": 25,
+    "magicDamageBonus": 25,
+    "magicDefenceBonus": 25,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

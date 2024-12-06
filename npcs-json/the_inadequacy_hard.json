@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        6119
+    ],
+    "name": "The Inadequacy (hard)",
+    "hitpoints": 255,
+    "combatLevel": 600,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        35
+    ],
+    "size": 5,
+    "attackLevel": 1128,
+    "strengthLevel": 340,
+    "defenceLevel": 240,
+    "magicLevel": 1,
+    "rangedLevel": 340,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        2921
+    ],
+    "name": "Lost barbarian",
+    "hitpoints": 124,
+    "combatLevel": 132,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        12
+    ],
+    "size": 1,
+    "attackLevel": 115,
+    "strengthLevel": 114,
+    "defenceLevel": 110,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

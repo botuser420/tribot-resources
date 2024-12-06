@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        13799
+    ],
+    "name": "Chilled jelly",
+    "hitpoints": 140,
+    "combatLevel": 112,
+    "attackSpeed": 4,
+    "maxHits": [
+        10
+    ],
+    "slayerCategory": "Jellies",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR"
+    ],
+    "slayerExperience": 140.0,
+    "size": 1,
+    "attackLevel": 95,
+    "strengthLevel": 90,
+    "defenceLevel": 70,
+    "magicLevel": 95,
+    "rangedLevel": 1,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 50
+}

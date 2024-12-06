@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        7549
+    ],
+    "name": "Scavenger beast",
+    "hitpoints": 45,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        27
+    ],
+    "monsterAttribute": "xerician",
+    "size": 2,
+    "attackLevel": 180,
+    "strengthLevel": 180,
+    "defenceLevel": 67,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

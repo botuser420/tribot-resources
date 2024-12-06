@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        5373
+    ],
+    "name": "Poison spider",
+    "hitpoints": 25,
+    "combatLevel": 31,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Spiders",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "size": 1,
+    "attackLevel": 28,
+    "strengthLevel": 28,
+    "defenceLevel": 28,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 17,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 14,
+    "rangedDefenceBonus": 14
+}

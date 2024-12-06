@@ -1,0 +1,18 @@
+{
+    "npcIds": [
+        1834
+    ],
+    "name": "Gorak",
+    "hitpoints": 112,
+    "combatLevel": 145,
+    "attackSpeed": 4,
+    "maxHits": [
+        14
+    ],
+    "size": 2,
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 131,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        8066
+    ],
+    "name": "Stone Guardian",
+    "hitpoints": 62,
+    "combatLevel": 124,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        16
+    ],
+    "monsterAttribute": "golem",
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 138,
+    "magicLevel": 128,
+    "rangedLevel": 1,
+    "magicAttackBonus": 10,
+    "magicDamageBonus": 10,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 35,
+    "magicDefenceBonus": 35
+}

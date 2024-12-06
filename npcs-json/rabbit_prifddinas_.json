@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        9118
+    ],
+    "name": "Rabbit",
+    "hitpoints": 2000,
+    "combatLevel": 2,
+    "attackSpeed": 3,
+    "maxHits": [
+        40
+    ],
+    "size": 1,
+    "attackLevel": 600,
+    "strengthLevel": 200,
+    "defenceLevel": 450,
+    "magicLevel": 300,
+    "rangedLevel": 1,
+    "attackBonus": 80,
+    "strengthBonus": 60,
+    "stabDefenceBonus": 150,
+    "slashDefenceBonus": 150,
+    "crushDefenceBonus": 150,
+    "magicDefenceBonus": 150,
+    "rangedDefenceBonus": 200,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

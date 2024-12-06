@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        5372
+    ],
+    "name": "Grave scorpion",
+    "hitpoints": 7,
+    "combatLevel": 12,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        2
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 7.0,
+    "size": 1,
+    "attackLevel": 11,
+    "strengthLevel": 12,
+    "defenceLevel": 14,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 3
+}

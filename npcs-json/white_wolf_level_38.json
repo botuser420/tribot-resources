@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        108
+    ],
+    "name": "White wolf",
+    "hitpoints": 44,
+    "combatLevel": 38,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "slayerCategory": "Wolves",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 44.0,
+    "size": 2,
+    "attackLevel": 30,
+    "strengthLevel": 31,
+    "defenceLevel": 32,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

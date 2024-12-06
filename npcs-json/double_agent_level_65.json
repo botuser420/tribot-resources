@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        1777
+    ],
+    "name": "Double agent",
+    "hitpoints": 80,
+    "combatLevel": 65,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 43,
+    "defenceLevel": 24,
+    "magicLevel": 24,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 3,
+    "slashDefenceBonus": 3,
+    "crushDefenceBonus": 3
+}

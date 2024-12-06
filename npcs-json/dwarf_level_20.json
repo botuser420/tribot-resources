@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        292
+    ],
+    "name": "Dwarf",
+    "hitpoints": 26,
+    "combatLevel": 20,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "slayerCategory": "Dwarves",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 26.0,
+    "size": 1,
+    "attackLevel": 15,
+    "strengthLevel": 16,
+    "defenceLevel": 16,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 11,
+    "strengthBonus": 9,
+    "magicDefenceBonus": 5
+}

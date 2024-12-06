@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        11797,
+        11798,
+        11799
+    ],
+    "name": "Akkha's Shadow",
+    "hitpoints": 70,
+    "combatLevel": 108,
+    "attackSpeed": 6,
+    "maxHits": [
+        22
+    ],
+    "size": 3,
+    "attackLevel": 100,
+    "strengthLevel": 140,
+    "defenceLevel": 30,
+    "magicLevel": 100,
+    "rangedLevel": 100,
+    "attackBonus": 115,
+    "strengthBonus": 30,
+    "magicAttackBonus": 115,
+    "magicDamageBonus": 40,
+    "rangeAttackBonus": 115,
+    "rangedStrengthBonus": 40,
+    "stabDefenceBonus": 60,
+    "slashDefenceBonus": 120,
+    "crushDefenceBonus": 120,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 60,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

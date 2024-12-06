@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        2652
+    ],
+    "name": "Bruise Blamish Snail",
+    "hitpoints": 15,
+    "combatLevel": 20,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "defenceLevel": 27,
+    "magicLevel": 1,
+    "rangedLevel": 20,
+    "attackBonus": 10,
+    "strengthBonus": 10,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 50
+}

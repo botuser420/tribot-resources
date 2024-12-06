@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        3111,
+        6990,
+        10728
+    ],
+    "name": "Woman",
+    "hitpoints": 7,
+    "combatLevel": 2,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -21,
+    "slashDefenceBonus": -21,
+    "crushDefenceBonus": -21,
+    "magicDefenceBonus": -21,
+    "rangedDefenceBonus": -21
+}

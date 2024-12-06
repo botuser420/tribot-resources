@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        7403
+    ],
+    "name": "Repugnant spectre",
+    "hitpoints": 390,
+    "combatLevel": 335,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        39
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Aberrant Spectres",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 4085.0,
+    "size": 3,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 220,
+    "magicLevel": 380,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 120,
+    "slashDefenceBonus": 120,
+    "crushDefenceBonus": 120,
+    "rangedDefenceBonus": 115,
+    "immuneToVenom": true
+}

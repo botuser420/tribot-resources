@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        3355
+    ],
+    "name": "Imp Champion",
+    "hitpoints": 40,
+    "combatLevel": 14,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE",
+        "RANGED"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 5,
+    "strengthLevel": 5,
+    "defenceLevel": 5,
+    "magicLevel": 1,
+    "rangedLevel": 5
+}

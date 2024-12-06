@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        1356
+    ],
+    "name": "Dwarf gang member",
+    "hitpoints": 25,
+    "combatLevel": 49,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "slayerCategory": "Dwarves",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 25.0,
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 60,
+    "defenceLevel": 57,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 7,
+    "slashDefenceBonus": 7,
+    "rangedDefenceBonus": 7
+}

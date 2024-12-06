@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        6805
+    ],
+    "name": "Kruk",
+    "hitpoints": 210,
+    "combatLevel": 207,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH",
+        "RANGED"
+    ],
+    "maxHits": [
+        33,
+        37
+    ],
+    "size": 1,
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 150,
+    "magicLevel": 130,
+    "rangedLevel": 170,
+    "attackBonus": 160,
+    "strengthBonus": 90,
+    "rangeAttackBonus": 150,
+    "rangedStrengthBonus": 70,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 250,
+    "rangedDefenceBonus": 100,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

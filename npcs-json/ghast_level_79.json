@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        5625
+    ],
+    "name": "Ghast",
+    "hitpoints": 115,
+    "combatLevel": 79,
+    "attackSpeed": 8,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "monsterAttribute": "spectral",
+    "size": 2,
+    "attackLevel": 80,
+    "strengthLevel": 30,
+    "defenceLevel": 60,
+    "magicLevel": 30,
+    "rangedLevel": 30,
+    "immuneToPoison": true
+}

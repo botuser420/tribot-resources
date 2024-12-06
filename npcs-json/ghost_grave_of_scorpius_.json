@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        5370
+    ],
+    "name": "Ghost",
+    "hitpoints": 20,
+    "combatLevel": 24,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Ghosts",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 20.0,
+    "size": 1,
+    "attackLevel": 23,
+    "strengthLevel": 20,
+    "defenceLevel": 23,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

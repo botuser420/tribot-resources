@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        11088
+    ],
+    "name": "Necromancer",
+    "hitpoints": 80,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 56,
+    "strengthLevel": 56,
+    "defenceLevel": 50,
+    "magicLevel": 60,
+    "rangedLevel": 1,
+    "magicAttackBonus": 10,
+    "magicDamageBonus": 10,
+    "stabDefenceBonus": 8,
+    "slashDefenceBonus": 8,
+    "crushDefenceBonus": 8,
+    "magicDefenceBonus": 4
+}

@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        7529
+    ],
+    "name": "Vanguard",
+    "hitpoints": 280,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        33
+    ],
+    "monsterAttribute": "xerician",
+    "size": 3,
+    "attackLevel": 225,
+    "strengthLevel": 225,
+    "defenceLevel": 240,
+    "magicLevel": 225,
+    "rangedLevel": 225,
+    "magicAttackBonus": 40,
+    "magicDamageBonus": 25,
+    "stabDefenceBonus": 315,
+    "slashDefenceBonus": 340,
+    "crushDefenceBonus": 400,
+    "magicDefenceBonus": 110,
+    "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

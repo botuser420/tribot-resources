@@ -1,0 +1,33 @@
+{
+    "npcIds": [
+        4535
+    ],
+    "name": "Blessed giant rat",
+    "hitpoints": 30,
+    "combatLevel": 9,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        1
+    ],
+    "monsterAttribute": "rat",
+    "slayerCategory": "Rats",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 30.0,
+    "size": 2,
+    "attackLevel": 5,
+    "strengthLevel": 1,
+    "defenceLevel": 1,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": -24,
+    "stabDefenceBonus": -24,
+    "slashDefenceBonus": -24,
+    "crushDefenceBonus": -24,
+    "magicDefenceBonus": -24,
+    "rangedDefenceBonus": -24
+}

@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        5275
+    ],
+    "name": "Monkey Guard",
+    "hitpoints": 130,
+    "combatLevel": 167,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        14
+    ],
+    "slayerCategory": "Monkeys",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 130.0,
+    "size": 2,
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 200,
+    "magicLevel": 130,
+    "rangedLevel": 1,
+    "attackBonus": 50
+}

@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        499
+    ],
+    "name": "Thermonuclear smoke devil",
+    "hitpoints": 240,
+    "combatLevel": 301,
+    "attackSpeed": 2,
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Bosses",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 240.0,
+    "size": 4,
+    "attackLevel": 230,
+    "strengthLevel": 220,
+    "defenceLevel": 360,
+    "magicLevel": 1,
+    "rangedLevel": 310,
+    "stabDefenceBonus": 11,
+    "slashDefenceBonus": 4,
+    "crushDefenceBonus": 9,
+    "magicDefenceBonus": 800,
+    "rangedDefenceBonus": 900,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

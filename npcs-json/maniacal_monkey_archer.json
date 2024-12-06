@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        7119
+    ],
+    "name": "Maniacal Monkey Archer",
+    "hitpoints": 60,
+    "combatLevel": 132,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        24
+    ],
+    "slayerCategory": "Monkeys",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "size": 1,
+    "attackLevel": 120,
+    "strengthLevel": 80,
+    "defenceLevel": 80,
+    "magicLevel": 1,
+    "rangedLevel": 200
+}

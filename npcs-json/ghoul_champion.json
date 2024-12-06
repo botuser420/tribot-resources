@@ -1,0 +1,22 @@
+{
+    "npcIds": [
+        3330
+    ],
+    "name": "Ghoul Champion",
+    "hitpoints": 100,
+    "combatLevel": 85,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "CRUSH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 1,
+    "attackLevel": 60,
+    "strengthLevel": 80,
+    "defenceLevel": 60,
+    "magicLevel": 1,
+    "rangedLevel": 60
+}

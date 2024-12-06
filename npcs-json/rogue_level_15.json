@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        526
+    ],
+    "name": "Rogue",
+    "hitpoints": 17,
+    "combatLevel": 15,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        2
+    ],
+    "slayerCategory": "Rogues",
+    "assignedBy": [
+        "KRYSTILIA"
+    ],
+    "slayerExperience": 17.0,
+    "size": 1,
+    "attackLevel": 13,
+    "strengthLevel": 13,
+    "defenceLevel": 13,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "strengthBonus": 5,
+    "stabDefenceBonus": 6,
+    "slashDefenceBonus": 9,
+    "crushDefenceBonus": 11
+}

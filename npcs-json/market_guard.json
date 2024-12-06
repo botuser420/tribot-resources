@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        3949
+    ],
+    "name": "Market Guard",
+    "hitpoints": 50,
+    "combatLevel": 48,
+    "attackSpeed": 3,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 40,
+    "strengthBonus": 40,
+    "stabDefenceBonus": 50,
+    "slashDefenceBonus": 50,
+    "crushDefenceBonus": 50,
+    "magicDefenceBonus": 50,
+    "rangedDefenceBonus": 50
+}

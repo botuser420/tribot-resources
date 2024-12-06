@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        12538
+    ],
+    "name": "Bloodthirsty hand",
+    "hitpoints": 55,
+    "combatLevel": 45,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Crawling Hands",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "SPRIA"
+    ],
+    "size": 3,
+    "attackLevel": 45,
+    "strengthLevel": 42,
+    "defenceLevel": 14,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true
+}

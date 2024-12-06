@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        785
+    ],
+    "name": "Me",
+    "hitpoints": 45,
+    "combatLevel": 79,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        9
+    ],
+    "size": 1,
+    "attackLevel": 75,
+    "strengthLevel": 78,
+    "defenceLevel": 74,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

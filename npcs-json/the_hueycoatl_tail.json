@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        14014
+    ],
+    "name": "Hueycoatl tail",
+    "hitpoints": 400,
+    "combatLevel": 642,
+    "attackStyles": [
+        "TYPELESS"
+    ],
+    "maxHits": [
+        25
+    ],
+    "monsterAttribute": "dragon",
+    "size": 5,
+    "attackLevel": 150,
+    "strengthLevel": 50,
+    "defenceLevel": 125,
+    "magicLevel": 50,
+    "rangedLevel": 50,
+    "attackBonus": 100,
+    "strengthBonus": 50,
+    "magicAttackBonus": 200,
+    "magicDamageBonus": 50,
+    "rangeAttackBonus": 250,
+    "rangedStrengthBonus": 50,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "magicDefenceBonus": 200,
+    "elementalWeakness": "earth",
+    "elementalWeaknessPercent": 60,
+    "rangedDefenceBonus": 350,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

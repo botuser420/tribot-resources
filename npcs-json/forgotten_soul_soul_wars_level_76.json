@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        10525,
+        10526,
+        10536,
+        10537
+    ],
+    "name": "Forgotten Soul",
+    "hitpoints": 77,
+    "combatLevel": 76,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "monsterAttribute": "undead",
+    "size": 1,
+    "attackLevel": 80,
+    "strengthLevel": 70,
+    "defenceLevel": 30,
+    "magicLevel": 30,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 10,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

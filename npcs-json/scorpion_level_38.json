@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        5242
+    ],
+    "name": "Scorpion",
+    "hitpoints": 15,
+    "combatLevel": 38,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        15
+    ],
+    "slayerCategory": "Scorpions",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 15.0,
+    "size": 1,
+    "attackLevel": 50,
+    "strengthLevel": 50,
+    "defenceLevel": 10,
+    "magicLevel": 10,
+    "rangedLevel": 1,
+    "attackBonus": 100,
+    "strengthBonus": 100
+}

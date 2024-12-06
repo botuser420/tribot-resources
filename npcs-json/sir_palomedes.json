@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        4343,
+        4358,
+        3526
+    ],
+    "name": "Sir Palomedes",
+    "hitpoints": 100,
+    "combatLevel": 118,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        18
+    ],
+    "size": 1,
+    "attackLevel": 105,
+    "strengthLevel": 105,
+    "defenceLevel": 100,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 35,
+    "strengthBonus": 35,
+    "stabDefenceBonus": 250,
+    "slashDefenceBonus": 250,
+    "crushDefenceBonus": 50,
+    "immuneToVenom": true
+}

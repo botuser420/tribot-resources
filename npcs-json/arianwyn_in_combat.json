@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        8865,
+        9248
+    ],
+    "name": "Arianwyn",
+    "hitpoints": 300,
+    "combatLevel": 212,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "RANGED"
+    ],
+    "maxHits": [
+        38,
+        47
+    ],
+    "defenceLevel": 102,
+    "magicLevel": 102,
+    "rangedLevel": 368,
+    "rangeAttackBonus": 84,
+    "stabDefenceBonus": 80,
+    "slashDefenceBonus": 80,
+    "crushDefenceBonus": 80,
+    "magicDefenceBonus": 260,
+    "rangedDefenceBonus": 180,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

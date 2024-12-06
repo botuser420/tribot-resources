@@ -1,0 +1,24 @@
+{
+    "npcIds": [
+        1229
+    ],
+    "name": "Arzinian Avatar of Strength",
+    "hitpoints": 70,
+    "combatLevel": 75,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "size": 1,
+    "attackLevel": 70,
+    "strengthLevel": 65,
+    "defenceLevel": 50,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "magicDefenceBonus": 10,
+    "rangedDefenceBonus": 40
+}

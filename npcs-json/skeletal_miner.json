@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        3615
+    ],
+    "name": "Skeletal miner",
+    "hitpoints": 39,
+    "combatLevel": 42,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        6
+    ],
+    "slayerCategory": "Skeletons",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 39.0,
+    "size": 1,
+    "attackLevel": 35,
+    "strengthLevel": 37,
+    "defenceLevel": 38,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 15,
+    "strengthBonus": 14,
+    "stabDefenceBonus": 9,
+    "slashDefenceBonus": 11,
+    "crushDefenceBonus": -2,
+    "magicDefenceBonus": 1,
+    "rangedDefenceBonus": 4
+}

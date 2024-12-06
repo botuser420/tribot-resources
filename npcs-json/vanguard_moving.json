@@ -1,0 +1,11 @@
+{
+    "npcIds": [
+        7526
+    ],
+    "name": "Vanguard",
+    "attackSpeed": 4,
+    "monsterAttribute": "xerician",
+    "size": 3,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

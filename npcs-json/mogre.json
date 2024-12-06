@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        2592
+    ],
+    "name": "Mogre",
+    "hitpoints": 48,
+    "combatLevel": 60,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Mogres",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 48.0,
+    "size": 2,
+    "attackLevel": 58,
+    "strengthLevel": 55,
+    "defenceLevel": 48,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 22,
+    "strengthBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

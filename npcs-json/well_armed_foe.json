@@ -1,0 +1,14 @@
+{
+    "npcIds": [
+        7751
+    ],
+    "name": "Well-armed Foe",
+    "hitpoints": 1500,
+    "combatLevel": 820,
+    "size": 3,
+    "attackLevel": 500,
+    "strengthLevel": 420,
+    "defenceLevel": 500,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

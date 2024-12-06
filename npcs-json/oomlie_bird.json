@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        2062
+    ],
+    "name": "Oomlie bird",
+    "hitpoints": 40,
+    "combatLevel": 46,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 40.0,
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

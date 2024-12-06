@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        2213
+    ],
+    "name": "Knight of Saradomin",
+    "hitpoints": 135,
+    "combatLevel": 103,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        11
+    ],
+    "size": 1,
+    "attackLevel": 75,
+    "strengthLevel": 85,
+    "defenceLevel": 70,
+    "magicLevel": 60,
+    "rangedLevel": 1,
+    "attackBonus": 8,
+    "strengthBonus": 8,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 7,
+    "rangedDefenceBonus": 13
+}

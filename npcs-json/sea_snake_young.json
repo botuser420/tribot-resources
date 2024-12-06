@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        1097
+    ],
+    "name": "Sea Snake Young",
+    "hitpoints": 85,
+    "combatLevel": 90,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Sea Snakes",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 85.0,
+    "size": 2,
+    "attackLevel": 90,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

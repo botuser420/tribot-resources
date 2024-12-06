@@ -1,0 +1,32 @@
+{
+    "npcIds": [
+        4133
+    ],
+    "name": "Twig",
+    "hitpoints": 90,
+    "combatLevel": 71,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        13
+    ],
+    "slayerCategory": "Trolls",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 90.0,
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 90,
+    "defenceLevel": 25,
+    "attackBonus": 20,
+    "strengthBonus": 20,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 200,
+    "rangedDefenceBonus": 200
+}

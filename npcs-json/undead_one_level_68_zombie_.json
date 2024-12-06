@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        5346,
+        5347,
+        5348
+    ],
+    "name": "Undead one",
+    "hitpoints": 47,
+    "combatLevel": 68,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        7
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 47.0,
+    "size": 1,
+    "attackLevel": 63,
+    "strengthLevel": 63,
+    "defenceLevel": 63
+}

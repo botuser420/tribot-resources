@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        600,
+        6342
+    ],
+    "name": "Barrelchest",
+    "hitpoints": 134,
+    "combatLevel": 190,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH",
+        "RANGED"
+    ],
+    "maxHits": [
+        35
+    ],
+    "size": 3,
+    "attackLevel": 170,
+    "strengthLevel": 145,
+    "defenceLevel": 140,
+    "magicLevel": 90,
+    "rangedLevel": 1,
+    "attackBonus": 80,
+    "strengthBonus": 80
+}

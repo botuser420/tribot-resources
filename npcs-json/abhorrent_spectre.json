@@ -1,0 +1,35 @@
+{
+    "npcIds": [
+        7402
+    ],
+    "name": "Abhorrent spectre",
+    "hitpoints": 250,
+    "combatLevel": 253,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        31
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Aberrant Spectres",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 2500.0,
+    "size": 3,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 180,
+    "magicLevel": 300,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 40,
+    "slashDefenceBonus": 40,
+    "crushDefenceBonus": 40,
+    "rangedDefenceBonus": 30,
+    "immuneToVenom": true
+}

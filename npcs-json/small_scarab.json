@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        14126
+    ],
+    "name": "Small scarab",
+    "hitpoints": 40,
+    "combatLevel": 41,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "monsterAttribute": "kalphite",
+    "slayerCategory": "Scabarites",
+    "assignedBy": [
+        "NIEVE"
+    ],
+    "slayerExperience": 40.0,
+    "size": 1,
+    "attackLevel": 55,
+    "strengthLevel": 1,
+    "defenceLevel": 55,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        5158
+    ],
+    "name": "H.A.M. Mage",
+    "hitpoints": 35,
+    "combatLevel": 30,
+    "attackSpeed": 10,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "defenceLevel": 30,
+    "magicLevel": 30,
+    "rangedLevel": 1,
+    "magicAttackBonus": 8,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "rangedDefenceBonus": 5
+}

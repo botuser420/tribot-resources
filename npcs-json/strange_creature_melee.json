@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        12074,
+        12063
+    ],
+    "name": "Strange Creature",
+    "hitpoints": 550,
+    "combatLevel": 368,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        24
+    ],
+    "size": 5,
+    "attackLevel": 280,
+    "strengthLevel": 280,
+    "defenceLevel": 200,
+    "magicLevel": 150,
+    "rangedLevel": 280,
+    "attackBonus": 60,
+    "strengthBonus": -10,
+    "magicAttackBonus": 90,
+    "magicDamageBonus": 66,
+    "rangedStrengthBonus": -10,
+    "stabDefenceBonus": 110,
+    "slashDefenceBonus": 90,
+    "crushDefenceBonus": 80,
+    "magicDefenceBonus": -10,
+    "rangedDefenceBonus": 160,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

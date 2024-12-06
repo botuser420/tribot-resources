@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        6098
+    ],
+    "name": "Gnome Driver",
+    "hitpoints": 10,
+    "combatLevel": 5,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 1,
+    "attackLevel": 3,
+    "strengthLevel": 5,
+    "defenceLevel": 3,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": -30,
+    "slashDefenceBonus": -30,
+    "crushDefenceBonus": -30,
+    "magicDefenceBonus": -30,
+    "rangedDefenceBonus": -30
+}

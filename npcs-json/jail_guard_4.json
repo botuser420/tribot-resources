@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        4279
+    ],
+    "name": "Jail guard",
+    "hitpoints": 32,
+    "combatLevel": 26,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 19,
+    "strengthLevel": 23,
+    "defenceLevel": 21,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 5,
+    "stabDefenceBonus": 8,
+    "slashDefenceBonus": 9,
+    "crushDefenceBonus": 10,
+    "magicDefenceBonus": 4,
+    "rangedDefenceBonus": 9
+}

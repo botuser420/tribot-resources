@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        1870,
+        6367
+    ],
+    "name": "Evil Chicken",
+    "hitpoints": 120,
+    "combatLevel": 159,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        21
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 3.0,
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 126,
+    "magicLevel": 200,
+    "rangedLevel": 1
+}

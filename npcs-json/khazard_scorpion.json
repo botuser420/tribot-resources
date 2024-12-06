@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        1226
+    ],
+    "name": "Khazard Scorpion",
+    "hitpoints": 40,
+    "combatLevel": 44,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB"
+    ],
+    "maxHits": [
+        5
+    ],
+    "size": 3,
+    "attackLevel": 40,
+    "strengthLevel": 39,
+    "defenceLevel": 34,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "rangedDefenceBonus": 5
+}

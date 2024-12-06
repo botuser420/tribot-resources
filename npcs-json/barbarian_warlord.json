@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        10989
+    ],
+    "name": "Barbarian Warlord",
+    "hitpoints": 80,
+    "combatLevel": 91,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        10
+    ],
+    "size": 1,
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 50,
+    "magicLevel": 40,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 15,
+    "rangedDefenceBonus": 10
+}

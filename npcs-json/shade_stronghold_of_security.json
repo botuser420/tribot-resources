@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        6740
+    ],
+    "name": "Shade",
+    "hitpoints": 170,
+    "combatLevel": 159,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        14
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Shades",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 4.2,
+    "size": 1,
+    "attackLevel": 130,
+    "strengthLevel": 130,
+    "defenceLevel": 130,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

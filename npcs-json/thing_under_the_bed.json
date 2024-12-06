@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        2115,
+        2114
+    ],
+    "name": "Thing under the bed",
+    "hitpoints": 25,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        1
+    ],
+    "size": 2,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 5,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

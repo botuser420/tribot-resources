@@ -1,0 +1,20 @@
+{
+    "npcIds": [
+        12457
+    ],
+    "name": "Vitreous warped Jelly",
+    "hitpoints": 1000,
+    "combatLevel": 408,
+    "attackSpeed": 4,
+    "maxHits": [
+        26
+    ],
+    "size": 3,
+    "attackLevel": 200,
+    "strengthLevel": 250,
+    "defenceLevel": 50,
+    "magicLevel": 180,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

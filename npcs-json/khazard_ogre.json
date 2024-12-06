@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        1225
+    ],
+    "name": "Khazard Ogre",
+    "hitpoints": 60,
+    "combatLevel": 63,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "size": 2,
+    "attackLevel": 54,
+    "strengthLevel": 53,
+    "defenceLevel": 53,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 22,
+    "strengthBonus": 20
+}

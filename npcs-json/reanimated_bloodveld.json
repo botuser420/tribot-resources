@@ -1,0 +1,26 @@
+{
+    "npcIds": [
+        7034
+    ],
+    "name": "Reanimated bloodveld",
+    "hitpoints": 35,
+    "attackSpeed": 4,
+    "maxHits": [
+        6
+    ],
+    "monsterAttribute": "demon",
+    "slayerCategory": "Bloodveld",
+    "assignedBy": [
+        "VANNAKA",
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 35.0,
+    "size": 2,
+    "attackLevel": 75,
+    "strengthLevel": 45,
+    "defenceLevel": 30,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

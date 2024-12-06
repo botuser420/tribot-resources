@@ -1,0 +1,34 @@
+{
+    "npcIds": [
+        7698,
+        7702
+    ],
+    "name": "Jal-Xil",
+    "hitpoints": 125,
+    "combatLevel": 370,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "RANGED",
+        "CRUSH"
+    ],
+    "maxHits": [
+        46,
+        19
+    ],
+    "slayerCategory": "TzHaar",
+    "assignedBy": [
+        "CHAELDAR",
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 125.0,
+    "size": 3,
+    "attackLevel": 140,
+    "strengthLevel": 180,
+    "defenceLevel": 60,
+    "magicLevel": 90,
+    "rangedLevel": 250,
+    "rangeAttackBonus": 40,
+    "rangedStrengthBonus": 50,
+    "immuneToVenom": true
+}

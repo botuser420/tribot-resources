@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        1
+    ],
+    "name": "Molanisk",
+    "hitpoints": 52,
+    "combatLevel": 51,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Molanisks",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 52.0,
+    "size": 1,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 50,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 45,
+    "slashDefenceBonus": 45,
+    "crushDefenceBonus": 35,
+    "magicDefenceBonus": 30,
+    "rangedDefenceBonus": 55
+}

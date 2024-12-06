@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        11284
+    ],
+    "name": "Umbra",
+    "hitpoints": 500,
+    "combatLevel": 285,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "MAGIC"
+    ],
+    "maxHits": [
+        29
+    ],
+    "size": 1,
+    "attackLevel": 1,
+    "strengthLevel": 1,
+    "defenceLevel": 200,
+    "magicLevel": 200,
+    "rangedLevel": 1,
+    "magicDamageBonus": 25,
+    "stabDefenceBonus": 100,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 100,
+    "magicDefenceBonus": 150,
+    "rangedDefenceBonus": 25,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

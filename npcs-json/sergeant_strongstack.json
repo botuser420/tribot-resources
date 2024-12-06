@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        2216
+    ],
+    "name": "Sergeant Strongstack",
+    "hitpoints": 128,
+    "combatLevel": 141,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        15
+    ],
+    "slayerCategory": "Goblins",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 128.0,
+    "size": 1,
+    "attackLevel": 124,
+    "strengthLevel": 118,
+    "defenceLevel": 125,
+    "magicLevel": 50,
+    "rangedLevel": 50,
+    "strengthBonus": 14
+}

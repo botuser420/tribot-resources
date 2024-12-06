@@ -1,0 +1,28 @@
+{
+    "npcIds": [
+        2233
+    ],
+    "name": "Ogre",
+    "hitpoints": 70,
+    "combatLevel": 58,
+    "attackSpeed": 6,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Ogres",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 60.0,
+    "size": 2,
+    "attackLevel": 46,
+    "strengthLevel": 48,
+    "defenceLevel": 43,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 22,
+    "strengthBonus": 21
+}

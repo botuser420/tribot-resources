@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        3897
+    ],
+    "name": "Koschei the deathless",
+    "hitpoints": 30,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "MELEE"
+    ],
+    "maxHits": [
+        3
+    ],
+    "size": 1,
+    "attackLevel": 20,
+    "strengthLevel": 20,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 20,
+    "magicDefenceBonus": 20,
+    "rangedDefenceBonus": 20
+}

@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        762
+    ],
+    "name": "Baby Roc",
+    "hitpoints": 50,
+    "combatLevel": 75,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        8
+    ],
+    "slayerCategory": "Birds",
+    "assignedBy": [
+        "SPRIA"
+    ],
+    "slayerExperience": 50.0,
+    "size": 1,
+    "attackLevel": 70,
+    "strengthLevel": 70,
+    "defenceLevel": 70,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "magicDefenceBonus": 150
+}

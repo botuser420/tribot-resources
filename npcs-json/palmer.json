@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        3869
+    ],
+    "name": "Palmer",
+    "hitpoints": 50,
+    "combatLevel": 37,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 27,
+    "strengthLevel": 31,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

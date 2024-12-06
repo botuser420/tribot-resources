@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        12540
+    ],
+    "name": "Bloodthirsty banshee",
+    "hitpoints": 61,
+    "combatLevel": 70,
+    "attackSpeed": 4,
+    "monsterAttribute": "undead",
+    "slayerCategory": "Banshees",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA",
+        "CHAELDAR",
+        "SPRIA"
+    ],
+    "size": 3,
+    "attackLevel": 65,
+    "strengthLevel": 61,
+    "defenceLevel": 56,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

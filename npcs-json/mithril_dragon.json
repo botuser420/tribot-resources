@@ -1,0 +1,45 @@
+{
+    "npcIds": [
+        2919,
+        8088,
+        8089
+    ],
+    "name": "Mithril dragon",
+    "hitpoints": 254,
+    "combatLevel": 304,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "STAB",
+        "MAGIC",
+        "RANGED"
+    ],
+    "maxHits": [
+        28,
+        18,
+        22,
+        50
+    ],
+    "monsterAttribute": "dragon",
+    "slayerCategory": "Mithril Dragons",
+    "assignedBy": [
+        "DURADEL",
+        "NIEVE"
+    ],
+    "slayerExperience": 273.0,
+    "size": 4,
+    "attackLevel": 268,
+    "strengthLevel": 268,
+    "defenceLevel": 268,
+    "magicLevel": 168,
+    "rangedLevel": 168,
+    "stabDefenceBonus": 20,
+    "slashDefenceBonus": 100,
+    "crushDefenceBonus": 70,
+    "magicDefenceBonus": 30,
+    "elementalWeakness": "Earth",
+    "elementalWeaknessPercent": 50,
+    "rangedDefenceBonus": 90,
+    "heavyRangedDefenceBonus": 65,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

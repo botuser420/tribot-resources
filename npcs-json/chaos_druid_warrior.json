@@ -1,0 +1,30 @@
+{
+    "npcIds": [
+        532
+    ],
+    "name": "Chaos druid warrior",
+    "hitpoints": 40,
+    "combatLevel": 37,
+    "attackSpeed": 5,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "slayerCategory": "Chaos Druids",
+    "slayerExperience": 40.0,
+    "size": 1,
+    "attackLevel": 32,
+    "strengthLevel": 34,
+    "defenceLevel": 25,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 9,
+    "strengthBonus": 5,
+    "stabDefenceBonus": 13,
+    "slashDefenceBonus": 17,
+    "crushDefenceBonus": 14,
+    "magicDefenceBonus": -4,
+    "rangedDefenceBonus": 14
+}

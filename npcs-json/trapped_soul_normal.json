@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        8514,
+        8528
+    ],
+    "name": "Trapped Soul",
+    "hitpoints": 30,
+    "combatLevel": 30,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "monsterAttribute": "undead",
+    "size": 1,
+    "attackLevel": 25,
+    "strengthLevel": 29,
+    "defenceLevel": 20,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        11269,
+        11274
+    ],
+    "name": "Snothead",
+    "hitpoints": 50,
+    "combatLevel": 32,
+    "attackSpeed": 4,
+    "attackStyles": [
+        "SLASH"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 15,
+    "strengthLevel": 15,
+    "defenceLevel": 15,
+    "magicLevel": 15,
+    "rangedLevel": 1,
+    "attackBonus": 30,
+    "strengthBonus": 30,
+    "stabDefenceBonus": 10,
+    "slashDefenceBonus": 10,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 5,
+    "rangedDefenceBonus": 20,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

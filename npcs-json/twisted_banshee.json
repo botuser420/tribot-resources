@@ -1,0 +1,29 @@
+{
+    "npcIds": [
+        7272
+    ],
+    "name": "Twisted Banshee",
+    "hitpoints": 100,
+    "combatLevel": 89,
+    "attackSpeed": 4,
+    "maxHits": [
+        9
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Banshees",
+    "assignedBy": [
+        "MAZCHNA",
+        "SPRIA"
+    ],
+    "slayerExperience": 100.0,
+    "size": 2,
+    "attackLevel": 75,
+    "strengthLevel": 85,
+    "defenceLevel": 50,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "stabDefenceBonus": 15,
+    "slashDefenceBonus": 15,
+    "crushDefenceBonus": 15,
+    "rangedDefenceBonus": 15
+}
