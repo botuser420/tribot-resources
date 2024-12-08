@@ -5,7 +5,7 @@
     "name": "Reanimated minotaur",
     "hitpoints": 10,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

@@ -7,7 +7,7 @@
     "name": "Suspicious water",
     "hitpoints": 100,
     "combatLevel": 34,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

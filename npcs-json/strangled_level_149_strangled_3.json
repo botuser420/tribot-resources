@@ -8,7 +8,7 @@
     "hitpoints": 50,
     "combatLevel": 149,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "TYPELESS"
     ],
     "maxHits": [

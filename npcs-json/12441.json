@@ -6,7 +6,7 @@
     "hitpoints": 750,
     "combatLevel": 385,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "SLASH"
     ],
     "slayerCategory": "Bosses",

@@ -5,7 +5,7 @@
     "name": "Venenatis",
     "hitpoints": 255,
     "combatLevel": 464,
-    "attackStyles": [
+    "attackTypes": [
         "MAGIC",
         "STAB"
     ],

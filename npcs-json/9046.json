@@ -6,7 +6,7 @@
     "hitpoints": 100,
     "combatLevel": 258,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

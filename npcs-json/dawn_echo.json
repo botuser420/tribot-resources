@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        7850,
+        7852,
+        7884,
+        7885
+    ],
+    "name": "Dawn",
+    "hitpoints": 450,
+    "combatLevel": 228,
+    "attackSpeed": 6,
+    "attackTypes": [
+        "SLASH"
+    ],
+    "slayerCategory": "Gargoyles",
+    "attackLevel": 140,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "rangedLevel": 140,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

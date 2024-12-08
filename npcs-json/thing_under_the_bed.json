@@ -6,7 +6,7 @@
     "name": "Thing under the bed",
     "hitpoints": 25,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

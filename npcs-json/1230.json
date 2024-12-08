@@ -5,7 +5,7 @@
     "name": "Arzinian Avatar of Ranging",
     "hitpoints": 200,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "RANGED"
     ],
     "maxHits": [

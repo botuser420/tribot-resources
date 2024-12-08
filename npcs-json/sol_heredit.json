@@ -6,7 +6,7 @@
     "name": "Sol Heredit",
     "hitpoints": 1500,
     "combatLevel": 1563,
-    "attackStyles": [
+    "attackTypes": [
         "CRUSH"
     ],
     "maxHits": [

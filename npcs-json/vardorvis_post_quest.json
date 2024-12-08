@@ -7,8 +7,11 @@
     "hitpoints": 700,
     "combatLevel": 784,
     "attackSpeed": 5,
-    "attackStyles": [
+    "attackTypes": [
         "SLASH"
+    ],
+    "maxHits": [
+        43
     ],
     "slayerCategory": "Bosses",
     "assignedBy": [
@@ -18,6 +21,8 @@
     "slayerExperience": 1085.0,
     "size": 2,
     "attackLevel": 280,
+    "strengthLevel": 315,
+    "defenceLevel": 180,
     "magicLevel": 215,
     "attackBonus": 190,
     "strengthBonus": 10,

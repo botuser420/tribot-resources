@@ -7,7 +7,7 @@
     "hitpoints": 240,
     "combatLevel": 193,
     "attackSpeed": 5,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE",
         "MAGIC"
     ],

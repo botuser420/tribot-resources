@@ -6,7 +6,7 @@
     "hitpoints": 52,
     "combatLevel": 38,
     "attackSpeed": 7,
-    "attackStyles": [
+    "attackTypes": [
         "SLASH"
     ],
     "maxHits": [

@@ -6,7 +6,7 @@
     "hitpoints": 23,
     "combatLevel": 20,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "STAB"
     ],
     "maxHits": [

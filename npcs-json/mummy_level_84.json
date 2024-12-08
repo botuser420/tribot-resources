@@ -15,7 +15,7 @@
     "hitpoints": 90,
     "combatLevel": 84,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE",
         "CRUSH"
     ],

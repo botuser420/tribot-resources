@@ -8,7 +8,7 @@
     "hitpoints": 2000,
     "combatLevel": 1040,
     "attackSpeed": 14,
-    "attackStyles": [
+    "attackTypes": [
         "MAGIC"
     ],
     "maxHits": [

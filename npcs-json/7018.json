@@ -5,7 +5,7 @@
     "name": "Reanimated goblin",
     "hitpoints": 5,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

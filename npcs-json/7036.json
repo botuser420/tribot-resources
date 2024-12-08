@@ -5,7 +5,7 @@
     "name": "Reanimated demon",
     "hitpoints": 35,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

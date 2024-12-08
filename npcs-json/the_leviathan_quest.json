@@ -6,7 +6,7 @@
     "name": "The Leviathan",
     "hitpoints": 720,
     "combatLevel": 593,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE",
         "MAGIC",
         "RANGED"

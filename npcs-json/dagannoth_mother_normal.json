@@ -20,7 +20,7 @@
     "hitpoints": 120,
     "combatLevel": 100,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE",
         "RANGED"
     ],

@@ -6,7 +6,7 @@
     "name": "Lizardman shaman",
     "hitpoints": 285,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE",
         "RANGED"
     ],

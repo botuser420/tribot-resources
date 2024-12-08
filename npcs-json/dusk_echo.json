@@ -1,0 +1,21 @@
+{
+    "npcIds": [
+        7888,
+        7889
+    ],
+    "name": "Dusk (Echo)",
+    "hitpoints": 1080,
+    "combatLevel": 656,
+    "attackSpeed": 6,
+    "attackTypes": [
+        "SLASH"
+    ],
+    "slayerCategory": "Bosses",
+    "attackLevel": 345,
+    "strengthLevel": 287,
+    "defenceLevel": 187,
+    "magicLevel": 262,
+    "rangedLevel": 387,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

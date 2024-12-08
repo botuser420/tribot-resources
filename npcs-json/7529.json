@@ -5,7 +5,7 @@
     "name": "Vanguard",
     "hitpoints": 180,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MAGIC"
     ],
     "maxHits": [

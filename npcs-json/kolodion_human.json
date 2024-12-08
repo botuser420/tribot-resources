@@ -7,7 +7,7 @@
     "name": "Kolodion",
     "hitpoints": 3,
     "attackSpeed": 7,
-    "attackStyles": [
+    "attackTypes": [
         "MAGIC"
     ],
     "maxHits": [

@@ -6,7 +6,7 @@
     "hitpoints": 155,
     "combatLevel": 135,
     "attackSpeed": 5,
-    "attackStyles": [
+    "attackTypes": [
         "SLASH",
         "RANGED",
         "MAGIC"

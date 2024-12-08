@@ -5,7 +5,7 @@
     "name": "Koschei the deathless",
     "hitpoints": 255,
     "attackSpeed": 1,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

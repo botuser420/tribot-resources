@@ -6,12 +6,13 @@
     "hitpoints": 40,
     "combatLevel": 37,
     "attackSpeed": 5,
-    "attackStyles": [
+    "attackTypes": [
         "CRUSH",
         "RANGED"
     ],
     "maxHits": [
-        6
+        6,
+        30
     ],
     "slayerCategory": "Sourhogs",
     "assignedBy": [

@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        7849,
+        7882,
+        7889
+    ],
+    "name": "Definitely Not Dusk",
+    "hitpoints": 450,
+    "combatLevel": 248,
+    "attackSpeed": 6,
+    "attackTypes": [
+        "SLASH"
+    ],
+    "maxHits": [
+        15
+    ],
+    "slayerCategory": "Gargoyles",
+    "attackLevel": 200,
+    "strengthLevel": 140,
+    "defenceLevel": 100,
+    "magicLevel": 140,
+    "rangedLevel": 140,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

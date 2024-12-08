@@ -5,7 +5,7 @@
     "name": "Reanimated giant",
     "hitpoints": 35,
     "attackSpeed": 6,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

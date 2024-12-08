@@ -6,7 +6,7 @@
     "hitpoints": 750,
     "combatLevel": 524,
     "attackSpeed": 6,
-    "attackStyles": [
+    "attackTypes": [
         "RANGED"
     ],
     "maxHits": [

@@ -13,7 +13,7 @@
     "hitpoints": 140,
     "combatLevel": 149,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "CRUSH"
     ],
     "maxHits": [

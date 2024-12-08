@@ -1,7 +1,6 @@
 package scripts.ipro.api.data.stats.monsters
 
 enum class WikiNpc(val ids: Array<Int>) {
-
     ABERRANT_SPECTRE(arrayOf(2, 3, 4, 5, 6, 7)),
     ZOMBIE_LEVEL_13(arrayOf(26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41)),
     ZOMBIE_LEVEL_18(arrayOf(42, 43, 44, 45, 46, 47, 48, 6596, 6597, 6598)),
@@ -395,6 +394,8 @@ enum class WikiNpc(val ids: Array<Int>) {
     AMMONITE_CRAB(arrayOf(7799, 7800)),
     TAR_MONSTER(arrayOf(7804, 7805, 7801)),
     HOOP_SNAKE(arrayOf(7802, 7803)),
+    DEFINITELY_NOT_DUSK(arrayOf(7849, 7882, 7889)),
+    DAWN_ECHO(arrayOf(7850, 7852, 7884, 7885)),
     DUSK_FIRST_FORM(arrayOf(7851, 7854, 7855, 7882, 7883, 7886)),
     DAWN(arrayOf(7852, 7853, 7884, 7885)),
     BLACK_DRAGON_LEVEL_247(arrayOf(7861, 7862, 7863)),
@@ -403,6 +404,7 @@ enum class WikiNpc(val ids: Array<Int>) {
     GREATER_DEMON_LEVEL_104(arrayOf(7871, 7872, 7873)),
     BLACK_DEMON_LEVEL_188(arrayOf(7874, 7875, 7876)),
     DUSK_SECOND_FORM(arrayOf(7887, 7888, 7889)),
+    DUSK_ECHO(arrayOf(7888, 7889)),
     SAND_SNAKE_NORMAL(arrayOf(7895, 7903)),
     OGRESS_SHAMAN(arrayOf(7991, 7992)),
     CORRUPT_LIZARDMAN_NORMAL(arrayOf(7997, 8000)),
@@ -588,7 +590,6 @@ enum class WikiNpc(val ids: Array<Int>) {
     MINOTAUR_MEAT_AND_GREET(arrayOf(13814, 13815)),
     ADALA(arrayOf(13823, 13822, 13820, 13821, 13824)),
     THE_HUEYCOATL_NORMAL(arrayOf(14009, 14010, 14013)),
-
     ;
 
     fun getFileName(): String {

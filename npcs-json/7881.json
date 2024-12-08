@@ -6,7 +6,7 @@
     "hitpoints": 10,
     "combatLevel": 7,
     "attackSpeed": 5,
-    "attackStyles": [
+    "attackTypes": [
         "STAB",
         "RANGED",
         "MAGIC"

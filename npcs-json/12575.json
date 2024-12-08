@@ -6,7 +6,7 @@
     "hitpoints": 300,
     "combatLevel": 396,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "slayerCategory": "Dust Devils",

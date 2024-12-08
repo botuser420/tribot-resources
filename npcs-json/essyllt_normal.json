@@ -10,7 +10,7 @@
     "hitpoints": 320,
     "combatLevel": 236,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "STAB",
         "RANGED"
     ],

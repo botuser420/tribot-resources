@@ -7,7 +7,7 @@
     "name": "Tekton",
     "hitpoints": 300,
     "attackSpeed": 3,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

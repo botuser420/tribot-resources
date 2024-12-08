@@ -5,7 +5,7 @@
     "name": "Hueycoatl tail (broken)",
     "hitpoints": 400,
     "combatLevel": 642,
-    "attackStyles": [
+    "attackTypes": [
         "TYPELESS"
     ],
     "maxHits": [

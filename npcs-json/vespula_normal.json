@@ -7,7 +7,7 @@
     "name": "Vespula",
     "hitpoints": 200,
     "attackSpeed": 3,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE",
         "RANGED"
     ],

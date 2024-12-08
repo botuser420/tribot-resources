@@ -6,7 +6,7 @@
     "name": "Vasa Nistirio",
     "hitpoints": 450,
     "attackSpeed": 3,
-    "attackStyles": [
+    "attackTypes": [
         "MAGIC",
         "RANGED"
     ],

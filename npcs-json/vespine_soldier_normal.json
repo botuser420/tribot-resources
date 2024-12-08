@@ -6,7 +6,7 @@
     "name": "Vespine soldier",
     "hitpoints": 100,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "CRUSH"
     ],
     "maxHits": [

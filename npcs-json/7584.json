@@ -5,7 +5,7 @@
     "name": "Ice demon",
     "hitpoints": 140,
     "attackSpeed": 3,
-    "attackStyles": [
+    "attackTypes": [
         "RANGED",
         "MAGIC"
     ],

@@ -9,7 +9,7 @@
     "hitpoints": 1000,
     "combatLevel": 894,
     "attackSpeed": 5,
-    "attackStyles": [
+    "attackTypes": [
         "MAGIC",
         "RANGED"
     ],

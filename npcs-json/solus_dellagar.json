@@ -7,7 +7,7 @@
     "name": "Solus Dellagar",
     "hitpoints": 40,
     "attackSpeed": 3,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

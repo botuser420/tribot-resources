@@ -6,7 +6,7 @@
     "hitpoints": 148,
     "combatLevel": 162,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "SLASH",
         "MAGIC"
     ],

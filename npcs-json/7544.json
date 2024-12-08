@@ -5,7 +5,7 @@
     "name": "Tekton (enraged)",
     "hitpoints": 450,
     "attackSpeed": 3,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [

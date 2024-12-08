@@ -5,7 +5,7 @@
     "name": "Reanimated unicorn",
     "hitpoints": 15,
     "attackSpeed": 4,
-    "attackStyles": [
+    "attackTypes": [
         "MELEE"
     ],
     "maxHits": [
