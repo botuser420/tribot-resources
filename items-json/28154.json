@@ -2,5 +2,25 @@
     "itemId": 28154,
     "itemName": "Ritual mulch",
     "examine": "I can use items with this for nature offerings.",
-    "weight": 0.056
+    "weight": 0.056,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 150
+                },
+                {
+                    "name": "Maple logs",
+                    "quantity": 10
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Ritual mulch"
+            }
+        }
+    ]
 }

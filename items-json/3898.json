@@ -15,12 +15,6 @@
                     "quantity": 1
                 }
             ],
-            "skills": [
-                {
-                    "level": 0,
-                    "name": "None"
-                }
-            ],
             "output": {
                 "quantity": 1,
                 "name": "Giant pen"

@@ -2,5 +2,46 @@
     "itemId": 23661,
     "itemName": "Crystal acorn",
     "examine": "For growing a Crystal tree.",
-    "weight": 0.0
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Crystal weapon seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pennant",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal acorn"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal armour seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pennant",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal acorn"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal tool seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Pennant",
+            "output": {
+                "quantity": 1,
+                "name": "Crystal acorn"
+            }
+        }
+    ]
 }

@@ -31,5 +31,6 @@
     "slashDefenceBonus": 50,
     "crushDefenceBonus": 50,
     "rangedDefenceBonus": 50,
+    "immuneToPoison": true,
     "immuneToVenom": true
 }

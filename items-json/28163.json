@@ -20,6 +20,38 @@
                     "quantity": 1
                 }
             ],
+            "tools": "Needle",
+            "skills": [
+                {
+                    "experience": 47.0,
+                    "level": 50,
+                    "name": "Crafting",
+                    "boostable": true
+                },
+                {
+                    "level": 50,
+                    "name": "Woodcutting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Clothes pouch"
+            }
+        },
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Clothes pouch blueprint",
+                    "quantity": 1
+                },
+                {
+                    "name": "Leather",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Costume needle",
             "skills": [
                 {
                     "experience": 47.0,

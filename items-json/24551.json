@@ -35,6 +35,38 @@
             }
         },
         {
+            "ticks": 8,
+            "materials": [
+                {
+                    "name": "Enhanced crystal weapon seed",
+                    "quantity": 1
+                },
+                {
+                    "name": "Crystal shard",
+                    "quantity": 1000
+                }
+            ],
+            "facilities": "Singing bowl",
+            "skills": [
+                {
+                    "experience": 5000.0,
+                    "level": 82,
+                    "name": "Smithing",
+                    "boostable": true
+                },
+                {
+                    "experience": 5000.0,
+                    "level": 82,
+                    "name": "Crafting",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Blade of saeldor (c)"
+            }
+        },
+        {
             "materials": [
                 {
                     "name": "Blade of saeldor (c) (Amlodd)",
@@ -139,38 +171,6 @@
                 {
                     "name": "Crystal of hefin",
                     "quantity": 1
-                }
-            ],
-            "output": {
-                "quantity": 1,
-                "name": "Blade of saeldor (c)"
-            }
-        },
-        {
-            "ticks": 8,
-            "materials": [
-                {
-                    "name": "Enhanced crystal weapon seed",
-                    "quantity": 1
-                },
-                {
-                    "name": "Crystal shard",
-                    "quantity": 1000
-                }
-            ],
-            "facilities": "Singing bowl",
-            "skills": [
-                {
-                    "experience": 5000.0,
-                    "level": 82,
-                    "name": "Smithing",
-                    "boostable": true
-                },
-                {
-                    "experience": 5000.0,
-                    "level": 82,
-                    "name": "Crafting",
-                    "boostable": true
                 }
             ],
             "output": {

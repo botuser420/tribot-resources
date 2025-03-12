@@ -5,6 +5,7 @@
     "weight": 1.814,
     "itemCreation": [
         {
+            "ticks": 3,
             "materials": [
                 {
                     "name": "Felling axe handle",
@@ -21,7 +22,8 @@
                 {
                     "experience": 5.0,
                     "level": 1,
-                    "name": "Smithing"
+                    "name": "Smithing",
+                    "boostable": true
                 }
             ],
             "output": {
@@ -32,13 +34,13 @@
     ],
     "equipment": {
         "slot": "WEAPON",
-        "stabAttackBonus": -2,
-        "slashAttackBonus": 5,
-        "crushAttackBonus": 3,
+        "stabAttackBonus": -3,
+        "slashAttackBonus": 8,
+        "crushAttackBonus": 4,
         "slashDefenceBonus": 1,
-        "strengthBonus": 7,
+        "strengthBonus": 11,
         "attackDistance": 1,
-        "attackSpeed": 5,
+        "attackSpeed": 7,
         "weaponType": "AXE"
     }
 }

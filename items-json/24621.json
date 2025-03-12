@@ -1,7 +1,7 @@
 {
     "itemId": 24621,
     "itemName": "Blighted vengeance sack",
-    "examine": "Enough power for a Vengeance or or <sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> Vengeance Other, blighted so it can be used only in the Wilderness.",
+    "examine": "Enough power for a Vengeance or or<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"The preceding quoted material has been reproduced verbatim from the quoted original and is not a transcription error.\">sic</span>&#93;</sup> Vengeance Other, blighted so it can be used only in the Wilderness.",
     "weight": 0.0,
     "buyLimit": 10000
 }

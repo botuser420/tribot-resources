@@ -12,6 +12,7 @@
                     "quantity": 1
                 }
             ],
+            "tools": "Spade",
             "output": {
                 "quantity": 3,
                 "name": "Sandworms"

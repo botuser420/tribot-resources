@@ -2,5 +2,10 @@
     "itemId": 4084,
     "itemName": "Sled",
     "examine": "A waxed sled.",
-    "weight": 0.018
+    "weight": 0.018,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
 }

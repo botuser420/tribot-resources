@@ -1,0 +1,12 @@
+{
+    "itemId": 30609,
+    "itemName": "Rune staff of collection",
+    "examine": "A staff of collection, rune tier.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

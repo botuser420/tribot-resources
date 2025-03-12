@@ -1,0 +1,27 @@
+{
+    "npcIds": [
+        852
+    ],
+    "name": "Icelord",
+    "hitpoints": 60,
+    "combatLevel": 51,
+    "attackSpeed": 4,
+    "attackTypes": [
+        "RANGED"
+    ],
+    "maxHits": [
+        1
+    ],
+    "slayerCategory": "Ice Warriors",
+    "assignedBy": [
+        "MAZCHNA",
+        "VANNAKA"
+    ],
+    "slayerExperience": 60.0,
+    "size": 2,
+    "attackLevel": 40,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1
+}

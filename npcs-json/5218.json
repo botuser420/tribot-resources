@@ -7,7 +7,6 @@
     "combatLevel": 16,
     "attackSpeed": 4,
     "attackTypes": [
-        "MELEE",
         "CRUSH"
     ],
     "maxHits": [

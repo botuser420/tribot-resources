@@ -1,0 +1,39 @@
+{
+    "npcIds": [
+        14147,
+        14149
+    ],
+    "name": "Eldric the Ice King",
+    "hitpoints": 600,
+    "combatLevel": 350,
+    "attackSpeed": 7,
+    "attackTypes": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        26,
+        12
+    ],
+    "slayerCategory": "Ice Giants",
+    "assignedBy": [
+        "VANNAKA"
+    ],
+    "slayerExperience": 735.0,
+    "size": 3,
+    "attackLevel": 300,
+    "strengthLevel": 250,
+    "defenceLevel": 100,
+    "magicLevel": 100,
+    "rangedLevel": 150,
+    "attackBonus": 150,
+    "magicAttackBonus": 100,
+    "magicDamageBonus": 100,
+    "rangedAttackBonus": 100,
+    "rangedStrengthBonus": 100,
+    "stabDefenceBonus": 12,
+    "slashDefenceBonus": 12,
+    "magicDefenceBonus": 700,
+    "rangedDefenceBonus": 700,
+    "immuneToPoison": true,
+    "immuneToVenom": true
+}

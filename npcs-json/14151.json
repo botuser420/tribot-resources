@@ -1,0 +1,23 @@
+{
+    "npcIds": [
+        14151
+    ],
+    "name": "Ice elemental",
+    "hitpoints": 40,
+    "combatLevel": 37,
+    "attackSpeed": 4,
+    "attackTypes": [
+        "STAB"
+    ],
+    "maxHits": [
+        4
+    ],
+    "size": 1,
+    "attackLevel": 30,
+    "strengthLevel": 30,
+    "defenceLevel": 30,
+    "magicLevel": 30,
+    "rangedLevel": 30,
+    "elementalWeakness": "Fire",
+    "elementalWeaknessPercent": 100
+}

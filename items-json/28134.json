@@ -11,7 +11,7 @@
                     "quantity": 1
                 }
             ],
-            "facilities": "Friendly Forester",
+            "facilities": "Forestry Shop",
             "output": {
                 "quantity": 5,
                 "name": "Anima-infused bark"
@@ -24,7 +24,7 @@
                     "quantity": 1
                 }
             ],
-            "facilities": "Friendly Forester",
+            "facilities": "Forestry Shop",
             "output": {
                 "quantity": 25,
                 "name": "Anima-infused bark"
@@ -37,7 +37,7 @@
                     "quantity": 1
                 }
             ],
-            "facilities": "Friendly Forester",
+            "facilities": "Forestry Shop",
             "output": {
                 "quantity": 150,
                 "name": "Anima-infused bark"
@@ -50,7 +50,7 @@
                     "quantity": 1
                 }
             ],
-            "facilities": "Friendly Forester",
+            "facilities": "Forestry Shop",
             "output": {
                 "quantity": 250,
                 "name": "Anima-infused bark"
@@ -63,7 +63,7 @@
                     "quantity": 1
                 }
             ],
-            "facilities": "Friendly Forester",
+            "facilities": "Forestry Shop",
             "output": {
                 "quantity": 250,
                 "name": "Anima-infused bark"

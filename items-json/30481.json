@@ -1,0 +1,9 @@
+{
+    "itemId": 30481,
+    "itemName": "Present box hat",
+    "examine": "Won't you come and save me?",
+    "weight": 0.113,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

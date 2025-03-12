@@ -8,11 +8,11 @@
     "combatLevel": 192,
     "attackSpeed": 4,
     "attackTypes": [
-        "MELEE",
         "RANGED"
     ],
     "maxHits": [
-        15
+        15,
+        32
     ],
     "monsterAttribute": "dragon",
     "slayerCategory": "Drakes",
@@ -20,7 +20,7 @@
         "DURADEL",
         "NIEVE"
     ],
-    "slayerExperience": 262.5,
+    "slayerExperience": 256.2,
     "size": 5,
     "attackLevel": 140,
     "strengthLevel": 118,

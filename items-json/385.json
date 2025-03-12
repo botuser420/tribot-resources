@@ -26,28 +26,6 @@
                 "quantity": 1,
                 "name": "Shark"
             }
-        },
-        {
-            "ticks": 4,
-            "materials": [
-                {
-                    "name": "Big shark",
-                    "quantity": 1
-                }
-            ],
-            "facilities": "Cooking range",
-            "skills": [
-                {
-                    "experience": 210.0,
-                    "level": 80,
-                    "name": "Cooking",
-                    "boostable": true
-                }
-            ],
-            "output": {
-                "quantity": 1,
-                "name": "Shark"
-            }
         }
     ]
 }

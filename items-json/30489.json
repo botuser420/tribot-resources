@@ -1,0 +1,9 @@
+{
+    "itemId": 30489,
+    "itemName": "Festive scarf",
+    "examine": "Warm and cozy.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

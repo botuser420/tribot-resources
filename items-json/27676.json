@@ -1,7 +1,7 @@
 {
     "itemId": 27676,
     "itemName": "Accursed sceptre (au)",
-    "examine": "A mighty sceptre used in long forgotten battles.",
+    "examine": "A mighty sceptre used in long forgotten battles.<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"Examine text omits the phrase \"corrupted by the power of Vet'ion\" used in the regular accursed sceptre's examine text.\">sic</span>&#93;</sup>",
     "weight": 0.198,
     "buyLimit": 8,
     "equipment": {

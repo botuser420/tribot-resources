@@ -4,7 +4,7 @@
     ],
     "name": "Thief",
     "hitpoints": 17,
-    "combatLevel": 23,
+    "combatLevel": 16,
     "attackSpeed": 4,
     "attackTypes": [
         "CRUSH"

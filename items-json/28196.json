@@ -33,13 +33,13 @@
     ],
     "equipment": {
         "slot": "WEAPON",
-        "stabAttackBonus": -2,
-        "slashAttackBonus": 4,
-        "crushAttackBonus": 2,
+        "stabAttackBonus": -3,
+        "slashAttackBonus": 6,
+        "crushAttackBonus": 3,
         "slashDefenceBonus": 1,
-        "strengthBonus": 5,
+        "strengthBonus": 8,
         "attackDistance": 1,
-        "attackSpeed": 5,
+        "attackSpeed": 7,
         "weaponType": "AXE"
     }
 }

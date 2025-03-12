@@ -5,7 +5,7 @@
     "name": "Calvar'ion",
     "hitpoints": 150,
     "combatLevel": 264,
-    "attackSpeed": 5,
+    "attackSpeed": 6,
     "attackTypes": [
         "SLASH",
         "MAGIC"

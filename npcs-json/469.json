@@ -7,11 +7,12 @@
     "combatLevel": 55,
     "attackSpeed": 2,
     "attackTypes": [
-        "MELEE"
+        "CRUSH"
     ],
     "maxHits": [
+        8,
         6,
-        8
+        15
     ],
     "slayerCategory": "Killerwatts",
     "assignedBy": [

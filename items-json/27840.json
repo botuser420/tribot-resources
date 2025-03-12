@@ -5,7 +5,7 @@
     "weight": 4.535,
     "equipment": {
         "slot": "BODY",
-        "magicAttackBonus": 35,
+        "magicAttackBonus": 58,
         "rangedAttackBonus": -10,
         "stabDefenceBonus": 63,
         "slashDefenceBonus": 45,

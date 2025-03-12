@@ -2,5 +2,29 @@
     "itemId": 28159,
     "itemName": "Secateurs blade",
     "examine": "An ingredient for the secateurs attachment.",
-    "weight": 0.0
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 20
+                },
+                {
+                    "name": "Oak logs",
+                    "quantity": 10
+                },
+                {
+                    "name": "Willow logs",
+                    "quantity": 5
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Secateurs blade"
+            }
+        }
+    ]
 }

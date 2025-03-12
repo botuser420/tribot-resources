@@ -1,0 +1,45 @@
+{
+    "itemId": 30634,
+    "itemName": "Twinflame staff",
+    "examine": "A magical staff imbued with the power of ice and fire.",
+    "weight": 2.267,
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Battlestaff",
+                    "quantity": 1
+                },
+                {
+                    "name": "Ice element staff crown",
+                    "quantity": 1
+                },
+                {
+                    "name": "Fire element staff crown",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Twinflame staff"
+            }
+        }
+    ],
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 7,
+        "slashAttackBonus": -1,
+        "crushAttackBonus": 28,
+        "magicAttackBonus": 12,
+        "stabDefenceBonus": 2,
+        "slashDefenceBonus": 3,
+        "crushDefenceBonus": 1,
+        "magicDefenceBonus": 12,
+        "strengthBonus": 22,
+        "attackDistance": 1,
+        "attackSpeed": 6,
+        "weaponType": "STAFF"
+    }
+}

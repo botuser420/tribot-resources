@@ -2,5 +2,27 @@
     "itemId": 8932,
     "itemName": "Lumber patch",
     "examine": "Repairs made with this will be patchy at best.",
-    "weight": 0.003
+    "weight": 0.003,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Lumber patch"
+            }
+        }
+    ]
 }

@@ -17,6 +17,10 @@
     "strengthLevel": 70,
     "defenceLevel": 40,
     "magicLevel": 60,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 10,
     "immuneToPoison": true,
     "immuneToVenom": true
 }

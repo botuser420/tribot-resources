@@ -22,6 +22,5 @@
     "stabDefenceBonus": 65,
     "slashDefenceBonus": 65,
     "crushDefenceBonus": 65,
-    "magicDefenceBonus": 50,
-    "immuneToVenom": true
+    "magicDefenceBonus": 50
 }

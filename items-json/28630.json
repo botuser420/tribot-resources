@@ -3,6 +3,26 @@
     "itemName": "Twitcher's gloves",
     "examine": "These help you choose your nest rewards.",
     "weight": 0.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 5000
+                },
+                {
+                    "name": "Willow logs",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Twitcher's gloves"
+            }
+        }
+    ],
     "equipment": {
         "slot": "HANDS",
         "slashDefenceBonus": 1,

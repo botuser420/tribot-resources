@@ -1,0 +1,16 @@
+{
+    "itemId": 30535,
+    "itemName": "Echo ahrim's robeskirt 50",
+    "examine": "Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.",
+    "weight": 11.339,
+    "equipment": {
+        "slot": "LEGS",
+        "magicAttackBonus": 22,
+        "rangedAttackBonus": -7,
+        "stabDefenceBonus": 33,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 36,
+        "magicDefenceBonus": 22,
+        "magicDamageBonus": 1.0
+    }
+}

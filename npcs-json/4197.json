@@ -21,6 +21,5 @@
     "stabDefenceBonus": 30,
     "slashDefenceBonus": 30,
     "crushDefenceBonus": 30,
-    "rangedDefenceBonus": 70,
-    "immuneToVenom": true
+    "rangedDefenceBonus": 70
 }

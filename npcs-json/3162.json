@@ -7,13 +7,12 @@
     "combatLevel": 580,
     "attackSpeed": 3,
     "attackTypes": [
-        "RANGED",
-        "MELEE"
+        "RANGED"
     ],
     "maxHits": [
         69,
         21,
-        26
+        25
     ],
     "slayerCategory": "Bosses",
     "assignedBy": [

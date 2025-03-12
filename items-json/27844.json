@@ -10,11 +10,11 @@
         "crushAttackBonus": 6,
         "magicAttackBonus": -6,
         "rangedAttackBonus": -2,
-        "stabDefenceBonus": 17,
-        "slashDefenceBonus": 20,
-        "crushDefenceBonus": 14,
+        "stabDefenceBonus": 10,
+        "slashDefenceBonus": 13,
+        "crushDefenceBonus": 8,
         "magicDefenceBonus": -1,
-        "rangeDefenceBonus": 18,
+        "rangeDefenceBonus": 11,
         "strengthBonus": 2
     }
 }

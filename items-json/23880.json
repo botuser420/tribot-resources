@@ -17,6 +17,20 @@
                 "quantity": 1,
                 "name": "Water-filled vial"
             }
+        },
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Vial (The Gauntlet)",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Water Pump (The Corrupted Gauntlet)",
+            "output": {
+                "quantity": 1,
+                "name": "Water-filled vial"
+            }
         }
     ]
 }

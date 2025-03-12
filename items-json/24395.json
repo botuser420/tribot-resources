@@ -7,7 +7,7 @@
     "equipment": {
         "slot": "WEAPON",
         "attackDistance": 1,
-        "attackSpeed": 5,
+        "attackSpeed": 4,
         "weaponType": "SPIKED"
     }
 }

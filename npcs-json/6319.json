@@ -12,12 +12,8 @@
     "maxHits": [
         22
     ],
-    "monsterAttribute": "undead",
-    "slayerCategory": "Ghosts",
-    "assignedBy": [
-        "MAZCHNA",
-        "SPRIA"
-    ],
+    "monsterAttribute": "spectral",
+    "slayerCategory": "None",
     "size": 1,
     "attackLevel": 200,
     "strengthLevel": 209,

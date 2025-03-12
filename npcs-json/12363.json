@@ -27,5 +27,7 @@
     "rangedLevel": 110,
     "attackBonus": 100,
     "magicAttackBonus": 100,
-    "rangedAttackBonus": 2
+    "rangedAttackBonus": 2,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 40
 }

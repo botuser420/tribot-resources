@@ -5,6 +5,7 @@
     "weight": 1.814,
     "itemCreation": [
         {
+            "ticks": 3,
             "materials": [
                 {
                     "name": "Felling axe handle",
@@ -33,13 +34,13 @@
     ],
     "equipment": {
         "slot": "WEAPON",
-        "stabAttackBonus": -2,
-        "slashAttackBonus": 26,
-        "crushAttackBonus": 24,
+        "stabAttackBonus": -3,
+        "slashAttackBonus": 41,
+        "crushAttackBonus": 38,
         "slashDefenceBonus": 1,
-        "strengthBonus": 29,
+        "strengthBonus": 46,
         "attackDistance": 1,
-        "attackSpeed": 5,
+        "attackSpeed": 7,
         "weaponType": "AXE"
     }
 }

@@ -3,5 +3,27 @@
     "itemName": "Burnt page",
     "examine": "It's still warm to the touch.",
     "weight": 0.0,
-    "buyLimit": 11000
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Desiccated page",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Book of Eternal Flame",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 50,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burnt page"
+            }
+        }
+    ]
 }

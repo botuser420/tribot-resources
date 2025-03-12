@@ -12,6 +12,7 @@
     "maxHits": [
         8
     ],
+    "monsterAttribute": "demon",
     "size": 1,
     "attackLevel": 80,
     "strengthLevel": 70,

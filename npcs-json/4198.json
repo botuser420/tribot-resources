@@ -23,6 +23,5 @@
     "slashDefenceBonus": 15,
     "crushDefenceBonus": 15,
     "magicDefenceBonus": 70,
-    "rangedDefenceBonus": 70,
-    "immuneToVenom": true
+    "rangedDefenceBonus": 70
 }

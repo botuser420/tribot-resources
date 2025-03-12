@@ -7,7 +7,6 @@
     "combatLevel": 386,
     "attackSpeed": 4,
     "attackTypes": [
-        "MELEE",
         "RANGED"
     ],
     "maxHits": [
@@ -19,7 +18,7 @@
         "DURADEL",
         "NIEVE"
     ],
-    "slayerExperience": 7245.0,
+    "slayerExperience": 7087.0,
     "size": 5,
     "attackLevel": 270,
     "strengthLevel": 280,

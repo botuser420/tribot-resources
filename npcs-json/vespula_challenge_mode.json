@@ -8,7 +8,6 @@
     "hitpoints": 288,
     "attackSpeed": 3,
     "attackTypes": [
-        "MELEE",
         "RANGED"
     ],
     "monsterAttribute": "xerician",
@@ -25,5 +24,6 @@
     "elementalWeaknessPercent": 50,
     "rangedDefenceBonus": 60,
     "lightRangedDefenceBonus": 20,
-    "immuneToPoison": true
+    "immuneToPoison": true,
+    "immuneToVenom": true
 }

@@ -19,8 +19,9 @@
             "skills": [
                 {
                     "experience": 84.0,
-                    "level": 0,
-                    "name": "Herblore"
+                    "level": 31,
+                    "name": "Herblore",
+                    "boostable": true
                 }
             ],
             "output": {

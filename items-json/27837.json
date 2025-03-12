@@ -7,11 +7,11 @@
         "slot": "BODY",
         "magicAttackBonus": -15,
         "rangedAttackBonus": 36,
-        "stabDefenceBonus": 61,
-        "slashDefenceBonus": 53,
-        "crushDefenceBonus": 66,
+        "stabDefenceBonus": 35,
+        "slashDefenceBonus": 30,
+        "crushDefenceBonus": 40,
         "magicDefenceBonus": 75,
-        "rangeDefenceBonus": 62,
+        "rangeDefenceBonus": 37,
         "rangedStrengthBonus": 6
     }
 }

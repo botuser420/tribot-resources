@@ -13,7 +13,7 @@
         "magicDefenceBonus": 2,
         "strengthBonus": 13,
         "attackDistance": 1,
-        "attackSpeed": 4,
+        "attackSpeed": 5,
         "weaponType": "SLASH_SWORD"
     }
 }

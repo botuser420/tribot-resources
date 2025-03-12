@@ -3,24 +3,6 @@
     "itemName": "Echo ahrim's robetop",
     "examine": "Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.",
     "weight": 4.535,
-    "itemCreation": [
-        {
-            "materials": [
-                {
-                    "name": "Ahrim's robetop",
-                    "quantity": 1
-                },
-                {
-                    "name": "Echo ahrim's ornament kit",
-                    "quantity": 1
-                }
-            ],
-            "output": {
-                "quantity": 1,
-                "name": "Echo ahrim's robetop"
-            }
-        }
-    ],
     "equipment": {
         "slot": "BODY",
         "magicAttackBonus": 30,

@@ -2,5 +2,6 @@
     "itemId": 30131,
     "itemName": "Prayer regeneration potion(2)",
     "examine": "2 doses of Prayer Regeneration potion.",
-    "weight": 0.025
+    "weight": 0.025,
+    "buyLimit": 2000
 }

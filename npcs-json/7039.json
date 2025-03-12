@@ -6,10 +6,11 @@
     "hitpoints": 35,
     "attackSpeed": 4,
     "attackTypes": [
-        "MELEE"
+        "SLASH"
     ],
     "maxHits": [
-        50
+        50,
+        8
     ],
     "monsterAttribute": "dragon",
     "size": 5,

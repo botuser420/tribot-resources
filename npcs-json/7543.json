@@ -6,7 +6,9 @@
     "hitpoints": 300,
     "attackSpeed": 3,
     "attackTypes": [
-        "MELEE"
+        "STAB",
+        "SLASH",
+        "CRUSH"
     ],
     "maxHits": [
         59

@@ -327,26 +327,6 @@
         {
             "materials": [
                 {
-                    "name": "Blessed superior dragon bones",
-                    "quantity": 1
-                }
-            ],
-            "tools": "Chisel",
-            "skills": [
-                {
-                    "experience": 5.0,
-                    "level": 1,
-                    "name": "Crafting"
-                }
-            ],
-            "output": {
-                "quantity": 121,
-                "name": "Blessed bone shards"
-            }
-        },
-        {
-            "materials": [
-                {
                     "name": "Blessed bone statuette",
                     "quantity": 1
                 }
@@ -381,6 +361,30 @@
             ],
             "output": {
                 "quantity": 67,
+                "name": "Blessed bone shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Blessed superior dragon bones",
+                    "quantity": 1
+                }
+            ],
+            "tools": "Chisel",
+            "skills": [
+                {
+                    "experience": 5.0,
+                    "level": 1,
+                    "name": "Crafting"
+                },
+                {
+                    "level": 70,
+                    "name": "Prayer"
+                }
+            ],
+            "output": {
+                "quantity": 121,
                 "name": "Blessed bone shards"
             }
         }

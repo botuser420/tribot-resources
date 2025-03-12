@@ -7,10 +7,10 @@
     "combatLevel": 45,
     "attackSpeed": 4,
     "attackTypes": [
-        "MELEE"
+        "STAB"
     ],
     "maxHits": [
-        6
+        5
     ],
     "size": 1,
     "attackLevel": 40,
@@ -18,7 +18,7 @@
     "defenceLevel": 50,
     "magicLevel": 1,
     "rangedLevel": 1,
-    "attackBonus": 20,
-    "strengthBonus": 30,
+    "attackBonus": 25,
+    "strengthBonus": 20,
     "crushDefenceBonus": 10
 }

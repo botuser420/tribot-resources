@@ -2,5 +2,72 @@
     "itemId": 23962,
     "itemName": "Crystal shard",
     "examine": "A shard of the finest crystal, from the crystal city itself.",
-    "weight": 0.0
+    "weight": 0.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Crystal weapon seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Amrod",
+            "output": {
+                "quantity": 10,
+                "name": "Crystal shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal tool seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Amrod",
+            "output": {
+                "quantity": 100,
+                "name": "Crystal shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Enhanced crystal teleport seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Amrod",
+            "output": {
+                "quantity": 150,
+                "name": "Crystal shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Crystal armour seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Amrod",
+            "output": {
+                "quantity": 250,
+                "name": "Crystal shards"
+            }
+        },
+        {
+            "materials": [
+                {
+                    "name": "Enhanced crystal weapon seed",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Amrod",
+            "output": {
+                "quantity": 1500,
+                "name": "Crystal shards"
+            }
+        }
+    ]
 }

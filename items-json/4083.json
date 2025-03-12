@@ -2,5 +2,10 @@
     "itemId": 4083,
     "itemName": "Sled",
     "examine": "It needs waxing before I can use it.",
-    "weight": 0.018
+    "weight": 0.018,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4
+    }
 }

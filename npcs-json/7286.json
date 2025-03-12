@@ -33,6 +33,8 @@
     "slashDefenceBonus": 80,
     "crushDefenceBonus": 80,
     "magicDefenceBonus": 130,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 40,
     "rangedDefenceBonus": 130,
     "immuneToPoison": true,
     "immuneToVenom": true

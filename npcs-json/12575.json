@@ -6,9 +6,6 @@
     "hitpoints": 300,
     "combatLevel": 396,
     "attackSpeed": 4,
-    "attackTypes": [
-        "MELEE"
-    ],
     "slayerCategory": "Dust Devils",
     "assignedBy": [
         "VANNAKA",

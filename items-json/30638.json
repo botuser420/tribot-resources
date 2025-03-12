@@ -1,0 +1,9 @@
+{
+    "itemId": 30638,
+    "itemName": "Giantsoul amulet",
+    "examine": "An enchanted amulet.",
+    "weight": 0.01,
+    "equipment": {
+        "slot": "NECK"
+    }
+}

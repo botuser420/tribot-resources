@@ -14,7 +14,10 @@
         "MAGIC"
     ],
     "maxHits": [
-        38
+        38,
+        38,
+        16,
+        16
     ],
     "size": 9,
     "attackLevel": 250,

@@ -25,5 +25,7 @@
     "defenceLevel": 71,
     "magicLevel": 1,
     "rangedLevel": 1,
-    "rangedAttackBonus": 100
+    "magicDefenceBonus": -10,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 40
 }

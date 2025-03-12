@@ -27,5 +27,7 @@
     "rangedLevel": 1,
     "stabDefenceBonus": 50,
     "slashDefenceBonus": 40,
+    "elementalWeakness": "air",
+    "elementalWeaknessPercent": 35,
     "rangedDefenceBonus": 40
 }

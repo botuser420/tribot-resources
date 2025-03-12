@@ -3,5 +3,36 @@
     "itemName": "Chromium ingot",
     "examine": "A dense clump of corroded metal.",
     "weight": 3.0,
-    "buyLimit": 8
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Adamantite ore",
+                    "quantity": 40
+                },
+                {
+                    "name": "Runite ore",
+                    "quantity": 40
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 170000
+                }
+            ],
+            "facilities": "Blast Furnace Foreman",
+            "skills": [
+                {
+                    "experience": 35000.0,
+                    "level": 85,
+                    "name": "Smithing",
+                    "boostable": true
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Chromium ingot"
+            }
+        }
+    ]
 }

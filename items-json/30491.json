@@ -1,0 +1,9 @@
+{
+    "itemId": 30491,
+    "itemName": "Dog boots",
+    "examine": "Why the big... paws?",
+    "weight": 0.2,
+    "equipment": {
+        "slot": "FEET"
+    }
+}

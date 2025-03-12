@@ -2,5 +2,25 @@
     "itemId": 28177,
     "itemName": "Felling axe handle",
     "examine": "A large handle for turning an axe into a felling axe.",
-    "weight": 0.907
+    "weight": 0.907,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 10000
+                },
+                {
+                    "name": "Oak logs",
+                    "quantity": 500
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Felling axe handle"
+            }
+        }
+    ]
 }

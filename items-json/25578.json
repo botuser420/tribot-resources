@@ -3,5 +3,27 @@
     "itemName": "Soaked page",
     "examine": "It feels clammy, like second-hand toilet paper.",
     "weight": 0.0,
-    "buyLimit": 11000
+    "buyLimit": 11000,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Desiccated page",
+                    "quantity": 1
+                }
+            ],
+            "facilities": "Book of Storms",
+            "skills": [
+                {
+                    "experience": 50.0,
+                    "level": 50,
+                    "name": "Runecraft"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Soaked page"
+            }
+        }
+    ]
 }

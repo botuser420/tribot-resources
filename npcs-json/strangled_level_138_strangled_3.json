@@ -16,6 +16,14 @@
         3
     ],
     "size": 1,
+    "attackLevel": 110,
+    "strengthLevel": 50,
+    "defenceLevel": 30,
+    "magicLevel": 50,
+    "stabDefenceBonus": 30,
+    "slashDefenceBonus": 20,
+    "crushDefenceBonus": 30,
+    "magicDefenceBonus": 10,
     "immuneToPoison": true,
     "immuneToVenom": true
 }

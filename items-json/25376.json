@@ -1,7 +1,7 @@
 {
     "itemId": 25376,
     "itemName": "Dragon pickaxe (or)",
-    "examine": "A very powerful pickaxe the colours of the Trailblazer League.",
+    "examine": "A very powerful pickaxe in the colours of the Trailblazer League.",
     "weight": 2.4,
     "equipment": {
         "slot": "WEAPON",

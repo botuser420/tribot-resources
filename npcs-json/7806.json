@@ -8,7 +8,7 @@
     "attackSpeed": 3,
     "attackTypes": [
         "RANGED",
-        "MELEE"
+        "CRUSH"
     ],
     "maxHits": [
         56,

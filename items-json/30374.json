@@ -2,5 +2,13 @@
     "itemId": 30374,
     "itemName": "Drygore blowpipe",
     "examine": "Fires darts with utmost precision.",
-    "weight": 0.5
+    "weight": 0.5,
+    "equipment": {
+        "slot": "WEAPON",
+        "rangedAttackBonus": 50,
+        "rangedStrengthBonus": 10,
+        "attackDistance": 6,
+        "attackSpeed": 3,
+        "weaponType": "THROWN"
+    }
 }

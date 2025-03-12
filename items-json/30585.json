@@ -1,0 +1,9 @@
+{
+    "itemId": 30585,
+    "itemName": "Collection log",
+    "examine": "A record of rewards and loot obtained all throughout Gielinor.",
+    "weight": 0.51,
+    "equipment": {
+        "slot": "SHIELD"
+    }
+}

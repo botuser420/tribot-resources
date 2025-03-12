@@ -3,6 +3,30 @@
     "itemName": "Lumberjack hat",
     "examine": "You'll certainly be alright wearing this.",
     "weight": 0.453,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 1200
+                },
+                {
+                    "name": "Yew logs",
+                    "quantity": 200
+                },
+                {
+                    "name": "Magic logs",
+                    "quantity": 100
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Lumberjack hat"
+            }
+        }
+    ],
     "equipment": {
         "slot": "HEAD"
     }

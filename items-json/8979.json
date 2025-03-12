@@ -2,5 +2,27 @@
     "itemId": 8979,
     "itemName": "Bridge section",
     "examine": "Caution; not for use over troubled water.",
-    "weight": 0.003
+    "weight": 0.003,
+    "itemCreation": [
+        {
+            "ticks": 3,
+            "materials": [
+                {
+                    "name": "Logs",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "experience": 12.5,
+                    "level": 1,
+                    "name": "Crafting"
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Bridge section"
+            }
+        }
+    ]
 }

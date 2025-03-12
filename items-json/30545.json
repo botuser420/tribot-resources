@@ -1,0 +1,9 @@
+{
+    "itemId": 30545,
+    "itemName": "Echo ahrim's robetop 0",
+    "examine": "Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.",
+    "weight": 4.535,
+    "equipment": {
+        "slot": "BODY"
+    }
+}

@@ -11,8 +11,7 @@
     "attackSpeed": 6,
     "attackTypes": [
         "SLASH",
-        "RANGED",
-        "MAGIC"
+        "RANGED"
     ],
     "maxHits": [
         15

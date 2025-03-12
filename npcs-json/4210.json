@@ -21,6 +21,5 @@
     "rangedLevel": 1,
     "strengthBonus": 90,
     "stabDefenceBonus": 90,
-    "crushDefenceBonus": 90,
-    "immuneToVenom": true
+    "crushDefenceBonus": 90
 }

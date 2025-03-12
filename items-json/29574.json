@@ -3,5 +3,23 @@
     "itemName": "Burning claw",
     "examine": "An intact, lightly smouldering claw.",
     "weight": 0.8,
-    "buyLimit": 8
+    "buyLimit": 8,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Burning claw",
+                    "quantity": 1
+                },
+                {
+                    "name": "Burning claw",
+                    "quantity": 1
+                }
+            ],
+            "output": {
+                "quantity": 1,
+                "name": "Burning claws"
+            }
+        }
+    ]
 }

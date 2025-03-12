@@ -1,0 +1,33 @@
+{
+    "itemId": 30616,
+    "itemName": "Bounty supply crate (manta ray)",
+    "examine": "A crate full of supplies.",
+    "weight": 5.0,
+    "itemCreation": [
+        {
+            "materials": [
+                {
+                    "name": "Blighted super restore(4)",
+                    "quantity": 1
+                },
+                {
+                    "name": "Blighted karambwan",
+                    "quantity": 2
+                },
+                {
+                    "name": "Coins",
+                    "quantity": 1000
+                },
+                {
+                    "name": "Blighted manta ray",
+                    "quantity": 8
+                }
+            ],
+            "facilities": "Bounty supply crate",
+            "output": {
+                "quantity": 1,
+                "name": "Bounty supply crate (manta ray)"
+            }
+        }
+    ]
+}

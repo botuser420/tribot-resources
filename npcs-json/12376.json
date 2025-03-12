@@ -20,5 +20,7 @@
     "defenceLevel": 30,
     "magicLevel": 1,
     "rangedLevel": 1,
+    "elementalWeakness": "Water",
+    "elementalWeaknessPercent": 40,
     "immuneToPoison": true
 }

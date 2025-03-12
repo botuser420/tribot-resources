@@ -5,7 +5,7 @@
     "weight": 5.443,
     "equipment": {
         "slot": "LEGS",
-        "magicAttackBonus": 18,
+        "magicAttackBonus": 32,
         "rangedAttackBonus": -6,
         "stabDefenceBonus": 21,
         "slashDefenceBonus": 20,

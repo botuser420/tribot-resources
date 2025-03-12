@@ -1,0 +1,25 @@
+{
+    "npcIds": [
+        725
+    ],
+    "name": "Mummy",
+    "hitpoints": 90,
+    "combatLevel": 103,
+    "attackSpeed": 4,
+    "attackTypes": [
+        "CRUSH"
+    ],
+    "maxHits": [
+        24
+    ],
+    "size": 1,
+    "attackLevel": 90,
+    "strengthLevel": 90,
+    "defenceLevel": 90,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "strengthBonus": 90,
+    "stabDefenceBonus": 90,
+    "slashDefenceBonus": 90,
+    "crushDefenceBonus": 90
+}

@@ -2,5 +2,17 @@
     "itemId": 4158,
     "itemName": "Leaf-bladed spear",
     "examine": "A spear with a leaf-shaped point.",
-    "weight": 2.267
+    "weight": 2.267,
+    "equipment": {
+        "slot": "WEAPON",
+        "stabAttackBonus": 47,
+        "slashAttackBonus": 42,
+        "crushAttackBonus": 36,
+        "stabDefenceBonus": 1,
+        "slashDefenceBonus": 1,
+        "strengthBonus": 50,
+        "attackDistance": 1,
+        "attackSpeed": 5,
+        "weaponType": "SPEAR"
+    }
 }

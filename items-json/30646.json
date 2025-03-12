@@ -1,0 +1,9 @@
+{
+    "itemId": 30646,
+    "itemName": "Classic imp tail",
+    "examine": "Impishly impressive.",
+    "weight": 0.05,
+    "equipment": {
+        "slot": "CAPE"
+    }
+}

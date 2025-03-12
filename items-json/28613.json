@@ -2,5 +2,21 @@
     "itemId": 28613,
     "itemName": "Cape pouch",
     "examine": "A pouch to keep your cape clean.",
-    "weight": 1.0
+    "weight": 1.0,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 2500
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Cape pouch"
+            }
+        }
+    ]
 }

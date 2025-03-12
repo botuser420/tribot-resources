@@ -2,5 +2,70 @@
     "itemId": 29155,
     "itemName": "Burnt kebbit",
     "examine": "Oh dear, it's totally burnt!",
-    "weight": 0.226
+    "weight": 0.226,
+    "itemCreation": [
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw wild kebbit",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 23,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Burnt kebbit"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw barb-tailed kebbit",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 32,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Burnt kebbit"
+            }
+        },
+        {
+            "ticks": 4,
+            "materials": [
+                {
+                    "name": "Raw dashing kebbit",
+                    "quantity": 1
+                }
+            ],
+            "skills": [
+                {
+                    "level": 82,
+                    "name": "Cooking",
+                    "boostable": true
+                }
+            ],
+            "members": false,
+            "output": {
+                "quantity": 1,
+                "name": "Burnt kebbit"
+            }
+        }
+    ]
 }

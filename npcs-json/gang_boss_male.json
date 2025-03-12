@@ -8,8 +8,7 @@
     "combatLevel": 76,
     "attackSpeed": 3,
     "attackTypes": [
-        "RANGED",
-        "MELEE"
+        "RANGED"
     ],
     "maxHits": [
         13
@@ -21,5 +20,6 @@
     "magicLevel": 1,
     "rangedLevel": 80,
     "rangedAttackBonus": 50,
+    "rangedStrengthBonus": 30,
     "crushDefenceBonus": 10
 }

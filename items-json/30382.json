@@ -2,5 +2,20 @@
     "itemId": 30382,
     "itemName": "Thousand-dragon ward",
     "examine": "A shield that has had over a thousand unique dragons encase it in flame.",
-    "weight": 7.257
+    "weight": 7.257,
+    "equipment": {
+        "slot": "SHIELD",
+        "stabAttackBonus": 35,
+        "slashAttackBonus": 35,
+        "crushAttackBonus": 35,
+        "magicAttackBonus": 15,
+        "rangedAttackBonus": 25,
+        "stabDefenceBonus": 50,
+        "slashDefenceBonus": 55,
+        "crushDefenceBonus": 53,
+        "magicDefenceBonus": 40,
+        "rangeDefenceBonus": 52,
+        "strengthBonus": 12,
+        "prayerBonus": 6
+    }
 }

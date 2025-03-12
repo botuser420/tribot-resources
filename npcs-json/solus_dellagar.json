@@ -18,5 +18,10 @@
     "strengthLevel": 25,
     "defenceLevel": 25,
     "magicLevel": 1,
-    "rangedLevel": 1
+    "rangedLevel": 1,
+    "strengthBonus": 16,
+    "stabDefenceBonus": 5,
+    "slashDefenceBonus": 5,
+    "crushDefenceBonus": 5,
+    "magicDefenceBonus": 72
 }

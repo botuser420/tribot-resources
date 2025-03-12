@@ -14,8 +14,10 @@
     ],
     "maxHits": [
         50,
+        40,
+        29,
         31,
-        40
+        26
     ],
     "monsterAttribute": "dragon",
     "slayerCategory": "Rune Dragons",

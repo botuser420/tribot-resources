@@ -2,5 +2,21 @@
     "itemId": 28626,
     "itemName": "Fox whistle",
     "examine": "A wooden whistle that could attract a fox to follow you.",
-    "weight": 0.005
+    "weight": 0.005,
+    "itemCreation": [
+        {
+            "ticks": 1,
+            "materials": [
+                {
+                    "name": "Anima-infused bark",
+                    "quantity": 75000
+                }
+            ],
+            "facilities": "Forestry Shop",
+            "output": {
+                "quantity": 1,
+                "name": "Fox whistle"
+            }
+        }
+    ]
 }

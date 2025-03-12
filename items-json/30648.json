@@ -1,0 +1,9 @@
+{
+    "itemId": 30648,
+    "itemName": "Classic imp hood",
+    "examine": "Impishly iconic.",
+    "weight": 0.25,
+    "equipment": {
+        "slot": "HEAD"
+    }
+}

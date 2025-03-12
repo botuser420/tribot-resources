@@ -13,17 +13,17 @@
     "attackTypes": [
         "MAGIC",
         "RANGED",
-        "MELEE"
+        "CRUSH"
     ],
     "maxHits": [
         33,
         60,
-        30,
         50,
         80,
         60,
         75,
-        50
+        50,
+        27
     ],
     "size": 3,
     "attackLevel": 315,

@@ -6,7 +6,7 @@
     "hitpoints": 35,
     "attackSpeed": 4,
     "attackTypes": [
-        "MELEE"
+        "STAB"
     ],
     "maxHits": [
         8

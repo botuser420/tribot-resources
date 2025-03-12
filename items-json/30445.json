@@ -3,24 +3,6 @@
     "itemName": "Echo ahrim's hood",
     "examine": "Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.",
     "weight": 0.907,
-    "itemCreation": [
-        {
-            "materials": [
-                {
-                    "name": "Ahrim's hood",
-                    "quantity": 1
-                },
-                {
-                    "name": "Echo ahrim's ornament kit",
-                    "quantity": 1
-                }
-            ],
-            "output": {
-                "quantity": 1,
-                "name": "Echo ahrim's hood"
-            }
-        }
-    ],
     "equipment": {
         "slot": "HEAD",
         "magicAttackBonus": 6,

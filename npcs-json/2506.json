@@ -1,0 +1,31 @@
+{
+    "npcIds": [
+        2506
+    ],
+    "name": "Zombie",
+    "hitpoints": 40,
+    "combatLevel": 44,
+    "attackSpeed": 5,
+    "attackTypes": [
+        "SLASH"
+    ],
+    "maxHits": [
+        5
+    ],
+    "monsterAttribute": "undead",
+    "slayerCategory": "Zombies",
+    "assignedBy": [
+        "MAZCHNA",
+        "KRYSTILIA",
+        "SPRIA"
+    ],
+    "slayerExperience": 40.0,
+    "size": 1,
+    "attackLevel": 35,
+    "strengthLevel": 40,
+    "defenceLevel": 40,
+    "magicLevel": 1,
+    "rangedLevel": 1,
+    "attackBonus": 5,
+    "crushDefenceBonus": 22
+}

@@ -3,5 +3,5 @@
     "itemName": "Revenant cave teleport",
     "examine": "Teleports you to the Revenant cave in the Wilderness.",
     "weight": 0.0,
-    "buyLimit": 10000
+    "buyLimit": 15000
 }

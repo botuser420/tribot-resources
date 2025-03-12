@@ -7,11 +7,11 @@
         "slot": "LEGS",
         "magicAttackBonus": -8,
         "rangedAttackBonus": 23,
-        "stabDefenceBonus": 18,
-        "slashDefenceBonus": 15,
-        "crushDefenceBonus": 16,
+        "stabDefenceBonus": 9,
+        "slashDefenceBonus": 7,
+        "crushDefenceBonus": 8,
         "magicDefenceBonus": 20,
-        "rangeDefenceBonus": 19,
+        "rangeDefenceBonus": 11,
         "rangedStrengthBonus": 4
     }
 }

@@ -27,29 +27,6 @@
                 "quantity": 1,
                 "name": "Swordfish"
             }
-        },
-        {
-            "ticks": 4,
-            "materials": [
-                {
-                    "name": "Big swordfish",
-                    "quantity": 1
-                }
-            ],
-            "facilities": "Cooking range",
-            "skills": [
-                {
-                    "experience": 140.0,
-                    "level": 45,
-                    "name": "Cooking",
-                    "boostable": true
-                }
-            ],
-            "members": false,
-            "output": {
-                "quantity": 1,
-                "name": "Swordfish"
-            }
         }
     ]
 }

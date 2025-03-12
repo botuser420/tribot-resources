@@ -6,8 +6,11 @@
     "hitpoints": 500,
     "combatLevel": 725,
     "attackSpeed": 3,
+    "attackTypes": [
+        "TYPELESS"
+    ],
     "maxHits": [
-        41
+        30
     ],
     "slayerCategory": "Bosses",
     "assignedBy": [

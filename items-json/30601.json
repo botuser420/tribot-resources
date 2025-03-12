@@ -1,0 +1,12 @@
+{
+    "itemId": 30601,
+    "itemName": "Steel staff of collection",
+    "examine": "A staff of collection, steel tier.",
+    "weight": 1.814,
+    "equipment": {
+        "slot": "WEAPON",
+        "attackDistance": 1,
+        "attackSpeed": 4,
+        "weaponType": "BLUNT"
+    }
+}

@@ -28,5 +28,7 @@
     "stabDefenceBonus": 5,
     "slashDefenceBonus": 5,
     "crushDefenceBonus": -5,
+    "elementalWeakness": "Air",
+    "elementalWeaknessPercent": 35,
     "rangedDefenceBonus": 5
 }

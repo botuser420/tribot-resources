@@ -7,7 +7,7 @@
     "combatLevel": 77,
     "attackSpeed": 4,
     "attackTypes": [
-        "MELEE"
+        "CRUSH"
     ],
     "maxHits": [
         10
@@ -28,5 +28,7 @@
     "stabDefenceBonus": 5,
     "slashDefenceBonus": 5,
     "crushDefenceBonus": -5,
+    "elementalWeakness": "Air",
+    "elementalWeaknessPercent": 35,
     "rangedDefenceBonus": 5
 }

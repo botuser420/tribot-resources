@@ -9,13 +9,13 @@
     "combatLevel": 83,
     "attackSpeed": 4,
     "attackTypes": [
-        "MELEE",
-        "MAGIC"
+        "MAGIC",
+        "SLASH"
     ],
     "maxHits": [
         8,
-        69,
-        10
+        10,
+        70
     ],
     "slayerCategory": "Green Dragons",
     "assignedBy": [

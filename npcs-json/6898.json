@@ -3,11 +3,11 @@
         6898
     ],
     "name": "Gangster",
-    "hitpoints": 50,
+    "hitpoints": 45,
     "combatLevel": 50,
-    "attackSpeed": 5,
+    "attackSpeed": 7,
     "attackTypes": [
-        "MELEE"
+        "SLASH"
     ],
     "maxHits": [
         6

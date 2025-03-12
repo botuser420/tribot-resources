@@ -31,5 +31,7 @@
     "slashDefenceBonus": 3,
     "crushDefenceBonus": 2,
     "magicDefenceBonus": -3,
+    "elementalWeakness": "Air",
+    "elementalWeaknessPercent": 35,
     "rangedDefenceBonus": 2
 }

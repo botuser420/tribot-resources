@@ -32,5 +32,5 @@
     "slashDefenceBonus": 60,
     "crushDefenceBonus": 30,
     "elementalWeakness": "Fire",
-    "elementalWeaknessPercent": 100
+    "elementalWeaknessPercent": 50
 }
